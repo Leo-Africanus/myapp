@@ -3,7 +3,7 @@ name: Update Script
 on:
   schedule:
     # Run at 6-hour intervals
-    - cron: '0 */6 * * *'
+    - cron: '*/6 * * * *'
   push:
     branches:
       - main
