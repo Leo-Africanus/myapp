@@ -21,15 +21,7 @@ jobs:
       with:
         python-version: '3.8'
 
-    - name: Create .env file
-      run: |
-        echo "CLIENT_ID=${{ secrets.CLIENT_ID }}" >> .env
-        echo "CLIENT_SECRET=${{ secrets.CLIENT_SECRET }}" >> .env
-        echo "USER_AGENT=${{ secrets.USER_AGENT }}" >> .env
-        echo "REDDIT_USERNAME=${{ secrets.REDDIT_USERNAME }}" >> .env
-        echo "REDDIT_PASSWORD=${{ secrets.REDDIT_PASSWORD }}" >> .env
-        # Debugging: Print the .env file to check the values
-        cat .env
+    -
 
     - name: Create subreddits.txt file
       run: |
@@ -48,8 +40,19 @@ jobs:
         rm -vf storage/hot_topics_*.json
         echo "Old json files removed"
 
-    - name: Run the script to scrape subreddits
-      run: python scrape_subreddits.py
+
+
+    - name: Run scraper
+      env:
+        CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+        CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+        REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
+        REDDIT_PASSWORD: ${{ secrets.REDDIT_PASSWORD }}
+        USER_AGENT: ${{ secrets.USER_AGENT }}
+      run: |
+        python scrape_subreddits.py
+
+    - 
 
     - name: Commit and push changes
       env:
