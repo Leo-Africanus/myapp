@@ -4,7 +4,7 @@ import json
 from dotenv import load_dotenv, find_dotenv
 
 ## Load environment variables from .env file
-#load_dotenv(find_dotenv())
+load_dotenv(find_dotenv())
 
 #CLIENT_ID = os.getenv('REDDIT_CLIENT_ID')
 #CLIENT_SECRET = os.getenv('REDDIT_CLIENT_SECRET')
