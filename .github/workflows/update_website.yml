@@ -2,8 +2,8 @@ name: Update Script
 
 on:
   schedule:
-    # Run at 12-hour intervals
-    - cron: '*/5 * * * *'
+    # Run at 6-hour intervals
+    - cron: '0 */6 * * *'
   push:
     branches:
       - main
@@ -30,12 +30,16 @@ jobs:
         echo "REDDIT_PASSWORD=${{ secrets.REDDIT_PASSWORD }}" >> .env
 
     - name: Create subreddits.txt file
-      run: echo -e "Torino\nMilano\nIslam\nInterestingasfuck\nScience\namateurporn" > subreddits.txt
+      run: echo -e "movies\nnetflix\ntechnology\nscience\nporn\nitalia" > subreddits.txt
 
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install requests python-dotenv
+
+    - name: Remove old JSON files
+      run: |
+        rm -f storage/hot_topics_*.json
 
     - name: Run the script to scrape subreddits
       run: python scrape_subreddits.py
