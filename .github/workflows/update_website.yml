@@ -3,7 +3,7 @@ name: Update Script
 on:
   schedule:
     # Run at 12-hour intervals
-    - cron: '*/6 * * * *'
+    - cron: '*/5 * * * *'
   push:
     branches:
       - main
@@ -46,7 +46,7 @@ jobs:
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add storage/hot_topics_*.json
+        git add -f storage/hot_topics_*.json
         git commit -m "Update JSON files [skip ci]"
         git push
 
