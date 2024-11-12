@@ -21,7 +21,7 @@ jobs:
       with:
         python-version: '3.8'
 
-    -
+   
 
     - name: Create subreddits.txt file
       run: |
@@ -52,8 +52,7 @@ jobs:
       run: |
         python scrape_subreddits.py
 
-    - 
-
+  
     - name: Commit and push changes
       env:
         GITHUB_TOKEN: ${{ secrets.PAT }}
