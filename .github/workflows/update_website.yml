@@ -3,7 +3,7 @@ name: Update Script
 on:
   schedule:
     # Run at 6-hour intervals
-    - cron: '*/6 * * * *'
+    - cron: '* */12 * * *'
   push:
     branches:
       - main
@@ -33,7 +33,7 @@ jobs:
 
     - name: Create subreddits.txt file
       run: |
-        echo -e "realmadrid\nnetflix\nalessandria\nastronomy\nitalia\nmilano" > subreddits.txt
+        echo -e "Realmadrid\nNetflix\nMovies\nTorino\nItalia\nPics" > subreddits.txt
         # Debugging: Print the subreddits.txt file to check if it's created
         cat subreddits.txt
 
