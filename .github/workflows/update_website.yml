@@ -1,0 +1,52 @@
+name: Update Script
+
+on:
+  schedule:
+    # Run at 12-hour intervals
+    - cron: '*/6 * * * *'
+  push:
+    branches:
+      - main
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.8'
+
+    - name: Create .env file
+      run: |
+        echo "CLIENT_ID=${{ secrets.CLIENT_ID }}" >> .env
+        echo "CLIENT_SECRET=${{ secrets.CLIENT_SECRET }}" >> .env
+        echo "USER_AGENT=${{ secrets.USER_AGENT }}" >> .env
+        echo "REDDIT_USERNAME=${{ secrets.REDDIT_USERNAME }}" >> .env
+        echo "REDDIT_PASSWORD=${{ secrets.REDDIT_PASSWORD }}" >> .env
+
+    - name: Create subreddits.txt file
+      run: echo -e "Italia\nMovies\nNetflix\nInterestingasfuck\nScience\nRealmadrid" > subreddits.txt
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests python-dotenv
+
+    - name: Run the script to scrape subreddits
+      run: python scrape_subreddits.py
+
+    - name: Commit and push changes
+      env:
+        GITHUB_TOKEN: ${{ secrets.PAT }}
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add storage/hot_topics_*.json
+        git commit -m "Update JSON files [skip ci]"
+        git push
+
