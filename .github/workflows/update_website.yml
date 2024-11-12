@@ -33,7 +33,7 @@ jobs:
 
     - name: Create subreddits.txt file
       run: |
-        echo -e "realmadrid\nnetflix\nalessandria\nastronomy\nitalia\nmilanoo" > subreddits.txt
+        echo -e "realmadrid\nnetflix\nalessandria\nastronomy\nitalia\nmilano" > subreddits.txt
         # Debugging: Print the subreddits.txt file to check if it's created
         cat subreddits.txt
 
