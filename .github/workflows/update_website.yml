@@ -28,9 +28,14 @@ jobs:
         echo "USER_AGENT=${{ secrets.USER_AGENT }}" >> .env
         echo "REDDIT_USERNAME=${{ secrets.REDDIT_USERNAME }}" >> .env
         echo "REDDIT_PASSWORD=${{ secrets.REDDIT_PASSWORD }}" >> .env
+        # Debugging: Print the .env file to check the values
+        cat .env
 
     - name: Create subreddits.txt file
-      run: echo -e "movies\nnetflix\ntechnology\nscience\nporn\nitalia" > subreddits.txt
+      run: |
+        echo -e "movies\nnetflix\ntechnology\nscience\nitalia\ntorino" > subreddits.txt
+        # Debugging: Print the subreddits.txt file to check if it's created
+        cat subreddits.txt
 
     - name: Install dependencies
       run: |
