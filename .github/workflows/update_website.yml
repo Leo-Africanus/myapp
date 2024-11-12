@@ -33,7 +33,7 @@ jobs:
 
     - name: Create subreddits.txt file
       run: |
-        echo -e "movies\nnetflix\ntechnology\nscience\nitalia\ntorino" > subreddits.txt
+        echo -e "realmadrid\nnetflix\nalessandria\nastronomy\nitalia\nmilanoo" > subreddits.txt
         # Debugging: Print the subreddits.txt file to check if it's created
         cat subreddits.txt
 
@@ -44,7 +44,9 @@ jobs:
 
     - name: Remove old JSON files
       run: |
-        rm -f storage/hot_topics_*.json
+        echo "Removing old json files..."
+        rm -vf storage/hot_topics_*.json
+        echo "Old json files removed"
 
     - name: Run the script to scrape subreddits
       run: python scrape_subreddits.py
