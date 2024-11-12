@@ -30,7 +30,7 @@ jobs:
         echo "REDDIT_PASSWORD=${{ secrets.REDDIT_PASSWORD }}" >> .env
 
     - name: Create subreddits.txt file
-      run: echo -e "Italia\nMovies\nNetflix\nInterestingasfuck\nScience\nRealmadrid" > subreddits.txt
+      run: echo -e "Torino\nMilano\nIslam\nInterestingasfuck\nScience\namateurporn" > subreddits.txt
 
     - name: Install dependencies
       run: |
