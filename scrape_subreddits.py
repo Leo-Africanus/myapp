@@ -6,11 +6,11 @@ from dotenv import load_dotenv, find_dotenv
 ## Load environment variables from .env file
 load_dotenv(find_dotenv())
 
-#CLIENT_ID = os.getenv('REDDIT_CLIENT_ID')
-#CLIENT_SECRET = os.getenv('REDDIT_CLIENT_SECRET')
-#USER_AGENT = os.getenv('USER_AGENT')
-#REDDIT_USERNAME = os.getenv('REDDIT_USERNAME')
-#REDDIT_PASSWORD = os.getenv('REDDIT_PASSWORD')
+CLIENT_ID = os.getenv('REDDIT_CLIENT_ID')
+CLIENT_SECRET = os.getenv('REDDIT_CLIENT_SECRET')
+USER_AGENT = os.getenv('USER_AGENT')
+REDDIT_USERNAME = os.getenv('REDDIT_USERNAME')
+REDDIT_PASSWORD = os.getenv('REDDIT_PASSWORD')
 
 # Get access token
 auth = requests.auth.HTTPBasicAuth(CLIENT_ID, CLIENT_SECRET)
