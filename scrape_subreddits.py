@@ -8,7 +8,7 @@ load_dotenv(find_dotenv())
 
 client_id = os.getenv('REDDIT_CLIENT_ID')
 client_secret = os.getenv('REDDIT_CLIENT_SECRET')
-User-Agent = os.getenv('USER_AGENT')
+#User-Agent = os.getenv('USER_AGENT')
 username = os.getenv('REDDIT_USERNAME')
 password = os.getenv('REDDIT_PASSWORD')
 
@@ -19,7 +19,7 @@ data = {
     'username': username,
     'password': password
 }
-headers = {'User-Agent': User-Agent}
+headers = {'User-Agent': 'Leodatorino by skwyla'}
 res = requests.post('https://www.reddit.com/api/v1/access_token', auth=auth, data=data, headers=headers)
 res.raise_for_status()
 token = res.json()['access_token']
