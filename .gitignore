@@ -1,9 +1,7 @@
-# Ignore environment variables file
-.env
-
 # Ignore subreddits file
 subreddits.txt
 
 # Other ignore files
 storage/
 
+.env
