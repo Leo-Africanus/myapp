@@ -51,6 +51,15 @@ jobs:
         USER_AGENT: ${{ secrets.USER_AGENT }}
       run: |
         python scrape_subreddits.py
+        
+    - name: Debug environment variables
+      run: |
+	echo "CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}"
+	echo "CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}"
+	echo "USERNAME: ${{ secrets.REDDIT_USERNAME }}"
+	echo "PASSWORD: ${{ secrets.REDDIT_PASSWORD }}"
+	echo "USER_AGENT: ${{ secrets.USER_AGENT }}"
+
 
   
     - name: Commit and push changes
