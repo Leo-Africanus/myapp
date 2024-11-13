@@ -1,15 +1,12 @@
-name: Update Script
+name: Scrape Subreddits
 
 on:
-  schedule:
-    # Run at 6-hour intervals
-    - cron: '* */8 * * *'
   push:
     branches:
       - main
 
 jobs:
-  update-json:
+  scrape:
     runs-on: ubuntu-latest
 
     steps:
@@ -19,47 +16,37 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: '3.8'
-
-   
-
-    - name: Create subreddits.txt file
-      run: |
-        echo -e "Realmadrid\nNetflix\nMovies\nTorino\nItalia\nPics" > subreddits.txt
-        # Debugging: Print the subreddits.txt file to check if it's created
-        cat subreddits.txt
+        python-version: '3.x'
 
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install requests python-dotenv
+        pip install -r requirements.txt
 
-    - name: Remove old JSON files
+    - name: Debug environment variables
       run: |
-        echo "Removing old json files..."
-        rm -vf storage/hot_topics_*.json
-        echo "Old json files removed"
-
-
+        echo "CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}"
+        echo "CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}"
+        echo "USERNAME: ${{ secrets.REDDIT_USERNAME }}"
+        echo "PASSWORD: ${{ secrets.REDDIT_PASSWORD }}"
+        echo "USER_AGENT: ${{ secrets.USER_AGENT }}"
 
     - name: Run scraper
       env:
-        CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
-        CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+        REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+        REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
         REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
         REDDIT_PASSWORD: ${{ secrets.REDDIT_PASSWORD }}
         USER_AGENT: ${{ secrets.USER_AGENT }}
       run: |
         python scrape_subreddits.py
-        
-    - name: Debug environment variables
-      run: |
-	echo "CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}"
-	echo "CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}"
-	echo "USERNAME: ${{ secrets.REDDIT_USERNAME }}"
-	echo "PASSWORD: ${{ secrets.REDDIT_PASSWORD }}"
-	echo "USER_AGENT: ${{ secrets.USER_AGENT }}"
 
+
+   
+
+
+
+     
 
   
     - name: Commit and push changes
