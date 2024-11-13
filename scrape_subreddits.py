@@ -6,20 +6,20 @@ from dotenv import load_dotenv, find_dotenv
 ## Load environment variables from .env file
 load_dotenv(find_dotenv())
 
-client_id = os.getenv('REDDIT_CLIENT_ID')
-client_secret = os.getenv('REDDIT_CLIENT_SECRET')
-#User-Agent = os.getenv('USER_AGENT')
-username = os.getenv('REDDIT_USERNAME')
-password = os.getenv('REDDIT_PASSWORD')
+REDDIT_CLIENT_ID = os.getenv('REDDIT_CLIENT_ID')
+REDDIT_CLIENT_SECRET = os.getenv('REDDIT_CLIENT_SECRET')
+USER_AGENT = os.getenv('USER_AGENT')
+REDDIT_USERNAME = os.getenv('REDDIT_USERNAME')
+REDDIT_PASSWORD = os.getenv('REDDIT_PASSWORD')
 
 # Get access token
-auth = requests.auth.HTTPBasicAuth(client_id, client_secret)
+auth = requests.auth.HTTPBasicAuth(REDDIT_CLIENT_ID, REDDIT_CLIENT_SECRET)
 data = {
     'grant_type': 'password',
-    'username': username,
-    'password': password
+    'username': REDDIT_USERNAME,
+    'password': REDDIT_PASSWORD
 }
-headers = {'User-Agent': 'Leodatorino by skwyla'}
+headers = {'User-Agent': USER_AGENT}
 res = requests.post('https://www.reddit.com/api/v1/access_token', auth=auth, data=data, headers=headers)
 res.raise_for_status()
 token = res.json()['access_token']
