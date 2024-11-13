@@ -1,6 +1,8 @@
 name: Scrape Subreddits
 
 on:
+  schedule:
+    - cron: '* */8 * * *'
   push:
     branches:
       - main
@@ -21,7 +23,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install -r requirements.txt
+        pip install requests python-dotenv
 
     - name: Debug environment variables
       run: |
