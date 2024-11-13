@@ -6,20 +6,20 @@ from dotenv import load_dotenv, find_dotenv
 ## Load environment variables from .env file
 load_dotenv(find_dotenv())
 
-CLIENT_ID = os.getenv('REDDIT_CLIENT_ID')
-CLIENT_SECRET = os.getenv('REDDIT_CLIENT_SECRET')
-USER_AGENT = os.getenv('USER_AGENT')
-REDDIT_USERNAME = os.getenv('REDDIT_USERNAME')
-REDDIT_PASSWORD = os.getenv('REDDIT_PASSWORD')
+client_id = os.getenv('REDDIT_CLIENT_ID')
+client_secret = os.getenv('REDDIT_CLIENT_SECRET')
+User-Agent = os.getenv('USER_AGENT')
+username = os.getenv('REDDIT_USERNAME')
+password = os.getenv('REDDIT_PASSWORD')
 
 # Get access token
-auth = requests.auth.HTTPBasicAuth(CLIENT_ID, CLIENT_SECRET)
+auth = requests.auth.HTTPBasicAuth(client_id, client_secret)
 data = {
     'grant_type': 'password',
-    'username': REDDIT_USERNAME,
-    'password': REDDIT_PASSWORD
+    'username': username,
+    'password': password
 }
-headers = {'User-Agent': USER_AGENT}
+headers = {'User-Agent': User-Agent}
 res = requests.post('https://www.reddit.com/api/v1/access_token', auth=auth, data=data, headers=headers)
 res.raise_for_status()
 token = res.json()['access_token']
