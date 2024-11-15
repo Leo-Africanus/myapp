@@ -39,7 +39,7 @@ for subreddit in subreddits:
         'Authorization': f'bearer {token}',
         'User-Agent': USER_AGENT
     }
-    response = requests.get(f'https://oauth.reddit.com/r/{subreddit}/hot?limit=20', headers=headers)
+    response = requests.get(f'https://oauth.reddit.com/r/{subreddit}/hot?limit=30', headers=headers)
     response.raise_for_status()
     data = response.json()['data']['children']
     posts = []
