@@ -4,40 +4,110 @@
         "author": "N3DSdude",
         "title": "/r/Netflix Discord Server",
         "content": "We are pleased to announce we have affiliated with https://discord.gg/Netflix which will be the subreddit Discord server for the Netflix subreddit! \n\nFeel free to join the server and talk about everything Netflix related, including shows on Netflix as well :).",
-        "upvotes": 477,
+        "upvotes": 481,
         "comments": 257,
         "media": null,
         "permalink": "/r/netflix/comments/mxm3re/rnetflix_discord_server/"
-    },
-    {
-        "id": "1h2nmem",
-        "author": "bunaventure",
-        "title": "Does everyone mute their TV when navigating Netflix?",
-        "content": "Surely everyone dislikes the auto-preview feature as much as me? Either I have to flip back and forth, not staying on any one item too long, or I simply mute my TV. I feel like both spoil the experience a bit and I'm shocked Netflix hasn't done anything to tone it down. I get that they have their reasons, but it's awful.\n\nIs everyone else less bothered or what? I figure it would have changed by now if everyone dislikes the auto-preview as much as me. Google TV version btw - but I'm pretty sure it's implemented on most Netflix apps..",
-        "upvotes": 193,
-        "comments": 80,
-        "media": null,
-        "permalink": "/r/netflix/comments/1h2nmem/does_everyone_mute_their_tv_when_navigating/"
     },
     {
         "id": "1h2q8ge",
         "author": "life_lagom",
         "title": "Anyone else re watch this more than once ? [Highly recommended]",
         "content": "Its Been a minute but God damn I'm rewatching and on season 2 and I forgot how good Marco Polo was. \n\nhttps://en.m.wikipedia.org/wiki/Marco_Polo_(2014_TV_series)\n\nIf you're Into historical fiction or action. This shit is fantastic. Can't belive this came out a decade ago I don't think I've fully rewatched it since it came out.",
-        "upvotes": 92,
-        "comments": 32,
+        "upvotes": 190,
+        "comments": 46,
         "media": null,
         "permalink": "/r/netflix/comments/1h2q8ge/anyone_else_re_watch_this_more_than_once_highly/"
+    },
+    {
+        "id": "1h2nmem",
+        "author": "bunaventure",
+        "title": "Does everyone mute their TV when navigating Netflix?",
+        "content": "Surely everyone dislikes the auto-preview feature as much as me? Either I have to flip back and forth, not staying on any one item too long, or I simply mute my TV. I feel like both spoil the experience a bit and I'm shocked Netflix hasn't done anything to tone it down. I get that they have their reasons, but it's awful.\n\nIs everyone else less bothered or what? I figure it would have changed by now if everyone dislikes the auto-preview as much as me. Google TV version btw - but I'm pretty sure it's implemented on most Netflix apps..",
+        "upvotes": 254,
+        "comments": 87,
+        "media": null,
+        "permalink": "/r/netflix/comments/1h2nmem/does_everyone_mute_their_tv_when_navigating/"
+    },
+    {
+        "id": "1h32yq7",
+        "author": "TheSibyllineBooks",
+        "title": "can someone suggest beginner horror shows for someone who doesn't do great with it?",
+        "content": "I really like the trope of \"people in a world they aren't familiar with\" like The 100, Umbrella Academy, Lost, Resident Alien, etc, but I've run out of all the family friendly ones on Netflix, and there are a lot of horror movies and tv shows that are in this genre, but I can't handle horror for the life of me. Can anyone suggest some shows (or movies) that are light on the horror to get me used to the genre before I get to the heavier stuff? Also maybe some stuff in between heavy horror and light horror too. Thank you!!",
+        "upvotes": 5,
+        "comments": 23,
+        "media": null,
+        "permalink": "/r/netflix/comments/1h32yq7/can_someone_suggest_beginner_horror_shows_for/"
+    },
+    {
+        "id": "1h357qp",
+        "author": "No-Parsnip-8080",
+        "title": "Watching Netflix while traveling for several months",
+        "content": "Hi there !\nI currently am traveling for a few months and Netflix is telling me that i wont be able to keep using it in 14 days because i'm not home.\nI can't set a specified adress since i am not long enough in the same place.\nHow do i manage to keep my services going?",
+        "upvotes": 3,
+        "comments": 5,
+        "media": null,
+        "permalink": "/r/netflix/comments/1h357qp/watching_netflix_while_traveling_for_several/"
+    },
+    {
+        "id": "1h318pw",
+        "author": "Guacamole_is_Life",
+        "title": "Hot Frosty",
+        "content": "I absolutely loved this movie. It was so much fun and nice eye candy! Anyone else love this movie? I have explained it as Netflix\u2019s answer to a Hallmark movie. ",
+        "upvotes": 4,
+        "comments": 6,
+        "media": null,
+        "permalink": "/r/netflix/comments/1h318pw/hot_frosty/"
     },
     {
         "id": "1h2mc49",
         "author": "Dependent-Internal37",
         "title": "Anyone else watched or watching The Later Daters?",
         "content": "Would love to get the community\u2019s thoughts on The Later Daters show which just dropped on Netflix. Understand it\u2019s a reality show, but would appreciate to hear people\u2019s thoughts - good or bad! I\u2019m personally smitten by their candour and as a single person in my 30s they\u2019ve motivated me not to give up.",
-        "upvotes": 25,
-        "comments": 32,
+        "upvotes": 39,
+        "comments": 73,
         "media": null,
         "permalink": "/r/netflix/comments/1h2mc49/anyone_else_watched_or_watching_the_later_daters/"
+    },
+    {
+        "id": "1h33xc3",
+        "author": "extreme_pufferfish",
+        "title": "2 reliable methods for Picture-In-Picture (PiP) on Windows 11/10",
+        "content": "If you're anything like me, you often have Netflix on while you do routine tasks or play casual games. Picture-in-picture (PiP) was wonderful. The \"upgrade\" away from version 6.99.5 has effectively crippled the Netflix app -- downloads are no longer supported, and PiP is not readily available.\n\nThere are 2 reliable methods to enable PiP with Netflix in its current state. I expect these solutions to continue to work, since they're supported by Microsoft/Google/Mozilla developers for non-Netflix applications too. Here's your options:\n\n1. __Use web browser's built-in PiP functionality. (Prefer MS Edge)__\n\n   - Microsoft Edge has the same video quality as the Netflix app, though subtitles will not show in the PiP window, nor will the arrow keys function to skip forward/backward. \n   - Firefox/Chrome/Chromium is intentionally capped in bitrate by Netflix. Reduced video and audio quality compared to the app/Edge. Specifically, it tags video for lower quality and older codecs, and often 128kbit vs 192 kbit audio. It may not make a difference in every show/movie or in conjunction with windowed mode and mixed audio.\n   - Firefox specifically supports subtitles while in PiP mode, a must-have for foreign languages or quiet dialogue.\n   - Browser PiP often needs to be reset when playback skips to a new video (next episode). Close PiP window and re-open it for the new episode.\n\n2. __\"Always On Top\" function provided by Microsoft PowerToys.__ Install first, then enable via setting and shortcut keys.\n\n   - To enable this module, turn it on under the Context Menu (Windowing &amp; Layouts) or Dashboard (Disabled Modules).\n   - To put Netflix above all, have PowerToys open in the background/minimized, click the Netflix window so it's focused in the foreground, and use the \"WIN + CTRL + T\" shortcut to enable \"Always On Top\". Change the shortcut bind if you must, in settings.\n   - Borders generated by PowerToys can be disabled by clicking on AlwaysOnTop header to open settings in the PowerToys interface. \n   - However, the Minimize/Maximize/Close buttons and the window title bar cannot be hidden without editing the Netflix app itself.\n\nMicrosoft PowerToys on Microsoft Store: [https://apps.microsoft.com/detail/xp89dcgq3k6vld](https://apps.microsoft.com/detail/xp89dcgq3k6vld)\n\nREMINDER: Games and other apps must not be in exclusive Fullscreen mode. Windowed or Borderless will allow Netflix to stay on top.\n\nIMPORTANT: Microsoft Edge's PiP button is occasionally hidden unless you pause-play the video. Something about the menu option depends on playback being started by the user (not auto-played). When in doubt, pause-play the video first, right-click on the window tab for Netflix and choose \"Enter picture in picture\"; specifically it should be nestled between the \"Mute\" and \"Send to device\" options.\n\nHappy multi-tasking!",
+        "upvotes": 3,
+        "comments": 0,
+        "media": null,
+        "permalink": "/r/netflix/comments/1h33xc3/2_reliable_methods_for_pictureinpicture_pip_on/"
+    },
+    {
+        "id": "1h2idcy",
+        "author": "LetterheadFun3697",
+        "title": "Three Years After Cancellation, 'A.P. Bio' Continues To Dominate Netflix Charts",
+        "content": "",
+        "upvotes": 67,
+        "comments": 21,
+        "media": null,
+        "permalink": "/r/netflix/comments/1h2idcy/three_years_after_cancellation_ap_bio_continues/"
+    },
+    {
+        "id": "1h37vhw",
+        "author": "anonymous231722",
+        "title": "THE OA!!! QNA",
+        "content": "Hi there, binged The OA season 1 and 2 ;and yes it was a Thrilling experience. But got sad while watching season 2 knowing; the story doesn't continue. Anyways, it was good howsoever it was. \nAnyone who has watched it recently, please do post your questions/theories and others answer. Really want to know the things deeper. ",
+        "upvotes": 1,
+        "comments": 0,
+        "media": null,
+        "permalink": "/r/netflix/comments/1h37vhw/the_oa_qna/"
+    },
+    {
+        "id": "1h37fym",
+        "author": "r4lphyyy",
+        "title": "TV Shows Like The Three-Body Problem",
+        "content": "Hey everyone! I recently finished *The Three-Body Problem* on Netflix and absolutely loved it. The blend of science fiction, complex plots, and philosophical themes really intrigued me. Now, I\u2019m looking for TV shows that have a similar vibe something with deep world-building, intriguing scientific concepts, and maybe some mind-bending ideas.\n\nIf you\u2019ve seen the show, you probably know what I mean. I\u2019m specifically looking for shows that explore big concepts, space, or even the intersection of science and philosophy (like the nature of intelligence, technology, or human existence).\n\nAny recommendations?",
+        "upvotes": 1,
+        "comments": 0,
+        "media": null,
+        "permalink": "/r/netflix/comments/1h37fym/tv_shows_like_the_threebody_problem/"
     },
     {
         "id": "1h2m4ta",
@@ -45,79 +115,59 @@
         "title": "My fav relationships",
         "content": "",
         "upvotes": 25,
-        "comments": 7,
+        "comments": 8,
         "media": null,
         "permalink": "/r/netflix/comments/1h2m4ta/my_fav_relationships/"
-    },
-    {
-        "id": "1h2idcy",
-        "author": "LetterheadFun3697",
-        "title": "Three Years After Cancellation, 'A.P. Bio' Continues To Dominate Netflix Charts",
-        "content": "",
-        "upvotes": 47,
-        "comments": 19,
-        "media": null,
-        "permalink": "/r/netflix/comments/1h2idcy/three_years_after_cancellation_ap_bio_continues/"
     },
     {
         "id": "1h24oeh",
         "author": "techfinpro",
         "title": "Netflix Issues New Adults-Only Warning for \u2018Stranger Things\u2019 Ahead of Season 5",
         "content": "",
-        "upvotes": 368,
-        "comments": 127,
+        "upvotes": 382,
+        "comments": 130,
         "media": null,
         "permalink": "/r/netflix/comments/1h24oeh/netflix_issues_new_adultsonly_warning_for/"
     },
     {
-        "id": "1h318pw",
-        "author": "Guacamole_is_Life",
-        "title": "Hot Frosty",
-        "content": "I absolutely loved this movie. It was so much fun and nice eye candy! Anyone else love this movie? I have explained it as Netflix\u2019s answer to a Hallmark movie. ",
+        "id": "1h34bbu",
+        "author": "KakoiKagakusha",
+        "title": "\"Our Little Secret\" (2024) | Movie Discussion",
+        "content": "OK, I can't believe I'm saying this, but I can't tell if I enjoyed this more than \"Hot Frosty\". Either way, it still didn't scratch that rom-com itch like I was hoping. It's always nice to see Lindsay Lohan and Kristin Chenoweth, and there were parts here and there that were enjoyable, but I think this leaned a bit more toward rom-drama than rom-com. \n\nThe high-at-church bit was probably the highlight (no pun intended), but an accidentally-on-drugs scene isn't exactly breaking new ground. The dog thing just gave me anxiety (I always worry about ppl feeding my dog things he can't eat, so even her pushing the cookies near the dog made me uneasy), so no laughs for me there.  The end honesty reveals with everyone was fun for a second before it became really sad.  I guess like a lot of downers in this one between all the cheating and the mom's death, so just not exactly what I was expecting going into this kind of movie. \n\nSo yeah, at this point, I don't know if anything is going to be topping \"Nobody Wants This\" this year for my favorite rom-com.  Recommendations very much welcome! ",
         "upvotes": 0,
         "comments": 0,
         "media": null,
-        "permalink": "/r/netflix/comments/1h318pw/hot_frosty/"
-    },
-    {
-        "id": "1h2yrjx",
-        "author": "sinemahanedani",
-        "title": "Greta Gerwig Kimdir? | Oyunculuktan Y\u00f6netmenli\u011fe Yolculuk - Sinema Hanedan\u0131",
-        "content": "",
-        "upvotes": 0,
-        "comments": 0,
-        "media": null,
-        "permalink": "/r/netflix/comments/1h2yrjx/greta_gerwig_kimdir_oyunculuktan_y\u00f6netmenli\u011fe/"
+        "permalink": "/r/netflix/comments/1h34bbu/our_little_secret_2024_movie_discussion/"
     },
     {
         "id": "1h2rm00",
         "author": "Stephanus_magnus",
         "title": "One of us is lying ",
         "content": "For the people who watched this series, what\u2019s your favourite character?\n\nFor me it\u2019s Fiona. Seriously. Fiona was brilliant, a perfect nerd-criminal. I think she is a misunderstood person, she really loved Jake, but she was also betrayed by him. She thought she was the only one who saw him as he really was, but she was corrupted by feelings. Unfortunately Jake was incapable of feeling empathy for anyone. I'm sorry she died, didn\u2019t deserve.",
-        "upvotes": 2,
+        "upvotes": 4,
         "comments": 0,
         "media": null,
         "permalink": "/r/netflix/comments/1h2rm00/one_of_us_is_lying/"
-    },
-    {
-        "id": "1h1x1rm",
-        "author": "S4v1r1enCh0r4k",
-        "title": " China censored LGBT Scenes in Arcane Season 2, the scenes west saw were starkly different ",
-        "content": "",
-        "upvotes": 224,
-        "comments": 67,
-        "media": null,
-        "permalink": "/r/netflix/comments/1h1x1rm/china_censored_lgbt_scenes_in_arcane_season_2_the/"
     },
     {
         "id": "1h2tv7g",
         "author": "bbgarnett",
         "title": "Widvine Level on Tablet",
         "content": "Hello, so if I have a tablet that has Widvine L1 but it might not have the Netflix certification can you still download Netflix for offline viewing? If so will you be allowed to download in FHD or will they be in 480P like it would be if you were to stream it.\n\n  \nThanks,",
-        "upvotes": 1,
+        "upvotes": 2,
         "comments": 0,
         "media": null,
         "permalink": "/r/netflix/comments/1h2tv7g/widvine_level_on_tablet/"
+    },
+    {
+        "id": "1h1x1rm",
+        "author": "S4v1r1enCh0r4k",
+        "title": " China censored LGBT Scenes in Arcane Season 2, the scenes west saw were starkly different ",
+        "content": "",
+        "upvotes": 229,
+        "comments": 67,
+        "media": null,
+        "permalink": "/r/netflix/comments/1h1x1rm/china_censored_lgbt_scenes_in_arcane_season_2_the/"
     },
     {
         "id": "1h2tayz",
@@ -125,17 +175,27 @@
         "title": "Need help selecting Netflix plan",
         "content": "Hey guys! I\u2019m thinking of getting a Netflix subscription but I can\u2019t decide on which one. I think the premium plan is overkill for me as I don\u2019t have anyone to share my plan with but the 4K resolution and Spatial Audio sounds like bait (that I\u2019m trying not to fall for). The standard plan sounds the best but it\u2019s still quite expensive and Netflix is extremely ambiguous about the quantity of ads in the ads plan and the quality in the standard plans. Does anyone habe suggestions on which plan to pick? Thank you!",
         "upvotes": 1,
-        "comments": 2,
+        "comments": 5,
         "media": null,
         "permalink": "/r/netflix/comments/1h2tayz/need_help_selecting_netflix_plan/"
+    },
+    {
+        "id": "1h33l8d",
+        "author": "hiroinson",
+        "title": "can you log into someone else's netflix without connecting to their wifi?",
+        "content": "My friend and I share a Netflix account but it\u2019s saying he needs to connect to my WiFi with his devices in order to continue to use the account we share is this a new thing? We don\u2019t live near each other so it\u2019s a big inconvenience! Right now it says he has 14 days to use the account until he needs to login under my WiFi please if you have any info on how to get around this !",
+        "upvotes": 0,
+        "comments": 15,
+        "media": null,
+        "permalink": "/r/netflix/comments/1h33l8d/can_you_log_into_someone_elses_netflix_without/"
     },
     {
         "id": "1h2nfjh",
         "author": "Mental-Summer-9831",
         "title": "Can't find the same shows as my kid?",
         "content": "My household has a family account with a profile for each family member.\nMy oldest kid is really into anime and I want to watch a few of her favorite shows.\n\nHowever - when I search for the shows from my profile, they don't show up. \nShe has a 16 yo age restriction, I have none.\n\nI know we will get different recommandations based on our watch history, but not being able to find the show? Is that a thing? \nShouldn't I be able to access the same shows as her?\n\nI have reached out to the support chat, but their suggestion was to restart my phone, which didn't work.\n\nAny tips or even explanations?",
-        "upvotes": 1,
-        "comments": 0,
+        "upvotes": 2,
+        "comments": 2,
         "media": null,
         "permalink": "/r/netflix/comments/1h2nfjh/cant_find_the_same_shows_as_my_kid/"
     },
@@ -165,7 +225,7 @@
         "title": "Arcane season 2",
         "content": "Arcane Season 2 was a significant departure from its groundbreaking predecessor. As with the later seasons of Game of Thrones, True Detective, Westworld (well done HBO), Arcane Season 2 seemed to lose its unique identity, taking heavy inspiration from Marvel's Age of Ultron. The once-captivating soundtrack felt generic and unmemorable, a far cry from the enchanting melodies that defined Season 1. Additionally, the plot felt rushed and convoluted, failing to build upon the strong foundation established in the first season. It's as if Netflix tried to replicate the success of Season 1 without understanding the core elements that made it special.\nWhat have you done Netflix? ",
         "upvotes": 0,
-        "comments": 11,
+        "comments": 13,
         "media": null,
         "permalink": "/r/netflix/comments/1h2sdz4/arcane_season_2/"
     },
@@ -174,8 +234,8 @@
         "author": "443610",
         "title": "How \u201cSenna\u201d meticulously recreated every detail of F1 legend's life - from cars to racing suits",
         "content": "",
-        "upvotes": 6,
-        "comments": 1,
+        "upvotes": 7,
+        "comments": 2,
         "media": null,
         "permalink": "/r/netflix/comments/1h27ixu/how_senna_meticulously_recreated_every_detail_of/"
     },
@@ -188,16 +248,6 @@
         "comments": 0,
         "media": null,
         "permalink": "/r/netflix/comments/1h2h42x/rhythm_and_flow/"
-    },
-    {
-        "id": "1h2cuuf",
-        "author": "spookysteely",
-        "title": "Ads don't play unless Netflix tab selected?",
-        "content": "I just noticed something weird today on my laptop. When an ad is playing and I click off the tab, netflix auto pauses the content, and doesn't begin playing it again until I manually press play in the tab again. \n\n  \nIt doesn't auto-pause actual content when I click off the tab, just the advertisement. Has anyone else noticed this? Was this a new change just added?",
-        "upvotes": 1,
-        "comments": 3,
-        "media": null,
-        "permalink": "/r/netflix/comments/1h2cuuf/ads_dont_play_unless_netflix_tab_selected/"
     },
     {
         "id": "1h2dibq",
@@ -214,10 +264,20 @@
         "author": "Fluffy-Isopod7469",
         "title": "How do I  get Netflix to work at a second home? Need help ",
         "content": "So I read that you had to go to the primary home, sign into Netflix at that home from the Wi-Fi with your phone, stream something, then go back to the second home, stream something on that homes Wi-Fi, then it should work on the TV.\n\nWell I did that and it\u2019s still showing \u201cThis TV isn\u2019t apart of your Netflix household\u201d on my TV.\n\nHow the hell do I fix this?",
-        "upvotes": 1,
+        "upvotes": 0,
         "comments": 4,
         "media": null,
         "permalink": "/r/netflix/comments/1h2deqa/how_do_i_get_netflix_to_work_at_a_second_home/"
+    },
+    {
+        "id": "1h2cuuf",
+        "author": "spookysteely",
+        "title": "Ads don't play unless Netflix tab selected?",
+        "content": "I just noticed something weird today on my laptop. When an ad is playing and I click off the tab, netflix auto pauses the content, and doesn't begin playing it again until I manually press play in the tab again. \n\n  \nIt doesn't auto-pause actual content when I click off the tab, just the advertisement. Has anyone else noticed this? Was this a new change just added?",
+        "upvotes": 0,
+        "comments": 5,
+        "media": null,
+        "permalink": "/r/netflix/comments/1h2cuuf/ads_dont_play_unless_netflix_tab_selected/"
     },
     {
         "id": "1h2iuea",
@@ -225,7 +285,7 @@
         "title": "Did they downgrade vid quality?",
         "content": "I am using ad sub and it is unwatchable. What is going on with Netflix? I feel like they are intentionally downgraded vid quality for some reason. This is 720p at best.",
         "upvotes": 0,
-        "comments": 3,
+        "comments": 4,
         "media": null,
         "permalink": "/r/netflix/comments/1h2iuea/did_they_downgrade_vid_quality/"
     },
@@ -234,8 +294,8 @@
         "author": "TheLaraSuChronicles",
         "title": "Netflix kids' movie, Spellbound slammed by parents for 'normalizing' divorce and 'pushing for family separation'",
         "content": "",
-        "upvotes": 319,
-        "comments": 129,
+        "upvotes": 322,
+        "comments": 131,
         "media": null,
         "permalink": "/r/netflix/comments/1h19gp5/netflix_kids_movie_spellbound_slammed_by_parents/"
     },
@@ -244,69 +304,9 @@
         "author": "ontario-guy",
         "title": "Kids missing almost all shows?",
         "content": "I\u2019m not sure if it\u2019s an issue with my Firestick or Netflix\u2026when I loaded it up this morning there was the 5 featured shows, one row of shows, and then just a row of kids characters. I think there were only like 10 different shows and the search wouldn\u2019t bug up the shows that were there yesterday. It\u2019s the same in iOS.\n\nAnyone else seeing issues like this? I can\u2019t imagine Netflix is intentionally removing 90%+ of their kids shows. (I\u2019m in Canada FWIW)",
-        "upvotes": 5,
+        "upvotes": 4,
         "comments": 1,
         "media": null,
         "permalink": "/r/netflix/comments/1h1zk63/kids_missing_almost_all_shows/"
-    },
-    {
-        "id": "1h1p1d2",
-        "author": "JinJaDubstep",
-        "title": "Best ACTUALLY SCARY movies on Netflix currently?",
-        "content": "What are some of the best actually scary movies on Netflix currently? Not a fan of slow burn movies or creepy movies. looking for movies with a lot of \"scary\" parts (ie - conjuring 2, smile 2, evil dead rise)",
-        "upvotes": 26,
-        "comments": 17,
-        "media": null,
-        "permalink": "/r/netflix/comments/1h1p1d2/best_actually_scary_movies_on_netflix_currently/"
-    },
-    {
-        "id": "1h235la",
-        "author": "ok_raspberry_jam",
-        "title": "Funny spelling mistake on \"Ransom\" description",
-        "content": "\"A skilled crisis and hostage negotiator uses his knowledge of human behavior to **DIFFUSE** dangerous situations all over the world.\"  \n  \nAll over the whole world! Like a fine mist. Someone stop this man.",
-        "upvotes": 3,
-        "comments": 6,
-        "media": null,
-        "permalink": "/r/netflix/comments/1h235la/funny_spelling_mistake_on_ransom_description/"
-    },
-    {
-        "id": "1h26ddn",
-        "author": "Romulo_und_Remo",
-        "title": "Can I change my icon to one from the Profile Icon history?",
-        "content": "I want to change mine to one from Arcane but I'm currently using the Dedenne icon and I don't want to lose it since the Pokemon Concierge icons are not available anymore. Would I be able to pick it from my history?",
-        "upvotes": 0,
-        "comments": 0,
-        "media": null,
-        "permalink": "/r/netflix/comments/1h26ddn/can_i_change_my_icon_to_one_from_the_profile_icon/"
-    },
-    {
-        "id": "1h2gb2w",
-        "author": "fufa_badmash",
-        "title": "Comment Section on Netflix?",
-        "content": "What if Netflix added comment section like YouTube where viewers could leave comments on individual episodes, movies, or entire series, similar to YouTube?\n\nImagine the possibilities:\n\n* Fans could discuss their favourite scenes, share theories, and point out Easter eggs.\n* Mini-reviews and recommendations would help you decide what to watch next.\n* Community-driven conversations could make Netflix feel more interactive and social.\n\nBut... there\u2019s also the downside:\n\n* Spoilers everywhere!\n* Would it distract from the \u201clean-back\u201d streaming experience Netflix is known for?\n\nWould this be a game-changing feature or just unnecessary noise?",
-        "upvotes": 0,
-        "comments": 6,
-        "media": null,
-        "permalink": "/r/netflix/comments/1h2gb2w/comment_section_on_netflix/"
-    },
-    {
-        "id": "1h1m7ro",
-        "author": "beeemmvee",
-        "title": "Buy Now!",
-        "content": "Wow.\n\nI knew some of this but had no idea how far it actually went. The slime of humanity is truly revealed. \n\nThis is a must see for every human consumer on the planet. \n\n  \n",
-        "upvotes": 30,
-        "comments": 7,
-        "media": null,
-        "permalink": "/r/netflix/comments/1h1m7ro/buy_now/"
-    },
-    {
-        "id": "1h2h0r6",
-        "author": "billiondollartrade",
-        "title": "Why tf does Netflix keep making good as shows just to cancel the dam show 2 seasons later ! ! And then allow the trash shows to go for seasons on seasons! ",
-        "content": "For the Love of God, so many shows that are actually good and they just be dropping those but \u201c oh no let\u2019s keep the trash show about some stupid comedy or sx \u201c anything damn sex related is all they give a fck about. ",
-        "upvotes": 0,
-        "comments": 12,
-        "media": null,
-        "permalink": "/r/netflix/comments/1h2h0r6/why_tf_does_netflix_keep_making_good_as_shows/"
     }
 ]
