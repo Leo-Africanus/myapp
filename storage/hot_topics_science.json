@@ -1,11 +1,24 @@
 [
     {
+        "id": "1hclrt2",
+        "author": "chrisdh79",
+        "title": "Scientists have accidentally discovered a particle that has mass when it\u2019s traveling in one direction, but no mass while traveling in a different direction | Known as semi-Dirac fermions, particles with this bizarre behavior were first predicted 16 years ago.",
+        "content": "",
+        "upvotes": 2073,
+        "comments": 102,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/TOCCdb7mWHzfhspg1TJbu5xbagiPl6qCZXzG4hv63I0.jpg?auto=webp&amp;s=6f236a1f9193de19ab34c7aa32e2c55f6ef9047c"
+        },
+        "permalink": "/r/science/comments/1hclrt2/scientists_have_accidentally_discovered_a/"
+    },
+    {
         "id": "1hc5y7h",
         "author": "Wagamaga",
         "title": "Americans spend more time living with diseases than rest of world, study shows. Americans live with diseases for an average of 12.4 years. Mental and substance-use disorders, as well as musculoskeletal diseases, are main contributors to the years lived with disability in the US",
         "content": "",
-        "upvotes": 7538,
-        "comments": 185,
+        "upvotes": 10728,
+        "comments": 245,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/dNmYBWOw1LtgSVHGHa-y4N_lJOQBnkM92RN1VQgWCEQ.jpg?auto=webp&amp;s=1be6943a1caae4b287fa818b33bdbdfbc917e06b"
@@ -13,25 +26,64 @@
         "permalink": "/r/science/comments/1hc5y7h/americans_spend_more_time_living_with_diseases/"
     },
     {
-        "id": "1hc0fos",
+        "id": "1hcip2r",
         "author": "mvea",
-        "title": "Liberals generally associated censorship with misinformation, assuming it signaled that the information was harmful or false. Conservatives, in contrast, viewed censorship as evidence of valuable information being suppressed by powerful entities.",
+        "title": "Older adults who use the internet regularly report better mental health outcomes, including fewer depressive symptoms, greater life satisfaction, and improved self-reported health, according to new research across 23 countries. ",
         "content": "",
-        "upvotes": 5205,
-        "comments": 498,
+        "upvotes": 740,
+        "comments": 36,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/nqWhx7jSmGAP5BiAniiko9xwYdpjW-bH6HW08Otw2ks.jpg?auto=webp&amp;s=64d8bd975799eb841b3f54e99a672826936beba1"
+            "url": "https://external-preview.redd.it/5h68lk7L2qjbV71EYsXEiXIb_jORBjpXvwc2DjVPLzY.jpg?auto=webp&amp;s=c71e106602b3c18aaed26bc2ee74f3e3264e4fb1"
         },
-        "permalink": "/r/science/comments/1hc0fos/liberals_generally_associated_censorship_with/"
+        "permalink": "/r/science/comments/1hcip2r/older_adults_who_use_the_internet_regularly/"
+    },
+    {
+        "id": "1hcngnj",
+        "author": "chrisdh79",
+        "title": "Bowel cancer rising among under-50s worldwide, research finds | Study suggests rate of disease among young adults is rising for first time and England has one of the fastest increases",
+        "content": "",
+        "upvotes": 243,
+        "comments": 20,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/xXclBWdXNThE1hwZuAiKmRmRfvCrMxet5a6mNlqDSTI.jpg?auto=webp&amp;s=fef71fb298ae002de8f3ffe783a55e850d533385"
+        },
+        "permalink": "/r/science/comments/1hcngnj/bowel_cancer_rising_among_under50s_worldwide/"
+    },
+    {
+        "id": "1hci7j2",
+        "author": "mvea",
+        "title": "Scientists transform skin bacterium into a topical vaccine that you rub onto your skin, a needle-free approach that would eliminate reactions like fever, swelling and pain. Topical application generated enough antibodies to successfully protect mice from 6 times the lethal dose of tetanus toxin.",
+        "content": "",
+        "upvotes": 363,
+        "comments": 10,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/SYSlRHV7dscwjyQsS-rLCPjazF6QVxpXO1ukW9MxoHU.jpg?auto=webp&amp;s=735005e49718e72ca70f07ca935cc7014dad157c"
+        },
+        "permalink": "/r/science/comments/1hci7j2/scientists_transform_skin_bacterium_into_a/"
+    },
+    {
+        "id": "1hciawf",
+        "author": "johnhemingwayscience",
+        "title": "Magnesium and calcium deficiencies linked to cognitive decline in seniors",
+        "content": "",
+        "upvotes": 331,
+        "comments": 7,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/Qr3maqR0EXFlfSbp7SNGzxUC7GaExhWBdevdwJMrrk0.jpg?auto=webp&amp;s=a887e5cbd54658e3e8286f43310acefaded0865e"
+        },
+        "permalink": "/r/science/comments/1hciawf/magnesium_and_calcium_deficiencies_linked_to/"
     },
     {
         "id": "1hc4187",
         "author": "mvea",
         "title": "New research suggests that the general population finds people with tattoos to be less beautiful than their clean-skinned peers, but younger people, tattoo artists and people with body art tolerate more ink, unless it's on the face. Facial tattoos received the least positive reception overall.",
         "content": "",
-        "upvotes": 2924,
-        "comments": 268,
+        "upvotes": 3818,
+        "comments": 309,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/pWVVe_clMiK10FfvGlXNdC-lyz47z2cBjL6uU7X2Xv0.jpg?auto=webp&amp;s=06187af540d87ac6d061979b2a915936b91cd50e"
@@ -39,12 +91,38 @@
         "permalink": "/r/science/comments/1hc4187/new_research_suggests_that_the_general_population/"
     },
     {
+        "id": "1hc0fos",
+        "author": "mvea",
+        "title": "Liberals generally associated censorship with misinformation, assuming it signaled that the information was harmful or false. Conservatives, in contrast, viewed censorship as evidence of valuable information being suppressed by powerful entities.",
+        "content": "",
+        "upvotes": 6274,
+        "comments": 556,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/nqWhx7jSmGAP5BiAniiko9xwYdpjW-bH6HW08Otw2ks.jpg?auto=webp&amp;s=64d8bd975799eb841b3f54e99a672826936beba1"
+        },
+        "permalink": "/r/science/comments/1hc0fos/liberals_generally_associated_censorship_with/"
+    },
+    {
+        "id": "1hcm6y4",
+        "author": "Hrmbee",
+        "title": "Neurons in the abdomen help form the gut-brain connection | Organ-specific sympathetic innervation defines visceral functions",
+        "content": "",
+        "upvotes": 130,
+        "comments": 4,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/RRcD74smb6zTM-ruOLQHY6UASy9FM-7gBN78Ofa9fEU.jpg?auto=webp&amp;s=ff7fb7fbeffee98ced998bbe35e553c32a442a53"
+        },
+        "permalink": "/r/science/comments/1hcm6y4/neurons_in_the_abdomen_help_form_the_gutbrain/"
+    },
+    {
         "id": "1hbrmu7",
         "author": "Wagamaga",
         "title": "Republicans Respond to Political Polarization by Spreading Misinformation, Democrats Don't. Research found in politically polarized situations, Republicans were significantly more willing to convey misinformation than Democrats to gain an advantage over the opposing party",
         "content": "",
-        "upvotes": 19773,
-        "comments": 1603,
+        "upvotes": 20368,
+        "comments": 1649,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/3DEL9sSPX5blAU4fbL2WuzyrgZtmB_WeJKFx6YPtFp8.jpg?auto=webp&amp;s=adea31605da8165d7a6b047c3d3775c822906af4"
@@ -52,87 +130,22 @@
         "permalink": "/r/science/comments/1hbrmu7/republicans_respond_to_political_polarization_by/"
     },
     {
-        "id": "1hbv2qw",
+        "id": "1hclmnh",
         "author": "chrisdh79",
-        "title": "Religious believers are no more generous than atheists \u2013 at least as long as they don\u2019t know what the recipient believes in | Finding this out increases generosity significantly, mainly because people give more to those who share their religion.",
+        "title": "Childhood maltreatment is associated with lower exploration and disrupted prefrontal activity and connectivity during reward learning in volatile environments",
         "content": "",
-        "upvotes": 2221,
-        "comments": 85,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/LVS4LJrJ0R3_ULgfyAd2JPTnB8rt53_aWdVzZ1LHYr4.jpg?auto=webp&amp;s=d36f9bd7010fc619b1d4b2a14d8608797ca27a02"
-        },
-        "permalink": "/r/science/comments/1hbv2qw/religious_believers_are_no_more_generous_than/"
-    },
-    {
-        "id": "1hbt29i",
-        "author": "Generalaverage89",
-        "title": "Using a car for over 50% of out-of-home activities lowers life satisfaction. Evidence From a U.S. National Survey",
-        "content": "",
-        "upvotes": 3028,
-        "comments": 310,
+        "upvotes": 56,
+        "comments": 3,
         "media": null,
-        "permalink": "/r/science/comments/1hbt29i/using_a_car_for_over_50_of_outofhome_activities/"
-    },
-    {
-        "id": "1hc3pkq",
-        "author": "ChallengeAdept8759",
-        "title": "Researchers say you shouldn\u2019t combine marijuana and Adderall. A new study finds that regular marijuana use suppresses the effects of Adderall on the brains of mice.",
-        "content": "",
-        "upvotes": 580,
-        "comments": 67,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/wyRdomaTWx4bGmikrCgrWEyxDawN7snfDWpBA2OTdG8.jpg?auto=webp&amp;s=40e7fb9cf4fdecc43f5fe64c6df188928be124af"
-        },
-        "permalink": "/r/science/comments/1hc3pkq/researchers_say_you_shouldnt_combine_marijuana/"
-    },
-    {
-        "id": "1hbr70d",
-        "author": "mvea",
-        "title": "More than half of calories consumed at home by US adults come from ultraprocessed foods. Ultraprocessed foods contain substances with little or no nutritional value, such as colorings, emulsifiers, artificial flavors, and sweeteners. They are linked to heart disease, obesity and colorectal cancer.",
-        "content": "",
-        "upvotes": 2877,
-        "comments": 249,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/uzR48FZeyxse1o5luWErBwkX2JGdA5U6-urLA93YgPY.jpg?auto=webp&amp;s=f2c845140bcec98cff50a2209f205bc84a5b233b"
-        },
-        "permalink": "/r/science/comments/1hbr70d/more_than_half_of_calories_consumed_at_home_by_us/"
-    },
-    {
-        "id": "1hbykkj",
-        "author": "giuliomagnifico",
-        "title": "Scientists have developed a novel approach to human learning through noninvasive manipulation of brain activity patterns",
-        "content": "",
-        "upvotes": 677,
-        "comments": 29,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/vM5ym66-XWkhqfDvHGj-cB39zJ6pak6hiUE8zEkeSrA.jpg?auto=webp&amp;s=783077092415114dd3a482558582379be5a32ab3"
-        },
-        "permalink": "/r/science/comments/1hbykkj/scientists_have_developed_a_novel_approach_to/"
-    },
-    {
-        "id": "1hc9e0z",
-        "author": "sciencealert",
-        "title": "Google's New Chip Could Crack One of Quantum Computing's Biggest Problems |  A new paper shows they've been able to keep a single logical qubit stable enough so errors occur maybe once every hour, which is a vast improvement on previous setups that failed every few seconds.",
-        "content": "",
-        "upvotes": 155,
-        "comments": 12,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/CIZpvrt8D41gYQIT-QLIitw-AXfBUk8Ndo320f9tbnQ.jpg?auto=webp&amp;s=3106ea9f576e0bb925b21e89484c75e362f99c32"
-        },
-        "permalink": "/r/science/comments/1hc9e0z/googles_new_chip_could_crack_one_of_quantum/"
+        "permalink": "/r/science/comments/1hclmnh/childhood_maltreatment_is_associated_with_lower/"
     },
     {
         "id": "1hceqr0",
         "author": "calliope_kekule",
         "title": "Railway sleepers produced from selected recycled plastics are just as strong and could save thousands of tons of emissions.",
         "content": "",
-        "upvotes": 57,
-        "comments": 12,
+        "upvotes": 180,
+        "comments": 13,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/_9HWodtqswfVU0HTv9JUKk3JSEMuAbcTccqdc9vM36Q.jpg?auto=webp&amp;s=4d4690b5f1cb5fdef107785a3fab4986c43ff605"
@@ -140,35 +153,133 @@
         "permalink": "/r/science/comments/1hceqr0/railway_sleepers_produced_from_selected_recycled/"
     },
     {
+        "id": "1hc3pkq",
+        "author": "ChallengeAdept8759",
+        "title": "Researchers say you shouldn\u2019t combine marijuana and Adderall. A new study finds that regular marijuana use suppresses the effects of Adderall on the brains of mice.",
+        "content": "",
+        "upvotes": 838,
+        "comments": 93,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/wyRdomaTWx4bGmikrCgrWEyxDawN7snfDWpBA2OTdG8.jpg?auto=webp&amp;s=40e7fb9cf4fdecc43f5fe64c6df188928be124af"
+        },
+        "permalink": "/r/science/comments/1hc3pkq/researchers_say_you_shouldnt_combine_marijuana/"
+    },
+    {
+        "id": "1hbv2qw",
+        "author": "chrisdh79",
+        "title": "Religious believers are no more generous than atheists \u2013 at least as long as they don\u2019t know what the recipient believes in | Finding this out increases generosity significantly, mainly because people give more to those who share their religion.",
+        "content": "",
+        "upvotes": 2488,
+        "comments": 99,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/LVS4LJrJ0R3_ULgfyAd2JPTnB8rt53_aWdVzZ1LHYr4.jpg?auto=webp&amp;s=d36f9bd7010fc619b1d4b2a14d8608797ca27a02"
+        },
+        "permalink": "/r/science/comments/1hbv2qw/religious_believers_are_no_more_generous_than/"
+    },
+    {
+        "id": "1hcgsq1",
+        "author": "Wagamaga",
+        "title": "Prolonged exposure to pollution contributed to millions of deaths across India over a decade, according to a new study that called for stricter air quality regulations. Research found that every 10 microgram per cubic metre increase in PM2.5 concentration led to an 8.6 percent increase in mortality",
+        "content": "",
+        "upvotes": 88,
+        "comments": 13,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/j7-3GY3Z3V3CJPWj5OuZjY-5ulMji0ydVwVG5v251ic.jpg?auto=webp&amp;s=c7fd52a1cb25d4c384c27c8abb511eaf1ae5af21"
+        },
+        "permalink": "/r/science/comments/1hcgsq1/prolonged_exposure_to_pollution_contributed_to/"
+    },
+    {
+        "id": "1hbt29i",
+        "author": "Generalaverage89",
+        "title": "Using a car for over 50% of out-of-home activities lowers life satisfaction. Evidence From a U.S. National Survey",
+        "content": "",
+        "upvotes": 3199,
+        "comments": 322,
+        "media": null,
+        "permalink": "/r/science/comments/1hbt29i/using_a_car_for_over_50_of_outofhome_activities/"
+    },
+    {
+        "id": "1hbr70d",
+        "author": "mvea",
+        "title": "More than half of calories consumed at home by US adults come from ultraprocessed foods. Ultraprocessed foods contain substances with little or no nutritional value, such as colorings, emulsifiers, artificial flavors, and sweeteners. They are linked to heart disease, obesity and colorectal cancer.",
+        "content": "",
+        "upvotes": 3059,
+        "comments": 272,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/uzR48FZeyxse1o5luWErBwkX2JGdA5U6-urLA93YgPY.jpg?auto=webp&amp;s=f2c845140bcec98cff50a2209f205bc84a5b233b"
+        },
+        "permalink": "/r/science/comments/1hbr70d/more_than_half_of_calories_consumed_at_home_by_us/"
+    },
+    {
+        "id": "1hc9e0z",
+        "author": "sciencealert",
+        "title": "Google's New Chip Could Crack One of Quantum Computing's Biggest Problems |  A new paper shows they've been able to keep a single logical qubit stable enough so errors occur maybe once every hour, which is a vast improvement on previous setups that failed every few seconds.",
+        "content": "",
+        "upvotes": 214,
+        "comments": 18,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/CIZpvrt8D41gYQIT-QLIitw-AXfBUk8Ndo320f9tbnQ.jpg?auto=webp&amp;s=3106ea9f576e0bb925b21e89484c75e362f99c32"
+        },
+        "permalink": "/r/science/comments/1hc9e0z/googles_new_chip_could_crack_one_of_quantum/"
+    },
+    {
+        "id": "1hbykkj",
+        "author": "giuliomagnifico",
+        "title": "Scientists have developed a novel approach to human learning through noninvasive manipulation of brain activity patterns",
+        "content": "",
+        "upvotes": 767,
+        "comments": 31,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/vM5ym66-XWkhqfDvHGj-cB39zJ6pak6hiUE8zEkeSrA.jpg?auto=webp&amp;s=783077092415114dd3a482558582379be5a32ab3"
+        },
+        "permalink": "/r/science/comments/1hbykkj/scientists_have_developed_a_novel_approach_to/"
+    },
+    {
+        "id": "1hcoeqn",
+        "author": "giuliomagnifico",
+        "title": "Cigarette smoking from childhood into early adulthood (10 to 24 years) is associated with an increased risk of premature cardiac injury.  This early damage to the structure and function of the heart can also significantly increase the chance of future cardiovascular (CVD) mortality in mid-life",
+        "content": "",
+        "upvotes": 11,
+        "comments": 2,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/S0NfpN4OOaPomj0MKZ55t1yk9x54m4boge8LQqn-oWU.jpg?auto=webp&amp;s=876975c0dfe96e216f71bc5a923c0f2031593fe9"
+        },
+        "permalink": "/r/science/comments/1hcoeqn/cigarette_smoking_from_childhood_into_early/"
+    },
+    {
         "id": "1hc51ts",
         "author": "thebelsnickle1991",
         "title": "Researchers have discovered new connections between the gut and brain that hold promise for more targeted treatments for depression and anxiety, and could help prevent digestive issues in children by limiting the transmission of antidepressants during pregnancy",
         "content": "",
-        "upvotes": 195,
+        "upvotes": 229,
         "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1hc51ts/researchers_have_discovered_new_connections/"
     },
     {
-        "id": "1hbh8mx",
-        "author": "mvea",
-        "title": "Around 1 in 5 people under 50 have genital herpes, estimates an international study. Herpes simplex viruses (HSV) are highly infectious and incurable infections commonly spread in childhood via contact with an infected person's mouth which can later spread to the genitals, and by sexual contact.",
+        "id": "1hcftx4",
+        "author": "Skoltech_",
+        "title": "Researchers have designed and tested an easy-to-manufacture semiconductor-based gas sensor that is inexpensive to make and operate. The distinctive feature of the new detector is the use of carbon nanotube \u201cfabric\u201d suspended between two electrodes as the sensitive element. ",
         "content": "",
-        "upvotes": 5546,
-        "comments": 643,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/qdlrCeJvBDsJ7GjrB9Epm5zqP-7aiWLpVM14hZsdZjw.jpg?auto=webp&amp;s=8ecb2059ddd7425542de236d96b866dd2c59e40a"
-        },
-        "permalink": "/r/science/comments/1hbh8mx/around_1_in_5_people_under_50_have_genital_herpes/"
+        "upvotes": 27,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1hcftx4/researchers_have_designed_and_tested_an/"
     },
     {
         "id": "1hc18rr",
         "author": "thebelsnickle1991",
         "title": "Young children less likely than adults to see discrimination as harmful",
         "content": "",
-        "upvotes": 157,
-        "comments": 58,
+        "upvotes": 185,
+        "comments": 69,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/QxyMmEgXrawAEAu6moJMm_8Um6YTp01ROndw4Pcg9Do.jpg?auto=webp&amp;s=192d291fb10d259d2ecc1f3fd58aa573e54ff5fc"
@@ -176,12 +287,25 @@
         "permalink": "/r/science/comments/1hc18rr/young_children_less_likely_than_adults_to_see/"
     },
     {
+        "id": "1hbh8mx",
+        "author": "mvea",
+        "title": "Around 1 in 5 people under 50 have genital herpes, estimates an international study. Herpes simplex viruses (HSV) are highly infectious and incurable infections commonly spread in childhood via contact with an infected person's mouth which can later spread to the genitals, and by sexual contact.",
+        "content": "",
+        "upvotes": 5644,
+        "comments": 647,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/qdlrCeJvBDsJ7GjrB9Epm5zqP-7aiWLpVM14hZsdZjw.jpg?auto=webp&amp;s=8ecb2059ddd7425542de236d96b866dd2c59e40a"
+        },
+        "permalink": "/r/science/comments/1hbh8mx/around_1_in_5_people_under_50_have_genital_herpes/"
+    },
+    {
         "id": "1hbxttx",
         "author": "Wagamaga",
         "title": "Nasa\u2019s James Webb Space Telescope (JWST) has for the first time captured an image of what our galaxy likely looked like just as it was forming. The light from Firefly Sparkle is from not long after the creation of the Universe and so has taken more than 13 billion years to reach us. ",
         "content": "",
-        "upvotes": 235,
-        "comments": 13,
+        "upvotes": 254,
+        "comments": 16,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/OjpOD_vBwff51-nVZ-TH2lsJFlmTqnFZJiWYDkbAeOo.jpg?auto=webp&amp;s=6c9575e4023b5c4d8cb9b0fb7779bb01b753e473"
@@ -193,7 +317,7 @@
         "author": "NinjaDiscoJesus",
         "title": "A humpback whale has made one of the longest and most unusual migrations ever recorded, possibly driven by climate change, scientists say.",
         "content": "",
-        "upvotes": 825,
+        "upvotes": 861,
         "comments": 22,
         "media": {
             "type": "image",
@@ -206,7 +330,7 @@
         "author": "IntrepidGentian",
         "title": "29% of the regional sandy coastline is projected to suffer severe beach loss by mid-century in Eastern North America.",
         "content": "",
-        "upvotes": 185,
+        "upvotes": 192,
         "comments": 4,
         "media": null,
         "permalink": "/r/science/comments/1hby6ie/29_of_the_regional_sandy_coastline_is_projected/"
@@ -216,8 +340,8 @@
         "author": "Hashirama4AP",
         "title": "Consuming 20-30% of daily energy intake as high quality breakfast influences key cardiovascular risk factors. It can result in 2-3.5% lower body mass index, less abdominal obesity (2-4% smaller waist circumference), 9-18% lower triglycerides, and 4-8.5% higher HDL cholesterol (the good cholesterol).",
         "content": "",
-        "upvotes": 320,
-        "comments": 48,
+        "upvotes": 342,
+        "comments": 49,
         "media": null,
         "permalink": "/r/science/comments/1hbtver/consuming_2030_of_daily_energy_intake_as_high/"
     },
@@ -226,7 +350,7 @@
         "author": "The_Conversation",
         "title": "Machine learning applied to individuals' CBC blood test values over time shows that patients have stable \"setpoints\" for platelets, hemoglobin and other values; comparing new test results to these patient-specific values allowed for better diagnosis of diabetes and other common conditions",
         "content": "",
-        "upvotes": 139,
+        "upvotes": 146,
         "comments": 11,
         "media": {
             "type": "image",
@@ -239,136 +363,12 @@
         "author": "thebelsnickle1991",
         "title": "First vaccine against blood-stage malaria is well-tolerated and offers effective protection",
         "content": "",
-        "upvotes": 306,
+        "upvotes": 330,
         "comments": 3,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/z_EwAafPBHMf6DFFNBWv-6VKotIkmzsLffe7mmiFOww.jpg?auto=webp&amp;s=d2c721bd66cb8ff602c871fc10341dcd7878e266"
         },
         "permalink": "/r/science/comments/1hbtmhd/first_vaccine_against_bloodstage_malaria_is/"
-    },
-    {
-        "id": "1hbyhee",
-        "author": "NGNResearch",
-        "title": "Misinformation spread differently than most content on Facebook during the 2020 election, new research finds",
-        "content": "",
-        "upvotes": 156,
-        "comments": 14,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/6sSkJS_Xmap84RIMRD7__h5A9OlrDqFT5cBw7tqVWWg.jpg?auto=webp&amp;s=46bfdffe72d0ef51e36c99e02657dcce3774e0ec"
-        },
-        "permalink": "/r/science/comments/1hbyhee/misinformation_spread_differently_than_most/"
-    },
-    {
-        "id": "1hcftx4",
-        "author": "Skoltech_",
-        "title": "Researchers have designed and tested an easy-to-manufacture semiconductor-based gas sensor that is inexpensive to make and operate. The distinctive feature of the new detector is the use of carbon nanotube \u201cfabric\u201d suspended between two electrodes as the sensitive element. ",
-        "content": "",
-        "upvotes": 10,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1hcftx4/researchers_have_designed_and_tested_an/"
-    },
-    {
-        "id": "1hc36xm",
-        "author": "umichnews",
-        "title": "Screens for TVs, smartphones or other displays could be made with a new kind of organic LED material developed by an international team, co-led by University of Michigan engineers. The material maintains sharp color and contrast while replacing the heavy metal with a new hybrid material.",
-        "content": "",
-        "upvotes": 65,
-        "comments": 3,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/MdTjx44iOsZM6aLW5V7fiVyFDHNg1QaxEupMTOvnqQs.jpg?auto=webp&amp;s=433de3e80e443df6afcd6339cdc46a8b76a523c7"
-        },
-        "permalink": "/r/science/comments/1hc36xm/screens_for_tvs_smartphones_or_other_displays/"
-    },
-    {
-        "id": "1hbr3lk",
-        "author": "chrisdh79",
-        "title": "New research upends traditional cognitive models of reading | Researchers demonstrate that the left posterior inferior frontal cortex (pIFC) is essential for translating written words into spoken language within just 100 milliseconds after seeing a word\u2014well before traditional models suggest.",
-        "content": "",
-        "upvotes": 355,
-        "comments": 7,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/friA6txRvH5KvtR3TJsgukUfnSVhuUGyc6aLydkaG4Q.jpg?auto=webp&amp;s=aa8f99e83d4977aeebf09f38af7f66bc8cab0aaf"
-        },
-        "permalink": "/r/science/comments/1hbr3lk/new_research_upends_traditional_cognitive_models/"
-    },
-    {
-        "id": "1hcgqxh",
-        "author": "mvea",
-        "title": "Bowel cancer rising among under-50s worldwide - Study suggests rate of disease among young adults is rising for first time, with the greatest annual increases seen in New Zealand (4%), Chile (4%), Puerto Rico (3.8%), and England (3.6%). Junk food, physical inactivity and obesity are likely factors.",
-        "content": "",
-        "upvotes": 5,
-        "comments": 2,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/xXclBWdXNThE1hwZuAiKmRmRfvCrMxet5a6mNlqDSTI.jpg?auto=webp&amp;s=fef71fb298ae002de8f3ffe783a55e850d533385"
-        },
-        "permalink": "/r/science/comments/1hcgqxh/bowel_cancer_rising_among_under50s_worldwide/"
-    },
-    {
-        "id": "1hbcpw9",
-        "author": "mvea",
-        "title": "A new study suggests that highlighting shared values between U.S. Republicans and Democrats can reduce perceived polarization and foster hope. Prior research suggests that Republicans and Democrats overestimate their differences on policies, engagement, and even support for violence.",
-        "content": "",
-        "upvotes": 3310,
-        "comments": 359,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/egqCDNg2IaIheQOQhX2z-KJhRLqoirKJ-0Ib_VS4Ubw.jpg?auto=webp&amp;s=c70aca48b0bf424cbcc64e5ac58a3c69685d11c9"
-        },
-        "permalink": "/r/science/comments/1hbcpw9/a_new_study_suggests_that_highlighting_shared/"
-    },
-    {
-        "id": "1hcgsq1",
-        "author": "Wagamaga",
-        "title": "Prolonged exposure to pollution contributed to millions of deaths across India over a decade, according to a new study that called for stricter air quality regulations. Research found that every 10 microgram per cubic metre increase in PM2.5 concentration led to an 8.6 percent increase in mortality",
-        "content": "",
-        "upvotes": 3,
-        "comments": 3,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/j7-3GY3Z3V3CJPWj5OuZjY-5ulMji0ydVwVG5v251ic.jpg?auto=webp&amp;s=c7fd52a1cb25d4c384c27c8abb511eaf1ae5af21"
-        },
-        "permalink": "/r/science/comments/1hcgsq1/prolonged_exposure_to_pollution_contributed_to/"
-    },
-    {
-        "id": "1hbxwtb",
-        "author": "geoff199",
-        "title": "A drought before a wildfire increases the likelihood of trees dying in the fire by 78%, a study in the western U.S. finds.  That's an issue because both fire and drought are expected to increase in frequency and severity in temperate forests due to climate change.",
-        "content": "",
-        "upvotes": 46,
-        "comments": 10,
-        "media": null,
-        "permalink": "/r/science/comments/1hbxwtb/a_drought_before_a_wildfire_increases_the/"
-    },
-    {
-        "id": "1hbx294",
-        "author": "giuliomagnifico",
-        "title": "Companies with better environmental performance and transparent disclosures can reduce costs and increase profits, according to an analysis of financial and environmental data from 8,547 companies in 34 countries from 2015 to 2022",
-        "content": "",
-        "upvotes": 55,
-        "comments": 2,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/pWmFFpAz3KKxUhfKmOUboWYzF3zaYr60kgSEemPiPIM.jpg?auto=webp&amp;s=1377f1f7f6fc7ed99bc14e74a9c346e39cac1b7d"
-        },
-        "permalink": "/r/science/comments/1hbx294/companies_with_better_environmental_performance/"
-    },
-    {
-        "id": "1hc2n89",
-        "author": "thebelsnickle1991",
-        "title": "US veterans report average happiness levels of 5.41 out of 7, with greater happiness most associated with reporting greater purpose in life, lower depressive symptoms, and higher optimism, emotional stability, and resilience",
-        "content": "",
-        "upvotes": 22,
-        "comments": 4,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/_BBslEvBL0rX9f_LQdF0p7J-qfB5S4-_CgoptLyWkm0.jpg?auto=webp&amp;s=bc2cc933e920825e1968d2cddfe17fa0e69deb01"
-        },
-        "permalink": "/r/science/comments/1hc2n89/us_veterans_report_average_happiness_levels_of/"
     }
 ]
