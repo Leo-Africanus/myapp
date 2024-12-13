@@ -4,7 +4,7 @@
         "author": "chrisdh79",
         "title": "Scientists have accidentally discovered a particle that has mass when it\u2019s traveling in one direction, but no mass while traveling in a different direction | Known as semi-Dirac fermions, particles with this bizarre behavior were first predicted 16 years ago.",
         "content": "",
-        "upvotes": 9417,
+        "upvotes": 9433,
         "comments": 303,
         "media": {
             "type": "image",
@@ -17,8 +17,8 @@
         "author": "chrisdh79",
         "title": "Bowel cancer rising among under-50s worldwide, research finds | Study suggests rate of disease among young adults is rising for first time and England has one of the fastest increases",
         "content": "",
-        "upvotes": 6818,
-        "comments": 672,
+        "upvotes": 6847,
+        "comments": 673,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/xXclBWdXNThE1hwZuAiKmRmRfvCrMxet5a6mNlqDSTI.jpg?auto=webp&amp;s=fef71fb298ae002de8f3ffe783a55e850d533385"
@@ -30,7 +30,7 @@
         "author": "Science_News",
         "title": "The \u2018Blob,\u2019 an unprecedented marine heat wave, killed 4 million seabirds | This abrupt loss of millions of birds, and probably many other animals, may be the largest wildlife mortality event recorded in modern times",
         "content": "",
-        "upvotes": 2412,
+        "upvotes": 2440,
         "comments": 38,
         "media": {
             "type": "image",
@@ -43,7 +43,7 @@
         "author": "BlitzOrion",
         "title": "Randomized, double-blind, controlled-trial study found probiotics significantly decreased hyperactivity symptoms, improved gastrointestinal symptoms, and enhanced academic performance in adults with ADHD.",
         "content": "",
-        "upvotes": 2830,
+        "upvotes": 2845,
         "comments": 76,
         "media": {
             "type": "image",
@@ -57,7 +57,7 @@
         "title": "A drug used to manage excess copper levels could improve the odds for children battling the rare cancer, neuroblastoma from 10% to 50%, new study in mice shows",
         "content": "",
         "upvotes": 655,
-        "comments": 12,
+        "comments": 13,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/Bz-hdxCOSQnXkKPtk9QtJB86ze3r_lDAP97rr2F41vg.jpg?auto=webp&amp;s=d1677ce18632563393a5ef4edffad0b9897ab00d"
@@ -69,7 +69,7 @@
         "author": "mvea",
         "title": "Older Australians turning to cannabis as cigarette prices rise. When cigarette prices increased, cannabis use decreased in Australians under 40 years of age, with no change for people aged between 40 and 50. However, cannabis use increased among people aged over 50 when cigarette prices rose.",
         "content": "",
-        "upvotes": 189,
+        "upvotes": 192,
         "comments": 31,
         "media": {
             "type": "image",
@@ -82,7 +82,7 @@
         "author": "sciencealert",
         "title": "DNA Reveals When Humans And Neanderthals Became One |A new genetic analysis of the earliest known modern human remains found in Germany and the Czech Republic suggests emigrant Homo sapiens and Homo neanderthalensis mingled between 45,000 and 49,000 years ago - more recently than previous estimates.",
         "content": "",
-        "upvotes": 1059,
+        "upvotes": 1076,
         "comments": 33,
         "media": {
             "type": "image",
@@ -91,11 +91,21 @@
         "permalink": "/r/science/comments/1hcso81/dna_reveals_when_humans_and_neanderthals_became/"
     },
     {
+        "id": "1hd5uen",
+        "author": "calliope_kekule",
+        "title": "For the first time, researchers detect pre-malignant pancreatic lesions with magnetic resonance imaging",
+        "content": "",
+        "upvotes": 134,
+        "comments": 6,
+        "media": null,
+        "permalink": "/r/science/comments/1hd5uen/for_the_first_time_researchers_detect/"
+    },
+    {
         "id": "1hczyeg",
         "author": "mvea",
         "title": "Researchers have developed a new, efficient method of filtering even low concentrations of PFAS, forever chemicals that may cause liver damage, cancer, and hormonal disorders, out of drinking water, using metal-organic framework compounds which work much better than materials commonly used to date.",
         "content": "",
-        "upvotes": 321,
+        "upvotes": 322,
         "comments": 9,
         "media": {
             "type": "image",
@@ -104,31 +114,34 @@
         "permalink": "/r/science/comments/1hczyeg/researchers_have_developed_a_new_efficient_method/"
     },
     {
-        "id": "1hd5uen",
-        "author": "calliope_kekule",
-        "title": "For the first time, researchers detect pre-malignant pancreatic lesions with magnetic resonance imaging",
-        "content": "",
-        "upvotes": 115,
-        "comments": 5,
-        "media": null,
-        "permalink": "/r/science/comments/1hd5uen/for_the_first_time_researchers_detect/"
-    },
-    {
         "id": "1hd5x00",
         "author": "calliope_kekule",
         "title": "A new study finds overfishing has halved shark and ray populations since 1970",
         "content": "",
-        "upvotes": 44,
+        "upvotes": 51,
         "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1hd5x00/a_new_study_finds_overfishing_has_halved_shark/"
+    },
+    {
+        "id": "1hd83ia",
+        "author": "tieir2",
+        "title": "Humans may not have survived without Neanderthals. New studies show that only humans who interbred with Neanderthals went on to thrive, while other bloodlines died out.",
+        "content": "",
+        "upvotes": 23,
+        "comments": 4,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/bRDCPHEg9FtA8QOQ7ZUpsU8ZmNZSbU1i-TkVVBT5u1I.jpg?auto=webp&amp;s=41f9fb9ff37e1d601e19ef7b02502416562ea31c"
+        },
+        "permalink": "/r/science/comments/1hd83ia/humans_may_not_have_survived_without_neanderthals/"
     },
     {
         "id": "1hcip2r",
         "author": "mvea",
         "title": "Older adults who use the internet regularly report better mental health outcomes, including fewer depressive symptoms, greater life satisfaction, and improved self-reported health, according to new research across 23 countries. ",
         "content": "",
-        "upvotes": 1232,
+        "upvotes": 1237,
         "comments": 43,
         "media": {
             "type": "image",
@@ -141,8 +154,8 @@
         "author": "Wagamaga",
         "title": "Americans spend more time living with diseases than rest of world, study shows. Americans live with diseases for an average of 12.4 years. Mental and substance-use disorders, as well as musculoskeletal diseases, are main contributors to the years lived with disability in the US",
         "content": "",
-        "upvotes": 12278,
-        "comments": 292,
+        "upvotes": 12280,
+        "comments": 293,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/dNmYBWOw1LtgSVHGHa-y4N_lJOQBnkM92RN1VQgWCEQ.jpg?auto=webp&amp;s=1be6943a1caae4b287fa818b33bdbdfbc917e06b"
@@ -180,7 +193,7 @@
         "author": "Wagamaga",
         "title": "Rapid sea ice loss and ocean acidification from climate change are altering the growth and nutritional value of microscopic algae. These algae are an essential food source for fish, krill, and other small organisms that sustain larger animals such as whales, seals and penguins.",
         "content": "",
-        "upvotes": 239,
+        "upvotes": 242,
         "comments": 4,
         "media": {
             "type": "image",
@@ -193,7 +206,7 @@
         "author": "soraticat",
         "title": "Autoimmune-Like Mechanism in Heart Failure Enables Preventive Vaccine Therapy",
         "content": "",
-        "upvotes": 18,
+        "upvotes": 19,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1hd5j26/autoimmunelike_mechanism_in_heart_failure_enables/"
@@ -203,7 +216,7 @@
         "author": "johnhemingwayscience",
         "title": "Magnesium and calcium deficiencies linked to cognitive decline in seniors",
         "content": "",
-        "upvotes": 604,
+        "upvotes": 601,
         "comments": 16,
         "media": {
             "type": "image",
@@ -216,7 +229,7 @@
         "author": "Wagamaga",
         "title": "Why deep sleep is helpful for memory. The slow waves make the neocortex, the location of long-term memory, especially receptive to information. The findings could help to optimize the treatment approaches that are intended to support memory formation from outside.",
         "content": "",
-        "upvotes": 107,
+        "upvotes": 106,
         "comments": 2,
         "media": {
             "type": "image",
@@ -229,7 +242,7 @@
         "author": "mvea",
         "title": "New research suggests that the general population finds people with tattoos to be less beautiful than their clean-skinned peers, but younger people, tattoo artists and people with body art tolerate more ink, unless it's on the face. Facial tattoos received the least positive reception overall.",
         "content": "",
-        "upvotes": 4406,
+        "upvotes": 4411,
         "comments": 332,
         "media": {
             "type": "image",
@@ -238,24 +251,11 @@
         "permalink": "/r/science/comments/1hc4187/new_research_suggests_that_the_general_population/"
     },
     {
-        "id": "1hc0fos",
-        "author": "mvea",
-        "title": "Liberals generally associated censorship with misinformation, assuming it signaled that the information was harmful or false. Conservatives, in contrast, viewed censorship as evidence of valuable information being suppressed by powerful entities.",
-        "content": "",
-        "upvotes": 6662,
-        "comments": 582,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/nqWhx7jSmGAP5BiAniiko9xwYdpjW-bH6HW08Otw2ks.jpg?auto=webp&amp;s=64d8bd975799eb841b3f54e99a672826936beba1"
-        },
-        "permalink": "/r/science/comments/1hc0fos/liberals_generally_associated_censorship_with/"
-    },
-    {
         "id": "1hcunif",
         "author": "thebelsnickle1991",
         "title": "New study finds large language models are prone to social identity biases similar to the way humans are\u2014but LLMs can be trained to stem these outputs",
         "content": "",
-        "upvotes": 48,
+        "upvotes": 50,
         "comments": 11,
         "media": {
             "type": "image",
@@ -264,11 +264,24 @@
         "permalink": "/r/science/comments/1hcunif/new_study_finds_large_language_models_are_prone/"
     },
     {
+        "id": "1hc0fos",
+        "author": "mvea",
+        "title": "Liberals generally associated censorship with misinformation, assuming it signaled that the information was harmful or false. Conservatives, in contrast, viewed censorship as evidence of valuable information being suppressed by powerful entities.",
+        "content": "",
+        "upvotes": 6659,
+        "comments": 582,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/nqWhx7jSmGAP5BiAniiko9xwYdpjW-bH6HW08Otw2ks.jpg?auto=webp&amp;s=64d8bd975799eb841b3f54e99a672826936beba1"
+        },
+        "permalink": "/r/science/comments/1hc0fos/liberals_generally_associated_censorship_with/"
+    },
+    {
         "id": "1hcoeqn",
         "author": "giuliomagnifico",
         "title": "Cigarette smoking from childhood into early adulthood (10 to 24 years) is associated with an increased risk of premature cardiac injury.  This early damage to the structure and function of the heart can also significantly increase the chance of future cardiovascular (CVD) mortality in mid-life",
         "content": "",
-        "upvotes": 103,
+        "upvotes": 106,
         "comments": 6,
         "media": {
             "type": "image",
@@ -291,7 +304,7 @@
         "author": "Bioelectromagnetics",
         "title": "Researchers explored how magnetic fields affect biological processes, demonstrating measurable effects in low-frequency ranges. A simplified model suggests these effects may extend to frequencies common in human environments. ",
         "content": "",
-        "upvotes": 34,
+        "upvotes": 30,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1hcuq2j/researchers_explored_how_magnetic_fields_affect/"
@@ -301,7 +314,7 @@
         "author": "Wagamaga",
         "title": "Republicans Respond to Political Polarization by Spreading Misinformation, Democrats Don't. Research found in politically polarized situations, Republicans were significantly more willing to convey misinformation than Democrats to gain an advantage over the opposing party",
         "content": "",
-        "upvotes": 20861,
+        "upvotes": 20866,
         "comments": 1722,
         "media": {
             "type": "image",
@@ -314,7 +327,7 @@
         "author": "SnooStories6404",
         "title": "How a middle schooler found a new compound in a piece of goose poop",
         "content": "",
-        "upvotes": 29,
+        "upvotes": 30,
         "comments": 5,
         "media": null,
         "permalink": "/r/science/comments/1hctbga/how_a_middle_schooler_found_a_new_compound_in_a/"
@@ -324,7 +337,7 @@
         "author": "calliope_kekule",
         "title": "Railway sleepers produced from selected recycled plastics are just as strong and could save thousands of tons of emissions.",
         "content": "",
-        "upvotes": 233,
+        "upvotes": 228,
         "comments": 17,
         "media": {
             "type": "image",
@@ -337,7 +350,7 @@
         "author": "Wagamaga",
         "title": "Prolonged exposure to pollution contributed to millions of deaths across India over a decade, according to a new study that called for stricter air quality regulations. Research found that every 10 microgram per cubic metre increase in PM2.5 concentration led to an 8.6 percent increase in mortality",
         "content": "",
-        "upvotes": 134,
+        "upvotes": 131,
         "comments": 14,
         "media": {
             "type": "image",
@@ -350,25 +363,12 @@
         "author": "ChallengeAdept8759",
         "title": "Researchers say you shouldn\u2019t combine marijuana and Adderall. A new study finds that regular marijuana use suppresses the effects of Adderall on the brains of mice.",
         "content": "",
-        "upvotes": 986,
+        "upvotes": 987,
         "comments": 110,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/wyRdomaTWx4bGmikrCgrWEyxDawN7snfDWpBA2OTdG8.jpg?auto=webp&amp;s=40e7fb9cf4fdecc43f5fe64c6df188928be124af"
         },
         "permalink": "/r/science/comments/1hc3pkq/researchers_say_you_shouldnt_combine_marijuana/"
-    },
-    {
-        "id": "1hbv2qw",
-        "author": "chrisdh79",
-        "title": "Religious believers are no more generous than atheists \u2013 at least as long as they don\u2019t know what the recipient believes in | Finding this out increases generosity significantly, mainly because people give more to those who share their religion.",
-        "content": "",
-        "upvotes": 2654,
-        "comments": 105,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/LVS4LJrJ0R3_ULgfyAd2JPTnB8rt53_aWdVzZ1LHYr4.jpg?auto=webp&amp;s=d36f9bd7010fc619b1d4b2a14d8608797ca27a02"
-        },
-        "permalink": "/r/science/comments/1hbv2qw/religious_believers_are_no_more_generous_than/"
     }
 ]
