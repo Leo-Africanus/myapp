@@ -4,8 +4,8 @@
         "author": "mvea",
         "title": "Study found 34% of couples follow \u201cmale breadwinner\u201d pattern but only 5% \u201cfemale breadwinner\u201d. Male breadwinner pattern was most common among couples with lower socio-economic status, while female breadwinner arose when wives entered marriage with higher earnings and education levels than husbands.",
         "content": "",
-        "upvotes": 1720,
-        "comments": 115,
+        "upvotes": 1791,
+        "comments": 121,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/rFOMrQVmPgpkOh02hkHu20B13lPnhaE4Rq4oLJM0G4A.jpg?auto=webp&amp;s=a58f9abdfa0465f3e0de0dbc31c25434f1c65511"
@@ -17,7 +17,7 @@
         "author": "Cakalusa",
         "title": "Drinking Coffee Every Day Could Add Up to 2 Years to Your Life",
         "content": "",
-        "upvotes": 4545,
+        "upvotes": 4567,
         "comments": 518,
         "media": null,
         "permalink": "/r/science/comments/1hr9lma/drinking_coffee_every_day_could_add_up_to_2_years/"
@@ -27,7 +27,7 @@
         "author": "mvea",
         "title": "Depressive symptoms may be transmitted from mother to child via early interactions. Mothers with depressive symptoms display fewer supportive responses to infants\u2019 positive emotions. In turn, infants who receive fewer supportive responses are more likely to exhibit depressive symptoms as toddlers.",
         "content": "",
-        "upvotes": 1920,
+        "upvotes": 1931,
         "comments": 22,
         "media": {
             "type": "image",
@@ -40,8 +40,8 @@
         "author": "inde_",
         "title": "Delaying post-exercise carbohydrate intake impairs next-day exercise capacity but not muscle glycogen or molecular responses",
         "content": "",
-        "upvotes": 1025,
-        "comments": 34,
+        "upvotes": 1031,
+        "comments": 35,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/p32Ww4GU62z6l5Nfp9ZpOxvy4pKSJkxrF_66z-Sg0y8.jpg?auto=webp&amp;s=2b3087a881fc8f5e38c6da392ea6ad7c3d4b9c8d"
@@ -53,7 +53,7 @@
         "author": "Stangmeister",
         "title": "Partisan Americans are willing to electorally reward co-partisan Presidents and Governors who say they will disregard Supreme Court decisions their party does not like. ",
         "content": "",
-        "upvotes": 1682,
+        "upvotes": 1693,
         "comments": 149,
         "media": {
             "type": "image",
@@ -66,7 +66,7 @@
         "author": "FunnyGamer97",
         "title": "Study traces Ebola's route to the skin surface: Findings suggest a cellular route the virus uses to traverse the inner and outer layers of skin and emerge onto the skin\u2019s surface, which may be one avenue for person-to-person transmission",
         "content": "",
-        "upvotes": 291,
+        "upvotes": 294,
         "comments": 4,
         "media": null,
         "permalink": "/r/science/comments/1hrexri/study_traces_ebolas_route_to_the_skin_surface/"
@@ -76,7 +76,7 @@
         "author": "FunnyGamer97",
         "title": "Aging may change some brain cells more than others | Some cells, such as a small group of hormone-controlling cells, may undergo more age-related changes in genetic activity than others",
         "content": "",
-        "upvotes": 149,
+        "upvotes": 147,
         "comments": 1,
         "media": {
             "type": "image",
@@ -89,7 +89,7 @@
         "author": "giuliomagnifico",
         "title": "A study on nearly 7 million individuals from Northern Europe found that being born preterm may increase the risk of death from external causes. Males had a higher overall death rate, while females born very/moderately preterm had a much higher (80%) risk of suicide",
         "content": "",
-        "upvotes": 797,
+        "upvotes": 801,
         "comments": 14,
         "media": {
             "type": "image",
@@ -98,11 +98,21 @@
         "permalink": "/r/science/comments/1hr5bk5/a_study_on_nearly_7_million_individuals_from/"
     },
     {
+        "id": "1hrn75m",
+        "author": "calliope_kekule",
+        "title": "A new study reveals that mosquitoes with impaired smell compensate by detecting human body heat using leg sensors. This adaptation helps them stay efficient in seeking humans.\n",
+        "content": "",
+        "upvotes": 46,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1hrn75m/a_new_study_reveals_that_mosquitoes_with_impaired/"
+    },
+    {
         "id": "1hqsd3v",
         "author": "the_noise_we_made",
         "title": "Common Plastic Additives May Have Affected The Health of Millions",
         "content": "",
-        "upvotes": 11373,
+        "upvotes": 11374,
         "comments": 719,
         "media": {
             "type": "image",
@@ -111,21 +121,11 @@
         "permalink": "/r/science/comments/1hqsd3v/common_plastic_additives_may_have_affected_the/"
     },
     {
-        "id": "1hrn75m",
-        "author": "calliope_kekule",
-        "title": "A new study reveals that mosquitoes with impaired smell compensate by detecting human body heat using leg sensors. This adaptation helps them stay efficient in seeking humans.\n",
-        "content": "",
-        "upvotes": 40,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1hrn75m/a_new_study_reveals_that_mosquitoes_with_impaired/"
-    },
-    {
         "id": "1hr5ti4",
         "author": "giuliomagnifico",
         "title": "A study found that smartwatches, equipped with a newly developed app by researchers, can help in quitting smoking. The app uses sensors to detect typical smoking hand movements and sends a relapse prevention message",
         "content": "",
-        "upvotes": 499,
+        "upvotes": 503,
         "comments": 21,
         "media": {
             "type": "image",
@@ -138,27 +138,17 @@
         "author": "Wagamaga",
         "title": "Ancient DNA unlocks new understanding of migrations in the first millennium AD. Twigstats allows us to see what we couldn\u2019t before, in this case migrations all across Europe originating in the north of Europe in the Iron Age, and then back into Scandinavia before the Viking Age",
         "content": "",
-        "upvotes": 186,
+        "upvotes": 194,
         "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1hr97mv/ancient_dna_unlocks_new_understanding_of/"
-    },
-    {
-        "id": "1hrgzez",
-        "author": "FunnyGamer97",
-        "title": "Study finds smoking linked to increased risk of chronic kidney disease in later stages: Previously observed associations in observational studies might be influenced by confounding factors, factors such as diabetes and hypertension may act as mediators in the relationship between smoking and CKD\u200b.",
-        "content": "",
-        "upvotes": 55,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/science/comments/1hrgzez/study_finds_smoking_linked_to_increased_risk_of/"
     },
     {
         "id": "1hqzeud",
         "author": "mvea",
         "title": "The ability to care for another without regard for yourself is a key component of good relationships. A new study shows willingness to care for others stems from the earliest relationships in the home. By understanding origins of your own compassionate love, you gain insight into your relationships.",
         "content": "",
-        "upvotes": 994,
+        "upvotes": 997,
         "comments": 22,
         "media": {
             "type": "image",
@@ -167,11 +157,21 @@
         "permalink": "/r/science/comments/1hqzeud/the_ability_to_care_for_another_without_regard/"
     },
     {
+        "id": "1hrgzez",
+        "author": "FunnyGamer97",
+        "title": "Study finds smoking linked to increased risk of chronic kidney disease in later stages: Previously observed associations in observational studies might be influenced by confounding factors, factors such as diabetes and hypertension may act as mediators in the relationship between smoking and CKD\u200b.",
+        "content": "",
+        "upvotes": 59,
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/science/comments/1hrgzez/study_finds_smoking_linked_to_increased_risk_of/"
+    },
+    {
         "id": "1hqi9mj",
         "author": "smurfyjenkins",
         "title": "The Soviet Union sent millions of its educated elites to gulags across the USSR because they were considered a threat to the regime. Areas near camps that held a greater share of these elites are today far more prosperous, showing how human capital affects long-term economic growth.",
         "content": "",
-        "upvotes": 17585,
+        "upvotes": 17596,
         "comments": 585,
         "media": null,
         "permalink": "/r/science/comments/1hqi9mj/the_soviet_union_sent_millions_of_its_educated/"
@@ -181,7 +181,7 @@
         "author": "D-R-AZ",
         "title": "Fossil amphibian offers insights into the interplay between monsoons and amphibian evolution in palaeoequatorial Late Triassic systems..",
         "content": "",
-        "upvotes": 20,
+        "upvotes": 17,
         "comments": 4,
         "media": null,
         "permalink": "/r/science/comments/1hrcuhj/fossil_amphibian_offers_insights_into_the/"
@@ -191,7 +191,7 @@
         "author": "DIO-2350",
         "title": "Prussian Blue Embedded Carbon Thermoplastic Electrodes Crafted by Pre-Modification of 3D Printable Filaments. ",
         "content": "",
-        "upvotes": 7,
+        "upvotes": 4,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1hrku2q/prussian_blue_embedded_carbon_thermoplastic/"
@@ -201,7 +201,7 @@
         "author": "mvea",
         "title": "Conservatives, it has been argued, are more sensitive to negative stimuli, which predisposes them to favor policies emphasizing stability and protection. However, a replication study failed to reproduce this. It found this relationship reached statistical significance in the US but not Netherlands.",
         "content": "",
-        "upvotes": 1957,
+        "upvotes": 1967,
         "comments": 128,
         "media": {
             "type": "image",
@@ -214,7 +214,7 @@
         "author": "Chanson_Riders",
         "title": "Impacts of management practices on habitat selection during juvenile mountain lion dispersal",
         "content": "",
-        "upvotes": 16,
+        "upvotes": 15,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1hrcfif/impacts_of_management_practices_on_habitat/"
@@ -234,8 +234,8 @@
         "author": "Wagamaga",
         "title": "Dark personality traits and love styles differ in partnered and single individuals. Additionally, partnered individuals tend to favor passionate and altruistic love styles, while singles gravitate toward more playful, obsessive, and pragmatic attitudes",
         "content": "",
-        "upvotes": 1,
-        "comments": 1,
+        "upvotes": 0,
+        "comments": 2,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/7TSNfgcm8K6Bko45Tbll94zZWDilRKJZovsGuE47or4.jpg?auto=webp&amp;s=179786573cf289e04277114e3224d208a6961f96"
@@ -247,7 +247,7 @@
         "author": "smurfyjenkins",
         "title": "A 2010 law in France that led to forcible mergers of municipalities resulted in an annual 12.5 percent increase in building permits. The reason is that the mergers reduced the power of NIMBYs to block housing construction.",
         "content": "",
-        "upvotes": 1197,
+        "upvotes": 1202,
         "comments": 34,
         "media": null,
         "permalink": "/r/science/comments/1hqjw2s/a_2010_law_in_france_that_led_to_forcible_mergers/"
@@ -257,7 +257,7 @@
         "author": "giuliomagnifico",
         "title": "Children and adolescents aged 2 to 17 who spend five or more hours daily watching television or videos have more than double the risk of vitamin D deficiency compared to those with two hours or less of screen time",
         "content": "",
-        "upvotes": 1245,
+        "upvotes": 1252,
         "comments": 68,
         "media": {
             "type": "image",
@@ -283,7 +283,7 @@
         "author": "calliope_kekule",
         "title": "A study reveals patients in Germany with post-COVID-19 face inconsistent care, with GPs reporting challenges in diagnosis and treatment. High caregiver burden and economic costs highlight gaps in support and services. \n",
         "content": "",
-        "upvotes": 80,
+        "upvotes": 79,
         "comments": 4,
         "media": {
             "type": "image",
@@ -306,7 +306,7 @@
         "author": "Science_News",
         "title": "American burying beetles, which clean up dead animals in their ecosystem, are making a comeback in Nebraska",
         "content": "",
-        "upvotes": 916,
+        "upvotes": 922,
         "comments": 15,
         "media": {
             "type": "image",
@@ -319,7 +319,7 @@
         "author": "giuliomagnifico",
         "title": "Researchers have created lab-grown neurons in a network that exhibit plasticity and can be reconfigured through repetitive stimulation using microfluidic devices, similar to animal nervous systems, providing new tools for studying learning and memory",
         "content": "",
-        "upvotes": 340,
+        "upvotes": 338,
         "comments": 7,
         "media": {
             "type": "image",
@@ -332,7 +332,7 @@
         "author": "MistWeaver80",
         "title": "Quantum uncertainty and wave\u2013particle duality are equivalent, experiment shows.",
         "content": "",
-        "upvotes": 373,
+        "upvotes": 378,
         "comments": 16,
         "media": {
             "type": "image",
@@ -345,7 +345,7 @@
         "author": "mvea",
         "title": "American parents more likely to find hitting children acceptable compared to hitting pets - New research highlights parents\u2019 conflicted views on spanking. ",
         "content": "",
-        "upvotes": 10645,
+        "upvotes": 10646,
         "comments": 1288,
         "media": {
             "type": "image",
