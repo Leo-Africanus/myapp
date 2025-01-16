@@ -4,8 +4,8 @@
         "author": "a_Ninja_b0y",
         "title": "New Research suggests that male victimhood ideology among South Korean men is driven more by perceived socioeconomic status decline rather than objective economic hardship.",
         "content": "",
-        "upvotes": 3317,
-        "comments": 338,
+        "upvotes": 3348,
+        "comments": 340,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/581U7fN2Y8Cmt44Vp88UDAfvkNSwpjDVo4IlHoeAqzE.jpg?auto=webp&amp;s=0e348773037c87a2d8358b520c1e44d70a4dd761"
@@ -17,7 +17,7 @@
         "author": "mvea",
         "title": "A new study suggests that Russian attacks on Ukrainian medical facilities in Mariupol are not random but instead may have been the result of intentional targeting. 77% of medical facilities in Mariupol sustained damage during Russia\u2019s siege and facility size was not associated with damage.",
         "content": "",
-        "upvotes": 655,
+        "upvotes": 672,
         "comments": 29,
         "media": {
             "type": "image",
@@ -30,8 +30,8 @@
         "author": "smurfyjenkins",
         "title": "In the 2010s, a municipality in the Wellington metropolitan area in New Zealand upzoned 80% of its residential land to allow medium- and high-density housing. It led to a substantial increase in housing supply and a 21% reduction in rents relative to similar municipalities.",
         "content": "",
-        "upvotes": 217,
-        "comments": 27,
+        "upvotes": 237,
+        "comments": 31,
         "media": null,
         "permalink": "/r/science/comments/1i2i6u2/in_the_2010s_a_municipality_in_the_wellington/"
     },
@@ -40,7 +40,7 @@
         "author": "sciencealert",
         "title": "Octopus Arms Are Controlled by a Nervous System That's Segmented Like No Other, Scientists Find",
         "content": "",
-        "upvotes": 1657,
+        "upvotes": 1676,
         "comments": 34,
         "media": {
             "type": "image",
@@ -53,8 +53,8 @@
         "author": "BlitzOrion",
         "title": "Nearly two centuries of data show that immigrants commit fewer crimes than US-born citizens, study finds.",
         "content": "",
-        "upvotes": 22876,
-        "comments": 1184,
+        "upvotes": 22902,
+        "comments": 1185,
         "media": null,
         "permalink": "/r/science/comments/1i1s1v0/nearly_two_centuries_of_data_show_that_immigrants/"
     },
@@ -63,8 +63,8 @@
         "author": "mvea",
         "title": "Fossil fuel industries tweeting together for \u2018climate obstruction\u2019 - Fossil fuel energy, plastics, and agrichemical companies are networking on social media for \u2018climate delay and denial.\u2019 Their tweets presented environmental \u2018solutions\u2019 and highlighted the \u2018unbearable weight of regulatory burdens\u2019.",
         "content": "",
-        "upvotes": 807,
-        "comments": 13,
+        "upvotes": 825,
+        "comments": 16,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/gKJUcEjyKUe_jsVF_C0LHcquiifrLACH8W3aMOs-cVk.jpg?auto=webp&amp;s=7f607a14d776dc1233d2028c6748a43ebf0e67f8"
@@ -76,7 +76,7 @@
         "author": "thebelsnickle1991",
         "title": "Focused ultrasound shows promise in treating Alzheimer\u2019s by reducing amyloid plaques",
         "content": "",
-        "upvotes": 85,
+        "upvotes": 106,
         "comments": 3,
         "media": {
             "type": "image",
@@ -85,11 +85,21 @@
         "permalink": "/r/science/comments/1i2jcad/focused_ultrasound_shows_promise_in_treating/"
     },
     {
+        "id": "1i2cd5w",
+        "author": "smurfyjenkins",
+        "title": "The partisanship of mayors in the US has no detectable effect on police spending, police employment, crime, or arrests \u2013 This conflicts with a common narrative on the right that Democrat-run cities are rampant with crime and characterized by \u201csoft-on-crime\u201d policies.",
+        "content": "",
+        "upvotes": 268,
+        "comments": 10,
+        "media": null,
+        "permalink": "/r/science/comments/1i2cd5w/the_partisanship_of_mayors_in_the_us_has_no/"
+    },
+    {
         "id": "1i1v458",
         "author": "mvea",
         "title": "A new study found that PFAS (forever chemicals) in drinking water was associated with cancers in the organ system including the oral cavity/pharynx, lung, digestive system, brain, urinary system, soft tissue, and thyroid.",
         "content": "",
-        "upvotes": 3135,
+        "upvotes": 3149,
         "comments": 189,
         "media": {
             "type": "image",
@@ -98,21 +108,11 @@
         "permalink": "/r/science/comments/1i1v458/a_new_study_found_that_pfas_forever_chemicals_in/"
     },
     {
-        "id": "1i2cd5w",
-        "author": "smurfyjenkins",
-        "title": "The partisanship of mayors in the US has no detectable effect on police spending, police employment, crime, or arrests \u2013 This conflicts with a common narrative on the right that Democrat-run cities are rampant with crime and characterized by \u201csoft-on-crime\u201d policies.",
-        "content": "",
-        "upvotes": 262,
-        "comments": 10,
-        "media": null,
-        "permalink": "/r/science/comments/1i2cd5w/the_partisanship_of_mayors_in_the_us_has_no/"
-    },
-    {
         "id": "1i24whw",
         "author": "MassGen-Research",
         "title": "Study Finding Xenon Gas Could Protect Against Alzheimer\u2019s Disease Leads to Start of Clinical Trial",
         "content": "",
-        "upvotes": 530,
+        "upvotes": 529,
         "comments": 48,
         "media": null,
         "permalink": "/r/science/comments/1i24whw/study_finding_xenon_gas_could_protect_against/"
@@ -122,7 +122,7 @@
         "author": "FunnyGamer97",
         "title": "Disability often neglected in medical school curricula, study finds: Disability is often neglected in medical education curricula, being framed as a \u201cproblem\u201d within an individual, according to participants surveyed",
         "content": "",
-        "upvotes": 176,
+        "upvotes": 175,
         "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1i2ceo6/disability_often_neglected_in_medical_school/"
@@ -132,7 +132,7 @@
         "author": "Wagamaga",
         "title": "Research found more than 97 million U.S. residents are served by U.S. public water systems (PWSs) with detectable levels of contaminants, and disparities related to race, ethnicity, and socioeconomic status are apparent,",
         "content": "",
-        "upvotes": 358,
+        "upvotes": 364,
         "comments": 14,
         "media": {
             "type": "image",
@@ -141,12 +141,25 @@
         "permalink": "/r/science/comments/1i258z3/research_found_more_than_97_million_us_residents/"
     },
     {
+        "id": "1i23urk",
+        "author": "NGNResearch",
+        "title": "Music with \u201crapid modulations\u201d (think an electronic instrumental piece with heavy bass and climbing synthesizer scales) can improve focus for people with ADHD",
+        "content": "",
+        "upvotes": 268,
+        "comments": 75,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/BwBV0VwznSOsrJZTmkHvstIwmLcxdN2sWaKHINuXJlw.jpg?auto=webp&amp;s=f900a428b6ec762eebcdfe70905dcbbe15a84cab"
+        },
+        "permalink": "/r/science/comments/1i23urk/music_with_rapid_modulations_think_an_electronic/"
+    },
+    {
         "id": "1i22sch",
         "author": "Wagamaga",
         "title": " COVID-19 Infection associated with nearly eightfold increase in Chronic Fatigue Syndrome. New incident cases of ME/CFS are 15 times higher than pre-pandemic levels. Findings highlight the urgent need for healthcare providers to recognize and address ME/CFS as a diagnosable and treatable condition ",
         "content": "",
-        "upvotes": 309,
-        "comments": 9,
+        "upvotes": 306,
+        "comments": 12,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/-oCoBZS8cVBGD1Ojbg6oL-5V72nG7VzqW0KFrFVSgd0.jpg?auto=webp&amp;s=326f2cd5e8af01a1b7f3db863ae2e512b334f49a"
@@ -158,7 +171,7 @@
         "author": "chrisdh79",
         "title": "A neuroimaging study of torture survivors found a decreased connectivity in brain networks associated with response inhibition, attention, and motor function | This effect may be specifically linked to the dysphoria symptoms of posttraumatic stress disorder (PTSD).",
         "content": "",
-        "upvotes": 609,
+        "upvotes": 605,
         "comments": 10,
         "media": {
             "type": "image",
@@ -167,24 +180,11 @@
         "permalink": "/r/science/comments/1i1xpsj/a_neuroimaging_study_of_torture_survivors_found_a/"
     },
     {
-        "id": "1i23urk",
-        "author": "NGNResearch",
-        "title": "Music with \u201crapid modulations\u201d (think an electronic instrumental piece with heavy bass and climbing synthesizer scales) can improve focus for people with ADHD",
-        "content": "",
-        "upvotes": 261,
-        "comments": 75,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/BwBV0VwznSOsrJZTmkHvstIwmLcxdN2sWaKHINuXJlw.jpg?auto=webp&amp;s=f900a428b6ec762eebcdfe70905dcbbe15a84cab"
-        },
-        "permalink": "/r/science/comments/1i23urk/music_with_rapid_modulations_think_an_electronic/"
-    },
-    {
         "id": "1i1ji1k",
         "author": "mvea",
         "title": "The link between physical strength and sexual behavior is not just in men. Women, as well as men, who had greater upper body strength tended to have more lifetime sexual partners compared to their peers. Men with greater upper body strength were also more likely to to be in long-term relationships.",
         "content": "",
-        "upvotes": 3832,
+        "upvotes": 3826,
         "comments": 191,
         "media": null,
         "permalink": "/r/science/comments/1i1ji1k/the_link_between_physical_strength_and_sexual/"
@@ -204,7 +204,7 @@
         "author": "thebelsnickle1991",
         "title": "Ancient Roman rule continues to shape personality and well-being in Germany, study suggests",
         "content": "",
-        "upvotes": 326,
+        "upvotes": 323,
         "comments": 20,
         "media": {
             "type": "image",
@@ -217,7 +217,7 @@
         "author": "Wagamaga",
         "title": "As little as ten minutes of mindfulness meditation each day can significantly reduce work stress. After the eight week digital course, all measures of work stress including burnout, depression, and anxiety were reduced. Improvements were also seen in work engagement",
         "content": "",
-        "upvotes": 546,
+        "upvotes": 555,
         "comments": 60,
         "media": null,
         "permalink": "/r/science/comments/1i1st2p/as_little_as_ten_minutes_of_mindfulness/"
@@ -227,7 +227,7 @@
         "author": "chrisdh79",
         "title": "Waking up does not activate an increase in the release of the stress hormone cortisol, a new study finds | Cortisol does, however, increase in the hours prior to wakening as part of the body\u2019s preparation for the next day.",
         "content": "",
-        "upvotes": 241,
+        "upvotes": 250,
         "comments": 12,
         "media": {
             "type": "image",
@@ -240,7 +240,7 @@
         "author": "mvea",
         "title": "Humility reduces anger and promotes more benign interpretations of conflict. The new study demonstrated that intellectually humble individuals were more open to understanding differing perspectives, which may help explain their reduced anger and hostility.",
         "content": "",
-        "upvotes": 3629,
+        "upvotes": 3623,
         "comments": 59,
         "media": {
             "type": "image",
@@ -253,7 +253,7 @@
         "author": "MistWeaver80",
         "title": "Women were at the centre of social networks in Iron Age Britain. Evidence from 2,000-year-old DNA reveals that women in Celtic society stayed in their ancestral communities after marriage (i.e, matrilocal arrangement), whereas men were mobile. ",
         "content": "",
-        "upvotes": 67,
+        "upvotes": 70,
         "comments": 4,
         "media": {
             "type": "image",
@@ -276,7 +276,7 @@
         "author": "OregonTripleBeam",
         "title": "A study found that a cannabidiol-based nutritional supplement \"is effective in ameliorating osteoarthritis in dogs, improving their quality of life.\"",
         "content": "",
-        "upvotes": 76,
+        "upvotes": 73,
         "comments": 5,
         "media": {
             "type": "image",
@@ -289,7 +289,7 @@
         "author": "Science_News",
         "title": "Lethal snake venom may be countered by new AI-designed proteins ",
         "content": "",
-        "upvotes": 24,
+        "upvotes": 31,
         "comments": 4,
         "media": {
             "type": "image",
@@ -302,7 +302,7 @@
         "author": "MistWeaver80",
         "title": "Scientists who study harms caused by tobacco, alcohol and ultra-processed foods can face cyberattacks, lawsuits, surveillance and physical violence, a study finds. Many are labelled extremists, fascists, zealots and prohibitionists, it adds.",
         "content": "",
-        "upvotes": 2052,
+        "upvotes": 2053,
         "comments": 52,
         "media": {
             "type": "image",
@@ -315,7 +315,7 @@
         "author": "YaleE360",
         "title": "Trees That Have Never Known Plentiful Rainfall Better Prepared for Drought",
         "content": "",
-        "upvotes": 45,
+        "upvotes": 46,
         "comments": 17,
         "media": null,
         "permalink": "/r/science/comments/1i20ayg/trees_that_have_never_known_plentiful_rainfall/"
@@ -325,7 +325,7 @@
         "author": "reedplayer",
         "title": "Zebra finches can hear pitch (fundamental frequency) \u2014\u00a0but in a very limited fashion, such that they are much more sensitive to pitch in songs they learned from their 'tutor bird' and much less so from other conspecifics. This is strikingly different to how humans hear pitch.",
         "content": "",
-        "upvotes": 5,
+        "upvotes": 7,
         "comments": 3,
         "media": {
             "type": "image",
@@ -338,7 +338,7 @@
         "author": "UGACollegeOfAg",
         "title": "CAES scientists discover how cyst nematodes attack crops",
         "content": "",
-        "upvotes": 25,
+        "upvotes": 27,
         "comments": 1,
         "media": {
             "type": "image",
@@ -351,7 +351,7 @@
         "author": "giuliomagnifico",
         "title": "Researchers have identified the mechanism that regulates how the body burns brown fat and converts it into heat. This mechanism protects against obesity and related metabolic diseases. When the MCJ protein is removed from obese mice, they produce more heat and lose weight",
         "content": "",
-        "upvotes": 3234,
+        "upvotes": 3232,
         "comments": 113,
         "media": {
             "type": "image",
