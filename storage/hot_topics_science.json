@@ -4,8 +4,8 @@
         "author": "a_Ninja_b0y",
         "title": "New Research suggests that male victimhood ideology among South Korean men is driven more by perceived socioeconomic status decline rather than objective economic hardship.",
         "content": "",
-        "upvotes": 3380,
-        "comments": 342,
+        "upvotes": 3420,
+        "comments": 345,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/581U7fN2Y8Cmt44Vp88UDAfvkNSwpjDVo4IlHoeAqzE.jpg?auto=webp&amp;s=0e348773037c87a2d8358b520c1e44d70a4dd761"
@@ -13,11 +13,21 @@
         "permalink": "/r/science/comments/1i23mu2/new_research_suggests_that_male_victimhood/"
     },
     {
+        "id": "1i2i6u2",
+        "author": "smurfyjenkins",
+        "title": "In the 2010s, a municipality in the Wellington metropolitan area in New Zealand upzoned 80% of its residential land to allow medium- and high-density housing. It led to a substantial increase in housing supply and a 21% reduction in rents relative to similar municipalities.",
+        "content": "",
+        "upvotes": 275,
+        "comments": 37,
+        "media": null,
+        "permalink": "/r/science/comments/1i2i6u2/in_the_2010s_a_municipality_in_the_wellington/"
+    },
+    {
         "id": "1i2by01",
         "author": "mvea",
         "title": "A new study suggests that Russian attacks on Ukrainian medical facilities in Mariupol are not random but instead may have been the result of intentional targeting. 77% of medical facilities in Mariupol sustained damage during Russia\u2019s siege and facility size was not associated with damage.",
         "content": "",
-        "upvotes": 688,
+        "upvotes": 707,
         "comments": 29,
         "media": {
             "type": "image",
@@ -26,22 +36,12 @@
         "permalink": "/r/science/comments/1i2by01/a_new_study_suggests_that_russian_attacks_on/"
     },
     {
-        "id": "1i2i6u2",
-        "author": "smurfyjenkins",
-        "title": "In the 2010s, a municipality in the Wellington metropolitan area in New Zealand upzoned 80% of its residential land to allow medium- and high-density housing. It led to a substantial increase in housing supply and a 21% reduction in rents relative to similar municipalities.",
-        "content": "",
-        "upvotes": 247,
-        "comments": 34,
-        "media": null,
-        "permalink": "/r/science/comments/1i2i6u2/in_the_2010s_a_municipality_in_the_wellington/"
-    },
-    {
         "id": "1i23t01",
         "author": "sciencealert",
         "title": "Octopus Arms Are Controlled by a Nervous System That's Segmented Like No Other, Scientists Find",
         "content": "",
-        "upvotes": 1685,
-        "comments": 34,
+        "upvotes": 1719,
+        "comments": 35,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/BQ8fBoRJUkAyWRsWGofEIX8mJai29SJS_FJxj3U8AFs.jpg?auto=webp&amp;s=a8ea48199762080446a0838ba3acb334065d6706"
@@ -49,34 +49,11 @@
         "permalink": "/r/science/comments/1i23t01/octopus_arms_are_controlled_by_a_nervous_system/"
     },
     {
-        "id": "1i1s1v0",
-        "author": "BlitzOrion",
-        "title": "Nearly two centuries of data show that immigrants commit fewer crimes than US-born citizens, study finds.",
-        "content": "",
-        "upvotes": 22917,
-        "comments": 1186,
-        "media": null,
-        "permalink": "/r/science/comments/1i1s1v0/nearly_two_centuries_of_data_show_that_immigrants/"
-    },
-    {
-        "id": "1i27s13",
-        "author": "mvea",
-        "title": "Fossil fuel industries tweeting together for \u2018climate obstruction\u2019 - Fossil fuel energy, plastics, and agrichemical companies are networking on social media for \u2018climate delay and denial.\u2019 Their tweets presented environmental \u2018solutions\u2019 and highlighted the \u2018unbearable weight of regulatory burdens\u2019.",
-        "content": "",
-        "upvotes": 831,
-        "comments": 16,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/gKJUcEjyKUe_jsVF_C0LHcquiifrLACH8W3aMOs-cVk.jpg?auto=webp&amp;s=7f607a14d776dc1233d2028c6748a43ebf0e67f8"
-        },
-        "permalink": "/r/science/comments/1i27s13/fossil_fuel_industries_tweeting_together_for/"
-    },
-    {
         "id": "1i2jcad",
         "author": "thebelsnickle1991",
         "title": "Focused ultrasound shows promise in treating Alzheimer\u2019s by reducing amyloid plaques",
         "content": "",
-        "upvotes": 120,
+        "upvotes": 138,
         "comments": 3,
         "media": {
             "type": "image",
@@ -85,12 +62,35 @@
         "permalink": "/r/science/comments/1i2jcad/focused_ultrasound_shows_promise_in_treating/"
     },
     {
+        "id": "1i1s1v0",
+        "author": "BlitzOrion",
+        "title": "Nearly two centuries of data show that immigrants commit fewer crimes than US-born citizens, study finds.",
+        "content": "",
+        "upvotes": 22947,
+        "comments": 1188,
+        "media": null,
+        "permalink": "/r/science/comments/1i1s1v0/nearly_two_centuries_of_data_show_that_immigrants/"
+    },
+    {
+        "id": "1i27s13",
+        "author": "mvea",
+        "title": "Fossil fuel industries tweeting together for \u2018climate obstruction\u2019 - Fossil fuel energy, plastics, and agrichemical companies are networking on social media for \u2018climate delay and denial.\u2019 Their tweets presented environmental \u2018solutions\u2019 and highlighted the \u2018unbearable weight of regulatory burdens\u2019.",
+        "content": "",
+        "upvotes": 839,
+        "comments": 16,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/gKJUcEjyKUe_jsVF_C0LHcquiifrLACH8W3aMOs-cVk.jpg?auto=webp&amp;s=7f607a14d776dc1233d2028c6748a43ebf0e67f8"
+        },
+        "permalink": "/r/science/comments/1i27s13/fossil_fuel_industries_tweeting_together_for/"
+    },
+    {
         "id": "1i2cd5w",
         "author": "smurfyjenkins",
         "title": "The partisanship of mayors in the US has no detectable effect on police spending, police employment, crime, or arrests \u2013 This conflicts with a common narrative on the right that Democrat-run cities are rampant with crime and characterized by \u201csoft-on-crime\u201d policies.",
         "content": "",
-        "upvotes": 265,
-        "comments": 10,
+        "upvotes": 273,
+        "comments": 11,
         "media": null,
         "permalink": "/r/science/comments/1i2cd5w/the_partisanship_of_mayors_in_the_us_has_no/"
     },
@@ -99,8 +99,8 @@
         "author": "mvea",
         "title": "A new study found that PFAS (forever chemicals) in drinking water was associated with cancers in the organ system including the oral cavity/pharynx, lung, digestive system, brain, urinary system, soft tissue, and thyroid.",
         "content": "",
-        "upvotes": 3164,
-        "comments": 189,
+        "upvotes": 3174,
+        "comments": 190,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/olMm0Rlf36REmu09DL0fLFYlQsb_PjQfTCYMANK6ojY.jpg?auto=webp&amp;s=16b01f2343e58f43c388a78c7a149a1ac619156f"
@@ -112,7 +112,7 @@
         "author": "MassGen-Research",
         "title": "Study Finding Xenon Gas Could Protect Against Alzheimer\u2019s Disease Leads to Start of Clinical Trial",
         "content": "",
-        "upvotes": 530,
+        "upvotes": 541,
         "comments": 48,
         "media": null,
         "permalink": "/r/science/comments/1i24whw/study_finding_xenon_gas_could_protect_against/"
@@ -122,7 +122,7 @@
         "author": "FunnyGamer97",
         "title": "Disability often neglected in medical school curricula, study finds: Disability is often neglected in medical education curricula, being framed as a \u201cproblem\u201d within an individual, according to participants surveyed",
         "content": "",
-        "upvotes": 179,
+        "upvotes": 181,
         "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1i2ceo6/disability_often_neglected_in_medical_school/"
@@ -132,7 +132,7 @@
         "author": "Wagamaga",
         "title": "Research found more than 97 million U.S. residents are served by U.S. public water systems (PWSs) with detectable levels of contaminants, and disparities related to race, ethnicity, and socioeconomic status are apparent,",
         "content": "",
-        "upvotes": 366,
+        "upvotes": 359,
         "comments": 14,
         "media": {
             "type": "image",
@@ -145,8 +145,8 @@
         "author": "NGNResearch",
         "title": "Music with \u201crapid modulations\u201d (think an electronic instrumental piece with heavy bass and climbing synthesizer scales) can improve focus for people with ADHD",
         "content": "",
-        "upvotes": 275,
-        "comments": 76,
+        "upvotes": 278,
+        "comments": 77,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/BwBV0VwznSOsrJZTmkHvstIwmLcxdN2sWaKHINuXJlw.jpg?auto=webp&amp;s=f900a428b6ec762eebcdfe70905dcbbe15a84cab"
@@ -171,7 +171,7 @@
         "author": "chrisdh79",
         "title": "A neuroimaging study of torture survivors found a decreased connectivity in brain networks associated with response inhibition, attention, and motor function | This effect may be specifically linked to the dysphoria symptoms of posttraumatic stress disorder (PTSD).",
         "content": "",
-        "upvotes": 609,
+        "upvotes": 614,
         "comments": 10,
         "media": {
             "type": "image",
@@ -184,7 +184,7 @@
         "author": "mvea",
         "title": "The link between physical strength and sexual behavior is not just in men. Women, as well as men, who had greater upper body strength tended to have more lifetime sexual partners compared to their peers. Men with greater upper body strength were also more likely to to be in long-term relationships.",
         "content": "",
-        "upvotes": 3835,
+        "upvotes": 3838,
         "comments": 192,
         "media": null,
         "permalink": "/r/science/comments/1i1ji1k/the_link_between_physical_strength_and_sexual/"
@@ -194,8 +194,8 @@
         "author": "FunnyGamer97",
         "title": "UK needs a national strategy to tackle harms of alcohol, research finds: Deaths from alcohol specific causes in England rose by 42% between 2019 and 2023, the highest number on record, most of them from alcohol related liver disease.",
         "content": "",
-        "upvotes": 35,
-        "comments": 3,
+        "upvotes": 37,
+        "comments": 4,
         "media": null,
         "permalink": "/r/science/comments/1i2bm8b/uk_needs_a_national_strategy_to_tackle_harms_of/"
     },
@@ -204,7 +204,7 @@
         "author": "thebelsnickle1991",
         "title": "Ancient Roman rule continues to shape personality and well-being in Germany, study suggests",
         "content": "",
-        "upvotes": 326,
+        "upvotes": 323,
         "comments": 20,
         "media": {
             "type": "image",
@@ -213,11 +213,21 @@
         "permalink": "/r/science/comments/1i1vu1p/ancient_roman_rule_continues_to_shape_personality/"
     },
     {
+        "id": "1i2kvmm",
+        "author": "mvea",
+        "title": "People who eat more red meat, especially processed red meat like bacon, sausage and bologna, are more likely to have a higher risk of cognitive decline and dementia when compared to those who eat very little red meat, according to a new study of 133,771 people followed up to 43 years.",
+        "content": "",
+        "upvotes": 6,
+        "comments": 4,
+        "media": null,
+        "permalink": "/r/science/comments/1i2kvmm/people_who_eat_more_red_meat_especially_processed/"
+    },
+    {
         "id": "1i1st2p",
         "author": "Wagamaga",
         "title": "As little as ten minutes of mindfulness meditation each day can significantly reduce work stress. After the eight week digital course, all measures of work stress including burnout, depression, and anxiety were reduced. Improvements were also seen in work engagement",
         "content": "",
-        "upvotes": 549,
+        "upvotes": 551,
         "comments": 60,
         "media": null,
         "permalink": "/r/science/comments/1i1st2p/as_little_as_ten_minutes_of_mindfulness/"
@@ -240,7 +250,7 @@
         "author": "mvea",
         "title": "Humility reduces anger and promotes more benign interpretations of conflict. The new study demonstrated that intellectually humble individuals were more open to understanding differing perspectives, which may help explain their reduced anger and hostility.",
         "content": "",
-        "upvotes": 3634,
+        "upvotes": 3628,
         "comments": 59,
         "media": {
             "type": "image",
@@ -253,7 +263,7 @@
         "author": "MistWeaver80",
         "title": "Women were at the centre of social networks in Iron Age Britain. Evidence from 2,000-year-old DNA reveals that women in Celtic society stayed in their ancestral communities after marriage (i.e, matrilocal arrangement), whereas men were mobile. ",
         "content": "",
-        "upvotes": 67,
+        "upvotes": 71,
         "comments": 4,
         "media": {
             "type": "image",
@@ -276,7 +286,7 @@
         "author": "OregonTripleBeam",
         "title": "A study found that a cannabidiol-based nutritional supplement \"is effective in ameliorating osteoarthritis in dogs, improving their quality of life.\"",
         "content": "",
-        "upvotes": 77,
+        "upvotes": 79,
         "comments": 5,
         "media": {
             "type": "image",
@@ -289,8 +299,8 @@
         "author": "Science_News",
         "title": "Lethal snake venom may be countered by new AI-designed proteins ",
         "content": "",
-        "upvotes": 30,
-        "comments": 4,
+        "upvotes": 28,
+        "comments": 5,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/3M7jVVORKHBRCGf_0GSp6DswQDV-M-Elzd2ZTfKoxLY.jpg?auto=webp&amp;s=f2c3944e6a2fe891376c2859563bc89fbf7c5518"
@@ -302,7 +312,7 @@
         "author": "MistWeaver80",
         "title": "Scientists who study harms caused by tobacco, alcohol and ultra-processed foods can face cyberattacks, lawsuits, surveillance and physical violence, a study finds. Many are labelled extremists, fascists, zealots and prohibitionists, it adds.",
         "content": "",
-        "upvotes": 2049,
+        "upvotes": 2053,
         "comments": 52,
         "media": {
             "type": "image",
@@ -315,30 +325,17 @@
         "author": "YaleE360",
         "title": "Trees That Have Never Known Plentiful Rainfall Better Prepared for Drought",
         "content": "",
-        "upvotes": 41,
+        "upvotes": 44,
         "comments": 17,
         "media": null,
         "permalink": "/r/science/comments/1i20ayg/trees_that_have_never_known_plentiful_rainfall/"
-    },
-    {
-        "id": "1i2eelq",
-        "author": "reedplayer",
-        "title": "Zebra finches can hear pitch (fundamental frequency) \u2014\u00a0but in a very limited fashion, such that they are much more sensitive to pitch in songs they learned from their 'tutor bird' and much less so from other conspecifics. This is strikingly different to how humans hear pitch.",
-        "content": "",
-        "upvotes": 8,
-        "comments": 3,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/nL46U3_VMEKfLOUPg8aBI9WeuRRTWbKbXEVJXq0CSzk.jpg?auto=webp&amp;s=1c7375ba07037ba30259270e0543d14bdfeb325e"
-        },
-        "permalink": "/r/science/comments/1i2eelq/zebra_finches_can_hear_pitch_fundamental/"
     },
     {
         "id": "1i23z8z",
         "author": "UGACollegeOfAg",
         "title": "CAES scientists discover how cyst nematodes attack crops",
         "content": "",
-        "upvotes": 24,
+        "upvotes": 26,
         "comments": 1,
         "media": {
             "type": "image",
@@ -347,16 +344,16 @@
         "permalink": "/r/science/comments/1i23z8z/caes_scientists_discover_how_cyst_nematodes/"
     },
     {
-        "id": "1i17uv6",
-        "author": "giuliomagnifico",
-        "title": "Researchers have identified the mechanism that regulates how the body burns brown fat and converts it into heat. This mechanism protects against obesity and related metabolic diseases. When the MCJ protein is removed from obese mice, they produce more heat and lose weight",
+        "id": "1i2eelq",
+        "author": "reedplayer",
+        "title": "Zebra finches can hear pitch (fundamental frequency) \u2014\u00a0but in a very limited fashion, such that they are much more sensitive to pitch in songs they learned from their 'tutor bird' and much less so from other conspecifics. This is strikingly different to how humans hear pitch.",
         "content": "",
-        "upvotes": 3219,
-        "comments": 113,
+        "upvotes": 7,
+        "comments": 3,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/WuDpMchOykFyNPGsdFPg3h4PSxAF-iVWbTYd04mb_RU.jpg?auto=webp&amp;s=a215cbe62b029aa299f917013b7d66e2e5a6a88a"
+            "url": "https://external-preview.redd.it/nL46U3_VMEKfLOUPg8aBI9WeuRRTWbKbXEVJXq0CSzk.jpg?auto=webp&amp;s=1c7375ba07037ba30259270e0543d14bdfeb325e"
         },
-        "permalink": "/r/science/comments/1i17uv6/researchers_have_identified_the_mechanism_that/"
+        "permalink": "/r/science/comments/1i2eelq/zebra_finches_can_hear_pitch_fundamental/"
     }
 ]
