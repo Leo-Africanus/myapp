@@ -4,8 +4,8 @@
         "author": "mvea",
         "title": "Gender dysphoria diagnoses among children in England rise fiftyfold over 10 years. Study of GP records finds prevalence rose from one in 60,000 in 2011 to one in 1,200 in 2021 \u2013 but numbers still low overall.",
         "content": "",
-        "upvotes": 1333,
-        "comments": 777,
+        "upvotes": 1463,
+        "comments": 832,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/q6MMX9n04ps2Var0Ay6vY9UfVqNKs-8asA5F3sOzL5E.jpg?auto=webp&amp;s=50e7e83af4f9deb9c0d05a7edaed9bc5a07a6503"
@@ -17,8 +17,8 @@
         "author": "Wagamaga",
         "title": "Research found that screen time during early childhood is predictive of the skills that children have on arrival to school, and the dramatic rise in screen use over recent years may partially explain why school readiness has been declining over recent years",
         "content": "",
-        "upvotes": 578,
-        "comments": 33,
+        "upvotes": 653,
+        "comments": 38,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/fiMVN56hY_NJIMFRNTVzfTm_AgnFtm0WN9J67WOL3sI.jpg?auto=webp&amp;s=24dab8d3f9108ae712567de8fe9eb2afd3fa94cb"
@@ -30,8 +30,8 @@
         "author": "mvea",
         "title": "About 1 in 8 US adults has tried or uses GLP-1 medication with 1 in 4 of those for weight loss but muscle loss can account for up to 40% of total weight loss. Scientists discover molecule that reverses muscle loss in mice, suggest that adding drug to boost this molecule may help prevent muscle loss.",
         "content": "",
-        "upvotes": 2283,
-        "comments": 170,
+        "upvotes": 2302,
+        "comments": 171,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/dpi_ywAUT1SY5hRtbx7ZyGXYB0P46Hj_HSBYnieRAiM.jpg?auto=webp&amp;s=f876a4e53e21e00b4d864fdabf9d0146fa3f39f5"
@@ -43,7 +43,7 @@
         "author": "a_Ninja_b0y",
         "title": "New research has found that children whose parents were moderately or very harsh tended to exhibit worse emotion regulation, lower self-esteem, and more peer relationship problems. They also scored lower on prosocial behavior scales.",
         "content": "",
-        "upvotes": 6609,
+        "upvotes": 6647,
         "comments": 242,
         "media": {
             "type": "image",
@@ -52,24 +52,11 @@
         "permalink": "/r/science/comments/1i9145v/new_research_has_found_that_children_whose/"
     },
     {
-        "id": "1i9fmpr",
-        "author": "SK2242",
-        "title": "A study shows that cancer cells can transfer their defective mitochondria to the body's immune cells and weaken them, thus evading the body's immune response.",
-        "content": "",
-        "upvotes": 665,
-        "comments": 8,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/CBIx4zExtmkDaIV_s7vXXh0ZEmpXsTqiNK5E0bGmZSM.jpg?auto=webp&amp;s=7a9f22c1f617da6d9dd9e7c6dbf6e07db2e745ca"
-        },
-        "permalink": "/r/science/comments/1i9fmpr/a_study_shows_that_cancer_cells_can_transfer/"
-    },
-    {
         "id": "1i9o6kl",
         "author": "a_Ninja_b0y",
         "title": "Fascinating study links depression symptoms to effort-based decision-making patterns",
         "content": "",
-        "upvotes": 107,
+        "upvotes": 128,
         "comments": 3,
         "media": {
             "type": "image",
@@ -78,11 +65,24 @@
         "permalink": "/r/science/comments/1i9o6kl/fascinating_study_links_depression_symptoms_to/"
     },
     {
+        "id": "1i9fmpr",
+        "author": "SK2242",
+        "title": "A study shows that cancer cells can transfer their defective mitochondria to the body's immune cells and weaken them, thus evading the body's immune response.",
+        "content": "",
+        "upvotes": 676,
+        "comments": 8,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/CBIx4zExtmkDaIV_s7vXXh0ZEmpXsTqiNK5E0bGmZSM.jpg?auto=webp&amp;s=7a9f22c1f617da6d9dd9e7c6dbf6e07db2e745ca"
+        },
+        "permalink": "/r/science/comments/1i9fmpr/a_study_shows_that_cancer_cells_can_transfer/"
+    },
+    {
         "id": "1i9jcfc",
         "author": "TX908",
         "title": "Long-Life Aluminum Ion Batteries. Large batteries for long-term storage of solar and wind power are key to integrating abundant and renewable energy sources. Researchers have designed a cost-effective and environment-friendly aluminum-ion (Al-ion) battery.",
         "content": "",
-        "upvotes": 251,
+        "upvotes": 261,
         "comments": 11,
         "media": {
             "type": "image",
@@ -91,11 +91,21 @@
         "permalink": "/r/science/comments/1i9jcfc/longlife_aluminum_ion_batteries_large_batteries/"
     },
     {
+        "id": "1i9qpr6",
+        "author": "mvea",
+        "title": "A therapeutic vaccine targeting HPV16 induced regression in high-grade precancerous cervical lesion. If left untreated, one-third progress to cervical cancer in 10 years and half in 30 years. At least half of patients with precancerous lesions may be able to omit surgery and its complications.",
+        "content": "",
+        "upvotes": 50,
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/science/comments/1i9qpr6/a_therapeutic_vaccine_targeting_hpv16_induced/"
+    },
+    {
         "id": "1i9ggqe",
         "author": "calliope_kekule",
         "title": "Uncontrolled rocket debris falling back to Earth poses a small, but serious risk to planes, especially over busy areas like Europe or Asia.  There's a 26% chance each year of airspace being disrupted.",
         "content": "",
-        "upvotes": 276,
+        "upvotes": 283,
         "comments": 13,
         "media": {
             "type": "image",
@@ -108,8 +118,8 @@
         "author": "mvea",
         "title": "Smokers unlikely to quit with just willpower, say researchers. Those using e-cigarettes, medication or heated tobacco products are more likely to successfully give up smoking.",
         "content": "",
-        "upvotes": 1187,
-        "comments": 286,
+        "upvotes": 1195,
+        "comments": 288,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/Q_gs0HnVmByw3LwF6jub9NGnLxbJJT4inyq2QUAUPhg.jpg?auto=webp&amp;s=5a5f214f9c48feb5a7ff191cc58f5f4df0182fe0"
@@ -134,7 +144,7 @@
         "author": "TX908",
         "title": "Ultrahigh Specific Strength by Bayesian Optimization of Carbon Nanolattices. Researchers have used machine learning to design nano-architected materials that have the strength of carbon steel but the lightness of Styrofoam.",
         "content": "",
-        "upvotes": 113,
+        "upvotes": 112,
         "comments": 11,
         "media": {
             "type": "image",
@@ -143,21 +153,11 @@
         "permalink": "/r/science/comments/1i9j1w1/ultrahigh_specific_strength_by_bayesian/"
     },
     {
-        "id": "1i9qpr6",
-        "author": "mvea",
-        "title": "A therapeutic vaccine targeting HPV16 induced regression in high-grade precancerous cervical lesion. If left untreated, one-third progress to cervical cancer in 10 years and half in 30 years. At least half of patients with precancerous lesions may be able to omit surgery and its complications.",
-        "content": "",
-        "upvotes": 28,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/science/comments/1i9qpr6/a_therapeutic_vaccine_targeting_hpv16_induced/"
-    },
-    {
         "id": "1i9k3f5",
         "author": "rustoo",
         "title": "Green tea-based adhesive films show promise as a novel treatment for oral mucositis. The anti-inflammatory properties of green tea can alleviate oral mucositis, a painful inflammation of the mouth lining often caused by chemotherapy and radiation.",
         "content": "",
-        "upvotes": 47,
+        "upvotes": 43,
         "comments": 1,
         "media": {
             "type": "image",
@@ -170,7 +170,7 @@
         "author": "Wagamaga",
         "title": "New Study Reveals How a \u2018Non-Industrialised\u2019 Style Diet Can reduce Risk of Chronic Disease. In just three weeks the diet:Promoted weight loss. \nDecreased bad cholesterol by 17%. Reduced blood sugar by 6%. \nreduced C-reactive Protein (a marker of inflammation and heart disease) by 14%.",
         "content": "",
-        "upvotes": 707,
+        "upvotes": 710,
         "comments": 92,
         "media": null,
         "permalink": "/r/science/comments/1i938ef/new_study_reveals_how_a_nonindustrialised_style/"
@@ -180,7 +180,7 @@
         "author": "FunnyGamer97",
         "title": "New drug shows promise in restoring vision for people with nerve damage: Drug, LL-341070, enhanced mices brain's ability to repair damaged myelin\u2014 the protective sheath around nerve fibers",
         "content": "",
-        "upvotes": 223,
+        "upvotes": 222,
         "comments": 5,
         "media": null,
         "permalink": "/r/science/comments/1i9b9yb/new_drug_shows_promise_in_restoring_vision_for/"
@@ -190,7 +190,7 @@
         "author": "chrisdh79",
         "title": "New AI picks up 97% of lung diseases, and can tell pneumonia from COVID-19 | A breakthrough new AI model is able to detect the presence of different lung diseases from ultrasound videos and it is even able to distinguish whether the abnormalities are due to pneumonia, COVID-19 or other conditions.",
         "content": "",
-        "upvotes": 1662,
+        "upvotes": 1669,
         "comments": 71,
         "media": {
             "type": "image",
@@ -203,7 +203,7 @@
         "author": "mvea",
         "title": "Alpha male baboons are the most stressed out among their peers. It\u2019s not the time they spend fighting with other males that raises their stress hormone levels. Instead, it\u2019s the effort they put into their female mates and directly correlated with the time they spent monopolizing fertile females.",
         "content": "",
-        "upvotes": 2790,
+        "upvotes": 2793,
         "comments": 163,
         "media": {
             "type": "image",
@@ -216,7 +216,7 @@
         "author": "Hrmbee",
         "title": "Blood pressure readings while lying down beat seated readings at predicting heart risks | Supine Blood Pressure and Risk of Cardiovascular Disease and Mortality",
         "content": "",
-        "upvotes": 579,
+        "upvotes": 580,
         "comments": 30,
         "media": {
             "type": "image",
@@ -229,7 +229,7 @@
         "author": "giuliomagnifico",
         "title": "A new study suggests that neighborhood poverty influences children's behavior. By age 3, children from wealthier families living in high-poverty neighborhoods were as likely to act out as their peers born into poorer families",
         "content": "",
-        "upvotes": 224,
+        "upvotes": 225,
         "comments": 6,
         "media": {
             "type": "image",
@@ -242,7 +242,7 @@
         "author": "mvea",
         "title": "Men lose half their emotional support networks between 30 and 90, study finds. Men\u2019s networks were smaller when they were married, suggesting a consolidation of emotional reliance on their spouse. Men who grew up in warmer family environments had larger emotional support networks in adulthood.",
         "content": "",
-        "upvotes": 19557,
+        "upvotes": 19563,
         "comments": 1099,
         "media": {
             "type": "image",
@@ -255,7 +255,7 @@
         "author": "samdexecru",
         "title": "Giant \u201cDarth Vader\u201d Sea Bug Discovered\u2026 In a Vietnamese Market: A New Species of Crustacean",
         "content": "",
-        "upvotes": 527,
+        "upvotes": 533,
         "comments": 54,
         "media": {
             "type": "image",
@@ -268,7 +268,7 @@
         "author": "FunnyGamer97",
         "title": "Evolution without sex: How mites have survived for millions of years | The key to evolution in oribatid mites may lie in the independent evolution of their two chromosome copies \u2013 a phenomenon known as the \u2018Meselson effect\u2019, which may potentially enable long-term persistence of the mite.",
         "content": "",
-        "upvotes": 64,
+        "upvotes": 60,
         "comments": 2,
         "media": {
             "type": "image",
@@ -281,7 +281,7 @@
         "author": "Wagamaga",
         "title": "Battery cars on Britain\u2019s roads are lasting as long as petrol and diesel cars, according to a study that has found a rapid improvement in electric vehicle reliability. Researchers based findings on 300m records from MOT data to estimate failure rates of all cars",
         "content": "",
-        "upvotes": 673,
+        "upvotes": 677,
         "comments": 136,
         "media": {
             "type": "image",
@@ -294,7 +294,7 @@
         "author": "FunnyGamer97",
         "title": "VR subway experiment highlights role of sound in disrupting balance for people with inner ear disorder | Researchers found that when a moving subway scene was played in VR, the addition of audio increased balance challenges for people with vestibular problems",
         "content": "",
-        "upvotes": 29,
+        "upvotes": 28,
         "comments": 1,
         "media": {
             "type": "image",
@@ -307,7 +307,7 @@
         "author": "fchung",
         "title": "A new biodegradable material to replace certain microplastics: \u00ab MIT chemical engineers designed an environmentally friendly alternative to the microbeads used in some health and beauty products. \u00bb",
         "content": "",
-        "upvotes": 96,
+        "upvotes": 99,
         "comments": 9,
         "media": {
             "type": "image",
@@ -320,7 +320,7 @@
         "author": "a_Ninja_b0y",
         "title": "A new study explores how the \u201cNews-Finds-Me\u201d perception contributes to overconfidence in identifying fake news. This mindset not only heightens susceptibility to misinformation but also encourages sharing of false stories.",
         "content": "",
-        "upvotes": 94,
+        "upvotes": 95,
         "comments": 8,
         "media": {
             "type": "image",
@@ -333,7 +333,7 @@
         "author": "TX908",
         "title": "Scientists have identified a strain of bacteria that can break down and transform at least three types of forever chemicals (PFAS), and, perhaps even more crucially, some of the toxic byproducts of the bond-breaking process.",
         "content": "",
-        "upvotes": 374,
+        "upvotes": 377,
         "comments": 3,
         "media": {
             "type": "image",
@@ -346,7 +346,7 @@
         "author": "FunnyGamer97",
         "title": "US college graduates live an average of 11 years longer than those who never finish high school, study finds",
         "content": "",
-        "upvotes": 1437,
+        "upvotes": 1430,
         "comments": 58,
         "media": null,
         "permalink": "/r/science/comments/1i8mck1/us_college_graduates_live_an_average_of_11_years/"
@@ -356,7 +356,7 @@
         "author": "TX908",
         "title": "In Earth\u2019s mantle there are two huge \u2018islands\u2019 with the size of a continent. These regions are hotter than the surrounding cold sunken tectonic plates, and that they are ancient: at least half a billion years old. These observations contradict the idea of a well-mixed and fast flowing Earth\u2019s mantle",
         "content": "",
-        "upvotes": 340,
+        "upvotes": 338,
         "comments": 9,
         "media": {
             "type": "image",
@@ -369,7 +369,7 @@
         "author": "eriq4171",
         "title": "Very happy to share our work on lymphatic endothelial cell specification, which was published in Nature Cardiovascular Research this week. The paper describes a specialised progenitor for lymphatic endothelium.",
         "content": "",
-        "upvotes": 54,
+        "upvotes": 53,
         "comments": 4,
         "media": {
             "type": "image",
