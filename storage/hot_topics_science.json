@@ -4,8 +4,8 @@
         "author": "mvea",
         "title": "In some situations, individuals experiencing depression may perceive reality more accurately, or at least with fewer of the optimistic biases that most people exhibit. Study found that in the context of voting, someone with depressive symptoms is less likely to follow party lines blindly.",
         "content": "",
-        "upvotes": 4589,
-        "comments": 113,
+        "upvotes": 4945,
+        "comments": 125,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/GYyxHMfWW2nrstYNBuxmQ37ywur2Fs6y5aTIN6P3kBg.jpg?auto=webp&amp;s=32bfb6ac834cc0d3c332c121bc4fe33828d42611"
@@ -17,7 +17,7 @@
         "author": "Wagamaga",
         "title": "Researchers in China found that exercise reduces symptoms of Internet addiction. Additionally, exercise was found to reduce anxiety, loneliness, stress, feelings of inadequacy, and fatigue, as well as depression, while improving overall mental health",
         "content": "",
-        "upvotes": 37794,
+        "upvotes": 37826,
         "comments": 1082,
         "media": {
             "type": "image",
@@ -30,7 +30,7 @@
         "author": "chrisdh79",
         "title": "Calling time alone \u201cme-time\u201d boosts positive feelings and improves perceptions, unlike labeling it \u201cisolation\u201d",
         "content": "",
-        "upvotes": 11241,
+        "upvotes": 11246,
         "comments": 227,
         "media": {
             "type": "image",
@@ -39,11 +39,24 @@
         "permalink": "/r/science/comments/1im87c1/calling_time_alone_metime_boosts_positive/"
     },
     {
+        "id": "1in25zf",
+        "author": "Wagamaga",
+        "title": "Nurses Worldwide Experience Stress, Loss, and Violence. Research found nearly half of nurses worldwide face public aggression, while up to 61% experience anxiety or depression, according to a study of 9,387 nurses across 35 countries",
+        "content": "",
+        "upvotes": 73,
+        "comments": 7,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/3BiNHVAQDVtnwGmm0MaEx3oCThkgyJbO_C3KyWelQZQ.jpg?auto=webp&amp;s=8283a7e044d59b754cc77e37b8711ff3ceab863b"
+        },
+        "permalink": "/r/science/comments/1in25zf/nurses_worldwide_experience_stress_loss_and/"
+    },
+    {
         "id": "1imbiow",
         "author": "memorialmonorail",
         "title": "Use of fertility-tracking technology increased in some states after Roe v Wade was overturned despite warnings that app data might not be secure, a study found. Fewer users reported charting fertility to become pregnant post-Dobbs, which may suggest more users are tracking for pregnancy prevention.",
         "content": "",
-        "upvotes": 3676,
+        "upvotes": 3677,
         "comments": 125,
         "media": {
             "type": "image",
@@ -52,25 +65,12 @@
         "permalink": "/r/science/comments/1imbiow/use_of_fertilitytracking_technology_increased_in/"
     },
     {
-        "id": "1imy03g",
-        "author": "chrisdh79",
-        "title": "Individuals with traits like narcissism and psychopathy may be drawn to antisemitic ideologies, according to a new study | Research sheds light on the psychological underpinnings of antisemitism and offers a novel perspective on why some individuals are attracted to this form of prejudice.",
-        "content": "",
-        "upvotes": 95,
-        "comments": 92,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/mVYvyAONCJP3Im3s1AoejbVw9BxTsLKULLR1_jFIWNE.jpg?auto=webp&amp;s=366d499cb173102e8c035b4cc5cbd1ea3e6ab872"
-        },
-        "permalink": "/r/science/comments/1imy03g/individuals_with_traits_like_narcissism_and/"
-    },
-    {
         "id": "1imngkp",
         "author": "USCDornsifeNews",
         "title": "Earth\u2019s inner core is less solid than previously thought",
         "content": "",
-        "upvotes": 690,
-        "comments": 67,
+        "upvotes": 685,
+        "comments": 68,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/LmggdyF-OIMUdmslex4G0L448NlqhmZvoqSX28RsrJM.jpg?auto=webp&amp;s=b95dd9399d2eedd134dca1bc9ad0dd7449d664e4"
@@ -78,11 +78,37 @@
         "permalink": "/r/science/comments/1imngkp/earths_inner_core_is_less_solid_than_previously/"
     },
     {
+        "id": "1imy03g",
+        "author": "chrisdh79",
+        "title": "Individuals with traits like narcissism and psychopathy may be drawn to antisemitic ideologies, according to a new study | Research sheds light on the psychological underpinnings of antisemitism and offers a novel perspective on why some individuals are attracted to this form of prejudice.",
+        "content": "",
+        "upvotes": 90,
+        "comments": 104,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/mVYvyAONCJP3Im3s1AoejbVw9BxTsLKULLR1_jFIWNE.jpg?auto=webp&amp;s=366d499cb173102e8c035b4cc5cbd1ea3e6ab872"
+        },
+        "permalink": "/r/science/comments/1imy03g/individuals_with_traits_like_narcissism_and/"
+    },
+    {
+        "id": "1imydos",
+        "author": "James_Fortis",
+        "title": "\"It is the position of the Academy of Nutrition and Dietetics that, in adults, appropriately planned vegetarian and vegan dietary patterns can be nutritionally adequate and can offer long-term health benefits such as improving several health outcomes associated with cardiometabolic diseases.\"",
+        "content": "",
+        "upvotes": 81,
+        "comments": 44,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/p32Ww4GU62z6l5Nfp9ZpOxvy4pKSJkxrF_66z-Sg0y8.jpg?auto=webp&amp;s=2b3087a881fc8f5e38c6da392ea6ad7c3d4b9c8d"
+        },
+        "permalink": "/r/science/comments/1imydos/it_is_the_position_of_the_academy_of_nutrition/"
+    },
+    {
         "id": "1imwj7f",
         "author": "sciencealert",
         "title": "Einstein Probe Appears to Have Detected A New Type of Cosmic Explosion",
         "content": "",
-        "upvotes": 109,
+        "upvotes": 112,
         "comments": 2,
         "media": {
             "type": "image",
@@ -95,7 +121,7 @@
         "author": "mvea",
         "title": "A man who seemed genetically destined to develop Alzheimer\u2019s disease while still young has reached his mid-70s without any cognitive decline. Scientists identify 9 genetic variants that could have helped a man avoid dementia at least two decades longer than expected.",
         "content": "",
-        "upvotes": 1164,
+        "upvotes": 1170,
         "comments": 10,
         "media": {
             "type": "image",
@@ -108,8 +134,8 @@
         "author": "mvea",
         "title": "Cockatoos show appetite for dips when eating bland food, find scientists - Birds observed going to lengths to flavour food, with particular penchant for blueberry-flavoured soy yoghurt dip.",
         "content": "",
-        "upvotes": 2985,
-        "comments": 51,
+        "upvotes": 2993,
+        "comments": 52,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/_ECzS766vYoRFypfiredbs-xA0_z3LhpNz1P6c2hNzE.jpg?auto=webp&amp;s=0fa29de7241cc622433e279487d4da90c52d360a"
@@ -121,8 +147,8 @@
         "author": "a_Ninja_b0y",
         "title": "A recent qualitative study explored women\u2019s perceptions of their partner\u2019s odor in intimate and sexual situations. The results revealed that women\u2019s perception of odor often depended on context, such that even odors generally perceived as unpleasant were often accepted as part of a sexual encounter.",
         "content": "",
-        "upvotes": 1415,
-        "comments": 78,
+        "upvotes": 1426,
+        "comments": 82,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/p3S874BBDPog2Of0aCg4RK-zyLYam80owmX-J-CJ1wo.jpg?auto=webp&amp;s=6a5ac2ce20cec8ffdcddb68915ce5ca50c0ba4de"
@@ -130,37 +156,11 @@
         "permalink": "/r/science/comments/1imgwkg/a_recent_qualitative_study_explored_womens/"
     },
     {
-        "id": "1imydos",
-        "author": "James_Fortis",
-        "title": "\"It is the position of the Academy of Nutrition and Dietetics that, in adults, appropriately planned vegetarian and vegan dietary patterns can be nutritionally adequate and can offer long-term health benefits such as improving several health outcomes associated with cardiometabolic diseases.\"",
-        "content": "",
-        "upvotes": 69,
-        "comments": 40,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/p32Ww4GU62z6l5Nfp9ZpOxvy4pKSJkxrF_66z-Sg0y8.jpg?auto=webp&amp;s=2b3087a881fc8f5e38c6da392ea6ad7c3d4b9c8d"
-        },
-        "permalink": "/r/science/comments/1imydos/it_is_the_position_of_the_academy_of_nutrition/"
-    },
-    {
-        "id": "1imk911",
-        "author": "FunnyGamer97",
-        "title": "Phubbing linked to increased aggression in romantic relationships | When one partner is distracted by their smartphone during time spent together, it is linked to harmful behaviors that can damage the quality of a romantic relationship.",
-        "content": "",
-        "upvotes": 769,
-        "comments": 33,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/OdRDMIfgI8GjOMtOmkFSsAhPQBiOkH0lXalNwJGfBiU.jpg?auto=webp&amp;s=44952000be249fbfbfbebd6d0089ed131535eee9"
-        },
-        "permalink": "/r/science/comments/1imk911/phubbing_linked_to_increased_aggression_in/"
-    },
-    {
         "id": "1imza3i",
         "author": "chrisdh79",
         "title": "Researchers has found exposure to outdoor air pollution and extreme temperatures during pregnancy may increase the risk of prolonged pregnancy lasting beyond 41 weeks.",
         "content": "",
-        "upvotes": 49,
+        "upvotes": 56,
         "comments": 2,
         "media": {
             "type": "image",
@@ -169,12 +169,25 @@
         "permalink": "/r/science/comments/1imza3i/researchers_has_found_exposure_to_outdoor_air/"
     },
     {
+        "id": "1imk911",
+        "author": "FunnyGamer97",
+        "title": "Phubbing linked to increased aggression in romantic relationships | When one partner is distracted by their smartphone during time spent together, it is linked to harmful behaviors that can damage the quality of a romantic relationship.",
+        "content": "",
+        "upvotes": 786,
+        "comments": 33,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/OdRDMIfgI8GjOMtOmkFSsAhPQBiOkH0lXalNwJGfBiU.jpg?auto=webp&amp;s=44952000be249fbfbfbebd6d0089ed131535eee9"
+        },
+        "permalink": "/r/science/comments/1imk911/phubbing_linked_to_increased_aggression_in/"
+    },
+    {
         "id": "1imkvg8",
         "author": "sciencealert",
         "title": "Astronomers Amazed by Perfect 'Einstein Ring' Gleaming Around a Galaxy 590 Million Light-Years Away",
         "content": "",
-        "upvotes": 462,
-        "comments": 18,
+        "upvotes": 469,
+        "comments": 19,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/i2-dyoBw9OEXTZQCezN1ZMvIiI0ScNr4Qa_R0XeBpLc.jpg?auto=webp&amp;s=a63e3e4bc5db85072ecce0ce5d27c9647adc23a2"
@@ -186,7 +199,7 @@
         "author": "sciencealert",
         "title": "A Radical New Study Proposes Alzheimer's Has A Single Underlying Cause: Stress Granules \u2013 Protein And RNA Clumps That Form Around Cells in Stressful Conditions Due to Genetic and Environmental Risk Factors",
         "content": "",
-        "upvotes": 405,
+        "upvotes": 414,
         "comments": 10,
         "media": {
             "type": "image",
@@ -199,30 +212,27 @@
         "author": "YaleE360",
         "title": "World Likely to Breach 1.5-Degree Target, Research Finds",
         "content": "",
-        "upvotes": 27,
+        "upvotes": 28,
         "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1imz1w7/world_likely_to_breach_15degree_target_research/"
     },
     {
-        "id": "1in25zf",
-        "author": "Wagamaga",
-        "title": "Nurses Worldwide Experience Stress, Loss, and Violence. Research found nearly half of nurses worldwide face public aggression, while up to 61% experience anxiety or depression, according to a study of 9,387 nurses across 35 countries",
+        "id": "1in00g1",
+        "author": "geoff199",
+        "title": "Higher levels of loneliness found in older adults who had to use a credit card to pay emergency expenses during the pandemic.",
         "content": "",
-        "upvotes": 16,
+        "upvotes": 23,
         "comments": 2,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/3BiNHVAQDVtnwGmm0MaEx3oCThkgyJbO_C3KyWelQZQ.jpg?auto=webp&amp;s=8283a7e044d59b754cc77e37b8711ff3ceab863b"
-        },
-        "permalink": "/r/science/comments/1in25zf/nurses_worldwide_experience_stress_loss_and/"
+        "media": null,
+        "permalink": "/r/science/comments/1in00g1/higher_levels_of_loneliness_found_in_older_adults/"
     },
     {
         "id": "1imkeul",
         "author": "avogadros_number",
         "title": "We\u2019re About to Reach the Paris Agreement Limit, If We Haven\u2019t Already - Earth has probably already entered the 20-year period in which global temperatures will be, on average, 1.5\u00b0C (2.7\u00b0F) higher than preindustrial conditions.",
         "content": "",
-        "upvotes": 336,
+        "upvotes": 335,
         "comments": 45,
         "media": null,
         "permalink": "/r/science/comments/1imkeul/were_about_to_reach_the_paris_agreement_limit_if/"
@@ -245,7 +255,7 @@
         "author": "calliope_kekule",
         "title": "Despite recent increases in wildfire area, North American forests still burn less than they did before 1880. But fire severity is now higher, threatening ecosystems and communities.",
         "content": "",
-        "upvotes": 77,
+        "upvotes": 78,
         "comments": 1,
         "media": {
             "type": "image",
@@ -254,21 +264,11 @@
         "permalink": "/r/science/comments/1imsh37/despite_recent_increases_in_wildfire_area_north/"
     },
     {
-        "id": "1in00g1",
-        "author": "geoff199",
-        "title": "Higher levels of loneliness found in older adults who had to use a credit card to pay emergency expenses during the pandemic.",
-        "content": "",
-        "upvotes": 15,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/science/comments/1in00g1/higher_levels_of_loneliness_found_in_older_adults/"
-    },
-    {
         "id": "1im8vbe",
         "author": "mareacaspica",
         "title": "For 500 million years, the Earths' oceans were too acidic for life to survive",
         "content": "",
-        "upvotes": 969,
+        "upvotes": 979,
         "comments": 29,
         "media": {
             "type": "image",
@@ -281,7 +281,7 @@
         "author": "Wagamaga",
         "title": "Compound marine heatwaves, where surface and subsurface events coincide, will become more frequent and last significantly longer than individual events. These compound events are projected to increase significantly 300%, posing an even serious threat to marine life.",
         "content": "",
-        "upvotes": 26,
+        "upvotes": 29,
         "comments": 3,
         "media": null,
         "permalink": "/r/science/comments/1imvsbm/compound_marine_heatwaves_where_surface_and/"
@@ -291,7 +291,7 @@
         "author": "TX908",
         "title": "A new study shows that gut bacteria can influence the molecular pattern of glycosylation \u2013 the presence of sugar groups on proteins \u2013 in the brain.",
         "content": "",
-        "upvotes": 40,
+        "upvotes": 43,
         "comments": 3,
         "media": {
             "type": "image",
@@ -304,7 +304,7 @@
         "author": "Wagamaga",
         "title": "18,000-year-old evidence of cultural cannibalism in Poland\u2019. Genetic studies suggest that both the perpetrators and victims belonged to the same broader Magdalenian population, raising the possibility that the violence stemmed from intergroup competition rather than outright territorial aggression.",
         "content": "",
-        "upvotes": 32,
+        "upvotes": 31,
         "comments": 2,
         "media": {
             "type": "image",
@@ -317,7 +317,7 @@
         "author": "chrisdh79",
         "title": "Existing cardiac drug helps keep cancer from spreading | An existing cardiac drug (Digoxin) has now been found to reduce the risk of metastasis by dissolving circulating clusters of breast cancer cells in patients.",
         "content": "",
-        "upvotes": 888,
+        "upvotes": 889,
         "comments": 25,
         "media": {
             "type": "image",
@@ -326,11 +326,21 @@
         "permalink": "/r/science/comments/1im4xj5/existing_cardiac_drug_helps_keep_cancer_from/"
     },
     {
+        "id": "1imqmtt",
+        "author": "FunnyGamer97",
+        "title": "Truly autonomous AI is on the horizon | Researchers have developed a new AI algorithm, called Torque Clustering, that significantly improves how AI systems independently learn and uncover patterns in data, which has an AMI score of 97.7%, without human guidance.",
+        "content": "",
+        "upvotes": 34,
+        "comments": 20,
+        "media": null,
+        "permalink": "/r/science/comments/1imqmtt/truly_autonomous_ai_is_on_the_horizon_researchers/"
+    },
+    {
         "id": "1imk9dx",
         "author": "QldBrainInst",
         "title": "A recent study by UQ Queensland Brain Institute researchers found almost 70% of suspected frontotemporal dementia patients were misdiagnosed with the disease.",
         "content": "",
-        "upvotes": 84,
+        "upvotes": 86,
         "comments": 4,
         "media": {
             "type": "image",
@@ -343,7 +353,7 @@
         "author": "-Mystica-",
         "title": "Alcohol use disorder patients show brain structure changes that may underlie emotional distress - A new study has found that men recovering from alcohol use problems tend to have less brain tissue in areas linked to thinking and emotion compared to healthy men.",
         "content": "",
-        "upvotes": 527,
+        "upvotes": 534,
         "comments": 24,
         "media": null,
         "permalink": "/r/science/comments/1im5uf4/alcohol_use_disorder_patients_show_brain/"
@@ -353,22 +363,12 @@
         "author": "mvea",
         "title": "\"The ick\" is a sudden feeling of disgust toward a partner, often for minor things. Study showed physical appearance is a less frequent ick trigger than behavior or personality. 64% of people have felt the ick; 26% end relationships right after. Narcissism and perfectionism increase ick likelihood.",
         "content": "",
-        "upvotes": 24430,
+        "upvotes": 24433,
         "comments": 1632,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/cnMq-oc6ZEJ7jBBuwcgkJdD4Ytwr4X4nOBj3jExwRnY.jpg?auto=webp&amp;s=9e840cfcbb6d249609828f7f1dcdb731f3322089"
         },
         "permalink": "/r/science/comments/1ilon8u/the_ick_is_a_sudden_feeling_of_disgust_toward_a/"
-    },
-    {
-        "id": "1imqmtt",
-        "author": "FunnyGamer97",
-        "title": "Truly autonomous AI is on the horizon | Researchers have developed a new AI algorithm, called Torque Clustering, that significantly improves how AI systems independently learn and uncover patterns in data, which has an AMI score of 97.7%, without human guidance.",
-        "content": "",
-        "upvotes": 31,
-        "comments": 19,
-        "media": null,
-        "permalink": "/r/science/comments/1imqmtt/truly_autonomous_ai_is_on_the_horizon_researchers/"
     }
 ]
