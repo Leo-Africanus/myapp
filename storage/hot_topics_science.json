@@ -1,11 +1,37 @@
 [
     {
+        "id": "1iq0jic",
+        "author": "mvea",
+        "title": "Study finds that ChatGPT, one of the world\u2019s most popular conversational AI systems, tends to lean toward left-wing political views. The system not only produces more left-leaning text and images but also often refuses to generate content that presents conservative perspectives.",
+        "content": "",
+        "upvotes": 3721,
+        "comments": 1087,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/3sUcmwck-bICmOUBBi9N4bCxKZIUnssqz_IPaUezKio.jpg?auto=webp&amp;s=da5229a7fed8d8ffeb8bc7f1cf48677914525799"
+        },
+        "permalink": "/r/science/comments/1iq0jic/study_finds_that_chatgpt_one_of_the_worlds_most/"
+    },
+    {
+        "id": "1iq0vvg",
+        "author": "mvea",
+        "title": "Twin study finds that ADHD and emotional problems share genetic basis - Around 34% of children and adolescents with ADHD experience anxiety, and this percentage increases to 50% in adulthood.",
+        "content": "",
+        "upvotes": 568,
+        "comments": 31,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/bWyO-0opiuAjSvpwVHupB9P4WSazZKvhjpFqLOeOKoM.jpg?auto=webp&amp;s=6fe2d7559961a4656bc94951f2e6d73e0da0eb7f"
+        },
+        "permalink": "/r/science/comments/1iq0vvg/twin_study_finds_that_adhd_and_emotional_problems/"
+    },
+    {
         "id": "1ippkrj",
         "author": "mvea",
         "title": "Young adults who did not become parents reported better mental health and lower levels of negative affect. However, fathers reported lower levels of loneliness in midlife compared to mothers and people without children, suggesting that fatherhood may offer unique social benefits.",
         "content": "",
-        "upvotes": 2500,
-        "comments": 153,
+        "upvotes": 4366,
+        "comments": 231,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/jSFckkRZtV-UdQXqsXhdHIk3idzHVYyDsb98Cm6mM9k.jpg?auto=webp&amp;s=592ffbf408c30c3cc4eca4951382ba56a7126fde"
@@ -13,12 +39,25 @@
         "permalink": "/r/science/comments/1ippkrj/young_adults_who_did_not_become_parents_reported/"
     },
     {
+        "id": "1ipvydz",
+        "author": "Adrian_TTV",
+        "title": "Largest celestial object of its kind discovered in the distant universe",
+        "content": "",
+        "upvotes": 1196,
+        "comments": 93,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/iiVjHKANA6GVvyGsT8ZLKGxp5L5DD765xZx7d7GmqTY.jpg?auto=webp&amp;s=b32d5054ee43a1dafd5b7f71aaf25fd905b3b890"
+        },
+        "permalink": "/r/science/comments/1ipvydz/largest_celestial_object_of_its_kind_discovered/"
+    },
+    {
         "id": "1ipen20",
         "author": "-Mystica-",
         "title": "Study shows growing link between racial attitudes and anti-democratic beliefs among White Americans",
         "content": "",
-        "upvotes": 8803,
-        "comments": 618,
+        "upvotes": 9809,
+        "comments": 660,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/LmOYdyg3QilhHZz-dJ7uOBgUusEUT9VeS8a9a8xhc30.jpg?auto=webp&amp;s=a827ad7f1863ad7eca0da4f0564bd0e33a7e62c6"
@@ -30,8 +69,8 @@
         "author": "mvea",
         "title": "Some women experience guilt after sexual activity, even in consensual or committed relationships, due to learned beliefs that sex is inappropriate or \u201cwrong.\u201d Sexual shame reduces sexual arousal and desire, leading to poorer sexual functioning.",
         "content": "",
-        "upvotes": 4578,
-        "comments": 167,
+        "upvotes": 5309,
+        "comments": 200,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/kXtJIZDIagDRg27zZPCtAWJ1u8bsfBX1cf3X2A8jVJg.jpg?auto=webp&amp;s=7d8e37f239ce1f90f9f3430ef6768f1c8d593524"
@@ -39,35 +78,12 @@
         "permalink": "/r/science/comments/1ipi5bp/some_women_experience_guilt_after_sexual_activity/"
     },
     {
-        "id": "1ipvydz",
-        "author": "Adrian_TTV",
-        "title": "Largest celestial object of its kind discovered in the distant universe",
-        "content": "",
-        "upvotes": 341,
-        "comments": 32,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/iiVjHKANA6GVvyGsT8ZLKGxp5L5DD765xZx7d7GmqTY.jpg?auto=webp&amp;s=b32d5054ee43a1dafd5b7f71aaf25fd905b3b890"
-        },
-        "permalink": "/r/science/comments/1ipvydz/largest_celestial_object_of_its_kind_discovered/"
-    },
-    {
-        "id": "1ipgr0y",
-        "author": "mvea",
-        "title": "Study finds that there is a clear wealth gap among adults over 50 who meet physical activity and dietary guidelines. The research also found that poorer adults are nearly three times more likely to be depressed than their wealthier counterparts.",
-        "content": "",
-        "upvotes": 3710,
-        "comments": 210,
-        "media": null,
-        "permalink": "/r/science/comments/1ipgr0y/study_finds_that_there_is_a_clear_wealth_gap/"
-    },
-    {
         "id": "1ipv3a6",
         "author": "calliope_kekule",
         "title": "A new study finds that people who see solitude negatively feel lonelier - while those with positive views feel less lonely. Media portrayals may shape this effect.",
         "content": "",
-        "upvotes": 264,
-        "comments": 13,
+        "upvotes": 592,
+        "comments": 21,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/IXH6BDysgHPRqxlzWSrjSneKsiMklJ5nD4kzM1UpRpI.jpg?auto=webp&amp;s=79319f40db3a636eea070ec93003827bd5e61925"
@@ -75,12 +91,55 @@
         "permalink": "/r/science/comments/1ipv3a6/a_new_study_finds_that_people_who_see_solitude/"
     },
     {
+        "id": "1ipz8hg",
+        "author": "J4Jc3",
+        "title": "Dutch students judge kids with gay dads based on their personality and behavior, not their parents' sexuality, study finds",
+        "content": "",
+        "upvotes": 202,
+        "comments": 13,
+        "media": null,
+        "permalink": "/r/science/comments/1ipz8hg/dutch_students_judge_kids_with_gay_dads_based_on/"
+    },
+    {
+        "id": "1ipyibo",
+        "author": "thebelsnickle1991",
+        "title": "More than 9,000 nurses surveyed across 35 countries share mental health challenges coming out of the COVID-19 pandemic",
+        "content": "",
+        "upvotes": 231,
+        "comments": 10,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/3BiNHVAQDVtnwGmm0MaEx3oCThkgyJbO_C3KyWelQZQ.jpg?auto=webp&amp;s=8283a7e044d59b754cc77e37b8711ff3ceab863b"
+        },
+        "permalink": "/r/science/comments/1ipyibo/more_than_9000_nurses_surveyed_across_35/"
+    },
+    {
+        "id": "1ipgr0y",
+        "author": "mvea",
+        "title": "Study finds that there is a clear wealth gap among adults over 50 who meet physical activity and dietary guidelines. The research also found that poorer adults are nearly three times more likely to be depressed than their wealthier counterparts.",
+        "content": "",
+        "upvotes": 4014,
+        "comments": 236,
+        "media": null,
+        "permalink": "/r/science/comments/1ipgr0y/study_finds_that_there_is_a_clear_wealth_gap/"
+    },
+    {
+        "id": "1ipz9as",
+        "author": "Wagamaga",
+        "title": "Planetary Evolution May be the Reason for Human Life, and Life Elsewhere. A new  model says that humans gaining a foothold here wasn\u2019t that difficult \u2014 and it\u2019s not outside the realm of possibility that intelligent life could develop elsewhere in the universe",
+        "content": "",
+        "upvotes": 106,
+        "comments": 28,
+        "media": null,
+        "permalink": "/r/science/comments/1ipz9as/planetary_evolution_may_be_the_reason_for_human/"
+    },
+    {
         "id": "1ipi4m3",
         "author": "-Mystica-",
         "title": "Brake pad dust can be more toxic than exhaust emissions, study says - The researchers found that a higher concentration of copper in some commonly used brake pads was associated with increased harmful effects on sensitive cells from people\u2019s lungs, as a result of particles being breathed in.",
         "content": "",
-        "upvotes": 1295,
-        "comments": 81,
+        "upvotes": 1575,
+        "comments": 92,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/0ZlZNGvrm421XO5hx8zeqgpDWpWQeHD4bbxKusTNTUw.jpg?auto=webp&amp;s=9533e328347f601deeb85e127afa29ec3b4064d6"
@@ -88,12 +147,22 @@
         "permalink": "/r/science/comments/1ipi4m3/brake_pad_dust_can_be_more_toxic_than_exhaust/"
     },
     {
+        "id": "1iq1f07",
+        "author": "James_Fortis",
+        "title": "An exploration of applied plant-based protein formulations to shift farmers towards sustainable diets: A South African Perspective",
+        "content": "",
+        "upvotes": 24,
+        "comments": 3,
+        "media": null,
+        "permalink": "/r/science/comments/1iq1f07/an_exploration_of_applied_plantbased_protein/"
+    },
+    {
         "id": "1ip4s10",
         "author": "mvea",
         "title": "Study reveals that individuals who opposed COVID-19 public health mandates were also likely to oppose abortion rights. They were more likely to be politically conservative, religious, and distrustful of institutions.",
         "content": "",
-        "upvotes": 6902,
-        "comments": 456,
+        "upvotes": 7074,
+        "comments": 473,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/HaBM-bhTRw1tapIMWVgjCHUXmhwDPkHC_mJZcyD9N3Q.jpg?auto=webp&amp;s=959b7d6cbf5ce653bdf39403b3906f03041c45f1"
@@ -105,8 +174,8 @@
         "author": "chrisdh79",
         "title": "Scientists have now identified the neurons behind the \u201cdessert stomach\u201d phenomenon.  | Researchers gave mice the option to eat sugary snacks after a meal. Unsurprisingly, they dug in even when they should have been feeling pretty full.",
         "content": "",
-        "upvotes": 2552,
-        "comments": 108,
+        "upvotes": 2685,
+        "comments": 113,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/6U6UrKD8QZUFLVDAln9r_D11YqLnQeagPKypqzDHxuk.jpg?auto=webp&amp;s=27809713854bc02dcca47ad52dc35c7158342674"
@@ -118,7 +187,7 @@
         "author": "Wagamaga",
         "title": "Scientists create hydrogen with no direct CO2 emissions at source. The process co-produces high-value acetic acid, an organic liquid used in food preservation, household cleaning products, manufacturing and medicine, and has an annual global consumption exceeding 15 million tons.",
         "content": "",
-        "upvotes": 499,
+        "upvotes": 574,
         "comments": 28,
         "media": {
             "type": "image",
@@ -131,8 +200,8 @@
         "author": "chrisdh79",
         "title": "New research found that when it's combined with particular oral drugs, milk significantly improves their absorption by the body | It\u2019s the latest in a series of studies showing that milk is a highly effective drug-delivery vehicle.",
         "content": "",
-        "upvotes": 1314,
-        "comments": 130,
+        "upvotes": 1385,
+        "comments": 136,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/IH7_6FeaXswdISZV91yB0iytgp31DEW0hYOTyPOpLLI.jpg?auto=webp&amp;s=233038dbe5c9c609be4ed8bdb16cc02ca2a6eca4"
@@ -140,12 +209,22 @@
         "permalink": "/r/science/comments/1ip80vc/new_research_found_that_when_its_combined_with/"
     },
     {
+        "id": "1iphxrz",
+        "author": "Cresomycin",
+        "title": "Study finds, climate crisis is contributing to chocolate market meltdown.Scientists say more-frequent hotter temperatures in west African region are part of reason for reduced harvests and price rises",
+        "content": "",
+        "upvotes": 294,
+        "comments": 21,
+        "media": null,
+        "permalink": "/r/science/comments/1iphxrz/study_finds_climate_crisis_is_contributing_to/"
+    },
+    {
         "id": "1ip85g2",
         "author": "chrisdh79",
         "title": "Researchers found that feeling satisfied in their relationship, experiencing a good quality of sexual life, possessing empathy, and having children were all linked to higher levels of psychological well-being for women.",
         "content": "",
-        "upvotes": 1189,
-        "comments": 238,
+        "upvotes": 1220,
+        "comments": 242,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/MUZkX7aOzWfqOs-Fna5HOGtcZRdwslerf9caFFydM1Y.jpg?auto=webp&amp;s=9b3003f70c4912efe9874aae24841b70e6188fb2"
@@ -153,21 +232,11 @@
         "permalink": "/r/science/comments/1ip85g2/researchers_found_that_feeling_satisfied_in_their/"
     },
     {
-        "id": "1iphxrz",
-        "author": "Cresomycin",
-        "title": "Study finds, climate crisis is contributing to chocolate market meltdown.Scientists say more-frequent hotter temperatures in west African region are part of reason for reduced harvests and price rises",
-        "content": "",
-        "upvotes": 247,
-        "comments": 21,
-        "media": null,
-        "permalink": "/r/science/comments/1iphxrz/study_finds_climate_crisis_is_contributing_to/"
-    },
-    {
         "id": "1ipcoua",
         "author": "a_Ninja_b0y",
         "title": "Brain inflammation affects behavior differently in males and females, study finds",
         "content": "",
-        "upvotes": 191,
+        "upvotes": 198,
         "comments": 2,
         "media": {
             "type": "image",
@@ -180,8 +249,8 @@
         "author": "mvea",
         "title": "Study suggests sex can provide relationship satisfaction boost that lasts longer than just act itself. Positive \u201cafterglow\u201d of sex can linger for at least 24 hours, especially when sex is a mutual decision or initiated by one partner, while sexual rejection creates negative effect for several days.",
         "content": "",
-        "upvotes": 24023,
-        "comments": 847,
+        "upvotes": 24057,
+        "comments": 846,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/Unw6j_airH0MsLjK-lkg7ihTBzFknr8SRmYfHW-QnAw.jpg?auto=webp&amp;s=4aca09f5f94b84d8364630cf100f7d5da45bbda2"
@@ -189,32 +258,32 @@
         "permalink": "/r/science/comments/1iojjfh/study_suggests_sex_can_provide_relationship/"
     },
     {
-        "id": "1ip1dzk",
-        "author": "geoff199",
-        "title": "Expressing lower emotion on 911 calls is associated with greater suspicion that the caller is involved in the crime they are reporting,. Five studies used both real and simulated 911 calls with both police and laypeople as participants.",
-        "content": "",
-        "upvotes": 917,
-        "comments": 55,
-        "media": null,
-        "permalink": "/r/science/comments/1ip1dzk/expressing_lower_emotion_on_911_calls_is/"
-    },
-    {
         "id": "1ip7qd5",
         "author": "Wagamaga",
         "title": "Researchers have been able to demonstrate that severe early-life adversity is linked to measurable markers of accelerated brain aging and amplifies neurodegenerative processes later in life.",
         "content": "",
-        "upvotes": 241,
-        "comments": 20,
+        "upvotes": 267,
+        "comments": 28,
         "media": null,
         "permalink": "/r/science/comments/1ip7qd5/researchers_have_been_able_to_demonstrate_that/"
+    },
+    {
+        "id": "1ip1dzk",
+        "author": "geoff199",
+        "title": "Expressing lower emotion on 911 calls is associated with greater suspicion that the caller is involved in the crime they are reporting,. Five studies used both real and simulated 911 calls with both police and laypeople as participants.",
+        "content": "",
+        "upvotes": 944,
+        "comments": 56,
+        "media": null,
+        "permalink": "/r/science/comments/1ip1dzk/expressing_lower_emotion_on_911_calls_is/"
     },
     {
         "id": "1ior2mb",
         "author": "mvea",
         "title": "The consequences of US abortion bans - more babies and higher infant mortality: an estimated 478 additional infant deaths in the 14 states with bans and around one extra baby born per 1,000 woman, or a total of 22,180 additional babies across the country.",
         "content": "",
-        "upvotes": 3335,
-        "comments": 260,
+        "upvotes": 3373,
+        "comments": 261,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/9EgnXeTv3IbpmHVBq9hiaAk6K5gSIySAfR5WVnXLtPk.jpg?auto=webp&amp;s=f0b679215378b8e8c24417cb64df5e3808bce0fe"
@@ -226,7 +295,7 @@
         "author": "NeuroTeuro",
         "title": "Human-Centric Approach to Cyber Threat Identification: The Role of Cognition, Experience, and Education in Decision-Making",
         "content": "",
-        "upvotes": 23,
+        "upvotes": 26,
         "comments": 3,
         "media": {
             "type": "image",
@@ -239,8 +308,8 @@
         "author": "Wagamaga",
         "title": "Researchers have developed a reactor that pulls carbon dioxide directly from the air and converts it into sustainable fuel, using sunlight as the power source",
         "content": "",
-        "upvotes": 4191,
-        "comments": 236,
+        "upvotes": 4218,
+        "comments": 240,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/n1ppO_XHr0bnjCCR5ASHh_5ikfAfOQ8uyFFIZwJtMS8.jpg?auto=webp&amp;s=0de6c98802f491e11aadbff59d9b8d095a1bd708"
@@ -252,7 +321,7 @@
         "author": "Science_News",
         "title": "After decades of drought, recent storms added back only 25 percent of the water lost from Southern California's aquifers since 2006",
         "content": "",
-        "upvotes": 2650,
+        "upvotes": 2685,
         "comments": 45,
         "media": {
             "type": "image",
@@ -265,8 +334,8 @@
         "author": "FunnyGamer97",
         "title": "Study finds neurologic complications of flu nearly 50 times greater for children with underlying neurologic conditions such as seizures, meningitis, altered mental status, and movement disorders",
         "content": "",
-        "upvotes": 413,
-        "comments": 4,
+        "upvotes": 419,
+        "comments": 5,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/TgiPS6ZlcdyT9oYwtDuKRc9h5Iddu2ukfhShyy0re0w.jpg?auto=webp&amp;s=65102ae694a1bccbb07787d86cdd6a4aec7b88f6"
@@ -278,7 +347,7 @@
         "author": "calliope_kekule",
         "title": "A large-scale analysis of 1,705 studies shows that pesticides negatively impact non-target plants, animals, and microbes - raising concerns about biodiversity loss.",
         "content": "",
-        "upvotes": 273,
+        "upvotes": 295,
         "comments": 12,
         "media": {
             "type": "image",
@@ -291,84 +360,12 @@
         "author": "Wagamaga",
         "title": "Research found that special gut cells, called enterochromaffin (EC) cells, play a more significant role in pain than previously thought, by detecting harmful stimuli and releasing large amounts of neurotransmitters that influence how nerves communicate with the brain",
         "content": "",
-        "upvotes": 164,
+        "upvotes": 167,
         "comments": 5,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/uDB11hIZUb47ymzqqdfCJPhnPmjW11YpfH48IDNEmSQ.jpg?auto=webp&amp;s=ed496af2939ac90358bafd73c11f648a60cee19d"
         },
         "permalink": "/r/science/comments/1ip508d/research_found_that_special_gut_cells_called/"
-    },
-    {
-        "id": "1ip4yuv",
-        "author": "smurfyjenkins",
-        "title": "The Gautreaux Project, the largest racial desegregation initiative in US history, enabled thousands of Black families to move into white neighborhoods from the late 1970s to the 1990s. Being raised in these neighborhoods increased children\u2019s future lifetime earnings and wealth.",
-        "content": "",
-        "upvotes": 151,
-        "comments": 6,
-        "media": null,
-        "permalink": "/r/science/comments/1ip4yuv/the_gautreaux_project_the_largest_racial/"
-    },
-    {
-        "id": "1ip77hs",
-        "author": "ecyrblim",
-        "title": "Guardian molecule helps liver cells maintain their identity and avoid becoming tumour cells. In preclinical liver cancer mouse models, PROX1 can halt cancer formation and slow cancer progression.",
-        "content": "",
-        "upvotes": 57,
-        "comments": 2,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/C-JkvDOOpkV0bBP9e_84EWD7eXR07diy79ccPrFHwyU.jpg?auto=webp&amp;s=c37c1d15879deb4b894db4154ab78326ae8e9be7"
-        },
-        "permalink": "/r/science/comments/1ip77hs/guardian_molecule_helps_liver_cells_maintain/"
-    },
-    {
-        "id": "1ip318u",
-        "author": "FunnyGamer97",
-        "title": "Ancient Egyptian mummified bodies smell \u2018woody,\u2019 \u2018spicy\u2019 and \u2018sweet' | The first time that the smells of mummified bodies have been systematically studied combining a mix of instrumental and sensory techniques, including an electronic \u2018nose\u2019 and trained, human \u2018sniffers.\u2019",
-        "content": "",
-        "upvotes": 127,
-        "comments": 17,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/PEkExteZzOjV_ftNzdnpAn70WtYsxBbZCNnUFV9T9O8.jpg?auto=webp&amp;s=66fc3837f98371667704cf2b29d6385bf50d7750"
-        },
-        "permalink": "/r/science/comments/1ip318u/ancient_egyptian_mummified_bodies_smell_woody/"
-    },
-    {
-        "id": "1iomz2j",
-        "author": "-Mystica-",
-        "title": "World\u2019s largely unprotected peatlands are ticking \u2018carbon bomb\u2019, warns study - Peatlands occupy just 3% of all land, but contain more carbon than all of the world\u2019s forests.",
-        "content": "",
-        "upvotes": 1056,
-        "comments": 23,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/hMzSoGPeadpHUptnbFyh_ng-LAAlUe5ODiJzMr9s5og.jpg?auto=webp&amp;s=4fc83d0e8b75392b7fc90c00b9add3678391a0c0"
-        },
-        "permalink": "/r/science/comments/1iomz2j/worlds_largely_unprotected_peatlands_are_ticking/"
-    },
-    {
-        "id": "1ioqfpz",
-        "author": "Wagamaga",
-        "title": "Losing your sense of taste, especially for salty and sour foods, could be linked to early death in older adults. Research found those whose sense of taste declined since their younger years had a 47% higher risk of dying in the six-year follow-up period.",
-        "content": "",
-        "upvotes": 643,
-        "comments": 32,
-        "media": null,
-        "permalink": "/r/science/comments/1ioqfpz/losing_your_sense_of_taste_especially_for_salty/"
-    },
-    {
-        "id": "1iopfj4",
-        "author": "Science_News",
-        "title": "Zebras and giraffes herding together boosts both species\u2019 chances of survival, researchers report in American Naturalist",
-        "content": "",
-        "upvotes": 411,
-        "comments": 8,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/Zg47s7sWfOarFWwijW4AridfRDvp0nyeg4XlVHHNlZk.jpg?auto=webp&amp;s=c1ae261b4a3d061ef8f5035e58037cc26deae267"
-        },
-        "permalink": "/r/science/comments/1iopfj4/zebras_and_giraffes_herding_together_boosts_both/"
     }
 ]
