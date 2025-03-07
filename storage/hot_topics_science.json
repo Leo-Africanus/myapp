@@ -4,8 +4,8 @@
         "author": "mvea",
         "title": "Cannabis-like synthetic compound delivers pain relief without addictive high. Experiments on mice show it binds to pain-sensing cells like natural cannabis and delivers similar pain relief but does not cross blood-brain barrier, eliminating mind-altering side effects that make cannabis addictive.",
         "content": "",
-        "upvotes": 3527,
-        "comments": 656,
+        "upvotes": 4146,
+        "comments": 726,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/xFeHRrTd5_54FXjr8VajSIcYLC8M3OqIIHTlinEL2ZU.jpg?auto=webp&amp;s=7ac2eb7c935a704cf2bf2c016ed28f3d8c2dcd68"
@@ -17,8 +17,8 @@
         "author": "wise_karlaz",
         "title": "Exercise worsens brain metabolism in ME/CFS by depleting metabolites, disrupting folate metabolism, and altering lipids and energy, contributing to cognitive dysfunction and post-exertional malaise.",
         "content": "",
-        "upvotes": 2097,
-        "comments": 289,
+        "upvotes": 2155,
+        "comments": 303,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/5--JJR-5TIzVgI6FBYrctd41-XtlneCDuNPN8-kkkag.jpg?auto=webp&amp;s=8b0c00b79b38aa9366cd80ae04030b65d855f678"
@@ -30,8 +30,8 @@
         "author": "wise_karlaz",
         "title": "Neither osteopathy nor chiropractic care can be recommended as first-line treatments for musculoskeletal conditions",
         "content": "",
-        "upvotes": 702,
-        "comments": 73,
+        "upvotes": 723,
+        "comments": 77,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/a1hYXmJu8JalShvZlUBEUYbGdTcZ4YCicuQySdCZL-A.jpg?auto=webp&amp;s=ab9eb04cea83145aa2d46c945486848f21fd3db8"
@@ -43,7 +43,7 @@
         "author": "mvea",
         "title": "Ayahuasca, a traditional Amazonian brew known for its psychedelic effects, appears to enhance certain aspects of memory, according to a recent study. This memory boost was selective, as it did not increase false memories or their general feeling of familiarity with the scenes.",
         "content": "",
-        "upvotes": 370,
+        "upvotes": 390,
         "comments": 11,
         "media": {
             "type": "image",
@@ -56,7 +56,7 @@
         "author": "mvea",
         "title": "Paralyzed man moves robotic arm with his thoughts - He was able to grasp, move and drop objects just by imagining himself performing the actions. Brain-computer interface (BCI) worked for a record 7 months without needing to be adjusted. Until now, such devices have only worked for a day or two.",
         "content": "",
-        "upvotes": 3182,
+        "upvotes": 3197,
         "comments": 53,
         "media": {
             "type": "image",
@@ -65,24 +65,11 @@
         "permalink": "/r/science/comments/1j58nun/paralyzed_man_moves_robotic_arm_with_his_thoughts/"
     },
     {
-        "id": "1j53870",
-        "author": "mvea",
-        "title": "Naturally occurring molecule identified appears similar to semaglutide (Ozempic) in suppressing appetite and reducing body weight. Notably, testing in mice and pigs also showed it worked without some of the drug\u2019s side effects such as nausea, constipation and significant loss of muscle mass.",
-        "content": "",
-        "upvotes": 5329,
-        "comments": 214,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/S6nOFkqp6SfeiWWM6LZxkUwFCjnsn9wccDxEJmIx5K0.jpg?auto=webp&amp;s=f49cc439178c5240fc1985ea045bd65d43b0f099"
-        },
-        "permalink": "/r/science/comments/1j53870/naturally_occurring_molecule_identified_appears/"
-    },
-    {
         "id": "1j5nevu",
         "author": "sciencealert",
         "title": "Scientists Discover Thousands of New Microbes Lurking in The Ocean's Deepest Zone",
         "content": "",
-        "upvotes": 176,
+        "upvotes": 180,
         "comments": 1,
         "media": {
             "type": "image",
@@ -91,11 +78,37 @@
         "permalink": "/r/science/comments/1j5nevu/scientists_discover_thousands_of_new_microbes/"
     },
     {
+        "id": "1j53870",
+        "author": "mvea",
+        "title": "Naturally occurring molecule identified appears similar to semaglutide (Ozempic) in suppressing appetite and reducing body weight. Notably, testing in mice and pigs also showed it worked without some of the drug\u2019s side effects such as nausea, constipation and significant loss of muscle mass.",
+        "content": "",
+        "upvotes": 5347,
+        "comments": 217,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/S6nOFkqp6SfeiWWM6LZxkUwFCjnsn9wccDxEJmIx5K0.jpg?auto=webp&amp;s=f49cc439178c5240fc1985ea045bd65d43b0f099"
+        },
+        "permalink": "/r/science/comments/1j53870/naturally_occurring_molecule_identified_appears/"
+    },
+    {
+        "id": "1j5rrjv",
+        "author": "Science_News",
+        "title": "Some sea turtles are laying eggs earlier in response to climate change",
+        "content": "",
+        "upvotes": 64,
+        "comments": 2,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/pohDtvw96MFSR3R_xwh4Ffrhs0hi7uSp44-ywY630n8.jpg?auto=webp&amp;s=b8d523e88ce386a6c13a10603777ef4eca5d16e4"
+        },
+        "permalink": "/r/science/comments/1j5rrjv/some_sea_turtles_are_laying_eggs_earlier_in/"
+    },
+    {
         "id": "1j54cp6",
         "author": "Wagamaga",
         "title": "Butterflies declined by 22% in just 2 decades across the US. Nearly one-third of the 342 butterfly species we were able to study declined by more than half. Twenty-two species fell by more than 90%. Only nine actually increased in numbers.",
         "content": "",
-        "upvotes": 2502,
+        "upvotes": 2512,
         "comments": 42,
         "media": {
             "type": "image",
@@ -108,7 +121,7 @@
         "author": "mvea",
         "title": "People who undergo surgery just before the weekend have a significantly increased risk of death and complications, finds a new study. This is commonly called the \"weekend effect,\u201d when hospitals and health care systems tend to operate with skeleton crews during the weekend.",
         "content": "",
-        "upvotes": 16641,
+        "upvotes": 16645,
         "comments": 323,
         "media": {
             "type": "image",
@@ -121,7 +134,7 @@
         "author": "chrisdh79",
         "title": "Researchers create gel that can self-heal like human skin | The hydrogel has a unique structure, making it the first to combine strength and flexibility with self-healing capabilities.",
         "content": "",
-        "upvotes": 91,
+        "upvotes": 98,
         "comments": 5,
         "media": {
             "type": "image",
@@ -130,35 +143,12 @@
         "permalink": "/r/science/comments/1j5lquv/researchers_create_gel_that_can_selfheal_like/"
     },
     {
-        "id": "1j5rrjv",
-        "author": "Science_News",
-        "title": "Some sea turtles are laying eggs earlier in response to climate change",
-        "content": "",
-        "upvotes": 32,
-        "comments": 2,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/pohDtvw96MFSR3R_xwh4Ffrhs0hi7uSp44-ywY630n8.jpg?auto=webp&amp;s=b8d523e88ce386a6c13a10603777ef4eca5d16e4"
-        },
-        "permalink": "/r/science/comments/1j5rrjv/some_sea_turtles_are_laying_eggs_earlier_in/"
-    },
-    {
-        "id": "1j56fgz",
-        "author": "MassGen-Research",
-        "title": "Large Study of Dietary Habits Suggests More Plant Oils, Less Butter Could Lead to Better Health",
-        "content": "",
-        "upvotes": 876,
-        "comments": 221,
-        "media": null,
-        "permalink": "/r/science/comments/1j56fgz/large_study_of_dietary_habits_suggests_more_plant/"
-    },
-    {
         "id": "1j5q6xl",
         "author": "chrisdh79",
         "title": "Parenthood linked to shifts in gender ideology, study finds | Women are inclined to embrace more traditional roles following childbirth, while fathers seem to be related to both their wives\u2019 gender perspectives and the economic dynamics of the partnership.",
         "content": "",
-        "upvotes": 29,
-        "comments": 35,
+        "upvotes": 53,
+        "comments": 53,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/TU1-_HV1CWy10HrbYdHMUc-7rE-bt8Sepmms1CI7-bo.jpg?auto=webp&amp;s=87e2126d1567ed6ca8fa5239f93a36b8fe5e3c18"
@@ -166,24 +156,21 @@
         "permalink": "/r/science/comments/1j5q6xl/parenthood_linked_to_shifts_in_gender_ideology/"
     },
     {
-        "id": "1j54byf",
-        "author": "MistWeaver80",
-        "title": "Researchers who are accused of sexual misconduct start to receive fewer citations after the media covers the allegations. But the same cannot be said about scientists publicly accused of scientific fraud, whose citations remain unchanged.",
+        "id": "1j56fgz",
+        "author": "MassGen-Research",
+        "title": "Large Study of Dietary Habits Suggests More Plant Oils, Less Butter Could Lead to Better Health",
         "content": "",
-        "upvotes": 972,
-        "comments": 19,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/khiVjTRv46Hy8TuiNnMZbFAvvO8W3jlJ9hQFlO65wac.jpg?auto=webp&amp;s=d8b21ebecd8460857ffaa94320f8652616ae187f"
-        },
-        "permalink": "/r/science/comments/1j54byf/researchers_who_are_accused_of_sexual_misconduct/"
+        "upvotes": 883,
+        "comments": 221,
+        "media": null,
+        "permalink": "/r/science/comments/1j56fgz/large_study_of_dietary_habits_suggests_more_plant/"
     },
     {
         "id": "1j5pttw",
         "author": "-Mystica-",
         "title": "Climate change and variability drive increasing exposure of marine heatwaves across US estuaries - A first-of-its-kind study predicts East Coast estuaries will face marine heat waves up to a third of the year by 2100, threatening vital fish nurseries, fisheries, and millions of jobs.",
         "content": "",
-        "upvotes": 30,
+        "upvotes": 32,
         "comments": 3,
         "media": {
             "type": "image",
@@ -192,17 +179,43 @@
         "permalink": "/r/science/comments/1j5pttw/climate_change_and_variability_drive_increasing/"
     },
     {
+        "id": "1j54byf",
+        "author": "MistWeaver80",
+        "title": "Researchers who are accused of sexual misconduct start to receive fewer citations after the media covers the allegations. But the same cannot be said about scientists publicly accused of scientific fraud, whose citations remain unchanged.",
+        "content": "",
+        "upvotes": 976,
+        "comments": 20,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/khiVjTRv46Hy8TuiNnMZbFAvvO8W3jlJ9hQFlO65wac.jpg?auto=webp&amp;s=d8b21ebecd8460857ffaa94320f8652616ae187f"
+        },
+        "permalink": "/r/science/comments/1j54byf/researchers_who_are_accused_of_sexual_misconduct/"
+    },
+    {
         "id": "1j4yzuq",
         "author": "memorialmonorail",
         "title": "Just a few days of eating a diet high in saturated fat could be enough to cause memory problems and related brain inflammation in older adults, a new study in rats suggests. The results dispel the idea that diet-related inflammation in the aging brain is driven by obesity, researchers say.",
         "content": "",
-        "upvotes": 1501,
+        "upvotes": 1503,
         "comments": 99,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/c7gW85lE7nOh5zzCTg-8RTMr5fvuY_pvJJGJWcoKZnw.jpg?auto=webp&amp;s=96601ed3ab3735abca50c9c19137109b1020a898"
         },
         "permalink": "/r/science/comments/1j4yzuq/just_a_few_days_of_eating_a_diet_high_in/"
+    },
+    {
+        "id": "1j5mzm1",
+        "author": "PHealthy",
+        "title": "Parasitic organism offers eco-friendly treatment for wastewater foaming",
+        "content": "",
+        "upvotes": 28,
+        "comments": 2,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/Vyt0q0rZhr8AW6y7pGnYlPkjceCqzma217Q2UDaIIV0.jpg?auto=webp&amp;s=9ede67a418b66dab3db4f38641b3000d0d19d7fd"
+        },
+        "permalink": "/r/science/comments/1j5mzm1/parasitic_organism_offers_ecofriendly_treatment/"
     },
     {
         "id": "1j5j9ma",
@@ -215,24 +228,11 @@
         "permalink": "/r/science/comments/1j5j9ma/smoking_and_antibiotic_resistance_how_smoke/"
     },
     {
-        "id": "1j5mzm1",
-        "author": "PHealthy",
-        "title": "Parasitic organism offers eco-friendly treatment for wastewater foaming",
-        "content": "",
-        "upvotes": 26,
-        "comments": 1,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/Vyt0q0rZhr8AW6y7pGnYlPkjceCqzma217Q2UDaIIV0.jpg?auto=webp&amp;s=9ede67a418b66dab3db4f38641b3000d0d19d7fd"
-        },
-        "permalink": "/r/science/comments/1j5mzm1/parasitic_organism_offers_ecofriendly_treatment/"
-    },
-    {
         "id": "1j5kpyj",
         "author": "mareacaspica",
         "title": "Physicists Create \u2018Crystal Lattice at a Distance\u2019 to Study Electron Interactions",
         "content": "",
-        "upvotes": 24,
+        "upvotes": 25,
         "comments": 1,
         "media": {
             "type": "image",
@@ -245,7 +245,7 @@
         "author": "chrisdh79",
         "title": "Scientists have discovered the world\u2019s oldest known meteorite impact crater in Western Australia | It has been dated to about 3.5 billion years ago, at a time when these almost literally Earth-shattering events should have been occurring regularly.",
         "content": "",
-        "upvotes": 478,
+        "upvotes": 482,
         "comments": 4,
         "media": {
             "type": "image",
@@ -258,7 +258,7 @@
         "author": "Science_News",
         "title": "Scientists have identified multiple genes associated with obesity in Labradors",
         "content": "",
-        "upvotes": 279,
+        "upvotes": 278,
         "comments": 13,
         "media": {
             "type": "image",
@@ -271,17 +271,27 @@
         "author": "Wagamaga",
         "title": "Plastic Triggered a New Geological Epoch\u2014and the Evidence May Be in Bird Nests. Researcher's stumbled upon a bird nest that appeared to go back 30 years in time \u2013 filled with historical plastics. One particular piece is a Mars packaging with an announcement of the 1994 FIFA World Cup in the USA",
         "content": "",
-        "upvotes": 543,
+        "upvotes": 546,
         "comments": 14,
         "media": null,
         "permalink": "/r/science/comments/1j4y0gi/plastic_triggered_a_new_geological_epochand_the/"
+    },
+    {
+        "id": "1j5s1vf",
+        "author": "DrAngrist86",
+        "title": "Jellyfish blooms\u2014an overlooked hotspot and potential vector for the transmission of antimicrobial resistance in marine environments",
+        "content": "",
+        "upvotes": 4,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1j5s1vf/jellyfish_bloomsan_overlooked_hotspot_and/"
     },
     {
         "id": "1j4rj5u",
         "author": "Litvi",
         "title": "Scientists discover new part of the immune system. The proteasome - a cell structure that recycles proteins - has a secret mode that can spew out an arsenal of bacteria-killing chemicals. Identifying these proteasome-derived defence peptides could provide an untapped source of natural antibiotics.",
         "content": "",
-        "upvotes": 1184,
+        "upvotes": 1192,
         "comments": 8,
         "media": {
             "type": "image",
@@ -307,7 +317,7 @@
         "author": "mvea",
         "title": "People who use anti-inflammatory drugs over a long period of time may be at a lower risk of dementia regardless of the dosage. The findings suggest that prolonged, rather than intensive, use of anti-inflammatory medications may help protect against dementia.",
         "content": "",
-        "upvotes": 2295,
+        "upvotes": 2300,
         "comments": 65,
         "media": {
             "type": "image",
@@ -320,7 +330,7 @@
         "author": "mvea",
         "title": "Women in relationships with men diagnosed with ADHD experience higher levels of depression and a lower quality of life. Furthermore, those whose partners consistently took ADHD medication reported a higher quality of life than those whose partners were inconsistent with treatment.",
         "content": "",
-        "upvotes": 20675,
+        "upvotes": 20683,
         "comments": 1818,
         "media": {
             "type": "image",
@@ -333,7 +343,7 @@
         "author": "Wagamaga",
         "title": "Engineers have developed a pioneering prosthetic hand that can grip plush toys, water bottles, and other everyday objects like a human, carefully conforming and adjusting its grasp to avoid damaging or mishandling whatever it holds.",
         "content": "",
-        "upvotes": 165,
+        "upvotes": 161,
         "comments": 5,
         "media": {
             "type": "image",
@@ -346,7 +356,7 @@
         "author": "EXC_BREAKPOINT",
         "title": "Circadian rhythms affect muscle repair: study in mice suggests that muscle injuries heal faster when they occur during the body\u2019s natural waking hours",
         "content": "",
-        "upvotes": 101,
+        "upvotes": 97,
         "comments": 3,
         "media": {
             "type": "image",
@@ -359,22 +369,12 @@
         "author": "IntrepidGentian",
         "title": "Economic sectors that drive nature decline are heavily subsidized, between 1.7 and 3.2 Trillion US dollars every year, and produce large environmental externalities, between 10.5 and 22.6 Trillion US dollars.",
         "content": "",
-        "upvotes": 268,
+        "upvotes": 274,
         "comments": 4,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/2yG9IBqgvdbdYnvfDHc7s8KBPcaAtWgs6nNfonOrDXc.jpg?auto=webp&amp;s=8f022f5b481c9b7c84b1d7945d5d3b39303d2a19"
         },
         "permalink": "/r/science/comments/1j4vukp/economic_sectors_that_drive_nature_decline_are/"
-    },
-    {
-        "id": "1j5s1vf",
-        "author": "DrAngrist86",
-        "title": "Jellyfish blooms\u2014an overlooked hotspot and potential vector for the transmission of antimicrobial resistance in marine environments",
-        "content": "",
-        "upvotes": 2,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1j5s1vf/jellyfish_bloomsan_overlooked_hotspot_and/"
     }
 ]
