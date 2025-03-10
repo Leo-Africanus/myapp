@@ -4,7 +4,7 @@
         "author": "mvea",
         "title": "People on Wegovy or Ozempic find weight loss plateaus after losing 20-25% of body weight because the body responds by slowing down metabolism, burning fewer calories. Scientists discover in mice that they can turn off a gene so that the body doesn\u2019t realize it is fasting and continues burning sugar.",
         "content": "",
-        "upvotes": 7873,
+        "upvotes": 7911,
         "comments": 597,
         "media": {
             "type": "image",
@@ -17,7 +17,7 @@
         "author": "mvea",
         "title": "Your friends may be better for your mental health than your partner - nurturing friendships may be a consistent way to protect against depressive symptoms throughout life. However, becoming romantically involved was actually associated with increased depressive symptoms, regardless of age.",
         "content": "",
-        "upvotes": 5776,
+        "upvotes": 5802,
         "comments": 156,
         "media": {
             "type": "image",
@@ -30,7 +30,7 @@
         "author": "ddx-me",
         "title": "Vitamin D supplementation to prevent acute respiratory infections: systematic review and meta-analysis of stratified aggregate data",
         "content": "",
-        "upvotes": 160,
+        "upvotes": 171,
         "comments": 12,
         "media": null,
         "permalink": "/r/science/comments/1j7r111/vitamin_d_supplementation_to_prevent_acute/"
@@ -40,7 +40,7 @@
         "author": "calliope_kekule",
         "title": "A new study finds that widespread rooftop solar could lower global temperatures by 0.05\u20130.13\u00b0C by 2050.",
         "content": "",
-        "upvotes": 6946,
+        "upvotes": 6947,
         "comments": 182,
         "media": {
             "type": "image",
@@ -53,7 +53,7 @@
         "author": "calliope_kekule",
         "title": "New research finds ocean biology\u2019s CO\u2082 control is more complex than expected. Without the biological pump, CO\u2082 rises 163 ppm, but land absorbs some carbon. A warming, abiotic ocean weakens future uptake.",
         "content": "",
-        "upvotes": 62,
+        "upvotes": 61,
         "comments": 1,
         "media": {
             "type": "image",
@@ -66,7 +66,7 @@
         "author": "mvea",
         "title": "A huge study analysing 40 years of data has found tropical forests are not adapting fast enough to climate change, leading to fears over their ability to survive as the Earth warms.",
         "content": "",
-        "upvotes": 1484,
+        "upvotes": 1485,
         "comments": 14,
         "media": {
             "type": "image",
@@ -79,7 +79,7 @@
         "author": "chrisdh79",
         "title": "Psilocybin\u2019s impact on mental wellbeing varies by race, study finds | While both White individuals and People of Color experienced improvements in mental health after using psilocybin, some particularly in spiritual wellbeing appeared less pronounced and enduring for People of Color.",
         "content": "",
-        "upvotes": 1170,
+        "upvotes": 1172,
         "comments": 285,
         "media": {
             "type": "image",
@@ -88,21 +88,11 @@
         "permalink": "/r/science/comments/1j767r0/psilocybins_impact_on_mental_wellbeing_varies_by/"
     },
     {
-        "id": "1j7aptm",
-        "author": "acrobatpsychologist",
-        "title": "Donating money, even if small amounts, may improve depression, Chinese study finds.",
-        "content": "",
-        "upvotes": 435,
-        "comments": 27,
-        "media": null,
-        "permalink": "/r/science/comments/1j7aptm/donating_money_even_if_small_amounts_may_improve/"
-    },
-    {
         "id": "1j7txmp",
         "author": "mvea",
         "title": "Firefighters could be exposed to chemicals that put them at higher brain cancer risk. Haloalkanes, in flame retardants and fire extinguishers, have been linked to gliomas. Firefighters, and people in jobs such as car painting and machine maintenance, are at higher risk of haloalkane gene mutations.",
         "content": "",
-        "upvotes": 15,
+        "upvotes": 24,
         "comments": 2,
         "media": {
             "type": "image",
@@ -111,17 +101,40 @@
         "permalink": "/r/science/comments/1j7txmp/firefighters_could_be_exposed_to_chemicals_that/"
     },
     {
+        "id": "1j7aptm",
+        "author": "acrobatpsychologist",
+        "title": "Donating money, even if small amounts, may improve depression, Chinese study finds.",
+        "content": "",
+        "upvotes": 434,
+        "comments": 27,
+        "media": null,
+        "permalink": "/r/science/comments/1j7aptm/donating_money_even_if_small_amounts_may_improve/"
+    },
+    {
         "id": "1j7e5qa",
         "author": "nohup_me",
         "title": "Stretching spider silk aligns its protein chains and boosts hydrogen bonds, making the fibers stronger, tougher, and more elastic. This could lead to the development of stronger, biodegradable materials for applications like sutures and body armor",
         "content": "",
-        "upvotes": 143,
+        "upvotes": 146,
         "comments": 5,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/fdtEuHkEbuXvdl2Fpc3MgYJVCaI20weKhQ1OUVDXCxU.jpg?auto=webp&amp;s=5e06ae5446a2f14f2cfa5bc77325c8cb364fc657"
         },
         "permalink": "/r/science/comments/1j7e5qa/stretching_spider_silk_aligns_its_protein_chains/"
+    },
+    {
+        "id": "1j7tdf6",
+        "author": "BrnoRegion",
+        "title": "Synthetic browsing histories replicate user behavior without privacy risks, aiding cybersecurity, AI, and web analytics research",
+        "content": "",
+        "upvotes": 12,
+        "comments": 2,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/5lRDPEZg5a3LIWOiQYV9778SNYju9FUA6EPZhC-OS2c.jpg?auto=webp&amp;s=9e648c999391216aff2d472a143e5204cd4ecd1e"
+        },
+        "permalink": "/r/science/comments/1j7tdf6/synthetic_browsing_histories_replicate_user/"
     },
     {
         "id": "1j7i835",
@@ -134,24 +147,11 @@
         "permalink": "/r/science/comments/1j7i835/aging_activates_escape_of_the_silent_x_chromosome/"
     },
     {
-        "id": "1j7tdf6",
-        "author": "BrnoRegion",
-        "title": "Synthetic browsing histories replicate user behavior without privacy risks, aiding cybersecurity, AI, and web analytics research",
-        "content": "",
-        "upvotes": 11,
-        "comments": 2,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/5lRDPEZg5a3LIWOiQYV9778SNYju9FUA6EPZhC-OS2c.jpg?auto=webp&amp;s=9e648c999391216aff2d472a143e5204cd4ecd1e"
-        },
-        "permalink": "/r/science/comments/1j7tdf6/synthetic_browsing_histories_replicate_user/"
-    },
-    {
         "id": "1j7te80",
         "author": "BrnoRegion",
         "title": "Brno researchers discovered that phosphorus atoms on copper form stable copper phosphide, unexpectedly transforming into blue phosphorene, revealing insights into 2D growth",
         "content": "",
-        "upvotes": 10,
+        "upvotes": 12,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1j7te80/brno_researchers_discovered_that_phosphorus_atoms/"
@@ -161,7 +161,7 @@
         "author": "chrisdh79",
         "title": "A new study has found that exposure to second-hand smoke during pregnancy and actually smoking increase the risk of placental abruption, a complication that can be fatal to both parent and baby.",
         "content": "",
-        "upvotes": 360,
+        "upvotes": 365,
         "comments": 7,
         "media": {
             "type": "image",
@@ -174,8 +174,8 @@
         "author": "mvea",
         "title": "Study found that while gender stereotypes are often viewed as misleading, they are surprisingly accurate. People correctly guess whether men or women are higher on a given trait about 85% of the time. Findings suggest gender stereotypes reflect genuine patterns in human behavior and social roles.",
         "content": "",
-        "upvotes": 9129,
-        "comments": 1333,
+        "upvotes": 9143,
+        "comments": 1334,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/5oVpuTeGFhZSIqq-ss_VQvgQvejHJBElVo0SRrIZiGE.jpg?auto=webp&amp;s=26bff9dcb100059dd68ede2369c86537e224638a"
@@ -187,7 +187,7 @@
         "author": "Wagamaga",
         "title": "About 40% of adults with chronic pain have anxiety or depression, according to new research covering data from more than 50 countries. Those most likely to have depression and anxiety are women, younger people",
         "content": "",
-        "upvotes": 2793,
+        "upvotes": 2794,
         "comments": 100,
         "media": {
             "type": "image",
@@ -200,7 +200,7 @@
         "author": "mvea",
         "title": "Study confirmed the existence of the orgasm gap. Men reported experiencing orgasms in 90% of their sexual encounters, while women reported orgasms in only 54% of their encounters. Men were 15x more likely to orgasm, and were far more satisfied, than women during partnered sex.",
         "content": "",
-        "upvotes": 14537,
+        "upvotes": 14536,
         "comments": 1789,
         "media": {
             "type": "image",
@@ -213,7 +213,7 @@
         "author": "Osho1982",
         "title": "New Research: Digital Technology Fundamentally Transforms Holocaust Memory Preservation",
         "content": "",
-        "upvotes": 54,
+        "upvotes": 55,
         "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1j7brfm/new_research_digital_technology_fundamentally/"
@@ -223,7 +223,7 @@
         "author": "soulpost",
         "title": "Scientists find AI can predict protein misfolding in Alzheimer\u2019s and Parkinson\u2019s",
         "content": "",
-        "upvotes": 350,
+        "upvotes": 349,
         "comments": 3,
         "media": null,
         "permalink": "/r/science/comments/1j71yss/scientists_find_ai_can_predict_protein_misfolding/"
@@ -233,7 +233,7 @@
         "author": "chrisdh79",
         "title": "A new study has found that Californian men who hold more traditional, less gender-equal beliefs are significantly more likely to report committing intimate partner violence.",
         "content": "",
-        "upvotes": 1953,
+        "upvotes": 1958,
         "comments": 135,
         "media": {
             "type": "image",
@@ -246,7 +246,7 @@
         "author": "bluish1997",
         "title": "Pathogen genomic surveillance and the AI revolution",
         "content": "",
-        "upvotes": 12,
+        "upvotes": 11,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1j7lw8k/pathogen_genomic_surveillance_and_the_ai/"
@@ -256,7 +256,7 @@
         "author": "chrisdh79",
         "title": "Stem cell therapy trial reverses \"irreversible\" damage to cornea | This new clinical trial has repaired this damage in patients thanks to a transplant of stem cells from their healthy eyes.",
         "content": "",
-        "upvotes": 1230,
+        "upvotes": 1227,
         "comments": 15,
         "media": {
             "type": "image",
@@ -282,7 +282,7 @@
         "author": "emlava--dash",
         "title": "Rats can discriminate white wine varietal odors and trained to distinguish between novel wines of two varietals",
         "content": "",
-        "upvotes": 239,
+        "upvotes": 242,
         "comments": 16,
         "media": {
             "type": "image",
@@ -295,7 +295,7 @@
         "author": "Osho1982",
         "title": "Thematic Analysis of Twitter Data Reveals Distinctive Patterns in How Individuals with Anorexia Nervosa Navigated COVID-19 Restrictions",
         "content": "",
-        "upvotes": 15,
+        "upvotes": 14,
         "comments": 2,
         "media": {
             "type": "image",
@@ -308,7 +308,7 @@
         "author": "mvea",
         "title": "Chronic moderate stress increases risk of stroke by 78% in young women but not in men, finds new study. By contrast, men show stronger association with other risk factors for stroke, such as heavy alcohol consumption. Men also are taught to under-report stress and \"tough it out.\u201d",
         "content": "",
-        "upvotes": 2155,
+        "upvotes": 2153,
         "comments": 22,
         "media": {
             "type": "image",
@@ -321,7 +321,7 @@
         "author": "Wagamaga",
         "title": "Unmet needs increase susceptibility to believing in conspiracy theories. Psychologists have found that when individuals spread conspiracy theories it can be an attempt to compensate for their feelings of uncertainty, insecurity and to defend their own \u2018threatened\u2019 social image.",
         "content": "",
-        "upvotes": 2112,
+        "upvotes": 2117,
         "comments": 91,
         "media": null,
         "permalink": "/r/science/comments/1j6dxia/unmet_needs_increase_susceptibility_to_believing/"
@@ -344,7 +344,7 @@
         "author": "James_Fortis",
         "title": "Adopting a plant-based diet could provide non-linear protective effects against chronic diseases, with the magnitude of this protection varying by gender, study finds",
         "content": "",
-        "upvotes": 740,
+        "upvotes": 744,
         "comments": 88,
         "media": {
             "type": "image",
@@ -357,7 +357,7 @@
         "author": "sciencealert",
         "title": "Stick From a Dead Juniper Shrub Found in the Finnish Tundra Reveals the Plant Lived For 1,647 Years",
         "content": "",
-        "upvotes": 447,
+        "upvotes": 441,
         "comments": 5,
         "media": {
             "type": "image",
