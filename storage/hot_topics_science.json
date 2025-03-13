@@ -4,8 +4,8 @@
         "author": "mvea",
         "title": "Top 20% of high-income, college-educated Americans have less heart disease risk than others, and this gap has widened over past two decades, even after adjusting for factors like blood pressure, cholesterol and BMI. Life expectancy for richest 1% of Americans is now 10 years higher than poorest 1%.",
         "content": "",
-        "upvotes": 5685,
-        "comments": 235,
+        "upvotes": 5807,
+        "comments": 242,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/XxqjIl6pTh8RFkUCo6wMJNyQKvB26yhM3Q_tC9AXTrA.jpg?auto=webp&amp;s=971dbb58451177298d2cd709e526f83ce7bab140"
@@ -17,8 +17,8 @@
         "author": "chrisdh79",
         "title": "Men in childcare are seen as less warm, moral, and competent than women | Study explores the stereotypes that shape public perceptions of men working in childcare and how these beliefs influence support for increasing gender diversity in the field.",
         "content": "",
-        "upvotes": 544,
-        "comments": 131,
+        "upvotes": 630,
+        "comments": 143,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/n8FwjLDJsN9vUJUJlZqjkZ2xWzdXQb8Wyl02vW3THBo.jpg?auto=webp&amp;s=0ae8af1baaaeb30914a55edb1ac1aca818692ee0"
@@ -30,8 +30,8 @@
         "author": "mvea",
         "title": "Poor quality or lack of sleep, as well as sleep disorders, were linked to lower brain volume. The evidence from a review of over 100 studies suggests that inadequate sleep could contribute to neurodegeneration.",
         "content": "",
-        "upvotes": 711,
-        "comments": 20,
+        "upvotes": 771,
+        "comments": 22,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/TUTuhoKmidw5K07JPKAtBsfY4ACgjDiBmvTh5uuperY.jpg?auto=webp&amp;s=71afb38e044e386eacf38fff744f76fbee3a6b3d"
@@ -39,12 +39,25 @@
         "permalink": "/r/science/comments/1jaabzz/poor_quality_or_lack_of_sleep_as_well_as_sleep/"
     },
     {
+        "id": "1jaf7k4",
+        "author": "pomod",
+        "title": "For the 1st time in Canada, surgeons put teeth in patients' eyes to restore sight",
+        "content": "",
+        "upvotes": 165,
+        "comments": 30,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/U58d4ueeYNBn3hgGg6ugwaBlK-xkxR59QZA-_49KZY0.jpg?auto=webp&amp;s=8c27901360329edc92b54431ecb28b4a50af9ce4"
+        },
+        "permalink": "/r/science/comments/1jaf7k4/for_the_1st_time_in_canada_surgeons_put_teeth_in/"
+    },
+    {
         "id": "1ja97yt",
         "author": "chrisdh79",
         "title": "Scientists Devise Game-Changing Way to Extract Lithium From Salt Lakes | As global demand for lithium skyrockets, this newly devised method could be a huge boon for lithium production.",
         "content": "",
-        "upvotes": 355,
-        "comments": 11,
+        "upvotes": 368,
+        "comments": 12,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/II-LQajyxDxo4eye004Km_tHY3LK2qG5BLr6-cWCgYY.jpg?auto=webp&amp;s=8c48a78a97631a08f77116bfd5142aee4812128c"
@@ -56,8 +69,8 @@
         "author": "FunnyGamer97",
         "title": "Violent supernovae 'triggered at least two Earth extinctions' | At least two mass extinction events in Earth's history were likely caused by the \"devastating\" effects of nearby supernova explosions, study suggests",
         "content": "",
-        "upvotes": 1441,
-        "comments": 106,
+        "upvotes": 1483,
+        "comments": 108,
         "media": null,
         "permalink": "/r/science/comments/1ja2oa2/violent_supernovae_triggered_at_least_two_earth/"
     },
@@ -66,30 +79,17 @@
         "author": "Wagamaga",
         "title": "Research found athletes who returned to play after concussion had significantly reduced blood flow in the brain in the fronto-insular cortex, a part of the brain that helps control thinking and memory, emotion and social behavior.",
         "content": "",
-        "upvotes": 228,
+        "upvotes": 229,
         "comments": 3,
         "media": null,
         "permalink": "/r/science/comments/1ja83vl/research_found_athletes_who_returned_to_play/"
-    },
-    {
-        "id": "1jaf7k4",
-        "author": "pomod",
-        "title": "For the 1st time in Canada, surgeons put teeth in patients' eyes to restore sight",
-        "content": "",
-        "upvotes": 72,
-        "comments": 14,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/U58d4ueeYNBn3hgGg6ugwaBlK-xkxR59QZA-_49KZY0.jpg?auto=webp&amp;s=8c27901360329edc92b54431ecb28b4a50af9ce4"
-        },
-        "permalink": "/r/science/comments/1jaf7k4/for_the_1st_time_in_canada_surgeons_put_teeth_in/"
     },
     {
         "id": "1j9wchf",
         "author": "mvea",
         "title": "The herb rosemary has long been linked with memory. A compound found in rosemary and sage, carnosic acid, is an antioxidant and anti-inflammatory. A stable form of carnosic acid was used to treat mouse models of Alzheimer\u2019s disease, leading to greater memory function and other disease improvements.",
         "content": "",
-        "upvotes": 1287,
+        "upvotes": 1301,
         "comments": 18,
         "media": {
             "type": "image",
@@ -102,7 +102,7 @@
         "author": "chrisdh79",
         "title": "Large study shows drinking alcohol is good for your cholesterol levels | There are many risks from drinking, but high cholesterol doesn't seem to be one.",
         "content": "",
-        "upvotes": 613,
+        "upvotes": 619,
         "comments": 127,
         "media": {
             "type": "image",
@@ -115,7 +115,7 @@
         "author": "PHealthy",
         "title": "Murine Study Finds Multi-Dose Vaccines Administered in the Same Site Boost Immune Response",
         "content": "",
-        "upvotes": 64,
+        "upvotes": 63,
         "comments": 2,
         "media": {
             "type": "image",
@@ -124,11 +124,24 @@
         "permalink": "/r/science/comments/1jaan9a/murine_study_finds_multidose_vaccines/"
     },
     {
+        "id": "1jaeno9",
+        "author": "FlipH19Switch",
+        "title": "Reprogramming to restore youthful epigenetics of senescent nucleus pulposus cells for mitigating intervertebral disc degeneration and alleviating low back pain",
+        "content": "",
+        "upvotes": 29,
+        "comments": 3,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/DqoE5eh3PMbiyjIxgO6o9GSXQJMh8fUM6m5AJUdBdLE.jpg?auto=webp&amp;s=40fa59d3a1063d55036ea16aaf95e70879d380e3"
+        },
+        "permalink": "/r/science/comments/1jaeno9/reprogramming_to_restore_youthful_epigenetics_of/"
+    },
+    {
         "id": "1jac8nx",
         "author": "IntrepidGentian",
         "title": "Most detailed map of landscape beneath Antarctica's ice sheet has been assembled by a team including scientists from Newcastle University. Thickest ice is 4757 m, average excluding ice shelves 2148 m.",
         "content": "",
-        "upvotes": 38,
+        "upvotes": 39,
         "comments": 3,
         "media": {
             "type": "image",
@@ -141,8 +154,8 @@
         "author": "mvea",
         "title": "Microplastics, from 1 to 62 micrometers long, are present in filtered solutions in medical intravenous (IV) infusions. Study estimates that thousands of plastic particles could be delivered directly to a person\u2019s bloodstream from a single 8.4-ounce (250-milliliter) bag of IV infusion fluid.",
         "content": "",
-        "upvotes": 4505,
-        "comments": 293,
+        "upvotes": 4520,
+        "comments": 295,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/7ds11wY7LbI_AuOZYvSG5sGUOjKo3qHtcmmHhOdD5cU.jpg?auto=webp&amp;s=2fa847de643d28ca9cd61b8d3e306923e800987b"
@@ -154,7 +167,7 @@
         "author": "MistWeaver80",
         "title": "Children who regularly eat seafood at age 7 exhibit more positive social behaviors\u2014such as sharing, helping, and interacting kindly\u2014by ages 7 and 9, compared to those who rarely consume seafood. N = 6,000 children",
         "content": "",
-        "upvotes": 5412,
+        "upvotes": 5422,
         "comments": 364,
         "media": {
             "type": "image",
@@ -163,24 +176,11 @@
         "permalink": "/r/science/comments/1j9g32s/children_who_regularly_eat_seafood_at_age_7/"
     },
     {
-        "id": "1j9cp7c",
-        "author": "calliope_kekule",
-        "title": "A new study finds that at least 1.1% of medieval manuscripts were copied by female scribes - suggesting over 110,000 manuscripts were written by women.",
-        "content": "",
-        "upvotes": 11474,
-        "comments": 261,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/onNE85001n3BWbKz7Zb5YLRuh3phksL1W6rJ6ljnsaM.jpg?auto=webp&amp;s=b3aa504437884c64e675fbfe29dd7d19507e1291"
-        },
-        "permalink": "/r/science/comments/1j9cp7c/a_new_study_finds_that_at_least_11_of_medieval/"
-    },
-    {
         "id": "1jachz8",
         "author": "AgingUS",
         "title": "Age, sex, and mitochondrial-haplotype influence gut microbiome composition and metabolites in a genetically diverse rat model",
         "content": "",
-        "upvotes": 26,
+        "upvotes": 25,
         "comments": 2,
         "media": {
             "type": "image",
@@ -189,24 +189,24 @@
         "permalink": "/r/science/comments/1jachz8/age_sex_and_mitochondrialhaplotype_influence_gut/"
     },
     {
-        "id": "1jaeno9",
-        "author": "FlipH19Switch",
-        "title": "Reprogramming to restore youthful epigenetics of senescent nucleus pulposus cells for mitigating intervertebral disc degeneration and alleviating low back pain",
+        "id": "1j9cp7c",
+        "author": "calliope_kekule",
+        "title": "A new study finds that at least 1.1% of medieval manuscripts were copied by female scribes - suggesting over 110,000 manuscripts were written by women.",
         "content": "",
-        "upvotes": 17,
-        "comments": 2,
+        "upvotes": 11483,
+        "comments": 262,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/DqoE5eh3PMbiyjIxgO6o9GSXQJMh8fUM6m5AJUdBdLE.jpg?auto=webp&amp;s=40fa59d3a1063d55036ea16aaf95e70879d380e3"
+            "url": "https://external-preview.redd.it/onNE85001n3BWbKz7Zb5YLRuh3phksL1W6rJ6ljnsaM.jpg?auto=webp&amp;s=b3aa504437884c64e675fbfe29dd7d19507e1291"
         },
-        "permalink": "/r/science/comments/1jaeno9/reprogramming_to_restore_youthful_epigenetics_of/"
+        "permalink": "/r/science/comments/1j9cp7c/a_new_study_finds_that_at_least_11_of_medieval/"
     },
     {
         "id": "1j9otr5",
         "author": "Wagamaga",
         "title": "Ancient DNA shows Stone Age Europeans voyaged by sea to Africa. The discovery is the first direct evidence of trans-Mediterranean sea voyaging during this time, although archaeological finds have hinted at cultural exchange between European and North African hunter-gatherers.",
         "content": "",
-        "upvotes": 973,
+        "upvotes": 974,
         "comments": 18,
         "media": {
             "type": "image",
@@ -219,7 +219,7 @@
         "author": "FunnyGamer97",
         "title": "New antibody reduces tumor growth in treatment-resistant breast and ovarian cancers | IgE antibodies treatment in mice slowed tumor growth, including in cases resistant to existing therapies",
         "content": "",
-        "upvotes": 109,
+        "upvotes": 112,
         "comments": 3,
         "media": {
             "type": "image",
@@ -232,7 +232,7 @@
         "author": "sciencealert",
         "title": "Repeating Radio Signal Traced Back to a White Dwarf-Red Dwarf Binary System Around 1,645 light-years from Earth",
         "content": "",
-        "upvotes": 289,
+        "upvotes": 293,
         "comments": 20,
         "media": {
             "type": "image",
@@ -245,7 +245,7 @@
         "author": "Wagamaga",
         "title": "Global ocean surface temperatures were at record levels for more than a year from April 2023 onwards, exceeding the previous record in 2015\u20132016 by 0.25\u2009\u00b0C on average between April 2023 and March 2024",
         "content": "",
-        "upvotes": 24,
+        "upvotes": 25,
         "comments": 3,
         "media": {
             "type": "image",
@@ -258,7 +258,7 @@
         "author": "sciencealert",
         "title": "Scientists Uncover Face of The Earliest Human Ancestor Ever Found in Western Europe",
         "content": "",
-        "upvotes": 247,
+        "upvotes": 248,
         "comments": 10,
         "media": {
             "type": "image",
@@ -271,8 +271,8 @@
         "author": "MistWeaver80",
         "title": "The tendency to view men as default \"people\" is well documented. Another study found parents across the US are more likely to use gender-neutral labels\u2014for instance, \"kid\"\u2014more often for boys than for girls and to use gender-specific labels, such as \"girl,\" more often for girls.",
         "content": "",
-        "upvotes": 2111,
-        "comments": 335,
+        "upvotes": 2119,
+        "comments": 337,
         "media": null,
         "permalink": "/r/science/comments/1j9gam9/the_tendency_to_view_men_as_default_people_is/"
     },
@@ -281,7 +281,7 @@
         "author": "NGNResearch",
         "title": "Researcher figures out how to diagnose people with sleep apnea while they\u2019re awake using EEGs",
         "content": "",
-        "upvotes": 343,
+        "upvotes": 347,
         "comments": 15,
         "media": {
             "type": "image",
@@ -307,8 +307,8 @@
         "author": "mvea",
         "title": "Under-8s should not drink slushies containing glycerol - Study of 21 hospitalisations shows the iced drinks can cause glycerol intoxication syndrome, leading to decreased consciousness and low blood sugar. Glycerol is a sugar substitute in slushies to prevent liquid from freezing solid.",
         "content": "",
-        "upvotes": 1286,
-        "comments": 74,
+        "upvotes": 1288,
+        "comments": 75,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/tOzKfHFbPzJ3bWyYFU9Z7K3yuoAA095kqQ2yZQrrrXE.jpg?auto=webp&amp;s=37180eaad63aec08ff42c359749f7d6388af1eca"
@@ -320,7 +320,7 @@
         "author": "universityofturku",
         "title": "Researchers produced nanotubes that could be used in developing more accurate sensors for healthcare in the future. They discovered that the electrochemical response of the sensor is affected by the chirality of the nanotube, as some chiralities are more efficient than others in adsorbing molecules.",
         "content": "",
-        "upvotes": 14,
+        "upvotes": 13,
         "comments": 2,
         "media": {
             "type": "image",
@@ -333,7 +333,7 @@
         "author": "calliope_kekule",
         "title": "A study of 11.8M Medicare patients found floods led to 4.8% more ER visits and 7.4% more hospitalisations, costing $260M+.",
         "content": "",
-        "upvotes": 33,
+        "upvotes": 31,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1ja58jt/a_study_of_118m_medicare_patients_found_floods/"
@@ -343,7 +343,7 @@
         "author": "Wagamaga",
         "title": "Artificial intelligence predicts adolescent mental health risk before symptoms emerge. The United States is facing a youth mental health crisis. Almost 50% of teens will experience some form of mental illness, and of those, two-thirds will not get support from a mental\nhealth professional",
         "content": "",
-        "upvotes": 510,
+        "upvotes": 511,
         "comments": 56,
         "media": {
             "type": "image",
@@ -356,7 +356,7 @@
         "author": "nohup_me",
         "title": "Researchers have identified a genetic link to smoking in pregnancy, they found also that males experience more long-lasting effects when the mother smokes whilst pregnant",
         "content": "",
-        "upvotes": 167,
+        "upvotes": 173,
         "comments": 4,
         "media": null,
         "permalink": "/r/science/comments/1j9rbk5/researchers_have_identified_a_genetic_link_to/"
