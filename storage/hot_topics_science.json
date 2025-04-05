@@ -1,21 +1,57 @@
 [
     {
+        "id": "1js05dt",
+        "author": "mvea",
+        "title": "Americans have a dim view of their country\u2019s future. The US media is biased towards bad news. People are pessimistic about the nation\u2019s future after reading bad news, finds new study.",
+        "content": "",
+        "upvotes": 3248,
+        "comments": 485,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/B_PDxIS7G42ALTGICwGA8VeBdcVao20rtZjPHx4h9wQ.jpg?auto=webp&amp;s=bd6884eb3fb0ce1f5844f7b439a348b199f4be89"
+        },
+        "permalink": "/r/science/comments/1js05dt/americans_have_a_dim_view_of_their_countrys/"
+    },
+    {
+        "id": "1js20jn",
+        "author": "mvea",
+        "title": "Brain abnormalities seen in military members with blast exposure: Study challenges the idea that \u201cinvisible\u201d injuries are harmless. Service members with more blast exposure had more severe symptoms\u2014including memory problems, emotional difficulties and signs of post-traumatic stress disorder.",
+        "content": "",
+        "upvotes": 797,
+        "comments": 18,
+        "media": null,
+        "permalink": "/r/science/comments/1js20jn/brain_abnormalities_seen_in_military_members_with/"
+    },
+    {
         "id": "1jrjpwq",
         "author": "mvea",
         "title": "Democrats are more likely to trust their personal doctors and follow their doctors\u2019 advice than Republicans, new research finds. The study found that Republicans and Democrats shared a trust in their doctors until 2020, when Democrats began to show more trust in their doctors than Republicans.",
         "content": "",
-        "upvotes": 15647,
-        "comments": 519,
+        "upvotes": 17911,
+        "comments": 587,
         "media": null,
         "permalink": "/r/science/comments/1jrjpwq/democrats_are_more_likely_to_trust_their_personal/"
+    },
+    {
+        "id": "1js0lgu",
+        "author": "Wagamaga",
+        "title": "More than 4 in 5 Australian parents concerned about junk food marketing. Banning unhealthy food advertising on TV before 9pm and removing child-appealing marketing elements like cartoons from unhealthy food packaging are  popular policies, supported by more than half of respondents",
+        "content": "",
+        "upvotes": 560,
+        "comments": 24,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/xk_UkNzQY-RfC-3_A_5lJS_Bh9EWMI6z2tBNgx8O4Bk.jpg?auto=webp&amp;s=34cbd867bf371433749c552d192d105ca192b701"
+        },
+        "permalink": "/r/science/comments/1js0lgu/more_than_4_in_5_australian_parents_concerned/"
     },
     {
         "id": "1jrqcdj",
         "author": "mvea",
         "title": "U.S. democracy appears to have weakened during the 21st century. This democratic backsliding damages favorable U.S. image among the global public, finds an international study of 12 countries.",
         "content": "",
-        "upvotes": 1837,
-        "comments": 55,
+        "upvotes": 2570,
+        "comments": 80,
         "media": null,
         "permalink": "/r/science/comments/1jrqcdj/us_democracy_appears_to_have_weakened_during_the/"
     },
@@ -24,8 +60,8 @@
         "author": "calliope_kekule",
         "title": "A new study found COVID-19 infection significantly reduced sperm count, motility, and increased DNA fragmentation, potentially affecting male fertility.",
         "content": "",
-        "upvotes": 296,
-        "comments": 9,
+        "upvotes": 867,
+        "comments": 16,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/AaUu8OmkjDXczNdfSeowN_9jogcQnLJcf9R6h4g83_k.jpg?auto=webp&amp;s=d6d23a8e2f282b6eea0aabe6343f08a5173ad4df"
@@ -33,12 +69,35 @@
         "permalink": "/r/science/comments/1jrvr19/a_new_study_found_covid19_infection_significantly/"
     },
     {
+        "id": "1js1g2l",
+        "author": "chrisdh79",
+        "title": "Scientists have discovered how an Australian jumping spider's semi-hydraulics allows it to speed jump long distances with precision while experiencing g-forces higher than those of fighter pilots | Their insights might help robotics research.",
+        "content": "",
+        "upvotes": 202,
+        "comments": 8,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/XTjcEQEhwqd9L1SkqZgk_cFdLScQxksVD-8JvArL8CM.jpg?auto=webp&amp;s=1ae92ad6501f8cf6fd7ddb9b272c3e5449ead946"
+        },
+        "permalink": "/r/science/comments/1js1g2l/scientists_have_discovered_how_an_australian/"
+    },
+    {
+        "id": "1js6peh",
+        "author": "coolbern",
+        "title": "Now It's The Scientist Who Must Evolve \u2014 Or Go The Way Of The Dodo. In the wake of attacks on the research enterprise, scientists need to focus on protecting its fragile infrastructure. But they must also adapt to a new world.",
+        "content": "",
+        "upvotes": 48,
+        "comments": 9,
+        "media": null,
+        "permalink": "/r/science/comments/1js6peh/now_its_the_scientist_who_must_evolve_or_go_the/"
+    },
+    {
         "id": "1jrt3fp",
         "author": "chrisdh79",
         "title": "A 180-year-old drug may be the fastest depression treatment ever discovered on mice | A new study shows that nitrous oxide may provide fast relief for those struggling with depression when traditional treatments fail.",
         "content": "",
-        "upvotes": 266,
-        "comments": 66,
+        "upvotes": 454,
+        "comments": 86,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/7SW8E8nVXfd3Yx93SlOIOyh8LeMbWBGKrBYLr1FBrpg.jpg?auto=webp&amp;s=38fac5d00293ae1683f81a76bd3cef810ebf0865"
@@ -46,11 +105,37 @@
         "permalink": "/r/science/comments/1jrt3fp/a_180yearold_drug_may_be_the_fastest_depression/"
     },
     {
+        "id": "1js2sjl",
+        "author": "Potential_Being_7226",
+        "title": "Gene Linked to Autism Alters Face Perception in Dogs | Shank3 mutation reduces interest in human and canine faces in beagles.",
+        "content": "",
+        "upvotes": 62,
+        "comments": 4,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/w0hPFtOW-_2DfmvnPID-PnYh12n_-Me6mQa7HraPyPQ.jpg?auto=webp&amp;s=375ba0e1e579fc4c3a78750f1a556726dcbfc8e7"
+        },
+        "permalink": "/r/science/comments/1js2sjl/gene_linked_to_autism_alters_face_perception_in/"
+    },
+    {
+        "id": "1js6i53",
+        "author": "Aggravating_Money992",
+        "title": "Scientists find age-related links between beverage choices and mental health risks. A large study has found that different types of beverages are linked to the likelihood of developing depression and anxiety disorders.",
+        "content": "",
+        "upvotes": 24,
+        "comments": 7,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/_Qwp83Man9LoTonvZurRGPRUts9xqik-AD1-OWaLIq8.jpg?auto=webp&amp;s=1289bfedea8413d216b14458e47b320a671cef84"
+        },
+        "permalink": "/r/science/comments/1js6i53/scientists_find_agerelated_links_between_beverage/"
+    },
+    {
         "id": "1jrg29z",
         "author": "uniofwarwick",
         "title": "Astronomers have discovered an extremely rare, high mass, compact binary star system  ~150 light years away. These two stars are on a collision course to explode as a type 1a supernova, appearing 10 times brighter than the moon in the night sky",
         "content": "",
-        "upvotes": 1402,
+        "upvotes": 1570,
         "comments": 73,
         "media": {
             "type": "image",
@@ -59,12 +144,25 @@
         "permalink": "/r/science/comments/1jrg29z/astronomers_have_discovered_an_extremely_rare/"
     },
     {
+        "id": "1js263k",
+        "author": "bluish1997",
+        "title": "Bacteriophage Q\u03b2 virus like particle vaccines elicit protective antibodies against heroin and fentanyl",
+        "content": "",
+        "upvotes": 42,
+        "comments": 5,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/NJ_XkdLfbBFXCeCm8KYZ2Qk9iN_vnbNJJz473wlNm_Y.jpg?auto=webp&amp;s=d022816ce1d7797def2b29229c45f0516a514a63"
+        },
+        "permalink": "/r/science/comments/1js263k/bacteriophage_q\u03b2_virus_like_particle_vaccines/"
+    },
+    {
         "id": "1jrj3xc",
         "author": "nohup_me",
         "title": "A study of more than 600,000 first-time mothers in Denmark\ufeff found that those who started a hormonal contraceptive in the year after giving birth were almost 1.5-times more likely to develop depression compared to mothers not using a hormonal contraceptive",
         "content": "",
-        "upvotes": 725,
-        "comments": 17,
+        "upvotes": 948,
+        "comments": 18,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/EiPhRPSFbfyrQf6aLVNxMIaZd0fRd2EoFsj1_SyHMmc.jpg?auto=webp&amp;s=0422ca98ea4a0f2f2e07e178d9491d14f7ae3396"
@@ -72,12 +170,22 @@
         "permalink": "/r/science/comments/1jrj3xc/a_study_of_more_than_600000_firsttime_mothers_in/"
     },
     {
+        "id": "1js0qgq",
+        "author": "rustoo",
+        "title": "Study: Dietary modifications may help individuals manage pain associated with endometriosis. The most popular involved reduction or elimination of specific items (eg, alcohol, gluten, dairy, caffeine) rather than specific diets, such as the low-FODMAP diet.",
+        "content": "",
+        "upvotes": 35,
+        "comments": 26,
+        "media": null,
+        "permalink": "/r/science/comments/1js0qgq/study_dietary_modifications_may_help_individuals/"
+    },
+    {
         "id": "1jr8bb9",
         "author": "chrisdh79",
         "title": "Iconic \"rotting flesh\" scented corpse flower in grave danger of dying out | 1,200 corpse flowers currently living in 111 gardens and other institutions around the world.",
         "content": "",
-        "upvotes": 2757,
-        "comments": 54,
+        "upvotes": 2984,
+        "comments": 56,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/DLxrfBITLD_RsgLHLawWRamftilpucaVYlLTn-eqBFU.jpg?auto=webp&amp;s=4225f40a05c3776b4fa3547b747da31d727f0580"
@@ -89,8 +197,8 @@
         "author": "mvea",
         "title": "Exercise as an anti-ageing intervention to avoid detrimental impact of mental fatigue - Retired people who habitually exercise are more able to fight the impacts of mental fatigue, and outperformed sedentary adults in physical and cognitive tests, new research suggests.",
         "content": "",
-        "upvotes": 1607,
-        "comments": 22,
+        "upvotes": 1729,
+        "comments": 23,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/exYW_9mPyNt84b_5rUL-xIy_bHOiUqs-D6n7BpJWSss.jpg?auto=webp&amp;s=b8f73e9c7bbda5f981deb591280c927fcb9c62b9"
@@ -102,8 +210,8 @@
         "author": "Potential_Being_7226",
         "title": "Gendered expectations extend to science communication: In scientific societies, women are shouldering the bulk of this work \u2014 often voluntarily \u2014 due to societal expectations and a sense of duty.",
         "content": "",
-        "upvotes": 732,
-        "comments": 127,
+        "upvotes": 794,
+        "comments": 133,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/r9RoH4ydai1dheW05GeIq7XZAOFJ5nQ_ESIZYoqr18U.jpg?auto=webp&amp;s=c74b2d067153339fa0627b449fecf40f9cf54091"
@@ -115,7 +223,7 @@
         "author": "Curiosity-0123",
         "title": "Ancient DNA from the Green Sahara reveals ancestral North African lineage",
         "content": "",
-        "upvotes": 91,
+        "upvotes": 116,
         "comments": 3,
         "media": {
             "type": "image",
@@ -124,11 +232,21 @@
         "permalink": "/r/science/comments/1jrp92z/ancient_dna_from_the_green_sahara_reveals/"
     },
     {
+        "id": "1jrt0u2",
+        "author": "theoriezz",
+        "title": "Combination immunotherapy shrank a variety of metastatic gastrointestinal cancers",
+        "content": "",
+        "upvotes": 48,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1jrt0u2/combination_immunotherapy_shrank_a_variety_of/"
+    },
+    {
         "id": "1jrl3ha",
         "author": "Wagamaga",
         "title": "Exposure to wildfire smoke linked with worsening mental health conditions. A 10 \u03bcg/m3 increase in wildfire-specific PM2.5 was linked to a higher number of visits, including for depression, anxiety, and other mood-affective disorders, for up to seven days post-exposure.",
         "content": "",
-        "upvotes": 130,
+        "upvotes": 152,
         "comments": 8,
         "media": {
             "type": "image",
@@ -137,22 +255,12 @@
         "permalink": "/r/science/comments/1jrl3ha/exposure_to_wildfire_smoke_linked_with_worsening/"
     },
     {
-        "id": "1jrt0u2",
-        "author": "theoriezz",
-        "title": "Combination immunotherapy shrank a variety of metastatic gastrointestinal cancers",
-        "content": "",
-        "upvotes": 40,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1jrt0u2/combination_immunotherapy_shrank_a_variety_of/"
-    },
-    {
         "id": "1jr6u7l",
         "author": "RhiannaSmithSci",
         "title": "Female hormones, estrogen and progesterone, regulate T cells to produce a natural opioid, offering insights for non-opioid pain treatments for chronic pain.",
         "content": "",
-        "upvotes": 1060,
-        "comments": 27,
+        "upvotes": 1210,
+        "comments": 28,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/WV-aPYxoFOlvVlidl_vO99z3nxvRllK9rx1yS87sAvo.jpg?auto=webp&amp;s=15c23a61256b57eb01789e95dce10c7f6aded206"
@@ -164,27 +272,17 @@
         "author": "fchung",
         "title": "AEgIS transforms smartphone sensors into an antimatter camera of unprecedented resolution: \u00ab The AEgIS collaboration has repurposed smartphone camera sensors to create a detector capable of imaging antiproton annihilations in real time with unprecedented resolution. \u00bb",
         "content": "",
-        "upvotes": 97,
+        "upvotes": 98,
         "comments": 4,
         "media": null,
         "permalink": "/r/science/comments/1jrlw8y/aegis_transforms_smartphone_sensors_into_an/"
-    },
-    {
-        "id": "1jqt6q4",
-        "author": "MistWeaver80",
-        "title": "A switch of just two weeks from a traditional African diet to a Western diet causes inflammation, reduces the immune response to pathogens, and activates processes associated with lifestyle diseases. Conversely, an African diet rich in vegetables, fiber, and fermented foods has positive effects.",
-        "content": "",
-        "upvotes": 10005,
-        "comments": 448,
-        "media": null,
-        "permalink": "/r/science/comments/1jqt6q4/a_switch_of_just_two_weeks_from_a_traditional/"
     },
     {
         "id": "1jrczba",
         "author": "chrisdh79",
         "title": "3D-Printed Imitation Skin Could Replace Animal Testing | The imitation skin is equipped with living cells and could be used for testing nanoparticle-containing cosmetics.",
         "content": "",
-        "upvotes": 286,
+        "upvotes": 310,
         "comments": 8,
         "media": {
             "type": "image",
@@ -193,11 +291,21 @@
         "permalink": "/r/science/comments/1jrczba/3dprinted_imitation_skin_could_replace_animal/"
     },
     {
+        "id": "1jqt6q4",
+        "author": "MistWeaver80",
+        "title": "A switch of just two weeks from a traditional African diet to a Western diet causes inflammation, reduces the immune response to pathogens, and activates processes associated with lifestyle diseases. Conversely, an African diet rich in vegetables, fiber, and fermented foods has positive effects.",
+        "content": "",
+        "upvotes": 10145,
+        "comments": 450,
+        "media": null,
+        "permalink": "/r/science/comments/1jqt6q4/a_switch_of_just_two_weeks_from_a_traditional/"
+    },
+    {
         "id": "1jr9tz9",
         "author": "Wagamaga",
         "title": "Children exposed to higher levels of air pollution in early and mid childhood have weaker connections between key brain region. The associations persisted throughout adolescence, suggesting persistent disruptions in the normal development of brain networks",
         "content": "",
-        "upvotes": 286,
+        "upvotes": 325,
         "comments": 11,
         "media": {
             "type": "image",
@@ -206,24 +314,11 @@
         "permalink": "/r/science/comments/1jr9tz9/children_exposed_to_higher_levels_of_air/"
     },
     {
-        "id": "1jr0nrc",
-        "author": "mvea",
-        "title": "New study finds that over 95% of sponsored influencer posts on Twitter (now X) were not disclosed. A large number of consumers can\u2019t detect the sponsorship arrangement without disclosure. The consumer-protection regulatory environment around undisclosed sponsorships has lagged behind.",
-        "content": "",
-        "upvotes": 1134,
-        "comments": 23,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/dQLqpfkAlp3Ak5HvIhwzVfrtNxM6vPTmZ2j5aXJXODc.jpg?auto=webp&amp;s=b19e1f5112a49db1dd0513953b05692ef2891165"
-        },
-        "permalink": "/r/science/comments/1jr0nrc/new_study_finds_that_over_95_of_sponsored/"
-    },
-    {
         "id": "1jrced4",
         "author": "Hrmbee",
         "title": "A genetic change that turned horses into athletic powerhouses | Running a genetic stop sign accelerates oxygen metabolism and energy production in horses",
         "content": "",
-        "upvotes": 127,
+        "upvotes": 148,
         "comments": 7,
         "media": {
             "type": "image",
@@ -232,37 +327,24 @@
         "permalink": "/r/science/comments/1jrced4/a_genetic_change_that_turned_horses_into_athletic/"
     },
     {
-        "id": "1jr3hba",
-        "author": "calliope_kekule",
-        "title": "China\u2019s reforestation has turned land-use from a carbon source into a huge carbon sink, absorbing one-third of national land carbon emissions since 2001.",
+        "id": "1jr0nrc",
+        "author": "mvea",
+        "title": "New study finds that over 95% of sponsored influencer posts on Twitter (now X) were not disclosed. A large number of consumers can\u2019t detect the sponsorship arrangement without disclosure. The consumer-protection regulatory environment around undisclosed sponsorships has lagged behind.",
         "content": "",
-        "upvotes": 575,
-        "comments": 3,
+        "upvotes": 1175,
+        "comments": 23,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/RFjRz5JSbSRCskd5DuPbJL1cqrFZXPxN4z-gN4NbcDY.jpg?auto=webp&amp;s=5a588156b8dd655733da5d53a863b379e2208d5d"
+            "url": "https://external-preview.redd.it/dQLqpfkAlp3Ak5HvIhwzVfrtNxM6vPTmZ2j5aXJXODc.jpg?auto=webp&amp;s=b19e1f5112a49db1dd0513953b05692ef2891165"
         },
-        "permalink": "/r/science/comments/1jr3hba/chinas_reforestation_has_turned_landuse_from_a/"
-    },
-    {
-        "id": "1jqi5fq",
-        "author": "theslipguy",
-        "title": "Maintaining 9 Inches of Wood Chips Reduces Playground Fall Impact Forces by 44%. Only 4.7% of playgrounds maintain 9-inches likely placing children at higher risk of playground injuries.",
-        "content": "",
-        "upvotes": 11203,
-        "comments": 780,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/rWvLWNVPIF0jnwF-efqerhkvwH9qOjmfZzSOuzuSlhw.jpg?auto=webp&amp;s=1c4e78e7a60b7e76339989c9efe5abb4e340a049"
-        },
-        "permalink": "/r/science/comments/1jqi5fq/maintaining_9_inches_of_wood_chips_reduces/"
+        "permalink": "/r/science/comments/1jr0nrc/new_study_finds_that_over_95_of_sponsored/"
     },
     {
         "id": "1jrmq0j",
         "author": "AgingUS",
         "title": "Mitochondrial oxidative stress or decreased autophagy in osteoblast lineage cells is not sufficient to mimic the deleterious effects of aging on bone mechanoresponsiveness",
         "content": "",
-        "upvotes": 23,
+        "upvotes": 33,
         "comments": 3,
         "media": {
             "type": "image",
@@ -271,101 +353,16 @@
         "permalink": "/r/science/comments/1jrmq0j/mitochondrial_oxidative_stress_or_decreased/"
     },
     {
-        "id": "1jrgpqo",
-        "author": "MistWeaver80",
-        "title": "A study (n=13,184) from Denmark, Finland, and Norway found that, while 71% of the participants support gender egalitarianism, 19% favor gender equality in public roles but support sex inequality in family roles. Another small minority does not believe in gender equality.",
+        "id": "1jr3hba",
+        "author": "calliope_kekule",
+        "title": "China\u2019s reforestation has turned land-use from a carbon source into a huge carbon sink, absorbing one-third of national land carbon emissions since 2001.",
         "content": "",
-        "upvotes": 43,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/science/comments/1jrgpqo/a_study_n13184_from_denmark_finland_and_norway/"
-    },
-    {
-        "id": "1jqoa6u",
-        "author": "nohup_me",
-        "title": "Scientists have shown that a sequence of just three amino acids may reduce the severity of psoriasis, when applied topically in an emollient cream",
-        "content": "",
-        "upvotes": 2424,
-        "comments": 30,
+        "upvotes": 600,
+        "comments": 3,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/5eOuhnUzjS1KfXbC7P-TUGOmO201VB_J2ZT9krzMqNw.jpg?auto=webp&amp;s=147edbf576f35feea4c6ff5d066230fa9408b178"
+            "url": "https://external-preview.redd.it/RFjRz5JSbSRCskd5DuPbJL1cqrFZXPxN4z-gN4NbcDY.jpg?auto=webp&amp;s=5a588156b8dd655733da5d53a863b379e2208d5d"
         },
-        "permalink": "/r/science/comments/1jqoa6u/scientists_have_shown_that_a_sequence_of_just/"
-    },
-    {
-        "id": "1jr0dfv",
-        "author": "FalconEducational260",
-        "title": "In the Calls of Bonobos, Scientists Hear Hints of Language - The New York Times",
-        "content": "",
-        "upvotes": 508,
-        "comments": 45,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/mfoO31_BWt-V2on612XzVoJJIeMeupPmdf_RSu7S5iA.jpg?auto=webp&amp;s=7b78f5e14a23e9f9caed98d3818f8d7712959b83"
-        },
-        "permalink": "/r/science/comments/1jr0dfv/in_the_calls_of_bonobos_scientists_hear_hints_of/"
-    },
-    {
-        "id": "1jqqzl1",
-        "author": "GeoGeoGeoGeo",
-        "title": "This Is the Most Detailed Map of Antarctica Ever Made - Scientists compiled decades of data to reveal the continent hiding beneath millions of miles of ice.",
-        "content": "",
-        "upvotes": 1264,
-        "comments": 77,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/O3-mI7HdiRYhToj8fEePsCqcTcjfti-rEtbQauLFdJY.jpg?auto=webp&amp;s=a70c157f8c366bee17b60c9d7441bae8732919f1"
-        },
-        "permalink": "/r/science/comments/1jqqzl1/this_is_the_most_detailed_map_of_antarctica_ever/"
-    },
-    {
-        "id": "1jr5z0j",
-        "author": "RhiannaSmithSci",
-        "title": "A new study investigates how white matter connectivity differs in children with autism spectrum disorder (ASD). Using advanced imaging techniques, the researchers found that differences in key neural pathways were linked to core ASD symptoms such as repetitive behaviors.",
-        "content": "",
-        "upvotes": 122,
-        "comments": 2,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/Lh5sU_6OXQy4laz1yzFfqZwbNpl71X0c8Z3c1pigQms.jpg?auto=webp&amp;s=86904d9fa2d97a93039f7957397224a1c011abe6"
-        },
-        "permalink": "/r/science/comments/1jr5z0j/a_new_study_investigates_how_white_matter/"
-    },
-    {
-        "id": "1jqox1p",
-        "author": "mvea",
-        "title": "Deporting immigrants may further shrink the health care workforce. More than 1 million noncitizen immigrants (one-third of them undocumented) work in health care in the US. Many health care workers may be removed if President Trump implements plans to deport undocumented immigrants.",
-        "content": "",
-        "upvotes": 1336,
-        "comments": 165,
-        "media": null,
-        "permalink": "/r/science/comments/1jqox1p/deporting_immigrants_may_further_shrink_the/"
-    },
-    {
-        "id": "1jqei2o",
-        "author": "mvea",
-        "title": "Study found that people who were not married were less at risk (at least 50% lower risk) than married people for dementia. One contributing factor may be that single people are better at maintaining social ties. Single people may also have a greater variety of interesting and unique experiences.",
-        "content": "",
-        "upvotes": 4875,
-        "comments": 174,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/y-U375Wwwr65GFprmCrlphs-d6KAaji83q_c4OKZ-f8.jpg?auto=webp&amp;s=a77df1d6331e63950937f2be75282dc86ad026f4"
-        },
-        "permalink": "/r/science/comments/1jqei2o/study_found_that_people_who_were_not_married_were/"
-    },
-    {
-        "id": "1jrawug",
-        "author": "JeremyWheels",
-        "title": "Low-density lipoprotein cholesterol levels and risk of incident dementia: a distributed network analysis using common data models",
-        "content": "",
-        "upvotes": 27,
-        "comments": 4,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/ixhykKMS5AYFTIuYoWVrss_lY3kHUA9pgW2szPIYVMI.jpg?auto=webp&amp;s=e353ae3bebcea5af86686f70d775c8eeade46e17"
-        },
-        "permalink": "/r/science/comments/1jrawug/lowdensity_lipoprotein_cholesterol_levels_and/"
+        "permalink": "/r/science/comments/1jr3hba/chinas_reforestation_has_turned_landuse_from_a/"
     }
 ]
