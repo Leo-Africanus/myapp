@@ -1,11 +1,24 @@
 [
     {
+        "id": "1jul5ti",
+        "author": "mvea",
+        "title": "Two mixtures of common food additives (aspartame, sucralose, xanthan and guar gums, modified starches, carrageenan and citric acid) linked with increased risk of type 2 diabetes. First found in broth, dairy desserts, fats, and sauces and second in artificially sweetened beverages and sugary drinks.",
+        "content": "",
+        "upvotes": 1464,
+        "comments": 101,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/2F5sNPYlUUDZL5bGLGx4Hdm8xLrlXsg39VTfNyUGJfc.jpg?auto=webp&amp;s=1405259e7649fcf41830eb23b7f53f819449bc99"
+        },
+        "permalink": "/r/science/comments/1jul5ti/two_mixtures_of_common_food_additives_aspartame/"
+    },
+    {
         "id": "1jubv7u",
         "author": "mvea",
         "title": "Background music impacts employees: When background music at a workplace is out of sync with what workers need to do their jobs, it can affect their energy, mood and even performance, and can lead employees to feel more fatigued, have trouble focusing, and not really enjoy being at work.",
         "content": "",
-        "upvotes": 908,
-        "comments": 63,
+        "upvotes": 3122,
+        "comments": 182,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/SDVV_LzsUCUx45zKjau5oJqW_lbTG_52yvs4zTLouTY.jpg?auto=webp&amp;s=f4ffe60dd9f829daa10e04a6d6f25f5be26008d3"
@@ -17,8 +30,8 @@
         "author": "mvea",
         "title": "Veteran lawmakers are more effective and bipartisan, study finds. Members of US House of Representatives with military experience are more effective at passing legislation and more likely to work with colleagues across party lines. This is more pronounced among veterans who served on active duty.",
         "content": "",
-        "upvotes": 1239,
-        "comments": 31,
+        "upvotes": 2287,
+        "comments": 51,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/Ch_lXTEFRy0vhhU2LsaBG1b77HKxYP-v_hWsliIHOqA.jpg?auto=webp&amp;s=9b185d0ee0e2b16351bcc8ad340d04f4b81a02c2"
@@ -26,12 +39,45 @@
         "permalink": "/r/science/comments/1ju9wia/veteran_lawmakers_are_more_effective_and/"
     },
     {
+        "id": "1juj7lu",
+        "author": "nohup_me",
+        "title": "New research suggests that instead of drastically reducing calories, people can achieve similar metabolic benefits of intermittent fasting by cutting back on carbs, leading to better handling of a high-fat meal and reduced triglyceride levels",
+        "content": "",
+        "upvotes": 563,
+        "comments": 69,
+        "media": null,
+        "permalink": "/r/science/comments/1juj7lu/new_research_suggests_that_instead_of_drastically/"
+    },
+    {
+        "id": "1julbq3",
+        "author": "nohup_me",
+        "title": "Researchers have discovered that increased blood flow leads to stiffness in the hippocampus, a region of the brain that plays important roles in learning and memory, opening new potential ways to diagnose Alzheimer\u2019s before memory loss occurs",
+        "content": "",
+        "upvotes": 244,
+        "comments": 14,
+        "media": null,
+        "permalink": "/r/science/comments/1julbq3/researchers_have_discovered_that_increased_blood/"
+    },
+    {
+        "id": "1juj3a8",
+        "author": "Hrmbee",
+        "title": "Technique for stronger pour-over coffee with no extra beans developed by scientists | Pour-over coffee: Mixing by a water jet impinging on a granular bed with avalanche dynamics",
+        "content": "",
+        "upvotes": 299,
+        "comments": 23,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/JfxRY-zOw2xBR8R84CEerHvDlxfZ8El5SmMR0yKA6us.jpg?auto=webp&amp;s=59310cb305d2756321606ea7933ff89df9f61cb7"
+        },
+        "permalink": "/r/science/comments/1juj3a8/technique_for_stronger_pourover_coffee_with_no/"
+    },
+    {
         "id": "1ju0ioi",
         "author": "mvea",
         "title": "Newer classes of diabetes drugs that lower blood glucose, including drugs such as Ozempic, have been linked to a lower risk of developing Alzheimer's disease and other dementias.",
         "content": "",
-        "upvotes": 3987,
-        "comments": 112,
+        "upvotes": 4716,
+        "comments": 125,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/GrU51YifJEuQJCSMr18R4XWeQFyY1WdMiJONM6MbG4A.jpg?auto=webp&amp;s=4a0dd3c6ec0a6846a2ce67a774d0b2340d5398d3"
@@ -39,48 +85,12 @@
         "permalink": "/r/science/comments/1ju0ioi/newer_classes_of_diabetes_drugs_that_lower_blood/"
     },
     {
-        "id": "1ju79nn",
-        "author": "calliope_kekule",
-        "title": "A study of 9 LLMs found medically unjustified differences in care based on patient identity \u2013 with Black, LGBTQIA+, and unhoused patients often receiving worse or unnecessary recommendations.",
-        "content": "",
-        "upvotes": 888,
-        "comments": 53,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/-0UPXKp0ofiNcrg2_gGDo2Rcx17zO8-MtfFKJzlYT4o.jpg?auto=webp&amp;s=09883db64becbb2d21d88e8c80da2e5d39822fe6"
-        },
-        "permalink": "/r/science/comments/1ju79nn/a_study_of_9_llms_found_medically_unjustified/"
-    },
-    {
-        "id": "1jtsssi",
-        "author": "nohup_me",
-        "title": "A study found that young people aged 17 to 30 with ADHD reported listening to background music significantly more often than neurotypicals when playing sports and studying, preferring stimulating music over relaxing music",
-        "content": "",
-        "upvotes": 5813,
-        "comments": 270,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/jupmL6M964L8sZxXEMKLKbp07hbxbQm6EOUVaL_YCaY.jpg?auto=webp&amp;s=a305c48b303729939ddbee79ac4f4729ff3c31d6"
-        },
-        "permalink": "/r/science/comments/1jtsssi/a_study_found_that_young_people_aged_17_to_30/"
-    },
-    {
-        "id": "1ju9f25",
-        "author": "Wagamaga",
-        "title": "Childhood Experiences Shape the Brain\u2019s White Matter with Cognitive Effects Seen Years Later. Research found the aspects of white matter that show a relationship with our early life environment are much more pervasive throughout the brain than first thought",
-        "content": "",
-        "upvotes": 326,
-        "comments": 15,
-        "media": null,
-        "permalink": "/r/science/comments/1ju9f25/childhood_experiences_shape_the_brains_white/"
-    },
-    {
         "id": "1juf5wp",
         "author": "chrisdh79",
         "title": "Spray drying tech used in instant coffee applied to high-capacity battery production | Achieved world-leading 98% active material content in electrode",
         "content": "",
-        "upvotes": 99,
-        "comments": 2,
+        "upvotes": 316,
+        "comments": 6,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/AoSq3kRm7LORhpVrHDXGI933nNfgFal8OSevlVk3l7M.jpg?auto=webp&amp;s=031e6f813cedc435c3c18d8f5953c8205a2e32db"
@@ -88,25 +98,25 @@
         "permalink": "/r/science/comments/1juf5wp/spray_drying_tech_used_in_instant_coffee_applied/"
     },
     {
-        "id": "1jucbns",
-        "author": "i_screamm",
-        "title": "Intelligence Evolved at Least Twice in Vertebrate Animals | Quanta Magazine",
+        "id": "1ju79nn",
+        "author": "calliope_kekule",
+        "title": "A study of 9 LLMs found medically unjustified differences in care based on patient identity \u2013 with Black, LGBTQIA+, and unhoused patients often receiving worse or unnecessary recommendations.",
         "content": "",
-        "upvotes": 123,
-        "comments": 10,
+        "upvotes": 1228,
+        "comments": 64,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/d-TsYv30XjqJYANUKMbxcDdGmaZ1J1x7ORNOO5oMfis.jpg?auto=webp&amp;s=da2dacd5a015db591faf26437b2d6093a2e62e15"
+            "url": "https://external-preview.redd.it/-0UPXKp0ofiNcrg2_gGDo2Rcx17zO8-MtfFKJzlYT4o.jpg?auto=webp&amp;s=09883db64becbb2d21d88e8c80da2e5d39822fe6"
         },
-        "permalink": "/r/science/comments/1jucbns/intelligence_evolved_at_least_twice_in_vertebrate/"
+        "permalink": "/r/science/comments/1ju79nn/a_study_of_9_llms_found_medically_unjustified/"
     },
     {
         "id": "1jug1db",
         "author": "MarzipanBackground91",
         "title": "A study in China showed that a chatbot helped parents get their daughters vaccinated against HPV. The vaccination rate was 7.1% for parents using the chatbot, compared to 1.8% for those who did not. The chatbot also improved parents' knowledge and increased consultations with health professionals.",
         "content": "",
-        "upvotes": 73,
-        "comments": 5,
+        "upvotes": 214,
+        "comments": 11,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/qBqbIiQX-taGQZYjg0g_yonGxwrwiyHsUT5Srn8l0kQ.jpg?auto=webp&amp;s=8a8648ace95b0fb21dc492d20f721e82077f86d4"
@@ -114,12 +124,101 @@
         "permalink": "/r/science/comments/1jug1db/a_study_in_china_showed_that_a_chatbot_helped/"
     },
     {
+        "id": "1jucbns",
+        "author": "i_screamm",
+        "title": "Intelligence Evolved at Least Twice in Vertebrate Animals | Quanta Magazine",
+        "content": "",
+        "upvotes": 326,
+        "comments": 28,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/d-TsYv30XjqJYANUKMbxcDdGmaZ1J1x7ORNOO5oMfis.jpg?auto=webp&amp;s=da2dacd5a015db591faf26437b2d6093a2e62e15"
+        },
+        "permalink": "/r/science/comments/1jucbns/intelligence_evolved_at_least_twice_in_vertebrate/"
+    },
+    {
+        "id": "1ju9f25",
+        "author": "Wagamaga",
+        "title": "Childhood Experiences Shape the Brain\u2019s White Matter with Cognitive Effects Seen Years Later. Research found the aspects of white matter that show a relationship with our early life environment are much more pervasive throughout the brain than first thought",
+        "content": "",
+        "upvotes": 546,
+        "comments": 23,
+        "media": null,
+        "permalink": "/r/science/comments/1ju9f25/childhood_experiences_shape_the_brains_white/"
+    },
+    {
+        "id": "1julfv5",
+        "author": "GeoGeoGeoGeo",
+        "title": "Saturn's moon Titan could possibly harbor simple, microscopic life, but it likely could support only a few pounds of biomass overall. Such a tiny biosphere would average less than one cell per liter of water over Titan's entire vast ocean.",
+        "content": "",
+        "upvotes": 79,
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/science/comments/1julfv5/saturns_moon_titan_could_possibly_harbor_simple/"
+    },
+    {
+        "id": "1jtsssi",
+        "author": "nohup_me",
+        "title": "A study found that young people aged 17 to 30 with ADHD reported listening to background music significantly more often than neurotypicals when playing sports and studying, preferring stimulating music over relaxing music",
+        "content": "",
+        "upvotes": 6419,
+        "comments": 302,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/jupmL6M964L8sZxXEMKLKbp07hbxbQm6EOUVaL_YCaY.jpg?auto=webp&amp;s=a305c48b303729939ddbee79ac4f4729ff3c31d6"
+        },
+        "permalink": "/r/science/comments/1jtsssi/a_study_found_that_young_people_aged_17_to_30/"
+    },
+    {
+        "id": "1jum599",
+        "author": "Sure_Ad1628",
+        "title": "Utilizing Psychedelics to Enhance Well-Being: A Systematic Review.",
+        "content": "",
+        "upvotes": 39,
+        "comments": 4,
+        "media": null,
+        "permalink": "/r/science/comments/1jum599/utilizing_psychedelics_to_enhance_wellbeing_a/"
+    },
+    {
+        "id": "1jufnt6",
+        "author": "geoff199",
+        "title": "An Illusion of Unfairness in Random Coin Flips: When someone loses a coin flip, they believe that the process was less fair, were less pleased with their outcome, and found the other person less likable when their opponent flipped the coin. 11 studies, N=5925.",
+        "content": "",
+        "upvotes": 84,
+        "comments": 6,
+        "media": null,
+        "permalink": "/r/science/comments/1jufnt6/an_illusion_of_unfairness_in_random_coin_flips/"
+    },
+    {
+        "id": "1jueun6",
+        "author": "Hrmbee",
+        "title": "Walk Score, a popular walkability assessment omits key factors that impact different demographics and can direct development resources to already wealthy neighborhoods | Deconstructing a walkability algorithm in the context of racial capitalism",
+        "content": "",
+        "upvotes": 91,
+        "comments": 39,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/guPdt6po5KPfk0P3zAVZEJ6GGCZPu6lF6Z_KcfS0dNg.jpg?auto=webp&amp;s=1ec612537f4e4936cc06e4ffc79e62ad43f35f99"
+        },
+        "permalink": "/r/science/comments/1jueun6/walk_score_a_popular_walkability_assessment_omits/"
+    },
+    {
+        "id": "1juayho",
+        "author": "chrisdh79",
+        "title": "Shy mice surprise scientists by solving problems faster than fearless ones | The study shows that real-world conditions, not just lab settings, play a critical role in problem-solving.",
+        "content": "",
+        "upvotes": 166,
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/science/comments/1juayho/shy_mice_surprise_scientists_by_solving_problems/"
+    },
+    {
         "id": "1jtjjrb",
         "author": "mvea",
         "title": "Choking during sex: many young people mistakenly believe it can be done safely, new study shows. But stopping blood flow to the brain can take less pressure than opening a can of soft drink. And research shows strangulation can result in serious harms even when it\u2019s consensual.",
         "content": "",
-        "upvotes": 15653,
-        "comments": 1105,
+        "upvotes": 15910,
+        "comments": 1124,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/FrWDnZpH49_KDWK5YP3iCHsUKAwZBWRmEjvLjRXEnFk.jpg?auto=webp&amp;s=25adf9af047a1ab246bcfaa4326a142b191bf86b"
@@ -131,8 +230,8 @@
         "author": "sciencealert",
         "title": "The season in which you were conceived could have a surprising impact on how your metabolism works today. The largest study of its kind has found that individuals conceived in colder months store fat differently from those conceived in warmer months.",
         "content": "",
-        "upvotes": 5688,
-        "comments": 244,
+        "upvotes": 5923,
+        "comments": 251,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/5qH__M1jSG7GYPM6qJL0YDKMD7z_DlBLrXuAYDbMwsg.jpg?auto=webp&amp;s=af01fac9d91ebe0e90e65146af8b3a50cba2edc6"
@@ -140,70 +239,24 @@
         "permalink": "/r/science/comments/1jtnqv1/the_season_in_which_you_were_conceived_could_have/"
     },
     {
-        "id": "1juayho",
-        "author": "chrisdh79",
-        "title": "Shy mice surprise scientists by solving problems faster than fearless ones | The study shows that real-world conditions, not just lab settings, play a critical role in problem-solving.",
+        "id": "1jur3p4",
+        "author": "brendigio",
+        "title": "Frontiers | Knowledge mapping of autistic traits: a visual analysis via CiteSpace",
         "content": "",
-        "upvotes": 111,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/science/comments/1juayho/shy_mice_surprise_scientists_by_solving_problems/"
-    },
-    {
-        "id": "1jueun6",
-        "author": "Hrmbee",
-        "title": "Walk Score, a popular walkability assessment omits key factors that impact different demographics and can direct development resources to already wealthy neighborhoods | Deconstructing a walkability algorithm in the context of racial capitalism",
-        "content": "",
-        "upvotes": 48,
-        "comments": 18,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/guPdt6po5KPfk0P3zAVZEJ6GGCZPu6lF6Z_KcfS0dNg.jpg?auto=webp&amp;s=1ec612537f4e4936cc06e4ffc79e62ad43f35f99"
-        },
-        "permalink": "/r/science/comments/1jueun6/walk_score_a_popular_walkability_assessment_omits/"
-    },
-    {
-        "id": "1jtp3oh",
-        "author": "CUAnschutzMed",
-        "title": "A new study from the Colorado School of Public Health concluded that Colorado children diagnosed with a type of cancer of the blood and bone marrow were more likely to live near oil and gas well sites than children who were free of cancer.",
-        "content": "",
-        "upvotes": 2674,
-        "comments": 19,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/fQZpY6m2JLmZ1f42S2Z3WJbY7WofPLkDdasOPS4PaOg.jpg?auto=webp&amp;s=8fc6d6074301a0d7c160a2eba73c207b67e1eb67"
-        },
-        "permalink": "/r/science/comments/1jtp3oh/a_new_study_from_the_colorado_school_of_public/"
-    },
-    {
-        "id": "1jufnt6",
-        "author": "geoff199",
-        "title": "An Illusion of Unfairness in Random Coin Flips: When someone loses a coin flip, they believe that the process was less fair, were less pleased with their outcome, and found the other person less likable when their opponent flipped the coin. 11 studies, N=5925.",
-        "content": "",
-        "upvotes": 36,
+        "upvotes": 13,
         "comments": 3,
-        "media": null,
-        "permalink": "/r/science/comments/1jufnt6/an_illusion_of_unfairness_in_random_coin_flips/"
-    },
-    {
-        "id": "1jttx93",
-        "author": "mvea",
-        "title": "The first study of US adolescent girls after states enacted restrictions on abortion access following the 2022 Dobbs Supreme Court decision found that as a result of Dobbs, two-thirds of girls ages 13 to 17 (more than 7 million) now live in states that ban or severely restrict their abortion access.",
-        "content": "",
-        "upvotes": 1258,
-        "comments": 80,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/HmhRwHvJikePzXjHxPr0mj-oaJEX6XJ8AXjgqlR76Z8.jpg?auto=webp&amp;s=0ffb5e3b4976e07d3d3d1422196d20d419500c6b"
+            "url": "https://external-preview.redd.it/M9T1-RhX5NhRjePQlapWVC71yVwNq5-3skMOxXK1hYc.jpg?auto=webp&amp;s=1c6fcfa662062840c253ca067983760db5b10ac6"
         },
-        "permalink": "/r/science/comments/1jttx93/the_first_study_of_us_adolescent_girls_after/"
+        "permalink": "/r/science/comments/1jur3p4/frontiers_knowledge_mapping_of_autistic_traits_a/"
     },
     {
         "id": "1ju8h4s",
         "author": "thebelsnickle1991",
         "title": "One in 3,000 people at risk of punctured lung from faulty gene \u2013 almost 100 times higher than previous estimate",
         "content": "",
-        "upvotes": 112,
+        "upvotes": 162,
         "comments": 1,
         "media": {
             "type": "image",
@@ -212,34 +265,37 @@
         "permalink": "/r/science/comments/1ju8h4s/one_in_3000_people_at_risk_of_punctured_lung_from/"
     },
     {
-        "id": "1jtglex",
-        "author": "Wagamaga",
-        "title": "New toxin that damages the gut revealed. Research have discovered how a diarrhoea-causing strain of bacteria uses \u201cmolecular scissors\u201d to cut open and destroy gut cells, leading to severe illness and sometimes death.",
+        "id": "1jtp3oh",
+        "author": "CUAnschutzMed",
+        "title": "A new study from the Colorado School of Public Health concluded that Colorado children diagnosed with a type of cancer of the blood and bone marrow were more likely to live near oil and gas well sites than children who were free of cancer.",
         "content": "",
-        "upvotes": 7460,
-        "comments": 142,
+        "upvotes": 2807,
+        "comments": 19,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/9YsHm3XhDh4TLDDKCMaTbS-ZcrREX0o4CmTjGGqF7IE.jpg?auto=webp&amp;s=69e13289fd39f2a6637a13429b1751e7b62b4566"
+            "url": "https://external-preview.redd.it/fQZpY6m2JLmZ1f42S2Z3WJbY7WofPLkDdasOPS4PaOg.jpg?auto=webp&amp;s=8fc6d6074301a0d7c160a2eba73c207b67e1eb67"
         },
-        "permalink": "/r/science/comments/1jtglex/new_toxin_that_damages_the_gut_revealed_research/"
+        "permalink": "/r/science/comments/1jtp3oh/a_new_study_from_the_colorado_school_of_public/"
     },
     {
-        "id": "1ju1z7b",
-        "author": "FunnyGamer97",
-        "title": "Two studies on mice reveal that immune molecules called cytokines directly influence brain circuits regulating mood, anxiety, and social behavior, offering potential new treatment strategies for autism and anxiety disorders by targeting immune signals instead of brain chemistry.",
+        "id": "1jttx93",
+        "author": "mvea",
+        "title": "The first study of US adolescent girls after states enacted restrictions on abortion access following the 2022 Dobbs Supreme Court decision found that as a result of Dobbs, two-thirds of girls ages 13 to 17 (more than 7 million) now live in states that ban or severely restrict their abortion access.",
         "content": "",
-        "upvotes": 282,
-        "comments": 18,
-        "media": null,
-        "permalink": "/r/science/comments/1ju1z7b/two_studies_on_mice_reveal_that_immune_molecules/"
+        "upvotes": 1335,
+        "comments": 100,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/HmhRwHvJikePzXjHxPr0mj-oaJEX6XJ8AXjgqlR76Z8.jpg?auto=webp&amp;s=0ffb5e3b4976e07d3d3d1422196d20d419500c6b"
+        },
+        "permalink": "/r/science/comments/1jttx93/the_first_study_of_us_adolescent_girls_after/"
     },
     {
         "id": "1ju9mbu",
         "author": "Wagamaga",
         "title": "Research demonstrates for the first time that babies as young as 3 months can perceive their own heartbeat. The perception of internal body signals is closely linked to emotional awareness, mental health, and self-perception.",
         "content": "",
-        "upvotes": 65,
+        "upvotes": 87,
         "comments": 2,
         "media": {
             "type": "image",
@@ -248,11 +304,34 @@
         "permalink": "/r/science/comments/1ju9mbu/research_demonstrates_for_the_first_time_that/"
     },
     {
+        "id": "1ju1z7b",
+        "author": "FunnyGamer97",
+        "title": "Two studies on mice reveal that immune molecules called cytokines directly influence brain circuits regulating mood, anxiety, and social behavior, offering potential new treatment strategies for autism and anxiety disorders by targeting immune signals instead of brain chemistry.",
+        "content": "",
+        "upvotes": 317,
+        "comments": 18,
+        "media": null,
+        "permalink": "/r/science/comments/1ju1z7b/two_studies_on_mice_reveal_that_immune_molecules/"
+    },
+    {
+        "id": "1jtglex",
+        "author": "Wagamaga",
+        "title": "New toxin that damages the gut revealed. Research have discovered how a diarrhoea-causing strain of bacteria uses \u201cmolecular scissors\u201d to cut open and destroy gut cells, leading to severe illness and sometimes death.",
+        "content": "",
+        "upvotes": 7604,
+        "comments": 143,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/9YsHm3XhDh4TLDDKCMaTbS-ZcrREX0o4CmTjGGqF7IE.jpg?auto=webp&amp;s=69e13289fd39f2a6637a13429b1751e7b62b4566"
+        },
+        "permalink": "/r/science/comments/1jtglex/new_toxin_that_damages_the_gut_revealed_research/"
+    },
+    {
         "id": "1jtlywa",
         "author": "chrisdh79",
         "title": "Action video gamers have enhanced functional and structural connectivity in the dorsal visual stream",
         "content": "",
-        "upvotes": 1358,
+        "upvotes": 1433,
         "comments": 37,
         "media": {
             "type": "image",
@@ -261,108 +340,23 @@
         "permalink": "/r/science/comments/1jtlywa/action_video_gamers_have_enhanced_functional_and/"
     },
     {
-        "id": "1ju6dtp",
-        "author": "sataky",
-        "title": "380-year-old Descartes circle problem generalized using spinors from quantum physics",
-        "content": "",
-        "upvotes": 53,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/science/comments/1ju6dtp/380yearold_descartes_circle_problem_generalized/"
-    },
-    {
-        "id": "1ju4kjj",
-        "author": "FunnyGamer97",
-        "title": "Saturn's moon Titan could harbor life, but only a tiny amount, study finds | Despite its uniquely rich inventory of organic molecules, the moon may be able to support only a minuscule amount of biomass, a bioenergetic modeling study suggests.",
-        "content": "",
-        "upvotes": 54,
-        "comments": 1,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/6I_AQoVGTxRgXS8wrA-jEagzsleHndVvoeDFAL81SvM.jpg?auto=webp&amp;s=df18232abe10e1a9b0d30d38708a25cdb2a0ee0f"
-        },
-        "permalink": "/r/science/comments/1ju4kjj/saturns_moon_titan_could_harbor_life_but_only_a/"
-    },
-    {
-        "id": "1jtx584",
-        "author": "drewiepoodle",
-        "title": "Researchers use DNA to create 3D electronically operational devices with nanometer-size features. 3D electronic architectures that imitate the natural 3D structure of the brain may prove more effective at running brain-mimicking AI systems than existing 2D architectures.",
-        "content": "",
-        "upvotes": 158,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/science/comments/1jtx584/researchers_use_dna_to_create_3d_electronically/"
-    },
-    {
-        "id": "1jtd7nq",
-        "author": "wise_karlaz",
-        "title": "Vegan and vegetarian diets can protect brain health by reducing inflammation and oxidative stress, but they need careful planning and supplements to avoid nutrient shortages that could hurt memory and mood",
-        "content": "",
-        "upvotes": 3536,
-        "comments": 359,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/4wrpSZqAiwh1lssLR3wq6a7-p3FmuaJEW3Ap2MTrEO4.jpg?auto=webp&amp;s=cf7f22a968cead0f40606c9a395ced1ec506a510"
-        },
-        "permalink": "/r/science/comments/1jtd7nq/vegan_and_vegetarian_diets_can_protect_brain/"
-    },
-    {
-        "id": "1jtdqvp",
-        "author": "wise_karlaz",
-        "title": "Mushrooms are superfoods packed with nutrients and special compounds that boost health, fight diseases like cancer and diabetes, and can be turned into many healthy food products",
-        "content": "",
-        "upvotes": 2783,
-        "comments": 163,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/PfakuFMAROexx8FGPcKXV_2nJ_bpb8-UKbvoqKrhUF8.jpg?auto=webp&amp;s=864defeaa4a4c5eed9c7d1a0cab40ee596efa9a9"
-        },
-        "permalink": "/r/science/comments/1jtdqvp/mushrooms_are_superfoods_packed_with_nutrients/"
-    },
-    {
-        "id": "1jtqhq6",
-        "author": "orcinus__orca",
-        "title": "Scientists have assembled the first high-quality genomes of New Zealand\u2019s Hector\u2019s and critically endangered M\u0101ui dolphins using degraded DNA\u2014an unprecedented breakthrough that offers vital insights for conservation and a new path forward for endangered species worldwide.",
-        "content": "",
-        "upvotes": 270,
-        "comments": 2,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/zM8FKvhQyuImUWMDc9TE8bmLSSOILxo8zJBF0VLK86o.jpg?auto=webp&amp;s=28105658d7a45fb7d2e46c25920fd8d26ac4f9e6"
-        },
-        "permalink": "/r/science/comments/1jtqhq6/scientists_have_assembled_the_first_highquality/"
-    },
-    {
         "id": "1jufbcy",
         "author": "Sizbang",
         "title": "Plaque Begets Plaque, ApoB Does Not: Longitudinal Data From the KETO-CTA Trial",
         "content": "",
-        "upvotes": 5,
+        "upvotes": 13,
         "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1jufbcy/plaque_begets_plaque_apob_does_not_longitudinal/"
     },
     {
-        "id": "1jtr5z9",
-        "author": "nohup_me",
-        "title": "Long-term exposure to high levels of air pollution (NO\u2082 and PM2.5) may harm the brain health of older adults (+65) in England, as it is linked to lower scores in key cognitive abilities, particularly language skills",
+        "id": "1ju6dtp",
+        "author": "sataky",
+        "title": "380-year-old Descartes circle problem generalized using spinors from quantum physics",
         "content": "",
-        "upvotes": 224,
+        "upvotes": 66,
         "comments": 2,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/o_jS-EjdgdTIMhbPpTPdW5x10YrhyNgbJdCPeT0g5R4.jpg?auto=webp&amp;s=fa00715c775c9fec9e0046378ee11bc1017d4c86"
-        },
-        "permalink": "/r/science/comments/1jtr5z9/longterm_exposure_to_high_levels_of_air_pollution/"
-    },
-    {
-        "id": "1ju3pxq",
-        "author": "JIntegrAgri",
-        "title": "A recent study reveals the cross-kingdom interaction between the pathogenic exonic circRNA and host miRNA, modulating Cochliobolus heterostrophus infection in maize",
-        "content": "",
-        "upvotes": 20,
-        "comments": 1,
         "media": null,
-        "permalink": "/r/science/comments/1ju3pxq/a_recent_study_reveals_the_crosskingdom/"
+        "permalink": "/r/science/comments/1ju6dtp/380yearold_descartes_circle_problem_generalized/"
     }
 ]
