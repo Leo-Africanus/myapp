@@ -1,11 +1,63 @@
 [
     {
+        "id": "1jzsr5s",
+        "author": "mvea",
+        "title": "US counties with worst drinking water violations concentrated in 4 states: West Virginia, Pennsylvania, North Carolina and Oklahoma, finds study. About 2 million people nationwide do not have running water. Another 30 million people are reliant on drinking water systems that violate safety rules.",
+        "content": "",
+        "upvotes": 1390,
+        "comments": 54,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/V-lBbdh4276W6ZMAOI3xAp62YrgUY1APgQCqE-RJHyg.jpg?auto=webp&amp;s=c89585c877477bb8321d9b81a499e1d0a70a4dd4"
+        },
+        "permalink": "/r/science/comments/1jzsr5s/us_counties_with_worst_drinking_water_violations/"
+    },
+    {
+        "id": "1jzo02e",
+        "author": "mvea",
+        "title": "Men fall in love slightly more often than women, but women obsess about their partner more than men, finds first-of-its-kind study investigating the difference in romantic love between the sexes across 33 countries.",
+        "content": "",
+        "upvotes": 2901,
+        "comments": 156,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/8KOm4dzYKsZfUO9QGJa6ZPs-tZDbwcE7CY59MW7HNBk.jpg?auto=webp&amp;s=ac8574802924df80f1826a6ab930dc0b9b609a68"
+        },
+        "permalink": "/r/science/comments/1jzo02e/men_fall_in_love_slightly_more_often_than_women/"
+    },
+    {
+        "id": "1jznvaj",
+        "author": "mvea",
+        "title": "Brain-harming chemicals released from mattresses while children sleep: Study measured chemicals in air of children\u2019s bedrooms and found worrisome levels of more than two dozen phthalates, flame retardants and UV filters. Warmth and weight of sleeping child could increase off-gassing of toxicants.",
+        "content": "",
+        "upvotes": 1621,
+        "comments": 73,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/OKtAniZ6wrqQGK2rx0giizX75GLEsXOCDd3YTlqZFm4.jpg?auto=webp&amp;s=f49358c9f70a03f91a393caa46ccfe0bbe50edcb"
+        },
+        "permalink": "/r/science/comments/1jznvaj/brainharming_chemicals_released_from_mattresses/"
+    },
+    {
+        "id": "1jzu8ba",
+        "author": "chrisdh79",
+        "title": "Cannabis-induced hospital visits linked to higher dementia rate | Despite some positives, a new study adds to the growing data that suggests too much cannabis is bad for your health",
+        "content": "",
+        "upvotes": 369,
+        "comments": 120,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/S5fUXkFoYLUIoM6lFqJm2ZbIryzfiMJWztp86jDb_v0.jpg?auto=webp&amp;s=4217a7ac097e7aaede00593bd1688445e44cc62c"
+        },
+        "permalink": "/r/science/comments/1jzu8ba/cannabisinduced_hospital_visits_linked_to_higher/"
+    },
+    {
         "id": "1jz83cj",
         "author": "Wagamaga",
         "title": "Overuse of CT scans could cause 100,000 extra cancers in US. The high number of CT (computed tomography) scans carried out in the United States in 2023 could cause 5 per cent of all cancers in the country, equal to the number of cancers caused by alcohol.",
         "content": "",
-        "upvotes": 6349,
-        "comments": 460,
+        "upvotes": 7820,
+        "comments": 530,
         "media": null,
         "permalink": "/r/science/comments/1jz83cj/overuse_of_ct_scans_could_cause_100000_extra/"
     },
@@ -14,8 +66,8 @@
         "author": "nohup_me",
         "title": "An analysis of published studies that looked at technology use and mental skills in more than 400,000 older adults found that over-50s who routinely used digital devices had lower rates of cognitive decline than those who used them less",
         "content": "",
-        "upvotes": 1211,
-        "comments": 28,
+        "upvotes": 1547,
+        "comments": 35,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/RMY9saPMfUEFpgzciF6rFvWiEcX_ReeRuiQJrabfpH0.jpg?auto=webp&amp;s=a43c27040a8b542e7d9499be4d60bda42d195312"
@@ -27,18 +79,67 @@
         "author": "jbenmenachem",
         "title": "Men return to prison at a 6 percent higher rate if they have been held in solitary confinement. Long periods of solitary confinement are associated with a 15 to 25 percent increase in re-imprisonment rates.",
         "content": "",
-        "upvotes": 1699,
-        "comments": 144,
+        "upvotes": 2012,
+        "comments": 155,
         "media": null,
         "permalink": "/r/science/comments/1jz8w10/men_return_to_prison_at_a_6_percent_higher_rate/"
+    },
+    {
+        "id": "1jzma7g",
+        "author": "thebelsnickle1991",
+        "title": "The persistent higher rate of alcohol deaths in England since the pandemic in 2020 is an \u201cacute crisis\u201d requiring urgent action from government, according to a new study led by researchers at UCL and the University of Sheffield",
+        "content": "",
+        "upvotes": 187,
+        "comments": 5,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/9YG7AtuJ_HlKhqshzsoB2QzT_9q5hXNRlbt7syK-ZH4.jpg?auto=webp&amp;s=38e5c749f3fd6382ae107657debc07a70312e7be"
+        },
+        "permalink": "/r/science/comments/1jzma7g/the_persistent_higher_rate_of_alcohol_deaths_in/"
+    },
+    {
+        "id": "1jzoilv",
+        "author": "chrisdh79",
+        "title": "New cement turns heat into electricity, could help buildings generate their own power | The bio-inspired material, with a Seebeck coefficient of \u221240.5 mV/K, outperforms all known cement-based thermoelectric materials by tenfold.",
+        "content": "",
+        "upvotes": 77,
+        "comments": 5,
+        "media": null,
+        "permalink": "/r/science/comments/1jzoilv/new_cement_turns_heat_into_electricity_could_help/"
+    },
+    {
+        "id": "1jzm56k",
+        "author": "Wagamaga",
+        "title": "The world\u2019s largest study of the genetics of osteoarthritis has identified more than 500 previously unknown genetic links to the disease, and hundreds of potential new drug targets that could fast track the development of more effective treatments.",
+        "content": "",
+        "upvotes": 133,
+        "comments": 7,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/EOpvBEFLWmuHcib6-ejIHI4uGzQkMuROujCLljDUqqU.jpg?auto=webp&amp;s=a1bd88f5854688cbef311d2cfc2aed104cc8644f"
+        },
+        "permalink": "/r/science/comments/1jzm56k/the_worlds_largest_study_of_the_genetics_of/"
+    },
+    {
+        "id": "1jzjtsp",
+        "author": "sciencealert",
+        "title": "Striking Evidence of Water Imbalance on The Moon Hints at a Collision",
+        "content": "",
+        "upvotes": 205,
+        "comments": 10,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/fK3WhXcZbSD8iFgAjdnjSO5-zGF_31uTEFVQYBjqCbs.jpg?auto=webp&amp;s=5ca80d633325d0ff868c01f800b5ae2f6ab1cdd1"
+        },
+        "permalink": "/r/science/comments/1jzjtsp/striking_evidence_of_water_imbalance_on_the_moon/"
     },
     {
         "id": "1jyx4qk",
         "author": "mvea",
         "title": "People who experienced abuse, neglect, or domestic abuse during childhood have a significantly higher risk of developing certain chronic immune disorders later in life\u2014specifically, rheumatoid arthritis and psoriasis. The association was particularly strong among women.",
         "content": "",
-        "upvotes": 4653,
-        "comments": 126,
+        "upvotes": 4965,
+        "comments": 132,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/WioXB8YiHvG4z2q0HHw0Uk-ort-oy0XiVkaqqXdW2to.jpg?auto=webp&amp;s=bb93ed039bfce9fb9013b9102d7916fa7f98b90f"
@@ -46,22 +147,12 @@
         "permalink": "/r/science/comments/1jyx4qk/people_who_experienced_abuse_neglect_or_domestic/"
     },
     {
-        "id": "1jzeu2v",
-        "author": "mvea",
-        "title": "One firearm injury was treated every 30 minutes in emergency departments in a study of 10 US jurisdictions, finds the largest analysis to date of detailed temporal patterns in firearm injury using emergency department data.",
-        "content": "",
-        "upvotes": 399,
-        "comments": 32,
-        "media": null,
-        "permalink": "/r/science/comments/1jzeu2v/one_firearm_injury_was_treated_every_30_minutes/"
-    },
-    {
         "id": "1jz69ah",
         "author": "nohup_me",
         "title": "A study suggests that increasing the ratio of dietary potassium to sodium may be more effective in lowering blood pressure than merely reducing sodium intake. Researchers have also developed a mathematical model that successfully identifies how this potassium-to-sodium ratio affects the body.",
         "content": "",
-        "upvotes": 1118,
-        "comments": 42,
+        "upvotes": 1357,
+        "comments": 54,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/ZRc7A1LAOIBy19-ifMQj_g4-hwa2IUKqUpk9mNvp9zo.jpg?auto=webp&amp;s=693b2c9569ee120e53ef5bafa8d7bcebb7697442"
@@ -73,8 +164,8 @@
         "author": "mvea",
         "title": "Probiotics may improve mood via gut\u2013brain axis: Young, healthy adults who took probiotic daily for a month had reduced negative feelings (anxiety, stress, fatigue or depression) compared to placebo. It took about 2 weeks for probiotics to work, about the same time as antidepressants.",
         "content": "",
-        "upvotes": 3174,
-        "comments": 149,
+        "upvotes": 3452,
+        "comments": 165,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/sTICnnqQXt3OxfyxLyhMEGVGDjt8O7dC4sRvnY1p0T4.jpg?auto=webp&amp;s=a68ddef8be72dc0d29dee3df4707c538b2ae15f5"
@@ -82,25 +173,22 @@
         "permalink": "/r/science/comments/1jyxbjg/probiotics_may_improve_mood_via_gutbrain_axis/"
     },
     {
-        "id": "1jzb5km",
-        "author": "Aggravating_Money992",
-        "title": "Political overconfidence worsens polarization in online debates. A new study suggests that people who overestimate their political knowledge are more likely to react negatively during online conversations with those who hold opposing views\u2014and as a result, become more emotionally polarized over time",
+        "id": "1jzi6r6",
+        "author": "Cresomycin",
+        "title": "Study found that the climate crisis has tripled the length of ocean heatwaves, supercharging deadly storms and destroying critical ecosystems such as kelp forests and coral reefs.Half of the marine heatwaves since 2000 would not have happened without global warming.",
         "content": "",
-        "upvotes": 453,
-        "comments": 45,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/FkRYGzRqCLvB5jqWr9s3sH1VMJjZZ-ksomtJV-mvJaQ.jpg?auto=webp&amp;s=fe24888a7bd2f31bf9f6b1b529786443fb83b1d2"
-        },
-        "permalink": "/r/science/comments/1jzb5km/political_overconfidence_worsens_polarization_in/"
+        "upvotes": 178,
+        "comments": 6,
+        "media": null,
+        "permalink": "/r/science/comments/1jzi6r6/study_found_that_the_climate_crisis_has_tripled/"
     },
     {
         "id": "1jz309t",
         "author": "Aggravating_Money992",
         "title": "Engineers uncover a new way to stop electronics from overheating. In a study, a team of engineers revealed a radical new way to move heat, faster than ever before. Using a special kind of crystal called hexagonal boron nitride, they found a way to move heat like a beam of light.",
         "content": "",
-        "upvotes": 1168,
-        "comments": 65,
+        "upvotes": 1350,
+        "comments": 69,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/zevJRWXr8wDxF152SUOnliplml7dENLlDNjv8l8DtKI.jpg?auto=webp&amp;s=0a1412c7c1a6f4b8c3ced16282e311247b3c3b9b"
@@ -108,34 +196,11 @@
         "permalink": "/r/science/comments/1jz309t/engineers_uncover_a_new_way_to_stop_electronics/"
     },
     {
-        "id": "1jzi6r6",
-        "author": "Cresomycin",
-        "title": "Study found that the climate crisis has tripled the length of ocean heatwaves, supercharging deadly storms and destroying critical ecosystems such as kelp forests and coral reefs.Half of the marine heatwaves since 2000 would not have happened without global warming.",
-        "content": "",
-        "upvotes": 123,
-        "comments": 6,
-        "media": null,
-        "permalink": "/r/science/comments/1jzi6r6/study_found_that_the_climate_crisis_has_tripled/"
-    },
-    {
-        "id": "1jyxvia",
-        "author": "Science_News",
-        "title": "The rete ovarii organ \u2014 generally regarded as useless \u2014 may actually play a role in fertility and ovarian maintenance",
-        "content": "",
-        "upvotes": 1612,
-        "comments": 109,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/PcRQYFqHeFZ46NmfvAT1w6Z7xo8HpHvKoXTua5cIi6k.jpg?auto=webp&amp;s=a28363593ec1fc1a8e50fd5b06d77026c90cb10e"
-        },
-        "permalink": "/r/science/comments/1jyxvia/the_rete_ovarii_organ_generally_regarded_as/"
-    },
-    {
         "id": "1jzjuaz",
         "author": "sciencealert",
         "title": "Life Deep Beneath The Soil Found to be Dominated by New Phylum of Bacteria, CSP1-3",
         "content": "",
-        "upvotes": 72,
+        "upvotes": 129,
         "comments": 2,
         "media": {
             "type": "image",
@@ -144,12 +209,64 @@
         "permalink": "/r/science/comments/1jzjuaz/life_deep_beneath_the_soil_found_to_be_dominated/"
     },
     {
+        "id": "1jzmqtj",
+        "author": "TX908",
+        "title": "Sleep duration, timing, quality and more may affect cardiovascular disease risk.",
+        "content": "",
+        "upvotes": 59,
+        "comments": 9,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/jAbDZGRLHquRFAt5EkrAMjI3gncZm4ZKoUk-6-x8rtU.jpg?auto=webp&amp;s=df965dcbb4f3038cc4579905a09b3ee6a6ae04a8"
+        },
+        "permalink": "/r/science/comments/1jzmqtj/sleep_duration_timing_quality_and_more_may_affect/"
+    },
+    {
+        "id": "1jzmc85",
+        "author": "TX908",
+        "title": "Natural light lessens morning fatigue. Light conditions in the morning before waking up affect restfulness. Moderate amounts of sunlight before waking up can have a positive effect.",
+        "content": "",
+        "upvotes": 64,
+        "comments": 11,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/EetkevZG3zJCt4qLo6BlDc7tT4-4gy9WtaXmqwKdPgo.jpg?auto=webp&amp;s=3e8abf783ecbd98b51df81cb12974d3d1e6b019e"
+        },
+        "permalink": "/r/science/comments/1jzmc85/natural_light_lessens_morning_fatigue_light/"
+    },
+    {
+        "id": "1jyxvia",
+        "author": "Science_News",
+        "title": "The rete ovarii organ \u2014 generally regarded as useless \u2014 may actually play a role in fertility and ovarian maintenance",
+        "content": "",
+        "upvotes": 1693,
+        "comments": 134,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/PcRQYFqHeFZ46NmfvAT1w6Z7xo8HpHvKoXTua5cIi6k.jpg?auto=webp&amp;s=a28363593ec1fc1a8e50fd5b06d77026c90cb10e"
+        },
+        "permalink": "/r/science/comments/1jyxvia/the_rete_ovarii_organ_generally_regarded_as/"
+    },
+    {
+        "id": "1jzvdys",
+        "author": "Impossible_Cookie596",
+        "title": "Scientists find autonomous drone systems may improve next-gen ecology, wildlife research",
+        "content": "",
+        "upvotes": 11,
+        "comments": 3,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/Qxj0Z0XBRDcoyBbpCRnWcAaF3JG94NkWDYuwJ3wCJdM.jpg?auto=webp&amp;s=0111e2ffadccec0823228ffb2ca8280955d4737b"
+        },
+        "permalink": "/r/science/comments/1jzvdys/scientists_find_autonomous_drone_systems_may/"
+    },
+    {
         "id": "1jz5wd3",
         "author": "thebelsnickle1991",
         "title": "A study of healthy older adults in Switzerland and Germany found they were able to acquire various musical skills over the course of one year of practice. This finding suggests that musical ability comprises a spectrum of distinct competencies, rather than a single, general musical aptitude",
         "content": "",
-        "upvotes": 495,
-        "comments": 6,
+        "upvotes": 564,
+        "comments": 8,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/5EgmVEy1nqGS7SPfsDa8IWbXaumf0ZHCMhEJ70fGkjY.jpg?auto=webp&amp;s=fa04d8784b31904d79447bb3df5326ca043fa557"
@@ -157,38 +274,12 @@
         "permalink": "/r/science/comments/1jz5wd3/a_study_of_healthy_older_adults_in_switzerland/"
     },
     {
-        "id": "1jzjtsp",
-        "author": "sciencealert",
-        "title": "Striking Evidence of Water Imbalance on The Moon Hints at a Collision",
-        "content": "",
-        "upvotes": 62,
-        "comments": 8,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/fK3WhXcZbSD8iFgAjdnjSO5-zGF_31uTEFVQYBjqCbs.jpg?auto=webp&amp;s=5ca80d633325d0ff868c01f800b5ae2f6ab1cdd1"
-        },
-        "permalink": "/r/science/comments/1jzjtsp/striking_evidence_of_water_imbalance_on_the_moon/"
-    },
-    {
-        "id": "1jzm56k",
-        "author": "Wagamaga",
-        "title": "The world\u2019s largest study of the genetics of osteoarthritis has identified more than 500 previously unknown genetic links to the disease, and hundreds of potential new drug targets that could fast track the development of more effective treatments.",
-        "content": "",
-        "upvotes": 35,
-        "comments": 3,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/EOpvBEFLWmuHcib6-ejIHI4uGzQkMuROujCLljDUqqU.jpg?auto=webp&amp;s=a1bd88f5854688cbef311d2cfc2aed104cc8644f"
-        },
-        "permalink": "/r/science/comments/1jzm56k/the_worlds_largest_study_of_the_genetics_of/"
-    },
-    {
         "id": "1jz7sk5",
         "author": "andyhfell",
         "title": "A synthetic analogue of LSD, with lower hallucinogenic potential, could open new options to treat schizophrenia.",
         "content": "",
-        "upvotes": 270,
-        "comments": 7,
+        "upvotes": 322,
+        "comments": 9,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/X6drjvefgUTEvuNbuUzgH_xtY0O978nIiyoAjofiRHU.jpg?auto=webp&amp;s=3afd1a8c828c7634c018c0222de76f7b43a33740"
@@ -200,31 +291,31 @@
         "author": "andyhfell",
         "title": "Metabolites from fermented cabbage can protect intestinal cells from inflammatory disruption",
         "content": "",
-        "upvotes": 256,
+        "upvotes": 286,
         "comments": 8,
         "media": null,
         "permalink": "/r/science/comments/1jz6zvu/metabolites_from_fermented_cabbage_can_protect/"
     },
     {
-        "id": "1jzma7g",
-        "author": "thebelsnickle1991",
-        "title": "The persistent higher rate of alcohol deaths in England since the pandemic in 2020 is an \u201cacute crisis\u201d requiring urgent action from government, according to a new study led by researchers at UCL and the University of Sheffield",
+        "id": "1jzn6e5",
+        "author": "Skoltech_",
+        "title": "Skoltech AI model, tested on 17,000 fires in Russia, uses satellite and weather data to spot blazes with 87% accuracy. It could save forests and lives.",
         "content": "",
-        "upvotes": 21,
-        "comments": 5,
+        "upvotes": 19,
+        "comments": 2,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/9YG7AtuJ_HlKhqshzsoB2QzT_9q5hXNRlbt7syK-ZH4.jpg?auto=webp&amp;s=38e5c749f3fd6382ae107657debc07a70312e7be"
+            "url": "https://external-preview.redd.it/XaQTgtXzEnU2FdBP95jEMd6GwaWuD6-kLgbf1S9dFjc.jpg?auto=webp&amp;s=b313bc9c5a4634fa6b9cda561156a1fef13469e7"
         },
-        "permalink": "/r/science/comments/1jzma7g/the_persistent_higher_rate_of_alcohol_deaths_in/"
+        "permalink": "/r/science/comments/1jzn6e5/skoltech_ai_model_tested_on_17000_fires_in_russia/"
     },
     {
         "id": "1jz1cs7",
         "author": "shiruken",
         "title": "Astronomers working with NASA's JWST have uncovered a new way for a planet to meet its end: plunging itself into its host star",
         "content": "",
-        "upvotes": 412,
-        "comments": 27,
+        "upvotes": 435,
+        "comments": 29,
         "media": null,
         "permalink": "/r/science/comments/1jz1cs7/astronomers_working_with_nasas_jwst_have/"
     },
@@ -233,7 +324,7 @@
         "author": "thebelsnickle1991",
         "title": "People who eat more meals with others tend to be more satisfied with their lives and are more likely to express positive emotions, according to a study published in the annual World Happiness Report",
         "content": "",
-        "upvotes": 195,
+        "upvotes": 222,
         "comments": 4,
         "media": {
             "type": "image",
@@ -242,34 +333,11 @@
         "permalink": "/r/science/comments/1jz5u2g/people_who_eat_more_meals_with_others_tend_to_be/"
     },
     {
-        "id": "1jyyfe5",
-        "author": "Fultium",
-        "title": "Why Universities Should Make Misconduct Reports Public",
-        "content": "",
-        "upvotes": 258,
-        "comments": 16,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/Il4dVvHedJuOUrac3VkIrJSb70uJzTapzEIIKNhBDq8.jpg?auto=webp&amp;s=13499ebc42f5f85396e2a18619a1f66830fd2636"
-        },
-        "permalink": "/r/science/comments/1jyyfe5/why_universities_should_make_misconduct_reports/"
-    },
-    {
-        "id": "1jzbqpt",
-        "author": "Cresomycin",
-        "title": "Scientists have discovered synthetic small molecules that could stop the process of Salmonella infection early on by targeting the central regulator of Salmonella pathogenicity,",
-        "content": "",
-        "upvotes": 42,
-        "comments": 5,
-        "media": null,
-        "permalink": "/r/science/comments/1jzbqpt/scientists_have_discovered_synthetic_small/"
-    },
-    {
         "id": "1jzlyvw",
         "author": "TX908",
         "title": "New, non-toxic synthesis method for MXene. 2D material MXene can be used for electromagnetic shielding, for energy storage, for novel sensors, for solid lubricants.",
         "content": "",
-        "upvotes": 10,
+        "upvotes": 18,
         "comments": 3,
         "media": {
             "type": "image",
@@ -278,91 +346,26 @@
         "permalink": "/r/science/comments/1jzlyvw/new_nontoxic_synthesis_method_for_mxene_2d/"
     },
     {
-        "id": "1jyn012",
-        "author": "chrisdh79",
-        "title": "Humans are wired to quickly spot subtle differences in strength and beauty | These findings suggest that our minds are finely tuned to pick up on traits that may have influenced social and reproductive outcomes throughout human history.",
+        "id": "1jzbqpt",
+        "author": "Cresomycin",
+        "title": "Scientists have discovered synthetic small molecules that could stop the process of Salmonella infection early on by targeting the central regulator of Salmonella pathogenicity,",
         "content": "",
-        "upvotes": 2118,
-        "comments": 45,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/4wz5SWstNrIRxObKlbQyqzx5T5TNGqxJD0_Nht7tOCE.jpg?auto=webp&amp;s=ba47e34415828f1ed8223f0c6df06701bbee8539"
-        },
-        "permalink": "/r/science/comments/1jyn012/humans_are_wired_to_quickly_spot_subtle/"
-    },
-    {
-        "id": "1jzkx4u",
-        "author": "TX908",
-        "title": "New Method for Detecting Nanoplastics in Body Fluids. Optofluidic Force Induction Meets Raman Spectroscopy and Inductively Coupled Plasma-Mass Spectrometry.",
-        "content": "",
-        "upvotes": 10,
-        "comments": 4,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/vmJ1zL4y-k-3Jlndh9elYKxUhVEElaSkbWp7VZyjXe8.jpg?auto=webp&amp;s=0ed75bb6caad1e1373aaca9b52e9f0d03573c20a"
-        },
-        "permalink": "/r/science/comments/1jzkx4u/new_method_for_detecting_nanoplastics_in_body/"
-    },
-    {
-        "id": "1jz8nz8",
-        "author": "fchung",
-        "title": "Engineered bacteria emit signals that can be spotted from a distance: \u00ab These bacteria, which could be designed to detect pollution or nutrients, could act as sensors to help farmers monitor their crops. \u00bb",
-        "content": "",
-        "upvotes": 57,
-        "comments": 4,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/VcIEF1aLIQyrtkMgt9YxpEaCMnQcNk_9d-UOlD3chdc.jpg?auto=webp&amp;s=478440472ccc859009cddfc448be321f64df1f62"
-        },
-        "permalink": "/r/science/comments/1jz8nz8/engineered_bacteria_emit_signals_that_can_be/"
-    },
-    {
-        "id": "1jzmc85",
-        "author": "TX908",
-        "title": "Natural light lessens morning fatigue. Light conditions in the morning before waking up affect restfulness. Moderate amounts of sunlight before waking up can have a positive effect.",
-        "content": "",
-        "upvotes": 7,
-        "comments": 4,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/EetkevZG3zJCt4qLo6BlDc7tT4-4gy9WtaXmqwKdPgo.jpg?auto=webp&amp;s=3e8abf783ecbd98b51df81cb12974d3d1e6b019e"
-        },
-        "permalink": "/r/science/comments/1jzmc85/natural_light_lessens_morning_fatigue_light/"
-    },
-    {
-        "id": "1jydyxu",
-        "author": "nohup_me",
-        "title": "A study shows that people with anxiety and depression can perform tasks well but struggle to update their self-perception accurately. However, they can adjust their self-view correctly when explicitly informed of their good performance, rather than relying on their own confidence",
-        "content": "",
-        "upvotes": 6232,
-        "comments": 96,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/8A_7t_U_KmBrSNjf2l1Kjyz2Vr30ottn1GaJUreIt6k.jpg?auto=webp&amp;s=5abd1577870d886fc5c3c9b25499a268e70ec2a7"
-        },
-        "permalink": "/r/science/comments/1jydyxu/a_study_shows_that_people_with_anxiety_and/"
-    },
-    {
-        "id": "1jzmqtj",
-        "author": "TX908",
-        "title": "Sleep duration, timing, quality and more may affect cardiovascular disease risk.",
-        "content": "",
-        "upvotes": 5,
-        "comments": 3,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/jAbDZGRLHquRFAt5EkrAMjI3gncZm4ZKoUk-6-x8rtU.jpg?auto=webp&amp;s=df965dcbb4f3038cc4579905a09b3ee6a6ae04a8"
-        },
-        "permalink": "/r/science/comments/1jzmqtj/sleep_duration_timing_quality_and_more_may_affect/"
-    },
-    {
-        "id": "1jz5it7",
-        "author": "grimisgreedy",
-        "title": "Fossilised footprints from British Columbia, Canada, confirm the presence of ankylosaurid ankylosaurs in the mid-Cretaceous of North America.",
-        "content": "",
-        "upvotes": 51,
-        "comments": 2,
+        "upvotes": 52,
+        "comments": 5,
         "media": null,
-        "permalink": "/r/science/comments/1jz5it7/fossilised_footprints_from_british_columbia/"
+        "permalink": "/r/science/comments/1jzbqpt/scientists_have_discovered_synthetic_small/"
+    },
+    {
+        "id": "1jyyfe5",
+        "author": "Fultium",
+        "title": "Why Universities Should Make Misconduct Reports Public",
+        "content": "",
+        "upvotes": 291,
+        "comments": 17,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/Il4dVvHedJuOUrac3VkIrJSb70uJzTapzEIIKNhBDq8.jpg?auto=webp&amp;s=13499ebc42f5f85396e2a18619a1f66830fd2636"
+        },
+        "permalink": "/r/science/comments/1jyyfe5/why_universities_should_make_misconduct_reports/"
     }
 ]
