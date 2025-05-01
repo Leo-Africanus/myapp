@@ -4,18 +4,31 @@
         "author": "ScienceModerator",
         "title": "Joint Subreddit Statement: The Attack on U.S. Research Infrastructure",
         "content": "",
-        "upvotes": 2846,
+        "upvotes": 2873,
         "comments": 42,
         "media": null,
         "permalink": "/r/science/comments/1kapr5v/joint_subreddit_statement_the_attack_on_us/"
+    },
+    {
+        "id": "1kbwqwg",
+        "author": "mvea",
+        "title": "American conservatives tend to rate their mental health more positively than their liberal counterparts. Asking instead about overall mood eliminated the gap between liberals and conservatives. Conservatives may inflate their mental health ratings when asked, due to stigma surrounding the term.",
+        "content": "",
+        "upvotes": 7559,
+        "comments": 444,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/WQXfaUJv_wiNruvBwW04GUv-BGQch1AdphU04kmh2gk.jpg?auto=webp&amp;s=fd733bf360f5777c4f009f4b7505b50fb9d9a36e"
+        },
+        "permalink": "/r/science/comments/1kbwqwg/american_conservatives_tend_to_rate_their_mental/"
     },
     {
         "id": "1kbmuy2",
         "author": "mvea",
         "title": "US sees disproportionate increase in body mass index rates of more than 60. In the past 20 years, the average rate of obesity among Americans has risen by approximately 30%, but the rate of those with the most severe forms of obesity, or those with a BMI of more than 60 kg/m2, increased by 210%.",
         "content": "",
-        "upvotes": 4062,
-        "comments": 601,
+        "upvotes": 5248,
+        "comments": 679,
         "media": null,
         "permalink": "/r/science/comments/1kbmuy2/us_sees_disproportionate_increase_in_body_mass/"
     },
@@ -24,8 +37,8 @@
         "author": "ajb160",
         "title": "New study confirms the link between gas stoves and cancer risk: \"Risks for the children are [approximately] 4-16 times higher\"",
         "content": "",
-        "upvotes": 14479,
-        "comments": 1235,
+        "upvotes": 16153,
+        "comments": 1320,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/2sUYuTLkgk_Qqklpvmv2OYd8s8Wj4jJJwjyAN1lX9jA.jpg?auto=webp&amp;s=89058800d6594ab530468221ca004b57f2a65ad0"
@@ -33,38 +46,12 @@
         "permalink": "/r/science/comments/1kbdqw8/new_study_confirms_the_link_between_gas_stoves/"
     },
     {
-        "id": "1kbwqwg",
-        "author": "mvea",
-        "title": "American conservatives tend to rate their mental health more positively than their liberal counterparts. Asking instead about overall mood eliminated the gap between liberals and conservatives. Conservatives may inflate their mental health ratings when asked, due to stigma surrounding the term.",
-        "content": "",
-        "upvotes": 593,
-        "comments": 49,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/WQXfaUJv_wiNruvBwW04GUv-BGQch1AdphU04kmh2gk.jpg?auto=webp&amp;s=fd733bf360f5777c4f009f4b7505b50fb9d9a36e"
-        },
-        "permalink": "/r/science/comments/1kbwqwg/american_conservatives_tend_to_rate_their_mental/"
-    },
-    {
-        "id": "1kbmun8",
-        "author": "Sonata-Shae",
-        "title": "Sex Hormones Are Brain Hormones. Neuroscientists have learned that estrogen is vital to healthy brain development and also contributes to conditions including multiple sclerosis and Alzheimer\u2019s. The insight that sex hormones  also affect the brain is transforming how doctors approach brain health.",
-        "content": "",
-        "upvotes": 2063,
-        "comments": 121,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/328R-rGr-x6Fc2kiN9II43jtRlHSZXQ50D-VLrMOm84.jpg?auto=webp&amp;s=577caf8dcee34cb6ccc0452772aa65202660a470"
-        },
-        "permalink": "/r/science/comments/1kbmun8/sex_hormones_are_brain_hormones_neuroscientists/"
-    },
-    {
         "id": "1kbv509",
         "author": "WingerRules",
         "title": "Ozempic and Wegovy ingredient may reverse signs of liver disease",
         "content": "",
-        "upvotes": 223,
-        "comments": 16,
+        "upvotes": 905,
+        "comments": 74,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/3R5edxBibdLJY3TfgY8M6rFcJ3cisL2uIqOZlihmdFY.jpg?auto=webp&amp;s=ac900bfa53303d184bfa9724a20408ef9f06acd5"
@@ -72,12 +59,38 @@
         "permalink": "/r/science/comments/1kbv509/ozempic_and_wegovy_ingredient_may_reverse_signs/"
     },
     {
+        "id": "1kbmun8",
+        "author": "Sonata-Shae",
+        "title": "Sex Hormones Are Brain Hormones. Neuroscientists have learned that estrogen is vital to healthy brain development and also contributes to conditions including multiple sclerosis and Alzheimer\u2019s. The insight that sex hormones  also affect the brain is transforming how doctors approach brain health.",
+        "content": "",
+        "upvotes": 2641,
+        "comments": 140,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/328R-rGr-x6Fc2kiN9II43jtRlHSZXQ50D-VLrMOm84.jpg?auto=webp&amp;s=577caf8dcee34cb6ccc0452772aa65202660a470"
+        },
+        "permalink": "/r/science/comments/1kbmun8/sex_hormones_are_brain_hormones_neuroscientists/"
+    },
+    {
+        "id": "1kc27li",
+        "author": "Wagamaga",
+        "title": "An increase in physical activity between the ages of 45 and 65 could help prevent Alzheimer's disease. Even people who did less physical activity than recommended had greater cortical thickness than sedentary people, suggesting that any amount of exercise, no matter how minimal, has health benefits",
+        "content": "",
+        "upvotes": 124,
+        "comments": 2,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/4QPGueIeqzmTeFsUerD7ZYi49yGuKjmsJsN12U45hHo.jpg?auto=webp&amp;s=cb576da9c120950e4bdabed05571eee8a75fd144"
+        },
+        "permalink": "/r/science/comments/1kc27li/an_increase_in_physical_activity_between_the_ages/"
+    },
+    {
         "id": "1kbgrgd",
         "author": "-Mystica-",
         "title": "Vegan, vegetarian and flexitarian diets that limit meat consumption to 255\u2009g per week (pork and poultry) best met environmental and nutritional constraints - When it comes to beef, even modest consumption exceeds planetary boundaries.",
         "content": "",
-        "upvotes": 950,
-        "comments": 361,
+        "upvotes": 1150,
+        "comments": 380,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/zHpDmRCxMJUuAJV-HpyHINwezuUIGdZD2mdWUq7kDrw.jpg?auto=webp&amp;s=b3d0af83163fb5e6fb16f55671f4853c2fab4f20"
@@ -89,8 +102,8 @@
         "author": "mvea",
         "title": "A new global wellbeing study found that young people in the UK, US and Australia seem to be flourishing the least. The UK is among the lowest-ranked countries for \u2018human flourishing\u2019. Scores for finding meaning in life tended to be lower in countries with a higher GDP.",
         "content": "",
-        "upvotes": 1693,
-        "comments": 109,
+        "upvotes": 1884,
+        "comments": 115,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/HfwT9c2mQCaC1J0JzR7EU4DmN2UQ4Ut0jRnigPFyik0.jpg?auto=webp&amp;s=b00495866f01fae3061cd2e17ffc95afa24fd861"
@@ -102,8 +115,8 @@
         "author": "Wagamaga",
         "title": "Autism not linked with increased age-related cognitive decline. The research is the first study to explore age-related rate of decline in spatial working memory in older people who may be autistic.",
         "content": "",
-        "upvotes": 629,
-        "comments": 2,
+        "upvotes": 745,
+        "comments": 3,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/6YjysfAEKNPBLOYDL-kYsIl2yq6bSX5necxA-pplWLk.jpg?auto=webp&amp;s=9ef7518f7252516a5be019a49529f7279469728f"
@@ -115,8 +128,8 @@
         "author": "mvea",
         "title": "Drinking coffee regularly may reduce risk of frailty - defined by weight loss, weakness, exhaustion, slow walking speed, or low physical activity. This may be due to antioxidants in coffee, which may reduce inflammation, muscle loss, and improve regulating insulin sensitivity in older people.",
         "content": "",
-        "upvotes": 722,
-        "comments": 78,
+        "upvotes": 840,
+        "comments": 87,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/o2jn2mbHfiJDhHZh3iHRjfrMzYiyY3Hzw_AG3sFl5WA.jpg?auto=webp&amp;s=aa2b10ed7500f107917feb08265eb5ca5ce45e8f"
@@ -124,25 +137,12 @@
         "permalink": "/r/science/comments/1kbg3v9/drinking_coffee_regularly_may_reduce_risk_of/"
     },
     {
-        "id": "1kbeulx",
-        "author": "chrisdh79",
-        "title": "Maintaining or increasing exercise linked to fewer depressive symptoms | Study found that those who were consistently active or became more active had better mental health outcomes over a multi-year period.",
-        "content": "",
-        "upvotes": 735,
-        "comments": 38,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/Unw6j_airH0MsLjK-lkg7ihTBzFknr8SRmYfHW-QnAw.jpg?auto=webp&amp;s=4aca09f5f94b84d8364630cf100f7d5da45bbda2"
-        },
-        "permalink": "/r/science/comments/1kbeulx/maintaining_or_increasing_exercise_linked_to/"
-    },
-    {
         "id": "1kbgoth",
         "author": "chrisdh79",
         "title": "The Fat Around Your Thighs Might Be Affecting Your Mental Health | New research in mice finds that where fat is stored\u2014not just how much you have\u2014might shape your mood.",
         "content": "",
-        "upvotes": 554,
-        "comments": 53,
+        "upvotes": 741,
+        "comments": 61,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/Ud11ov6VHq-Xko6rc-TW2ljcmsEp7NZCNo6wZibj6Yc.jpg?auto=webp&amp;s=8404013114d3a7b22fdd36877021b923f6b63dd5"
@@ -150,11 +150,34 @@
         "permalink": "/r/science/comments/1kbgoth/the_fat_around_your_thighs_might_be_affecting/"
     },
     {
+        "id": "1kbeulx",
+        "author": "chrisdh79",
+        "title": "Maintaining or increasing exercise linked to fewer depressive symptoms | Study found that those who were consistently active or became more active had better mental health outcomes over a multi-year period.",
+        "content": "",
+        "upvotes": 852,
+        "comments": 39,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/Unw6j_airH0MsLjK-lkg7ihTBzFknr8SRmYfHW-QnAw.jpg?auto=webp&amp;s=4aca09f5f94b84d8364630cf100f7d5da45bbda2"
+        },
+        "permalink": "/r/science/comments/1kbeulx/maintaining_or_increasing_exercise_linked_to/"
+    },
+    {
+        "id": "1kbnpny",
+        "author": "nohup_me",
+        "title": "Study found that substance use disorders (SUDs of alcohol, opioid and stimulant) accelerate biological aging within the human brain",
+        "content": "",
+        "upvotes": 245,
+        "comments": 21,
+        "media": null,
+        "permalink": "/r/science/comments/1kbnpny/study_found_that_substance_use_disorders_suds_of/"
+    },
+    {
         "id": "1kbpqku",
         "author": "fchung",
         "title": "New atomic fountain clock joins elite group that keeps the world on time: \u00ab The NIST-F4 clock was carefully and painstakingly assembled and tested over the last few years. \u00bb",
         "content": "",
-        "upvotes": 144,
+        "upvotes": 173,
         "comments": 7,
         "media": {
             "type": "image",
@@ -163,57 +186,21 @@
         "permalink": "/r/science/comments/1kbpqku/new_atomic_fountain_clock_joins_elite_group_that/"
     },
     {
-        "id": "1kbnpny",
-        "author": "nohup_me",
-        "title": "Study found that substance use disorders (SUDs of alcohol, opioid and stimulant) accelerate biological aging within the human brain",
-        "content": "",
-        "upvotes": 175,
-        "comments": 17,
-        "media": null,
-        "permalink": "/r/science/comments/1kbnpny/study_found_that_substance_use_disorders_suds_of/"
-    },
-    {
-        "id": "1kaxv0z",
-        "author": "frankschmankelton",
-        "title": "High Cannabis Use Linked to Increased Mortality in Colon Cancer Patients",
-        "content": "",
-        "upvotes": 11490,
-        "comments": 1050,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/0ftBAxSPvEfEMF9WNvit8ybilQtjIJJ_qdvtWr6WA_c.jpg?auto=webp&amp;s=0a494da797f398e851ff8c0c51a307bb7279531c"
-        },
-        "permalink": "/r/science/comments/1kaxv0z/high_cannabis_use_linked_to_increased_mortality/"
-    },
-    {
         "id": "1kbmvvf",
         "author": "Crest_Vix",
         "title": "Study finds real-time genomic surveillance detected 172 hospital outbreaks over 2 years, helping prevent an estimated 62 infections and saving $700K at a single hospital",
         "content": "",
-        "upvotes": 131,
+        "upvotes": 197,
         "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1kbmvvf/study_finds_realtime_genomic_surveillance/"
-    },
-    {
-        "id": "1kba6jh",
-        "author": "unsw",
-        "title": "Receiving a booster vaccine in the same arm as your first dose can generate a more effective immune response more quickly",
-        "content": "",
-        "upvotes": 841,
-        "comments": 10,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/ZazBrWEBGl1jjznCgLOggEEGjKTBPaGCb02WP4sgzyo.jpg?auto=webp&amp;s=8290a74beccaeebf4ad38e40eafda0187df3a9c6"
-        },
-        "permalink": "/r/science/comments/1kba6jh/receiving_a_booster_vaccine_in_the_same_arm_as/"
     },
     {
         "id": "1kbu13o",
         "author": "haberveriyo",
         "title": "First Visual Evidence of the Milky Way Found in Ancient Egyptian Cosmological Vignettes",
         "content": "",
-        "upvotes": 39,
+        "upvotes": 66,
         "comments": 1,
         "media": {
             "type": "image",
@@ -222,31 +209,70 @@
         "permalink": "/r/science/comments/1kbu13o/first_visual_evidence_of_the_milky_way_found_in/"
     },
     {
-        "id": "1kbfci8",
-        "author": "chrisdh79",
-        "title": "Parents with alcohol-related diagnoses are twice as likely to maltreat children | \u2018Child maltreatment\u2019 included physical, psychological, emotional and sexual abuse, neglect, and harsh parenting.",
+        "id": "1kc038q",
+        "author": "calliope_kekule",
+        "title": "A new study analysed 226 sludge samples from wastewater treatment plants across 6 continents. It found diverse, abundant antibiotic resistance genes in all plants.",
         "content": "",
-        "upvotes": 231,
-        "comments": 11,
-        "media": null,
-        "permalink": "/r/science/comments/1kbfci8/parents_with_alcoholrelated_diagnoses_are_twice/"
+        "upvotes": 25,
+        "comments": 1,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/Tff_OCm2kf5LdZ-mKSectRszKa9xlK2zgr95KJRiFnY.jpg?auto=webp&amp;s=a5032a0cf83914d007afa675b51fbb5a7381004e"
+        },
+        "permalink": "/r/science/comments/1kc038q/a_new_study_analysed_226_sludge_samples_from/"
     },
     {
         "id": "1kbv0r9",
         "author": "bluish1997",
         "title": "Telomere bacteriophages are widespread and equip their bacterial hosts with potent interbacterial weapons",
         "content": "",
-        "upvotes": 26,
-        "comments": 2,
+        "upvotes": 56,
+        "comments": 3,
         "media": null,
         "permalink": "/r/science/comments/1kbv0r9/telomere_bacteriophages_are_widespread_and_equip/"
+    },
+    {
+        "id": "1kaxv0z",
+        "author": "frankschmankelton",
+        "title": "High Cannabis Use Linked to Increased Mortality in Colon Cancer Patients",
+        "content": "",
+        "upvotes": 11578,
+        "comments": 1055,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/0ftBAxSPvEfEMF9WNvit8ybilQtjIJJ_qdvtWr6WA_c.jpg?auto=webp&amp;s=0a494da797f398e851ff8c0c51a307bb7279531c"
+        },
+        "permalink": "/r/science/comments/1kaxv0z/high_cannabis_use_linked_to_increased_mortality/"
+    },
+    {
+        "id": "1kba6jh",
+        "author": "unsw",
+        "title": "Receiving a booster vaccine in the same arm as your first dose can generate a more effective immune response more quickly",
+        "content": "",
+        "upvotes": 943,
+        "comments": 11,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/ZazBrWEBGl1jjznCgLOggEEGjKTBPaGCb02WP4sgzyo.jpg?auto=webp&amp;s=8290a74beccaeebf4ad38e40eafda0187df3a9c6"
+        },
+        "permalink": "/r/science/comments/1kba6jh/receiving_a_booster_vaccine_in_the_same_arm_as/"
+    },
+    {
+        "id": "1kbfci8",
+        "author": "chrisdh79",
+        "title": "Parents with alcohol-related diagnoses are twice as likely to maltreat children | \u2018Child maltreatment\u2019 included physical, psychological, emotional and sexual abuse, neglect, and harsh parenting.",
+        "content": "",
+        "upvotes": 272,
+        "comments": 10,
+        "media": null,
+        "permalink": "/r/science/comments/1kbfci8/parents_with_alcoholrelated_diagnoses_are_twice/"
     },
     {
         "id": "1kbkqk3",
         "author": "umichnews",
         "title": "University of Michigan researchers identified Dolichospermum as the cyanobacteria behind Lake Erie's potent neurotoxin, saxitoxin\u2014linking its production to warmer waters and low ammonium levels, findings that could shape future monitoring of harmful algal blooms in a warming climate.",
         "content": "",
-        "upvotes": 91,
+        "upvotes": 97,
         "comments": 4,
         "media": null,
         "permalink": "/r/science/comments/1kbkqk3/university_of_michigan_researchers_identified/"
@@ -256,7 +282,7 @@
         "author": "bevatsulfieten",
         "title": "Metformin, in a 7-day trial, blocked prednisone-induced insulin resistance by raising GLP-1, blunting insulin secretion, and downregulating lipid metabolism genes. It also showed signs of protecting muscle and bone, suggesting broader metabolic benefits.",
         "content": "",
-        "upvotes": 92,
+        "upvotes": 137,
         "comments": 14,
         "media": null,
         "permalink": "/r/science/comments/1kbhsef/metformin_in_a_7day_trial_blocked/"
@@ -266,7 +292,7 @@
         "author": "mvea",
         "title": "New study has found that news outlets that took part in engagement journalism training reduced their \"horse race\" political coverage about who is winning or losing elections and produced more substantive work that can help better inform citizens and reduce polarization.",
         "content": "",
-        "upvotes": 1116,
+        "upvotes": 1147,
         "comments": 14,
         "media": {
             "type": "image",
@@ -275,24 +301,11 @@
         "permalink": "/r/science/comments/1kb1yr9/new_study_has_found_that_news_outlets_that_took/"
     },
     {
-        "id": "1kat1px",
-        "author": "mvea",
-        "title": "Abortion laws after Dobbs decision may accelerate ideological migration in the US. Following the Supreme Court\u2019s decision, people living in states expected to adopt policies contrary to their beliefs reported a lower sense of belonging and greater desire to move to states aligned with their values.",
-        "content": "",
-        "upvotes": 3353,
-        "comments": 125,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/vDcJTXI5A5np0kMLPMQIcrFQdEVXJyyiKE5zBVIwWOQ.jpg?auto=webp&amp;s=770cb5119f0100c9f264f6204af776ac04fb2a15"
-        },
-        "permalink": "/r/science/comments/1kat1px/abortion_laws_after_dobbs_decision_may_accelerate/"
-    },
-    {
         "id": "1kbnhy6",
         "author": "AgingUS",
         "title": "Decreased mitochondrial NAD+ in WRN deficient cells links to dysfunctional proliferation",
         "content": "",
-        "upvotes": 28,
+        "upvotes": 31,
         "comments": 1,
         "media": {
             "type": "image",
@@ -301,11 +314,24 @@
         "permalink": "/r/science/comments/1kbnhy6/decreased_mitochondrial_nad_in_wrn_deficient/"
     },
     {
+        "id": "1kat1px",
+        "author": "mvea",
+        "title": "Abortion laws after Dobbs decision may accelerate ideological migration in the US. Following the Supreme Court\u2019s decision, people living in states expected to adopt policies contrary to their beliefs reported a lower sense of belonging and greater desire to move to states aligned with their values.",
+        "content": "",
+        "upvotes": 3390,
+        "comments": 126,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/vDcJTXI5A5np0kMLPMQIcrFQdEVXJyyiKE5zBVIwWOQ.jpg?auto=webp&amp;s=770cb5119f0100c9f264f6204af776ac04fb2a15"
+        },
+        "permalink": "/r/science/comments/1kat1px/abortion_laws_after_dobbs_decision_may_accelerate/"
+    },
+    {
         "id": "1kb7z93",
         "author": "Sharp-Performance966",
         "title": "Physical training reduces cell senescence and associated insulin resistance in skeletal muscle",
         "content": "",
-        "upvotes": 237,
+        "upvotes": 258,
         "comments": 7,
         "media": null,
         "permalink": "/r/science/comments/1kb7z93/physical_training_reduces_cell_senescence_and/"
@@ -315,8 +341,8 @@
         "author": "mvea",
         "title": "AI model predicts adult ADHD using virtual reality and eye movement data. Study found that their machine learning model could distinguish adults with ADHD from those without the condition 81% of the time when tested on an independent sample.",
         "content": "",
-        "upvotes": 4508,
-        "comments": 274,
+        "upvotes": 4523,
+        "comments": 273,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/RmvqyTXdBQHviwRNgyiWb2AKVZGDsjrcxIcDBZ7iVIg.jpg?auto=webp&amp;s=862a3c31b3b07a40565a7987fa455e7489964835"
@@ -324,38 +350,12 @@
         "permalink": "/r/science/comments/1kam6f6/ai_model_predicts_adult_adhd_using_virtual/"
     },
     {
-        "id": "1kawysu",
-        "author": "nohup_me",
-        "title": "Physical and psychological symptoms of ketamine abuse include bladder or nasal issues, K-cramps, cravings, low mood, anxiety, and irritability",
-        "content": "",
-        "upvotes": 738,
-        "comments": 57,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/Ss_Ff63R7WtxGe_XSkI2KHJ7DjqsuXf3X32c0-v2hvo.jpg?auto=webp&amp;s=48350b01081263a6643715bd16b3fe877ac75a04"
-        },
-        "permalink": "/r/science/comments/1kawysu/physical_and_psychological_symptoms_of_ketamine/"
-    },
-    {
-        "id": "1kaloaa",
-        "author": "chrisdh79",
-        "title": "Plants and Vegetables Can Breathe In Microplastics Through Their Leaves and It Is Already in the Food We Eat | Leaves absorb airborne microplastics, offering a new route into the food chain.",
-        "content": "",
-        "upvotes": 3308,
-        "comments": 173,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/ZYcqXlll-qk9kux8g585JcE9Vj34aeBffduIzGQHttY.jpg?auto=webp&amp;s=d8dbdcc37ded906d34897c523542fec921fdc3f9"
-        },
-        "permalink": "/r/science/comments/1kaloaa/plants_and_vegetables_can_breathe_in/"
-    },
-    {
         "id": "1kb8f1g",
         "author": "calliope_kekule",
         "title": "A new study found that recalling good memories can ease psychological pain and even raise physical pain thresholds.",
         "content": "",
-        "upvotes": 128,
-        "comments": 2,
+        "upvotes": 153,
+        "comments": 4,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/jeWJbWgmeCyPUeH_gZiWjWVsj9vy24d11nsuHBMYrBY.jpg?auto=webp&amp;s=073ccb8ce98b0fea9b6a18c9d208e674faac12bc"
@@ -363,16 +363,16 @@
         "permalink": "/r/science/comments/1kb8f1g/a_new_study_found_that_recalling_good_memories/"
     },
     {
-        "id": "1kbcuiz",
-        "author": "Science_News",
-        "title": "Sebecids, a crocodile-like beast, reached the Caribbean as recently as 4.5 million years ago \u2014 outlasting mainland kin",
+        "id": "1kawysu",
+        "author": "nohup_me",
+        "title": "Physical and psychological symptoms of ketamine abuse include bladder or nasal issues, K-cramps, cravings, low mood, anxiety, and irritability",
         "content": "",
-        "upvotes": 47,
-        "comments": 5,
+        "upvotes": 742,
+        "comments": 59,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/A49AsFEMNYU7y0z2tNmg7B50_UYGefBw-mCbhCPB_q0.jpg?auto=webp&amp;s=2a8862586ef73b016448e1f5ac045a76942ac2b6"
+            "url": "https://external-preview.redd.it/Ss_Ff63R7WtxGe_XSkI2KHJ7DjqsuXf3X32c0-v2hvo.jpg?auto=webp&amp;s=48350b01081263a6643715bd16b3fe877ac75a04"
         },
-        "permalink": "/r/science/comments/1kbcuiz/sebecids_a_crocodilelike_beast_reached_the/"
+        "permalink": "/r/science/comments/1kawysu/physical_and_psychological_symptoms_of_ketamine/"
     }
 ]
