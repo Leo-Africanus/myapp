@@ -4,7 +4,7 @@
         "author": "ScienceModerator",
         "title": "Joint Subreddit Statement: The Attack on U.S. Research Infrastructure",
         "content": "",
-        "upvotes": 2913,
+        "upvotes": 2923,
         "comments": 47,
         "media": null,
         "permalink": "/r/science/comments/1kapr5v/joint_subreddit_statement_the_attack_on_us/"
@@ -14,8 +14,8 @@
         "author": "chrisdh79",
         "title": "Men are more likely than women to get sick and die, but less likely to seek care from hypertension, diabetes, and HIV/AIDS | In most countries, males were also more likely to smoke, while females were more like to be obese and engage in unsafe sex.",
         "content": "",
-        "upvotes": 1470,
-        "comments": 194,
+        "upvotes": 4214,
+        "comments": 328,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/s64LUcm2g0ezve8pSE4co1B38eVP_DmCD-Cl0iHJFZk.jpg?auto=webp&amp;s=47f467045ec90ba74a30e8590917fb3343087f9e"
@@ -23,12 +23,38 @@
         "permalink": "/r/science/comments/1kd0mjq/men_are_more_likely_than_women_to_get_sick_and/"
     },
     {
+        "id": "1kd8y5c",
+        "author": "mvea",
+        "title": "Scientists made a potent antivenom using antibodies from Tim Friede, a US snake collector, bitten roughly 200 times by venomous snakes and given more than 600 doses of venom to build up his immunity. The therapy protects mice against venoms of 19 species of deadly snake, including the king cobra.",
+        "content": "",
+        "upvotes": 1177,
+        "comments": 19,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/KM6p7NITeXAJCqK1BsouciOnTI5SBMAd-HffS_msxSI.jpg?auto=webp&amp;s=cade02ecfee31ce9a30e604ec223e0e96dce7e3c"
+        },
+        "permalink": "/r/science/comments/1kd8y5c/scientists_made_a_potent_antivenom_using/"
+    },
+    {
+        "id": "1kdgv02",
+        "author": "mvea",
+        "title": "South Korea\u2019s \u2018sea women\u2019 are genetically adapted for their tough trade. Generations of Haenyeo have dived to harvest food in freezing waters\u2014and their DNA reflects it. Divers and other Jeju natives share gene variants related to cold tolerance and reduced diving blood pressure.",
+        "content": "",
+        "upvotes": 243,
+        "comments": 5,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/08-mRpyRapmG_DRsfci1olDUucqCa_bMcDQNEqgnuHY.jpg?auto=webp&amp;s=0164baea3d13f0e23a80b00ef341a9c13fd7ada1"
+        },
+        "permalink": "/r/science/comments/1kdgv02/south_koreas_sea_women_are_genetically_adapted/"
+    },
+    {
         "id": "1kcu8cf",
         "author": "ItalianRicePie",
         "title": "Vaping doubles risk of serious lung disease, even without smoking history - study",
         "content": "",
-        "upvotes": 5086,
-        "comments": 387,
+        "upvotes": 8028,
+        "comments": 545,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/2ctE_Kx9bDTFU3giV5icujQ10yEe6-imSPL7XX_3D1Q.jpg?auto=webp&amp;s=f5822df2552d8824946c34e8eb22432552160bb1"
@@ -36,25 +62,12 @@
         "permalink": "/r/science/comments/1kcu8cf/vaping_doubles_risk_of_serious_lung_disease_even/"
     },
     {
-        "id": "1kcyt14",
-        "author": "Wagamaga",
-        "title": "A new study shows that even a moderate dose of caffeine alters brain activity during sleep, increasing complexity and nudging neural systems toward a high-efficiency processing state, especially in young adults during deep sleep.",
-        "content": "",
-        "upvotes": 998,
-        "comments": 83,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/YTpuXkdGjzocxWVzFVaUvpj-25Cczsbf97yU4onovTo.jpg?auto=webp&amp;s=61f4929f6f90e1c51af8d26ea1203681dc48305f"
-        },
-        "permalink": "/r/science/comments/1kcyt14/a_new_study_shows_that_even_a_moderate_dose_of/"
-    },
-    {
         "id": "1kd2134",
         "author": "NGNResearch",
         "title": "Researchers have uncovered a \u201clight smog\u201d of microplastics drifting below the surface of the world\u2019s oceans \u2014 revealing far more plastic pollution in deep-sea waters than previously known.",
         "content": "",
-        "upvotes": 385,
-        "comments": 7,
+        "upvotes": 1646,
+        "comments": 31,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/7kJYDQAWyk9Wjc6skAyNonqB49BSOoieRPpQgC8E0pM.jpg?auto=webp&amp;s=125d1c6fea6a70e1cf7581a9b9ba7a30908f83f3"
@@ -62,38 +75,51 @@
         "permalink": "/r/science/comments/1kd2134/researchers_have_uncovered_a_light_smog_of/"
     },
     {
-        "id": "1kcrf46",
-        "author": "mvea",
-        "title": "Handwriting helps children learn to read more effectively than typing. In an experiment with 5-year-old prereaders, those who practiced writing by hand\u2014either by copying or tracing\u2014outperformed children who typed the same material on a keyboard across a variety of tasks.",
+        "id": "1kcyt14",
+        "author": "Wagamaga",
+        "title": "A new study shows that even a moderate dose of caffeine alters brain activity during sleep, increasing complexity and nudging neural systems toward a high-efficiency processing state, especially in young adults during deep sleep.",
         "content": "",
-        "upvotes": 2242,
-        "comments": 47,
+        "upvotes": 2081,
+        "comments": 128,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/orr-KCc7L-7N3Ck6XAnI_QWMdOokcVdOp4ox2hClvDo.jpg?auto=webp&amp;s=7ee4cc077d3db2e7603a31d667c7d4303b4d7c7b"
+            "url": "https://external-preview.redd.it/YTpuXkdGjzocxWVzFVaUvpj-25Cczsbf97yU4onovTo.jpg?auto=webp&amp;s=61f4929f6f90e1c51af8d26ea1203681dc48305f"
         },
-        "permalink": "/r/science/comments/1kcrf46/handwriting_helps_children_learn_to_read_more/"
+        "permalink": "/r/science/comments/1kcyt14/a_new_study_shows_that_even_a_moderate_dose_of/"
     },
     {
-        "id": "1kcvy7r",
-        "author": "smurfyjenkins",
-        "title": "A large-scale experiment with U.S. local elected officials (N = 23,738) shows that Black\u200c \u200cmen\u200c \u200care systematically ignored, regardless of the message they send. The officials also respond less to \u200cBlack\u200c \u200cwomen\u200c \u200cwhen\u200c they \u200cdiscuss race \u200cand\u200c \u200cless to \u200cWhite\u200c \u200cwomen\u200c \u200cwhen\u200c \u200cthey discuss gender.",
+        "id": "1kde500",
+        "author": "mvea",
+        "title": "Wealthier people are slightly more prosocial, finds large meta-analysis. Prosociality was stronger when behavior needed commitment of time or resources and in public settings. Higher class individuals are more able to afford costly prosocial actions and motivated to maintain a positive social image.",
         "content": "",
-        "upvotes": 455,
-        "comments": 8,
+        "upvotes": 260,
+        "comments": 36,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/hAOhGK6gupMQYsWYCC9Zr2NUKQRGDQothNxHmcP6NYM.jpg?auto=webp&amp;s=3499e18342fdb73cc1950bfcb24b09b948e751ac"
+            "url": "https://external-preview.redd.it/tiy4EGfUFuHI5b3eFkk_Xl0kEqNntj77cgQvQEhFSpU.jpg?auto=webp&amp;s=42ae3b1c64c822d1341b08e0ff1209c0ece511b2"
         },
-        "permalink": "/r/science/comments/1kcvy7r/a_largescale_experiment_with_us_local_elected/"
+        "permalink": "/r/science/comments/1kde500/wealthier_people_are_slightly_more_prosocial/"
+    },
+    {
+        "id": "1kd807e",
+        "author": "nohup_me",
+        "title": "Study links the body\u2019s immune response with schizophrenia, Alzheimer\u2019s disease, depression, and bipolar disorder",
+        "content": "",
+        "upvotes": 327,
+        "comments": 27,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/SsFjA0EUJB1UtMgNpON2GFEqgki3no7ZwajicPotdfw.jpg?auto=webp&amp;s=8edbac0bdc2466fda554b6902db7fd84f78c1d93"
+        },
+        "permalink": "/r/science/comments/1kd807e/study_links_the_bodys_immune_response_with/"
     },
     {
         "id": "1kd3p90",
         "author": "Potential_Being_7226",
         "title": "Shelters at bus stops intended to provide relief from heat can actually result in higher temperatures, but this can be mitigated by the presence of shade trees.",
         "content": "",
-        "upvotes": 109,
-        "comments": 6,
+        "upvotes": 329,
+        "comments": 13,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/N925ckAKPMYXGXHRfGzrBpwTBUOCPVLauU0Rl9srqqc.jpg?auto=webp&amp;s=afd1b21c1766c6dfce86322641a7da243797b975"
@@ -101,35 +127,87 @@
         "permalink": "/r/science/comments/1kd3p90/shelters_at_bus_stops_intended_to_provide_relief/"
     },
     {
-        "id": "1kd05wv",
+        "id": "1kcrf46",
         "author": "mvea",
-        "title": "Many people around the world believe in karma but that belief plays out differently for oneself versus others. People are more likely to believe that they\u2019ve earned good things in their own life through karmic merit, while bad things that happen to other people are due to karmic punishment.",
+        "title": "Handwriting helps children learn to read more effectively than typing. In an experiment with 5-year-old prereaders, those who practiced writing by hand\u2014either by copying or tracing\u2014outperformed children who typed the same material on a keyboard across a variety of tasks.",
         "content": "",
-        "upvotes": 153,
-        "comments": 31,
-        "media": null,
-        "permalink": "/r/science/comments/1kd05wv/many_people_around_the_world_believe_in_karma_but/"
-    },
-    {
-        "id": "1kct2pm",
-        "author": "eeeking",
-        "title": "Crop yields increase by 12% with a spray of T6P, a natural molecule that controls the plant equivalent of \u201cblood sugar\u201d, and can reduce the associated greenhouse gas emissions caused by fertiliser production.",
-        "content": "",
-        "upvotes": 453,
-        "comments": 16,
+        "upvotes": 2660,
+        "comments": 51,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/9gvphptr51G5mavzHc3agJ7d9ElKw_tAkHA6YKe_pM0.jpg?auto=webp&amp;s=a154f4d53fdf26f35758ed28c798f623424a10a5"
+            "url": "https://external-preview.redd.it/orr-KCc7L-7N3Ck6XAnI_QWMdOokcVdOp4ox2hClvDo.jpg?auto=webp&amp;s=7ee4cc077d3db2e7603a31d667c7d4303b4d7c7b"
         },
-        "permalink": "/r/science/comments/1kct2pm/crop_yields_increase_by_12_with_a_spray_of_t6p_a/"
+        "permalink": "/r/science/comments/1kcrf46/handwriting_helps_children_learn_to_read_more/"
+    },
+    {
+        "id": "1kd6jwz",
+        "author": "MassGen-Research",
+        "title": "New \"Hidden in Plain Sight\" Facial and Eye Biomarkers for Tinnitus Severity Could Unlock Path to Testing Treatments",
+        "content": "",
+        "upvotes": 189,
+        "comments": 9,
+        "media": null,
+        "permalink": "/r/science/comments/1kd6jwz/new_hidden_in_plain_sight_facial_and_eye/"
+    },
+    {
+        "id": "1kda6pl",
+        "author": "braconidae",
+        "title": "The range of infected deer ticks that can spread of babesiosis, which causes malaria-like symptoms, is expanding in the Mid-Atlantic region of the US.",
+        "content": "",
+        "upvotes": 98,
+        "comments": 3,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/sTXbn5UTgb71CkFvsGRUtrp-Ptr488z2KVsJS__t51A.jpg?auto=webp&amp;s=433b566cb130b403176590262848638bd5cc0f19"
+        },
+        "permalink": "/r/science/comments/1kda6pl/the_range_of_infected_deer_ticks_that_can_spread/"
+    },
+    {
+        "id": "1kcvy7r",
+        "author": "smurfyjenkins",
+        "title": "A large-scale experiment with U.S. local elected officials (N = 23,738) shows that Black\u200c \u200cmen\u200c \u200care systematically ignored, regardless of the message they send. The officials also respond less to \u200cBlack\u200c \u200cwomen\u200c \u200cwhen\u200c they \u200cdiscuss race \u200cand\u200c \u200cless to \u200cWhite\u200c \u200cwomen\u200c \u200cwhen\u200c \u200cthey discuss gender.",
+        "content": "",
+        "upvotes": 794,
+        "comments": 17,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/hAOhGK6gupMQYsWYCC9Zr2NUKQRGDQothNxHmcP6NYM.jpg?auto=webp&amp;s=3499e18342fdb73cc1950bfcb24b09b948e751ac"
+        },
+        "permalink": "/r/science/comments/1kcvy7r/a_largescale_experiment_with_us_local_elected/"
+    },
+    {
+        "id": "1kdcg1j",
+        "author": "haberveriyo",
+        "title": "Europe\u2019s Oldest Spearhead Unearthed in Russia: Crafted by Neanderthals 80,000 Years Ago",
+        "content": "",
+        "upvotes": 48,
+        "comments": 10,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/qVrNrff1gQ3mFKH0VE5VMSk9GiLSN4YMczNVtgKr2II.jpg?auto=webp&amp;s=25c45f1ee50a2d1a7af7454c59ed3a65918178d5"
+        },
+        "permalink": "/r/science/comments/1kdcg1j/europes_oldest_spearhead_unearthed_in_russia/"
+    },
+    {
+        "id": "1kdc4ep",
+        "author": "PositiveBeginning3",
+        "title": "New study finds a shared genetic link between endometriosis and immune conditions such as osteoarthritis, rheumatoid arthritis and multiple sclerosis.",
+        "content": "",
+        "upvotes": 51,
+        "comments": 1,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/LoNUiKk0DlEck-N9WmKXnx6jhod2no697jAWjJJTqYc.jpg?auto=webp&amp;s=528f3fe418f1553d70cdcfde47e71effef6a3fa5"
+        },
+        "permalink": "/r/science/comments/1kdc4ep/new_study_finds_a_shared_genetic_link_between/"
     },
     {
         "id": "1kd0vhh",
         "author": "chrisdh79",
         "title": "Ronan the Sea Lion Can Keep a Beat Better Than You Can \u2014 and She Might Just Change What We Know About Music and the Brain | A rescued sea lion is shaking up what scientists thought they knew about rhythm and the brain",
         "content": "",
-        "upvotes": 79,
-        "comments": 6,
+        "upvotes": 159,
+        "comments": 10,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/dtfOnECPOM0z8qnHr1ZeI3U0ltDd0MmH5DTdYW_mAVM.jpg?auto=webp&amp;s=a7448ec1081ca23d079cc575f83c513c46fcea51"
@@ -137,12 +215,35 @@
         "permalink": "/r/science/comments/1kd0vhh/ronan_the_sea_lion_can_keep_a_beat_better_than/"
     },
     {
+        "id": "1kct2pm",
+        "author": "eeeking",
+        "title": "Crop yields increase by 12% with a spray of T6P, a natural molecule that controls the plant equivalent of \u201cblood sugar\u201d, and can reduce the associated greenhouse gas emissions caused by fertiliser production.",
+        "content": "",
+        "upvotes": 615,
+        "comments": 19,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/9gvphptr51G5mavzHc3agJ7d9ElKw_tAkHA6YKe_pM0.jpg?auto=webp&amp;s=a154f4d53fdf26f35758ed28c798f623424a10a5"
+        },
+        "permalink": "/r/science/comments/1kct2pm/crop_yields_increase_by_12_with_a_spray_of_t6p_a/"
+    },
+    {
+        "id": "1kcrrt1",
+        "author": "bluebird309",
+        "title": "A novel research project has shown that areas with greater amounts of green space have a lower prevalence of police violence. The study is the first to find such a significant relationship, and it showed that the most deprived areas seemed to benefit the most from green spaces.",
+        "content": "",
+        "upvotes": 597,
+        "comments": 32,
+        "media": null,
+        "permalink": "/r/science/comments/1kcrrt1/a_novel_research_project_has_shown_that_areas/"
+    },
+    {
         "id": "1kc52eb",
         "author": "mvea",
         "title": "People with higher intelligence tend to reproduce later and have fewer children, even though they show signs of better reproductive health. They tend to undergo puberty earlier, but they also delay starting families and end up with fewer children overall.",
         "content": "",
-        "upvotes": 23318,
-        "comments": 1262,
+        "upvotes": 23817,
+        "comments": 1288,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/RtjkFHSWUiOfygkQmjNo_xQJ_UY7VPNN-tUb-tVayq4.jpg?auto=webp&amp;s=6e4c473539d61d759364a72ecf678ca622906bb6"
@@ -150,35 +251,38 @@
         "permalink": "/r/science/comments/1kc52eb/people_with_higher_intelligence_tend_to_reproduce/"
     },
     {
-        "id": "1kcrrt1",
-        "author": "bluebird309",
-        "title": "A novel research project has shown that areas with greater amounts of green space have a lower prevalence of police violence. The study is the first to find such a significant relationship, and it showed that the most deprived areas seemed to benefit the most from green spaces.",
+        "id": "1kd5tj6",
+        "author": "andyhfell",
+        "title": "Determinants of happiness, whether external, internal, or from the interaction of internal and external factors are highly individual. Measures of happiness at a population level do not accurately reflect individual experiences.",
         "content": "",
-        "upvotes": 470,
-        "comments": 33,
-        "media": null,
-        "permalink": "/r/science/comments/1kcrrt1/a_novel_research_project_has_shown_that_areas/"
-    },
-    {
-        "id": "1kd1rg5",
-        "author": "mvea",
-        "title": "New research finds that high school factors predict adult body weight, especially for women. For women, both family and school socioeconomic status (SES), along with popularity, were significantly linked to adult weight. For men, the connection existed but was less pronounced.",
-        "content": "",
-        "upvotes": 71,
-        "comments": 6,
+        "upvotes": 42,
+        "comments": 3,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/VB9GA8KWzObbdoRo7CSoDu0XmnFQCyHUI2F5LwuXhuw.jpg?auto=webp&amp;s=2c7cbbbcc172b6d0f8ec18f2715814c9cf83407a"
+            "url": "https://external-preview.redd.it/qQBIJsuFnYfYWJvBLQ8iyvamsnuAufLIhtTIO2i084s.jpg?auto=webp&amp;s=5ad56aac3c3a3a3b0c85fd83a69ad9b777d0075a"
         },
-        "permalink": "/r/science/comments/1kd1rg5/new_research_finds_that_high_school_factors/"
+        "permalink": "/r/science/comments/1kd5tj6/determinants_of_happiness_whether_external/"
+    },
+    {
+        "id": "1kd2yiq",
+        "author": "Potential_Being_7226",
+        "title": "Seasonal changes might affect your drug metabolism, alcohol tolerance, and waistline | Researchers identified seasonal variation in genes related to metabolism and human diseases in rhesus monkeys.",
+        "content": "",
+        "upvotes": 58,
+        "comments": 3,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/OPzHwZ4wjoO0JvSlX97OElGxjYZxpdysqLn1SrYRhpk.jpg?auto=webp&amp;s=63d29b41b4d68c4fcfb48e9447887a6f01e60ebd"
+        },
+        "permalink": "/r/science/comments/1kd2yiq/seasonal_changes_might_affect_your_drug/"
     },
     {
         "id": "1kchx6e",
         "author": "mvea",
         "title": "People who express negative attitudes toward atheists are perceived as more religious and may use these attitudes to signal their religious identity, according to new US research. Although religion is often linked to prosocial behavior, it can also fuel prejudice, particularly against atheists.",
         "content": "",
-        "upvotes": 1620,
-        "comments": 216,
+        "upvotes": 1673,
+        "comments": 218,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/7Cbqf5UgXSoX3wFeUiWUXYQerQpSvBaBPn1J4oufiLY.jpg?auto=webp&amp;s=a18064178c436c731a45fde61f9601b9abbf31a1"
@@ -190,8 +294,8 @@
         "author": "chrisdh79",
         "title": "Home washing machines fail to remove important pathogens from textiles | Study finds washing machine biofilms may harbor potential pathogens and antibiotic resistance genes, which could have an impact on domestic laundering of healthcare workers uniforms",
         "content": "",
-        "upvotes": 2823,
-        "comments": 186,
+        "upvotes": 2946,
+        "comments": 193,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/yAAUhCAtbz7PNSK6mcRm8dIrF4fKRXu8YPf7nsbc2xg.jpg?auto=webp&amp;s=d9f8f37efd5b9873c9cef1ad8155cd8e5eb8a973"
@@ -199,48 +303,35 @@
         "permalink": "/r/science/comments/1kcacbv/home_washing_machines_fail_to_remove_important/"
     },
     {
-        "id": "1kd2yiq",
-        "author": "Potential_Being_7226",
-        "title": "Seasonal changes might affect your drug metabolism, alcohol tolerance, and waistline | Researchers identified seasonal variation in genes related to metabolism and human diseases in rhesus monkeys.",
-        "content": "",
-        "upvotes": 33,
-        "comments": 2,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/OPzHwZ4wjoO0JvSlX97OElGxjYZxpdysqLn1SrYRhpk.jpg?auto=webp&amp;s=63d29b41b4d68c4fcfb48e9447887a6f01e60ebd"
-        },
-        "permalink": "/r/science/comments/1kd2yiq/seasonal_changes_might_affect_your_drug/"
-    },
-    {
         "id": "1kcvh8o",
         "author": "Wagamaga",
         "title": "The experiences we have in our early years, from religious practices to family bonds, can shape our spiritual views in adulthood. Adults who had experienced abuse or felt like outsiders in their families during childhood were more likely to believe in an afterlife",
         "content": "",
-        "upvotes": 86,
+        "upvotes": 106,
         "comments": 17,
         "media": null,
         "permalink": "/r/science/comments/1kcvh8o/the_experiences_we_have_in_our_early_years_from/"
     },
     {
-        "id": "1kd545s",
-        "author": "nbcnews",
-        "title": "Snakes have bitten this man hundreds of times. His blood could help save lives",
+        "id": "1kd4rvc",
+        "author": "MarzipanBackground91",
+        "title": "New study in Nature Comms used Minecraft to show how humans adaptively switch between solo and social learning. Players copied successful peers more after personal failures, especially in clustered (not random) reward environments. Highlights cognitive flexibility in group foraging strategies.",
         "content": "",
-        "upvotes": 17,
+        "upvotes": 16,
         "comments": 1,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/kcUiuwJQCkv4ZUQulnRPR2flHboIfHP_dCN0O8iCewY.jpg?auto=webp&amp;s=b97d16ede07a76979f09da846c48edebc6f2a016"
+            "url": "https://external-preview.redd.it/HLDL3ZDUmV41E-vi6z4_SqMwMrsNOThil79-jNh9eCQ.jpg?auto=webp&amp;s=35ee2555c6ce3073dee7d6b36f5f380d1e98030a"
         },
-        "permalink": "/r/science/comments/1kd545s/snakes_have_bitten_this_man_hundreds_of_times_his/"
+        "permalink": "/r/science/comments/1kd4rvc/new_study_in_nature_comms_used_minecraft_to_show/"
     },
     {
         "id": "1kc7h2q",
         "author": "chrisdh79",
         "title": "Human Evolution Traded Fur for Sweat Glands\u2014and Now, Our Wounds Take Longer to Heal Than Those of Other Mammals | Human scrapes and cuts tend to stick around for more than twice as long, new research suggests",
         "content": "",
-        "upvotes": 1568,
-        "comments": 27,
+        "upvotes": 1638,
+        "comments": 32,
         "media": null,
         "permalink": "/r/science/comments/1kc7h2q/human_evolution_traded_fur_for_sweat_glandsand/"
     },
@@ -249,7 +340,7 @@
         "author": "mvea",
         "title": "Being hit by an SUV increases the likelihood of death or serious injury: Likelihood of pedestrian or cyclist being fatally injured is 44% higher if hit by an SUV or light truck vehicle (LTV). For children the effect is larger, with a child hit by a SUV or LTV being 82% more likely to be killed.",
         "content": "",
-        "upvotes": 1221,
+        "upvotes": 1252,
         "comments": 148,
         "media": {
             "type": "image",
@@ -262,7 +353,7 @@
         "author": "mvea",
         "title": "American conservatives tend to rate their mental health more positively than their liberal counterparts. Asking instead about overall mood eliminated the gap between liberals and conservatives. Conservatives may inflate their mental health ratings when asked, due to stigma surrounding the term.",
         "content": "",
-        "upvotes": 14723,
+        "upvotes": 14788,
         "comments": 816,
         "media": {
             "type": "image",
@@ -275,105 +366,17 @@
         "author": "chrisdh79",
         "title": "Corn-based pads could cut 220,000 tons of plastic waste dumped in oceans yearly | Researchers suggest cornstarch-based products could replace plastic sanitary products, reducing environmental impact while remaining scalable and cost-effective.",
         "content": "",
-        "upvotes": 1465,
-        "comments": 81,
+        "upvotes": 1509,
+        "comments": 84,
         "media": null,
         "permalink": "/r/science/comments/1kc5ipi/cornbased_pads_could_cut_220000_tons_of_plastic/"
-    },
-    {
-        "id": "1kcjmjz",
-        "author": "fchung",
-        "title": "MIT engineers advance toward a fault-tolerant quantum computer: \u00ab Researchers achieved a type of coupling between artificial atoms and photons that could enable readout and processing of quantum information in a few nanoseconds. \u00bb",
-        "content": "",
-        "upvotes": 175,
-        "comments": 3,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/Va00W09cqh35bCoKLt4yiIKeUe4YVfNit11X58OY3gQ.jpeg?auto=webp&amp;s=eadcd81764a0ade056f135d1409b0e6a1fe1e2fa"
-        },
-        "permalink": "/r/science/comments/1kcjmjz/mit_engineers_advance_toward_a_faulttolerant/"
-    },
-    {
-        "id": "1kcfvca",
-        "author": "nohup_me",
-        "title": "Young people who increase their physical activity from age 14 have a lower risk of developing depression symptoms. However, this does not apply to adolescents aged 10-14",
-        "content": "",
-        "upvotes": 276,
-        "comments": 15,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/mmDJ0nn0zbnLmv26h9HWPPIFAoaHGvt6ay_vvYtglGM.jpg?auto=webp&amp;s=4c2332e501e7feb2d7dab196fe04d2096f0bb962"
-        },
-        "permalink": "/r/science/comments/1kcfvca/young_people_who_increase_their_physical_activity/"
-    },
-    {
-        "id": "1kd4rvc",
-        "author": "MarzipanBackground91",
-        "title": "New study in Nature Comms used Minecraft to show how humans adaptively switch between solo and social learning. Players copied successful peers more after personal failures, especially in clustered (not random) reward environments. Highlights cognitive flexibility in group foraging strategies.",
-        "content": "",
-        "upvotes": 5,
-        "comments": 1,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/HLDL3ZDUmV41E-vi6z4_SqMwMrsNOThil79-jNh9eCQ.jpg?auto=webp&amp;s=35ee2555c6ce3073dee7d6b36f5f380d1e98030a"
-        },
-        "permalink": "/r/science/comments/1kd4rvc/new_study_in_nature_comms_used_minecraft_to_show/"
-    },
-    {
-        "id": "1kcda6y",
-        "author": "OregonTripleBeam",
-        "title": "A long-term study from Canada analyzed the effects of cannabis legalization on consumption behavior and abuse. In a cohort of 1,428 adults, the frequency of cannabis use increased by an average of 1.75% over five years, while cannabis abuse decreased by 0.4 points.",
-        "content": "",
-        "upvotes": 357,
-        "comments": 12,
-        "media": null,
-        "permalink": "/r/science/comments/1kcda6y/a_longterm_study_from_canada_analyzed_the_effects/"
-    },
-    {
-        "id": "1kcejh0",
-        "author": "Strong_Arachnid_3842",
-        "title": "Star flares blast out massive amounts of gold across the galaxy",
-        "content": "",
-        "upvotes": 305,
-        "comments": 28,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/dcJJ5JkrtbjFLiIweGAMD_TIEaRWTtf8Qv54TBKOfb4.jpg?auto=webp&amp;s=46295b1e2d0242649475284bc8035b324f0fed5b"
-        },
-        "permalink": "/r/science/comments/1kcejh0/star_flares_blast_out_massive_amounts_of_gold/"
-    },
-    {
-        "id": "1kcjgl8",
-        "author": "erikrolfsen",
-        "title": "A new drug design for treating IDB can release medicine exclusively to the lower gut at doses up to 10 times lower than current therapies. It relies on gut bacteria to unlock its mechanism. People with IBD have the same gut bacteria that made this work in mice.",
-        "content": "",
-        "upvotes": 144,
-        "comments": 4,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/WhmoKkXHeBYEGzvXcUacsOT5_drHD5dLDEXpur_wK6E.jpg?auto=webp&amp;s=1267375823292f17a3d98fcc9e301fc86454bef2"
-        },
-        "permalink": "/r/science/comments/1kcjgl8/a_new_drug_design_for_treating_idb_can_release/"
-    },
-    {
-        "id": "1kcst76",
-        "author": "calliope_kekule",
-        "title": "A study of 150 countries finds fiscal policy can reduce CO\u2082 \u2013 but only in high-income nations. Low- and middle-income countries still face 'pro-emission' fiscal trends, deepening global climate inequality.",
-        "content": "",
-        "upvotes": 36,
-        "comments": 2,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/TC_UKXpA73h-b5oChAHMajAOsBcFDCfOf04e1bDdrHw.jpg?auto=webp&amp;s=2c9fe9f9287653e62a67116b461e5eb532580c70"
-        },
-        "permalink": "/r/science/comments/1kcst76/a_study_of_150_countries_finds_fiscal_policy_can/"
     },
     {
         "id": "1kcwnde",
         "author": "saminfujisawa",
         "title": "Starch-rich plant foods 780,000 y ago: Evidence from Acheulian percussive stone tools",
         "content": "",
-        "upvotes": 13,
+        "upvotes": 22,
         "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1kcwnde/starchrich_plant_foods_780000_y_ago_evidence_from/"
