@@ -4,18 +4,28 @@
         "author": "ScienceModerator",
         "title": "Joint Subreddit Statement: The Attack on U.S. Research Infrastructure",
         "content": "",
-        "upvotes": 2937,
-        "comments": 48,
+        "upvotes": 2933,
+        "comments": 49,
         "media": null,
         "permalink": "/r/science/comments/1kapr5v/joint_subreddit_statement_the_attack_on_us/"
+    },
+    {
+        "id": "1kex8z4",
+        "author": "mvea",
+        "title": "Experiments show Americans perceive problems affecting outgroup members as less serious and more strongly oppose government aid in those cases. Outgroup hostility was driven more by concerns stemming from self-interest. Republicans expressed stronger and more consistent ingroup bias than Democrats.",
+        "content": "",
+        "upvotes": 2079,
+        "comments": 94,
+        "media": null,
+        "permalink": "/r/science/comments/1kex8z4/experiments_show_americans_perceive_problems/"
     },
     {
         "id": "1kegb1m",
         "author": "mvea",
         "title": "Avoidant attachment to parents linked to choosing a childfree life, study finds. Individuals who are more emotionally distant from their parents were significantly more likely to identify as childfree.",
         "content": "",
-        "upvotes": 14916,
-        "comments": 831,
+        "upvotes": 16779,
+        "comments": 894,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/h1PGfGUSA_nP6MGsJjAS3z5Ad6acWH8fnBK-UAByqhU.jpg?auto=webp&amp;s=e17598fe8a26fc0c2cdab30ef0c01cc0576fdce3"
@@ -23,22 +33,12 @@
         "permalink": "/r/science/comments/1kegb1m/avoidant_attachment_to_parents_linked_to_choosing/"
     },
     {
-        "id": "1kex8z4",
-        "author": "mvea",
-        "title": "Experiments show Americans perceive problems affecting outgroup members as less serious and more strongly oppose government aid in those cases. Outgroup hostility was driven more by concerns stemming from self-interest. Republicans expressed stronger and more consistent ingroup bias than Democrats.",
-        "content": "",
-        "upvotes": 676,
-        "comments": 35,
-        "media": null,
-        "permalink": "/r/science/comments/1kex8z4/experiments_show_americans_perceive_problems/"
-    },
-    {
         "id": "1ken9qf",
         "author": "chrisdh79",
         "title": "Older adults reflect less on their personality traits than younger adults, study finds",
         "content": "",
-        "upvotes": 2206,
-        "comments": 102,
+        "upvotes": 2786,
+        "comments": 119,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/Yd_kcxBBnmiM2m1_q0ptch9FmT29A0krkCvHJUw4nJY.jpg?auto=webp&amp;s=7e036b1d2ba8aea81bd0a1da26194fb24af17e67"
@@ -46,25 +46,12 @@
         "permalink": "/r/science/comments/1ken9qf/older_adults_reflect_less_on_their_personality/"
     },
     {
-        "id": "1ker0ak",
-        "author": "nohup_me",
-        "title": "Listening to music while performing mindfulness exercises targets neural and cardiac mechanisms in the brain that may treat symptoms of anxiety and depression",
-        "content": "",
-        "upvotes": 828,
-        "comments": 37,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/b1d7H0LS7R950XEYDnqupXHEsvR2GI3wlMcqSeT45bI.jpg?auto=webp&amp;s=04899e1abe896cdab1afd3210499cb3143d845b0"
-        },
-        "permalink": "/r/science/comments/1ker0ak/listening_to_music_while_performing_mindfulness/"
-    },
-    {
         "id": "1keuqtk",
         "author": "chrisdh79",
         "title": "ADHD in formerly institutionalized children tied to slower physical and brain growth",
         "content": "",
-        "upvotes": 500,
-        "comments": 3,
+        "upvotes": 710,
+        "comments": 6,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/WYA-uC9lluFi_MpEy9CxRIHOhaH7triaal_Bx1O2yao.jpg?auto=webp&amp;s=d76db1fb07cad1dac753ff8e5ca7e1e774216ebb"
@@ -72,11 +59,50 @@
         "permalink": "/r/science/comments/1keuqtk/adhd_in_formerly_institutionalized_children_tied/"
     },
     {
+        "id": "1ker0ak",
+        "author": "nohup_me",
+        "title": "Listening to music while performing mindfulness exercises targets neural and cardiac mechanisms in the brain that may treat symptoms of anxiety and depression",
+        "content": "",
+        "upvotes": 1154,
+        "comments": 41,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/b1d7H0LS7R950XEYDnqupXHEsvR2GI3wlMcqSeT45bI.jpg?auto=webp&amp;s=04899e1abe896cdab1afd3210499cb3143d845b0"
+        },
+        "permalink": "/r/science/comments/1ker0ak/listening_to_music_while_performing_mindfulness/"
+    },
+    {
+        "id": "1kf1x6o",
+        "author": "PrepareToBeLetDown",
+        "title": "Colorectal Cancer Linked with Increased Risk of Cardiovascular Mortality",
+        "content": "",
+        "upvotes": 211,
+        "comments": 11,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/S0NfpN4OOaPomj0MKZ55t1yk9x54m4boge8LQqn-oWU.jpg?auto=webp&amp;s=876975c0dfe96e216f71bc5a923c0f2031593fe9"
+        },
+        "permalink": "/r/science/comments/1kf1x6o/colorectal_cancer_linked_with_increased_risk_of/"
+    },
+    {
+        "id": "1kf5bxg",
+        "author": "Wagamaga",
+        "title": "Regular chats with friends, time spent in nature and mentally engaging activities are strongly linked to better mental health, according to new research that highlights the power of simple, everyday behaviours to improve well-being.",
+        "content": "",
+        "upvotes": 89,
+        "comments": 6,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/ZChwGDJWnqKbfimDEF0rdY60HxASN1YwevXyLpNbz0w.jpg?auto=webp&amp;s=868b39afcaa274aa8eb442ef03cbb8e931f9dc5b"
+        },
+        "permalink": "/r/science/comments/1kf5bxg/regular_chats_with_friends_time_spent_in_nature/"
+    },
+    {
         "id": "1keslst",
         "author": "Potential_Being_7226",
         "title": "Low iron could cause brain fog during menopause transition | Higher iron status predicts better cognitive performance among menopausal women who were neither iron deficient nor anemic.",
         "content": "",
-        "upvotes": 346,
+        "upvotes": 473,
         "comments": 4,
         "media": {
             "type": "image",
@@ -85,25 +111,38 @@
         "permalink": "/r/science/comments/1keslst/low_iron_could_cause_brain_fog_during_menopause/"
     },
     {
-        "id": "1kej94g",
-        "author": "Wagamaga",
-        "title": "Stark Differences in Life Expectancy Across U.S. States Over the Past Century. States like Mississippi, Alabama,  saw minimal gains, particularly among women, suggesting that systemic factors \u2014 including socioeconomic disadvantages, limited access to health care, have left  imprints on mortality",
+        "id": "1kf530w",
+        "author": "ThatchersDirtyTaint",
+        "title": "Yellowstone Makes Earthquakes With 53,000-Pound Vibrator Truck To Study Volcano",
         "content": "",
-        "upvotes": 789,
-        "comments": 77,
+        "upvotes": 64,
+        "comments": 20,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/2P2eTt3cLAzTqvEKTRaGKBCw19AQrtoMnBiyIQ1f2Zg.jpg?auto=webp&amp;s=9cf8a2292cd0a1967b426c157a56060cd2678378"
+            "url": "https://external-preview.redd.it/e1866kidwGvW34E-MNhnUJi3AyPWWeoiiz_8QNGSpuM.jpg?auto=webp&amp;s=509388fcd68accd313c3342ad050be98c797b8df"
         },
-        "permalink": "/r/science/comments/1kej94g/stark_differences_in_life_expectancy_across_us/"
+        "permalink": "/r/science/comments/1kf530w/yellowstone_makes_earthquakes_with_53000pound/"
+    },
+    {
+        "id": "1kf3gfe",
+        "author": "calliope_kekule",
+        "title": "A new study finds that CO\u2082 and CH\u2084 emissions in Africa significantly increase surface temperature, which in turn drives sea level rise \u2013 threatening millions in coastal regions.",
+        "content": "",
+        "upvotes": 56,
+        "comments": 4,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/vdhLOXhTVI0oJKX1N--_lt3JBpeFE2BJ1Nt7tiabeBk.jpg?auto=webp&amp;s=20482459ce28f21847717c684d6c50b1adee1781"
+        },
+        "permalink": "/r/science/comments/1kf3gfe/a_new_study_finds_that_co\u2082_and_ch\u2084_emissions_in/"
     },
     {
         "id": "1kepl7c",
         "author": "Sonata-Shae",
         "title": "Menopausal shift on women\u2019s health and microbial niches.  Gut microorganisms directly metabolize sex hormones such as estrogen and progesterone, having an effect on sex steroid availability.",
         "content": "",
-        "upvotes": 313,
-        "comments": 9,
+        "upvotes": 428,
+        "comments": 11,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/8HRYB3lQNo2lu9MAT5l6l7fpdwL44rBIQYO4QWSY-Bg.jpg?auto=webp&amp;s=c103447290c863125f7737f205ffe16c31738e24"
@@ -111,12 +150,25 @@
         "permalink": "/r/science/comments/1kepl7c/menopausal_shift_on_womens_health_and_microbial/"
     },
     {
+        "id": "1kej94g",
+        "author": "Wagamaga",
+        "title": "Stark Differences in Life Expectancy Across U.S. States Over the Past Century. States like Mississippi, Alabama,  saw minimal gains, particularly among women, suggesting that systemic factors \u2014 including socioeconomic disadvantages, limited access to health care, have left  imprints on mortality",
+        "content": "",
+        "upvotes": 905,
+        "comments": 80,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/2P2eTt3cLAzTqvEKTRaGKBCw19AQrtoMnBiyIQ1f2Zg.jpg?auto=webp&amp;s=9cf8a2292cd0a1967b426c157a56060cd2678378"
+        },
+        "permalink": "/r/science/comments/1kej94g/stark_differences_in_life_expectancy_across_us/"
+    },
+    {
         "id": "1kei7ua",
         "author": "mvea",
         "title": "Political misinformation deepfakes (audio and video) created by an undergraduate student reduced viewers\u2019 willingness to vote for the politicians targeted. However, these deepfakes were not consistently more effective than the same misinformation presented as simple text.",
         "content": "",
-        "upvotes": 796,
-        "comments": 18,
+        "upvotes": 894,
+        "comments": 19,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/ZbmSEp06ybNWeRhEMhVjXC4Tmc7-1bfToRgIkDAp7ds.jpg?auto=webp&amp;s=01c0ac49a747c0291aae48e86f3685e787f9eadc"
@@ -124,11 +176,21 @@
         "permalink": "/r/science/comments/1kei7ua/political_misinformation_deepfakes_audio_and/"
     },
     {
+        "id": "1kew8fx",
+        "author": "Comfortable_Tutor_43",
+        "title": "Examining patterns of public and private sector corruption within the booming California solar energy market",
+        "content": "",
+        "upvotes": 106,
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/science/comments/1kew8fx/examining_patterns_of_public_and_private_sector/"
+    },
+    {
         "id": "1keb7wu",
         "author": "mvea",
         "title": "Most people believe they deserve good karma more than others. This bias was strongest among Americans - 71% described their own karma experiences as positive. Even in an age of science and reason, these findings show that people still lean on supernatural thinking to make sense of their world.",
         "content": "",
-        "upvotes": 2635,
+        "upvotes": 2806,
         "comments": 221,
         "media": {
             "type": "image",
@@ -137,21 +199,11 @@
         "permalink": "/r/science/comments/1keb7wu/most_people_believe_they_deserve_good_karma_more/"
     },
     {
-        "id": "1kew8fx",
-        "author": "Comfortable_Tutor_43",
-        "title": "Examining patterns of public and private sector corruption within the booming California solar energy market",
-        "content": "",
-        "upvotes": 56,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/science/comments/1kew8fx/examining_patterns_of_public_and_private_sector/"
-    },
-    {
         "id": "1ketsju",
         "author": "FunnyGamer97",
         "title": "Scientists discover key to taming unrest at Italy\u2019s Campi Flegrei | Roundwater levels and surface water runoff reduces pressure in the geothermal reservoir beneath Italy's Campi Flegrei caldera, potentially mitigating earthquake swarms and land deformation previously attributed to magma movement.",
         "content": "",
-        "upvotes": 60,
+        "upvotes": 87,
         "comments": 2,
         "media": {
             "type": "image",
@@ -160,21 +212,21 @@
         "permalink": "/r/science/comments/1ketsju/scientists_discover_key_to_taming_unrest_at/"
     },
     {
-        "id": "1keghxb",
-        "author": "MulefaScientist",
-        "title": "Hermit crabs living in rocky shores showed the importance of animal body size when living exposed to waves. The hydrodynamic forces of waves don't allow hermit crabs to grow to a certain size due to the energetic constraints of clinging to the substrate when exposed to water flow.",
+        "id": "1kf1qi9",
+        "author": "bluish1997",
+        "title": "Pacmanvirus isolated from the Lost City hydrothermal field extends the concept of transpoviron beyond the family Mimiviridae - ISME Microbial Ecology",
         "content": "",
-        "upvotes": 195,
-        "comments": 3,
+        "upvotes": 13,
+        "comments": 1,
         "media": null,
-        "permalink": "/r/science/comments/1keghxb/hermit_crabs_living_in_rocky_shores_showed_the/"
+        "permalink": "/r/science/comments/1kf1qi9/pacmanvirus_isolated_from_the_lost_city/"
     },
     {
         "id": "1keu41d",
         "author": "FunnyGamer97",
         "title": "Researchers discover impaired mitochondrial quality control in skeletal muscle \u2014 driven by overactive dynamin-related protein 1 (DRP1) and disrupted deubiquitinating enzymes (DUBs)\u2014contributing to insulin resistance in Type 2 diabetes",
         "content": "",
-        "upvotes": 23,
+        "upvotes": 38,
         "comments": 1,
         "media": {
             "type": "image",
@@ -183,11 +235,41 @@
         "permalink": "/r/science/comments/1keu41d/researchers_discover_impaired_mitochondrial/"
     },
     {
+        "id": "1keghxb",
+        "author": "MulefaScientist",
+        "title": "Hermit crabs living in rocky shores showed the importance of animal body size when living exposed to waves. The hydrodynamic forces of waves don't allow hermit crabs to grow to a certain size due to the energetic constraints of clinging to the substrate when exposed to water flow.",
+        "content": "",
+        "upvotes": 222,
+        "comments": 3,
+        "media": null,
+        "permalink": "/r/science/comments/1keghxb/hermit_crabs_living_in_rocky_shores_showed_the/"
+    },
+    {
+        "id": "1kf1vgr",
+        "author": "bluish1997",
+        "title": "How nidoviruses evolved the largest known RNA genomes",
+        "content": "",
+        "upvotes": 6,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1kf1vgr/how_nidoviruses_evolved_the_largest_known_rna/"
+    },
+    {
+        "id": "1ker86j",
+        "author": "haxKingdom",
+        "title": "Interphase cell morphology defines the mode, symmetry, and outcome of mitosis",
+        "content": "",
+        "upvotes": 29,
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/science/comments/1ker86j/interphase_cell_morphology_defines_the_mode/"
+    },
+    {
         "id": "1ke0bdb",
         "author": "chrisdh79",
         "title": "Scientist discover ancient brain-cleaning system that may break down in Alzheimer\u2019s disease | Researchers found that specialized glial cells in spiders use tiny canals to draw waste from neurons into structures that resemble microscopic receptacles.",
         "content": "",
-        "upvotes": 2167,
+        "upvotes": 2274,
         "comments": 33,
         "media": {
             "type": "image",
@@ -200,8 +282,8 @@
         "author": "mvea",
         "title": "Higher emotional intelligence is associated with better sexual satisfaction, study finds",
         "content": "",
-        "upvotes": 5042,
-        "comments": 119,
+        "upvotes": 5112,
+        "comments": 120,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/fWRLahTm8reqY_IYBMZuQofZj8OUD3jZMoWjABO4GMo.jpg?auto=webp&amp;s=e6eb6c5b29813b42c8cfd0677b3554ce5a1e0d56"
@@ -209,22 +291,32 @@
         "permalink": "/r/science/comments/1kdtn74/higher_emotional_intelligence_is_associated_with/"
     },
     {
-        "id": "1ker86j",
-        "author": "haxKingdom",
-        "title": "Interphase cell morphology defines the mode, symmetry, and outcome of mitosis",
+        "id": "1kf6dya",
+        "author": "Wagamaga",
+        "title": "Studying 300 years of data scientists found over the past two decades, swathes of Eurasia \u2013 from Ukraine\u2019s breadbasket to cities in northern China \u2013 have seen a spike in extreme heatwaves followed by droughts.",
         "content": "",
-        "upvotes": 22,
-        "comments": 2,
+        "upvotes": 3,
+        "comments": 3,
         "media": null,
-        "permalink": "/r/science/comments/1ker86j/interphase_cell_morphology_defines_the_mode/"
+        "permalink": "/r/science/comments/1kf6dya/studying_300_years_of_data_scientists_found_over/"
+    },
+    {
+        "id": "1keboyc",
+        "author": "calliope_kekule",
+        "title": "A new study of 495 North American species finds the steepest bird declines often occur where species are most abundant.",
+        "content": "",
+        "upvotes": 160,
+        "comments": 6,
+        "media": null,
+        "permalink": "/r/science/comments/1keboyc/a_new_study_of_495_north_american_species_finds/"
     },
     {
         "id": "1kdpreg",
         "author": "mvea",
         "title": "Citizens in democratic countries have more benevolent traits, fewer malevolent traits, and greater well-being, finds study of 200k from 75 countries. With democratic backsliding, less freedom leads to more malevolent behavior, autocrats claim more power, worsen everyday living, a downward spiral.",
         "content": "",
-        "upvotes": 4247,
-        "comments": 41,
+        "upvotes": 4309,
+        "comments": 44,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/LENLr3WZzjvvWcwjbIIl_Bqx3wnpIppTvfu9O588Oac.jpg?auto=webp&amp;s=d25bf61b60e9a996c67fa7bd4915932384c29ccb"
@@ -232,21 +324,11 @@
         "permalink": "/r/science/comments/1kdpreg/citizens_in_democratic_countries_have_more/"
     },
     {
-        "id": "1keboyc",
-        "author": "calliope_kekule",
-        "title": "A new study of 495 North American species finds the steepest bird declines often occur where species are most abundant.",
-        "content": "",
-        "upvotes": 144,
-        "comments": 6,
-        "media": null,
-        "permalink": "/r/science/comments/1keboyc/a_new_study_of_495_north_american_species_finds/"
-    },
-    {
         "id": "1keez3y",
         "author": "thebelsnickle1991",
         "title": "An AI tool analyzing brain scans over time predicted relapse risk in pediatric glioma patients far more accurately than traditional methods, a new study finds. Researchers hope this leads to better care for children with these typically treatable but recurrence-prone brain tumors",
         "content": "",
-        "upvotes": 55,
+        "upvotes": 59,
         "comments": 1,
         "media": {
             "type": "image",
@@ -259,7 +341,7 @@
         "author": "calliope_kekule",
         "title": "From 2006\u20132020, people in the Western US faced 32 days a year, on average, of extreme heat, wildfire smoke, or nearby fires. Tribal lands and low-income communities are hardest hit.",
         "content": "",
-        "upvotes": 85,
+        "upvotes": 106,
         "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1kebyy1/from_20062020_people_in_the_western_us_faced_32/"
@@ -269,7 +351,7 @@
         "author": "chrisdh79",
         "title": "Negative images hijack attention and linger in memory, new study shows | These negative images also led to more negative feelings and were more likely to be remembered afterward.",
         "content": "",
-        "upvotes": 521,
+        "upvotes": 548,
         "comments": 12,
         "media": {
             "type": "image",
@@ -282,100 +364,12 @@
         "author": "nohup_me",
         "title": "Insomnia, anxiety, and depression are part of the same brain circuit (the amygdala\u2013hippocampus\u2013medial prefrontal cortex circuit), even though they involve distinct areas",
         "content": "",
-        "upvotes": 421,
+        "upvotes": 443,
         "comments": 3,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/f2-KV-O9NgSPG6elc-Aj7B8rCheRoAyvRREwI_z2AMc.jpg?auto=webp&amp;s=15e1344cf498301bd2052375253be47ff98149aa"
         },
         "permalink": "/r/science/comments/1kdzlpv/insomnia_anxiety_and_depression_are_part_of_the/"
-    },
-    {
-        "id": "1ke5t76",
-        "author": "OregonTripleBeam",
-        "title": "New cannabinoids and chlorin-type metabolites from the flowers of cannabis sativa L.: a study on their neuroblastoma activity",
-        "content": "",
-        "upvotes": 144,
-        "comments": 3,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/nl3u3tVO_Ez0mu_CZhlRh6AtOWLxKkM1ljWvqH74wEw.jpg?auto=webp&amp;s=1168cc4d5774ae2709d7de354ff70553d6d0ea2e"
-        },
-        "permalink": "/r/science/comments/1ke5t76/new_cannabinoids_and_chlorintype_metabolites_from/"
-    },
-    {
-        "id": "1kdgv02",
-        "author": "mvea",
-        "title": "South Korea\u2019s \u2018sea women\u2019 are genetically adapted for their tough trade. Generations of Haenyeo have dived to harvest food in freezing waters\u2014and their DNA reflects it. Divers and other Jeju natives share gene variants related to cold tolerance and reduced diving blood pressure.",
-        "content": "",
-        "upvotes": 8892,
-        "comments": 131,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/08-mRpyRapmG_DRsfci1olDUucqCa_bMcDQNEqgnuHY.jpg?auto=webp&amp;s=0164baea3d13f0e23a80b00ef341a9c13fd7ada1"
-        },
-        "permalink": "/r/science/comments/1kdgv02/south_koreas_sea_women_are_genetically_adapted/"
-    },
-    {
-        "id": "1kdxfi1",
-        "author": "thebelsnickle1991",
-        "title": "Crystals\u2014from sugar and table salt to snowflakes and diamonds\u2014don\u2019t always grow in a straightforward way. New York University researchers have captured this journey from amorphous blob to orderly structures in a new study",
-        "content": "",
-        "upvotes": 366,
-        "comments": 4,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/UFho-R5ic2p51ge8TQSDFM5rKSIA75Ewzy4nrysxZHU.jpg?auto=webp&amp;s=c237f0126a6e3fc6fc5e17846ad1d8b83801a66d"
-        },
-        "permalink": "/r/science/comments/1kdxfi1/crystalsfrom_sugar_and_table_salt_to_snowflakes/"
-    },
-    {
-        "id": "1kebc0d",
-        "author": "davidwholt",
-        "title": "Urban greening for climate resilient and sustainable cities: grand challenges and opportunities",
-        "content": "",
-        "upvotes": 39,
-        "comments": 3,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/XSyFYSU-JWWH41tgkKrz6xVyTrfmyvUJFBDi9wPUzN0.jpg?auto=webp&amp;s=64ffe4b00d1f4a257b561d914b5bcb222c0a662f"
-        },
-        "permalink": "/r/science/comments/1kebc0d/urban_greening_for_climate_resilient_and/"
-    },
-    {
-        "id": "1kdqtke",
-        "author": "Cad_Lin",
-        "title": "A new study shows that English textbooks for young learners are being written for children who can\u2019t yet read \u2014 leaving teachers to abandon official materials and improvise lessons",
-        "content": "",
-        "upvotes": 314,
-        "comments": 10,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/cEGbsgcqHHJkeVZhNoFKev0Vz35OCExEjsZ1AvEnHF0.jpg?auto=webp&amp;s=83c1122e851cbf6a96f465064fd818be26f3bc2b"
-        },
-        "permalink": "/r/science/comments/1kdqtke/a_new_study_shows_that_english_textbooks_for/"
-    },
-    {
-        "id": "1ke76c3",
-        "author": "Tasty_Investment_873",
-        "title": "Unveiling the Diversity and Virulence of Seedborne Fusarium Species in Lentil Production: Insights from a Two-Year Study in the Northern Great Plains | Plant Health Progress",
-        "content": "",
-        "upvotes": 24,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1ke76c3/unveiling_the_diversity_and_virulence_of/"
-    },
-    {
-        "id": "1kd8y5c",
-        "author": "mvea",
-        "title": "Scientists made a potent antivenom using antibodies from Tim Friede, a US snake collector, bitten roughly 200 times by venomous snakes and given more than 600 doses of venom to build up his immunity. The therapy protects mice against venoms of 19 species of deadly snake, including the king cobra.",
-        "content": "",
-        "upvotes": 2733,
-        "comments": 52,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/KM6p7NITeXAJCqK1BsouciOnTI5SBMAd-HffS_msxSI.jpg?auto=webp&amp;s=cade02ecfee31ce9a30e604ec223e0e96dce7e3c"
-        },
-        "permalink": "/r/science/comments/1kd8y5c/scientists_made_a_potent_antivenom_using/"
     }
 ]
