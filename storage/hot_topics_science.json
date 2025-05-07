@@ -4,7 +4,7 @@
         "author": "ScienceModerator",
         "title": "Joint Subreddit Statement: The Attack on U.S. Research Infrastructure",
         "content": "",
-        "upvotes": 2942,
+        "upvotes": 2941,
         "comments": 49,
         "media": null,
         "permalink": "/r/science/comments/1kapr5v/joint_subreddit_statement_the_attack_on_us/"
@@ -14,8 +14,8 @@
         "author": "mvea",
         "title": "Two-thirds of global heating caused by richest 10%, find study that reveals major role wealthy emitters play in driving climate extremes. Wealthiest 10% contributed 6.5 times more to global warming than the average, with the top 1% and 0.1% contributing 20 and 76 times more, respectively.",
         "content": "",
-        "upvotes": 8887,
-        "comments": 379,
+        "upvotes": 9557,
+        "comments": 390,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/hTxb8oWNiatCvErtbFU3DMqoZjRDP3AlexDzn6pXFwo.png?auto=webp&amp;s=cf7bfbfac4526825697c5c2ca68ad36b150f514d"
@@ -27,8 +27,8 @@
         "author": "chrisdh79",
         "title": "A study from more than 6,000 Canadian adults has confirmed ultra-processed foods are directly and significantly linked to poor health outcomes | Risk factors including blood pressure, cholesterol levels, waist circumference and body mass index.",
         "content": "",
-        "upvotes": 796,
-        "comments": 86,
+        "upvotes": 919,
+        "comments": 91,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/To43Vh42cBP6Tb4q6Kryg1KdsIALkNxDAUtTjRde-zc.jpeg?auto=webp&amp;s=d42c506e7cfc99de13453b4c93a5c578c8119104"
@@ -40,8 +40,8 @@
         "author": "mvea",
         "title": "1 in 10 doctors is burned out: About 10% of internal medicine doctors in the U.S. report a high level of burnout, characterised by the three signs - emotional exhaustion, a sense of detachment and a feeling that their efforts don't make a difference.",
         "content": "",
-        "upvotes": 3083,
-        "comments": 203,
+        "upvotes": 3117,
+        "comments": 204,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/GCBu3SDDbcCy_nF1u0PzqkN33UNBLoEkcvWhyJZljr0.jpeg?auto=webp&amp;s=1a3574148d111f96ca5e061f222e4bdd05a4461d"
@@ -53,8 +53,8 @@
         "author": "chrisdh79",
         "title": "Following a study in mice, scientists have now confirmed that silencing the MTCH2 protein in muscle tissue leads to energy-deprived human cells seeking out fat for fuel, while blocking the body's ability to store extra fat cells.",
         "content": "",
-        "upvotes": 483,
-        "comments": 34,
+        "upvotes": 532,
+        "comments": 36,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/EpXj2QeEv0rVUzHbabvVkNnPK4FeaE9KWYypBtXxyEw.jpeg?auto=webp&amp;s=3cff184c258329911dd76bc9483f201e7edd52c8"
@@ -62,24 +62,11 @@
         "permalink": "/r/science/comments/1kgtjgz/following_a_study_in_mice_scientists_have_now/"
     },
     {
-        "id": "1kgf9sk",
-        "author": "mvea",
-        "title": "Daily use of cannabis is strongly associated with chronic inflammation, study finds. Individuals who use cannabis daily or nearly daily tend to have elevated levels of soluble urokinase plasminogen activator receptor (suPAR), a marker of chronic inflammation.",
-        "content": "",
-        "upvotes": 5415,
-        "comments": 605,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/4HkOHFkTn61beNylAQ2y5rot-MFr-3eqjOaAhbv1xNY.jpeg?auto=webp&amp;s=dda86ff6cdcfe755add9d7e59f0e96aaccc84ef9"
-        },
-        "permalink": "/r/science/comments/1kgf9sk/daily_use_of_cannabis_is_strongly_associated_with/"
-    },
-    {
         "id": "1kgy3mm",
         "author": "mvea",
         "title": "Sleep selectively strengthens memory for the sequence of real-world events while allowing many of the perceptual details to fade. Even 15 months after a one-time event, people better remembered the order in which things occurred\u2014if they had slept soon after the experience.",
         "content": "",
-        "upvotes": 191,
+        "upvotes": 220,
         "comments": 6,
         "media": {
             "type": "image",
@@ -88,12 +75,25 @@
         "permalink": "/r/science/comments/1kgy3mm/sleep_selectively_strengthens_memory_for_the/"
     },
     {
+        "id": "1kgf9sk",
+        "author": "mvea",
+        "title": "Daily use of cannabis is strongly associated with chronic inflammation, study finds. Individuals who use cannabis daily or nearly daily tend to have elevated levels of soluble urokinase plasminogen activator receptor (suPAR), a marker of chronic inflammation.",
+        "content": "",
+        "upvotes": 5436,
+        "comments": 608,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/4HkOHFkTn61beNylAQ2y5rot-MFr-3eqjOaAhbv1xNY.jpeg?auto=webp&amp;s=dda86ff6cdcfe755add9d7e59f0e96aaccc84ef9"
+        },
+        "permalink": "/r/science/comments/1kgf9sk/daily_use_of_cannabis_is_strongly_associated_with/"
+    },
+    {
         "id": "1kgr89x",
         "author": "sciencealert",
         "title": "Physicists Have Devised a New Way of Thinking About Gravity That They Say is Compatible With The Standard Model, Bringing us a Step Closer to a 'Theory of Everything'",
         "content": "",
-        "upvotes": 614,
-        "comments": 47,
+        "upvotes": 636,
+        "comments": 48,
         "media": null,
         "permalink": "/r/science/comments/1kgr89x/physicists_have_devised_a_new_way_of_thinking/"
     },
@@ -102,8 +102,8 @@
         "author": "chrisdh79",
         "title": "Genetic risk for alcoholism alters brain immune cell response to alcohol, study finds",
         "content": "",
-        "upvotes": 238,
-        "comments": 29,
+        "upvotes": 254,
+        "comments": 32,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/y7dS55TibqsXFQChVxx0SV8bPWMj82HpuqYX9OzvEw4.jpeg?auto=webp&amp;s=d3a1b2ed90fc64d9a8b9028c364e90c05f546742"
@@ -115,8 +115,8 @@
         "author": "Wagamaga",
         "title": "Research found on average, people living in countries associated with relatively short sleep durations did not have shorter life expectancies or higher rates of heart disease but had lower rates of obesity, compared with individuals in countries associated with relatively long sleep durations",
         "content": "",
-        "upvotes": 251,
-        "comments": 32,
+        "upvotes": 249,
+        "comments": 34,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/DUyZzOAtQ7g2Sin6ToYFOCVFGE3OXqZmloMEkE8_-ME.jpeg?auto=webp&amp;s=31c97a9e5f9b6c459e4b2111959bf23d6f7f56dc"
@@ -128,7 +128,7 @@
         "author": "nohup_me",
         "title": "Newborns living near trees tend to be healthier and new data suggests it\u2019s not because healthier people reside near parks",
         "content": "",
-        "upvotes": 2150,
+        "upvotes": 2172,
         "comments": 43,
         "media": {
             "type": "image",
@@ -141,7 +141,7 @@
         "author": "KingSash",
         "title": "T. rex ancestors crossed from Asia to North America via land bridge 70 million years ago, study finds",
         "content": "",
-        "upvotes": 118,
+        "upvotes": 121,
         "comments": 4,
         "media": {
             "type": "image",
@@ -154,7 +154,7 @@
         "author": "mvea",
         "title": "Most people need around 8 hours of sleep each night to function, but a rare genetic condition allows some to thrive on as little as 3 hours. Scientists genetically modified mice to carry this human mutation and confirmed this. The research team now knows several hundred naturally short sleepers.",
         "content": "",
-        "upvotes": 15549,
+        "upvotes": 15552,
         "comments": 880,
         "media": {
             "type": "image",
@@ -167,7 +167,7 @@
         "author": "Inquiring_minds42",
         "title": "Harm Reduction works. 72% of participants in the SAFER program in Vancouver reduced unregulated drug use after accessing pharmaceutical-grade fentanyl powder.",
         "content": "",
-        "upvotes": 2162,
+        "upvotes": 2175,
         "comments": 96,
         "media": null,
         "permalink": "/r/science/comments/1kg7ysf/harm_reduction_works_72_of_participants_in_the/"
@@ -177,7 +177,7 @@
         "author": "TX908",
         "title": "Neighborhood stress may impact kids\u2019 brains\u2014and increase depression risk. New study finds children from disadvantaged neighborhoods are less responsive to reward and loss.",
         "content": "",
-        "upvotes": 184,
+        "upvotes": 187,
         "comments": 4,
         "media": {
             "type": "image",
@@ -190,7 +190,7 @@
         "author": "Wagamaga",
         "title": "Shingles vaccine lowers the risk of heart disease for up to eight years. People who are given a vaccine for shingles have a 23% lower risk of cardiovascular events, including stroke, heart failure, and coronary heart disease, according to a study of more than a million people",
         "content": "",
-        "upvotes": 3796,
+        "upvotes": 3813,
         "comments": 143,
         "media": {
             "type": "image",
@@ -199,11 +199,21 @@
         "permalink": "/r/science/comments/1kfzrep/shingles_vaccine_lowers_the_risk_of_heart_disease/"
     },
     {
+        "id": "1kgy2ha",
+        "author": "OregonTripleBeam",
+        "title": "A study found \"evidence of a weak positive correlation between distance from cannabis dispensaries and favorable attitudes toward [medicinal cannabis], with gender and state legal status contributing to attitudes, while dispensary density did not significantly impact attitudes.\"",
+        "content": "",
+        "upvotes": 16,
+        "comments": 6,
+        "media": null,
+        "permalink": "/r/science/comments/1kgy2ha/a_study_found_evidence_of_a_weak_positive/"
+    },
+    {
         "id": "1kg32zq",
         "author": "chrisdh79",
         "title": "Parents' Phone Use May Harm Kids' Health and Development | A global study revealed that parents' screen time\u2014even brief moments on phones\u2014may be quietly hindering their children's health.",
         "content": "",
-        "upvotes": 1502,
+        "upvotes": 1504,
         "comments": 62,
         "media": {
             "type": "image",
@@ -212,21 +222,11 @@
         "permalink": "/r/science/comments/1kg32zq/parents_phone_use_may_harm_kids_health_and/"
     },
     {
-        "id": "1kgy2ha",
-        "author": "OregonTripleBeam",
-        "title": "A study found \"evidence of a weak positive correlation between distance from cannabis dispensaries and favorable attitudes toward [medicinal cannabis], with gender and state legal status contributing to attitudes, while dispensary density did not significantly impact attitudes.\"",
-        "content": "",
-        "upvotes": 13,
-        "comments": 6,
-        "media": null,
-        "permalink": "/r/science/comments/1kgy2ha/a_study_found_evidence_of_a_weak_positive/"
-    },
-    {
         "id": "1kg59wf",
         "author": "mvea",
         "title": "Women tend to underestimate their spatial intelligence compared to men, despite performing just as well on tests, according to new research. This tendency\u2014called the hubris-humility effect\u2014suggests men overestimate their abilities (hubris), while women underestimate theirs (humility).",
         "content": "",
-        "upvotes": 1077,
+        "upvotes": 1078,
         "comments": 142,
         "media": {
             "type": "image",
@@ -239,13 +239,26 @@
         "author": "Wagamaga",
         "title": "Research shows that left and mixed-handedness is particularly common in people who suffer from a disorder that manifests itself early in life and is associated with linguistic symptoms. These include dyslexia, schizophrenia and autism.",
         "content": "",
-        "upvotes": 1283,
+        "upvotes": 1284,
         "comments": 166,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/Gf3I7-wlKJPT01CKc031E5kgeGFOlT9aZnR_-qLqnM0.jpg?auto=webp&amp;s=a97a3097a19803646807377f2ccdda5760cdb5fd"
         },
         "permalink": "/r/science/comments/1kg3vmx/research_shows_that_left_and_mixedhandedness_is/"
+    },
+    {
+        "id": "1kgywiw",
+        "author": "Hrmbee",
+        "title": "Genetic Markers Enable Early Prediction of Toxic California Algal Blooms | Molecular forecasting of domoic acid during a pervasive toxic diatom bloom",
+        "content": "",
+        "upvotes": 13,
+        "comments": 2,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/NRl6yTxQdH8Qn9DqvllaDNzpeK8B3QP4mOC21ssFEVk.png?auto=webp&amp;s=788ce0ece2f3b1f0e4c0d6c9e87db36698ab70fb"
+        },
+        "permalink": "/r/science/comments/1kgywiw/genetic_markers_enable_early_prediction_of_toxic/"
     },
     {
         "id": "1kgcmlh",
@@ -265,7 +278,7 @@
         "author": "calliope_kekule",
         "title": "A new study shows that melting sea ice narrows the range of underwater light, shifting it toward blue. This reshapes the 'light niches' for marine algae \u2013 favouring different species and pigments.",
         "content": "",
-        "upvotes": 60,
+        "upvotes": 61,
         "comments": 2,
         "media": {
             "type": "image",
@@ -274,24 +287,11 @@
         "permalink": "/r/science/comments/1kgp5qe/a_new_study_shows_that_melting_sea_ice_narrows/"
     },
     {
-        "id": "1kgywiw",
-        "author": "Hrmbee",
-        "title": "Genetic Markers Enable Early Prediction of Toxic California Algal Blooms | Molecular forecasting of domoic acid during a pervasive toxic diatom bloom",
-        "content": "",
-        "upvotes": 10,
-        "comments": 2,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/NRl6yTxQdH8Qn9DqvllaDNzpeK8B3QP4mOC21ssFEVk.png?auto=webp&amp;s=788ce0ece2f3b1f0e4c0d6c9e87db36698ab70fb"
-        },
-        "permalink": "/r/science/comments/1kgywiw/genetic_markers_enable_early_prediction_of_toxic/"
-    },
-    {
         "id": "1kgb2aw",
         "author": "Science_News",
         "title": "Lining medical stents with cilia could fend off infections \u2014 When exposed to ultrasound waves, the cilia can wiggle and flush out substances that are stuck to the devices inside patients' bodies",
         "content": "",
-        "upvotes": 375,
+        "upvotes": 374,
         "comments": 3,
         "media": {
             "type": "image",
@@ -300,24 +300,11 @@
         "permalink": "/r/science/comments/1kgb2aw/lining_medical_stents_with_cilia_could_fend_off/"
     },
     {
-        "id": "1kgxd5v",
-        "author": "sibun_rath",
-        "title": "Chromosome-level genome assembly of Parotis chlorochroalis (Lepidoptera: Crambidae: Spilomelinae)",
-        "content": "",
-        "upvotes": 8,
-        "comments": 1,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/R9TpsLtOwLoUrg_ui5i0igHH76BGCDtnoA7RkhQo2PM.jpg?auto=webp&amp;s=2e5c2257a53e5a653ee32ab4f6c130e9b661aea5"
-        },
-        "permalink": "/r/science/comments/1kgxd5v/chromosomelevel_genome_assembly_of_parotis/"
-    },
-    {
         "id": "1kgp0sf",
         "author": "TX908",
         "title": "Musical neurodynamics. Researchers show brain rhythms sync with sound to create emotion, movement and meaning.",
         "content": "",
-        "upvotes": 40,
+        "upvotes": 39,
         "comments": 3,
         "media": {
             "type": "image",
@@ -326,11 +313,24 @@
         "permalink": "/r/science/comments/1kgp0sf/musical_neurodynamics_researchers_show_brain/"
     },
     {
+        "id": "1kgxd5v",
+        "author": "sibun_rath",
+        "title": "Chromosome-level genome assembly of Parotis chlorochroalis (Lepidoptera: Crambidae: Spilomelinae)",
+        "content": "",
+        "upvotes": 6,
+        "comments": 1,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/R9TpsLtOwLoUrg_ui5i0igHH76BGCDtnoA7RkhQo2PM.jpg?auto=webp&amp;s=2e5c2257a53e5a653ee32ab4f6c130e9b661aea5"
+        },
+        "permalink": "/r/science/comments/1kgxd5v/chromosomelevel_genome_assembly_of_parotis/"
+    },
+    {
         "id": "1kgegpk",
         "author": "burtzev",
         "title": "Anthropogenic climate change contributes to wildfire particulate matter and related mortality in the United States",
         "content": "",
-        "upvotes": 145,
+        "upvotes": 147,
         "comments": 2,
         "media": {
             "type": "image",
@@ -343,7 +343,7 @@
         "author": "Wagamaga",
         "title": "Oceans are heating faster across two latitudinal bands. The first band at 40 to 45 degrees south is heating at the world\u2019s fastest pace, with the effect especially pronounced around New Zealand, Tasmania, and Atlantic waters east of Argentina.",
         "content": "",
-        "upvotes": 200,
+        "upvotes": 204,
         "comments": 7,
         "media": null,
         "permalink": "/r/science/comments/1kgb84v/oceans_are_heating_faster_across_two_latitudinal/"
@@ -353,7 +353,7 @@
         "author": "mvea",
         "title": "Sleep disorders associated with higher risk of dementia, study finds. Specifically, those with obstructive sleep apnea had a 45% higher risk of Alzheimer\u2019s disease, while individuals with insomnia had a 59% increased risk of vascular dementia and a 49% higher risk of Alzheimer\u2019s disease.",
         "content": "",
-        "upvotes": 3520,
+        "upvotes": 3528,
         "comments": 103,
         "media": {
             "type": "image",
@@ -366,7 +366,7 @@
         "author": "233C",
         "title": "Adaptation strategies to manage summer forage shortages improve animal performance and better maintain milk and cheese quality in grass- versus corn-based dairy systems - Journal of Dairy Science",
         "content": "",
-        "upvotes": 8,
+        "upvotes": 6,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1kgsgz7/adaptation_strategies_to_manage_summer_forage/"
@@ -376,7 +376,7 @@
         "author": "nohup_me",
         "title": "Study (N=1,620, age M=33.6Y) found that having a romantic partner with more frequent alcohol use and smoking is associated with greater alcohol consumption and binge drinking, and partner alcohol use and smoking also moderated genetic influences on alcohol consumption",
         "content": "",
-        "upvotes": 91,
+        "upvotes": 89,
         "comments": 4,
         "media": {
             "type": "image",
