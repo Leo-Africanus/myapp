@@ -4,8 +4,8 @@
         "author": "mvea",
         "title": "Men are more likely to die of 'broken heart syndrome,' study says. The condition is usually brought on by the stress of an event like losing a loved one. The syndrome is formally called takotsubo cardiomyopathy. Men die from it at more than twice the rate.",
         "content": "",
-        "upvotes": 5165,
-        "comments": 286,
+        "upvotes": 5859,
+        "comments": 342,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/By4iCe7fQhpDzo69DQ4l1FASoD20pI3_Xw_n_A9t5WA.jpeg?auto=webp&amp;s=b7de99d2ebb729c1bc0fb45451285bc5b0c3d186"
@@ -13,32 +13,32 @@
         "permalink": "/r/science/comments/1kmf2md/men_are_more_likely_to_die_of_broken_heart/"
     },
     {
-        "id": "1kme9nz",
-        "author": "Aggravating_Money992",
-        "title": "Autistic people communicate just as effectively as others. There is no significant difference in the effectiveness of how autistic and non-autistic people communicate, according to a new study, challenging the stereotype that autistic people struggle to connect with others.",
-        "content": "",
-        "upvotes": 991,
-        "comments": 260,
-        "media": null,
-        "permalink": "/r/science/comments/1kme9nz/autistic_people_communicate_just_as_effectively/"
-    },
-    {
         "id": "1kmgtde",
         "author": "smurfyjenkins",
         "title": "Audits of the 2020 American election show an accurate vote count \u2013 Scholars have compiled every available audit of votes cast in the 2020 elections, finding an inconsequential net error rate (an error rate on the order of thousandths of a percent)",
         "content": "",
-        "upvotes": 657,
-        "comments": 58,
+        "upvotes": 813,
+        "comments": 64,
         "media": null,
         "permalink": "/r/science/comments/1kmgtde/audits_of_the_2020_american_election_show_an/"
+    },
+    {
+        "id": "1kme9nz",
+        "author": "Aggravating_Money992",
+        "title": "Autistic people communicate just as effectively as others. There is no significant difference in the effectiveness of how autistic and non-autistic people communicate, according to a new study, challenging the stereotype that autistic people struggle to connect with others.",
+        "content": "",
+        "upvotes": 1038,
+        "comments": 270,
+        "media": null,
+        "permalink": "/r/science/comments/1kme9nz/autistic_people_communicate_just_as_effectively/"
     },
     {
         "id": "1km4l9p",
         "author": "mvea",
         "title": "When doctors dismiss symptoms, patients suffer lasting harm. Psychological damage and health care avoidance may occur when doctors dismiss, minimize or ignore patients' symptoms, a phenomenon medical scientists call \"symptom invalidation\u201d and patients often call \u201cmedical gaslighting.\u201d",
         "content": "",
-        "upvotes": 5653,
-        "comments": 358,
+        "upvotes": 5734,
+        "comments": 365,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/QJeYjD15HSjFkxzAMFpobtW46iJJG-sDjpu2Vr1fOaQ.jpeg?auto=webp&amp;s=38eca8213cf4d89808f56c840cdd33c449a58b77"
@@ -50,8 +50,8 @@
         "author": "Wagamaga",
         "title": "Long work hours linked with altered brain structure. Research has shown that people who worked 52 or more hours a week displayed significant changes in brain regions associated with executive function and emotional regulation, unlike participants who worked standard hours every week.",
         "content": "",
-        "upvotes": 808,
-        "comments": 20,
+        "upvotes": 857,
+        "comments": 21,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/NnlPX4Dhqo-cmoOCZdlpXpt0DhKCt9CBBhkIgREivjw.jpeg?auto=webp&amp;s=3a9e7b34410f6d9598357252f5cd735368c8af36"
@@ -63,8 +63,8 @@
         "author": "smurfyjenkins",
         "title": "After the U.S. Supreme Court overturned the constitutional protection of abortion rights in 2022, Democratic candidates became significantly more likely to campaign on abortion and to do so using unambiguous language, while Republicans increasingly obfuscated their positions on the issue.",
         "content": "",
-        "upvotes": 345,
-        "comments": 15,
+        "upvotes": 434,
+        "comments": 18,
         "media": null,
         "permalink": "/r/science/comments/1kmgydc/after_the_us_supreme_court_overturned_the/"
     },
@@ -73,27 +73,17 @@
         "author": "chrisdh79",
         "title": "People with more nature in their neighborhood smoke and drink less, study finds | Those who make regular visits to nature tend not to smoke.",
         "content": "",
-        "upvotes": 209,
-        "comments": 13,
+        "upvotes": 252,
+        "comments": 16,
         "media": null,
         "permalink": "/r/science/comments/1kmh121/people_with_more_nature_in_their_neighborhood/"
-    },
-    {
-        "id": "1klxuqw",
-        "author": "mvea",
-        "title": "Most leading AI chatbots exaggerate science findings. Up to 73% of large language models (LLMs) produce inaccurate conclusions. Study tested 10 of the most prominent LLMs, including ChatGPT, DeepSeek, Claude, and LLaMA. Newer AI models, like ChatGPT-4o and DeepSeek, performed worse than older ones.",
-        "content": "",
-        "upvotes": 2873,
-        "comments": 143,
-        "media": null,
-        "permalink": "/r/science/comments/1klxuqw/most_leading_ai_chatbots_exaggerate_science/"
     },
     {
         "id": "1kmgh9n",
         "author": "chrisdh79",
         "title": "Honey bee sleep shows brain activity patterns similar to humans, offering insight into memory and pollinator health | Sleep appears to carry the same \"signature\" at the neuronal level.",
         "content": "",
-        "upvotes": 112,
+        "upvotes": 125,
         "comments": 3,
         "media": {
             "type": "image",
@@ -102,11 +92,21 @@
         "permalink": "/r/science/comments/1kmgh9n/honey_bee_sleep_shows_brain_activity_patterns/"
     },
     {
+        "id": "1klxuqw",
+        "author": "mvea",
+        "title": "Most leading AI chatbots exaggerate science findings. Up to 73% of large language models (LLMs) produce inaccurate conclusions. Study tested 10 of the most prominent LLMs, including ChatGPT, DeepSeek, Claude, and LLaMA. Newer AI models, like ChatGPT-4o and DeepSeek, performed worse than older ones.",
+        "content": "",
+        "upvotes": 2885,
+        "comments": 143,
+        "media": null,
+        "permalink": "/r/science/comments/1klxuqw/most_leading_ai_chatbots_exaggerate_science/"
+    },
+    {
         "id": "1kmgaej",
         "author": "chrisdh79",
         "title": "Parents\u2019 responses during conflict may predict suicidal thoughts in adolescent girls | The study found that girls whose parents were less likely to reciprocate eye contact and happy facial expressions during conflict discussions were more likely to report suicidal ideation one year later.",
         "content": "",
-        "upvotes": 52,
+        "upvotes": 61,
         "comments": 5,
         "media": {
             "type": "image",
@@ -115,24 +115,11 @@
         "permalink": "/r/science/comments/1kmgaej/parents_responses_during_conflict_may_predict/"
     },
     {
-        "id": "1klmq3s",
-        "author": "mvea",
-        "title": "Alcohol use has particularly negative impact on individuals with ADHD. The adverse effects on quality of life appear to be amplified by dysfunctional efforts to manage the intense emotional dysregulation associated with ADHD under the influence of alcohol.",
-        "content": "",
-        "upvotes": 3846,
-        "comments": 163,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/Uq28iuIkkKxttcFBqsaBvtSZe4PP19sRHv8pGak3tHU.jpeg?auto=webp&amp;s=93a51b3631f2b8fbad7026b1d919b5dbaf106392"
-        },
-        "permalink": "/r/science/comments/1klmq3s/alcohol_use_has_particularly_negative_impact_on/"
-    },
-    {
         "id": "1kmhigg",
         "author": "Wagamaga",
         "title": "Researchers found that the combination of heat waves and high PM2.5 pollution led to nearly 700,000 premature deaths in the past 30 years\u2014most of which occurred in the Global South. The United States was the most vulnerable of the Global North countries, with an estimated 32,227 deaths.",
         "content": "",
-        "upvotes": 35,
+        "upvotes": 44,
         "comments": 3,
         "media": {
             "type": "image",
@@ -141,11 +128,24 @@
         "permalink": "/r/science/comments/1kmhigg/researchers_found_that_the_combination_of_heat/"
     },
     {
+        "id": "1klmq3s",
+        "author": "mvea",
+        "title": "Alcohol use has particularly negative impact on individuals with ADHD. The adverse effects on quality of life appear to be amplified by dysfunctional efforts to manage the intense emotional dysregulation associated with ADHD under the influence of alcohol.",
+        "content": "",
+        "upvotes": 3859,
+        "comments": 164,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/Uq28iuIkkKxttcFBqsaBvtSZe4PP19sRHv8pGak3tHU.jpeg?auto=webp&amp;s=93a51b3631f2b8fbad7026b1d919b5dbaf106392"
+        },
+        "permalink": "/r/science/comments/1klmq3s/alcohol_use_has_particularly_negative_impact_on/"
+    },
+    {
         "id": "1kmezhw",
         "author": "OregonTripleBeam",
         "title": "A study \"establishes industrial hemp as an eco-friendly alternative for dye removal, combining renewable sourcing with multi-mechanism adsorption capabilities suitable for small-scale water treatment applications.\"",
         "content": "",
-        "upvotes": 44,
+        "upvotes": 41,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1kmezhw/a_study_establishes_industrial_hemp_as_an/"
@@ -155,7 +155,7 @@
         "author": "mvea",
         "title": "Your fingers wrinkle the same way every time you\u2019re in the water too long, finds a new study inspired by a question from a child. The study found that because finger wrinkles after prolonged immersion are caused by blood vessels beneath the skin contracting, the patterns of wrinkles stay constant.",
         "content": "",
-        "upvotes": 5214,
+        "upvotes": 5222,
         "comments": 102,
         "media": {
             "type": "image",
@@ -168,8 +168,8 @@
         "author": "universityofturku",
         "title": "A new study raises concerns about the safety of long-term ADHD medication treatment in children. While the average treatment duration exceeds three years, reliable, controlled data on the safety of marketed ADHD medicines in children are only available for up to one year of follow-up.",
         "content": "",
-        "upvotes": 26,
-        "comments": 6,
+        "upvotes": 25,
+        "comments": 9,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/qKzc_P2LYjylRqYUsDYC-WwHDzF6WZcKwntocQuTQjM.jpeg?auto=webp&amp;s=569a290a3b49036c79a2248b15e25d8c8eedffd7"
@@ -194,13 +194,23 @@
         "author": "chrisdh79",
         "title": "Starch-based bioplastic may be as toxic as petroleum-based plastic, study finds | Bioplastics, heralded for supposedly breaking down more quickly, can cause similar health problems to other plastics in mice.",
         "content": "",
-        "upvotes": 1684,
+        "upvotes": 1683,
         "comments": 139,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/XUBIkfBVDrGHeCUkiCmDuwsnnEvtsHmGJkiwmG8d6VU.jpeg?auto=webp&amp;s=ce7ecb47d5c097d22c1fd5f4a982f6ba0b82a65a"
         },
         "permalink": "/r/science/comments/1kln8wt/starchbased_bioplastic_may_be_as_toxic_as/"
+    },
+    {
+        "id": "1kmgqfv",
+        "author": "zOxydrOp",
+        "title": "Melatonin and analogs show promise for Sleep disorders, Inflammation, and Neurodegenerative diseases",
+        "content": "",
+        "upvotes": 13,
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/science/comments/1kmgqfv/melatonin_and_analogs_show_promise_for_sleep/"
     },
     {
         "id": "1kmdf2h",
@@ -220,7 +230,7 @@
         "author": "amesydragon",
         "title": "For decades, scientists searching for the root cause of depression have mostly focused on neurons and their chemical signals. But a recent study in Cell points to a new role for astrocytes.",
         "content": "",
-        "upvotes": 508,
+        "upvotes": 516,
         "comments": 36,
         "media": null,
         "permalink": "/r/science/comments/1kls5zy/for_decades_scientists_searching_for_the_root/"
@@ -230,7 +240,7 @@
         "author": "Wagamaga",
         "title": "Awe reduces depressive symptoms. The research marks the first clinical evidence that deliberately cultivating experiences of awe \u2013 that sense of wonder when encountering something vast or beyond our normal frame of reference \u2013 can have measurable benefits for psychological health",
         "content": "",
-        "upvotes": 1415,
+        "upvotes": 1416,
         "comments": 40,
         "media": {
             "type": "image",
@@ -239,21 +249,24 @@
         "permalink": "/r/science/comments/1klja8b/awe_reduces_depressive_symptoms_the_research/"
     },
     {
-        "id": "1kmgqfv",
-        "author": "zOxydrOp",
-        "title": "Melatonin and analogs show promise for Sleep disorders, Inflammation, and Neurodegenerative diseases",
+        "id": "1kmhyp3",
+        "author": "springtimeforspiders",
+        "title": "How your genes interact with your environment changes your disease risk \u2212 new research counts the ways",
         "content": "",
-        "upvotes": 9,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/science/comments/1kmgqfv/melatonin_and_analogs_show_promise_for_sleep/"
+        "upvotes": 7,
+        "comments": 1,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/5iGS5CKxY7yD1XN-gUJIrLam9mz4xes_oaMHHgXPGIw.jpeg?auto=webp&amp;s=671602dd19c5e8f65c18d1577d18517355039bca"
+        },
+        "permalink": "/r/science/comments/1kmhyp3/how_your_genes_interact_with_your_environment/"
     },
     {
         "id": "1kliz6p",
         "author": "chrisdh79",
         "title": "Eating More Fiber Could Lower Levels of PFAS \u2018Forever Chemicals\u2019 | Researchers discovered that fiber was most effective at reducing perfluorooctanesulfonic acid and perfluorooctanoic acid, each of which can remain in the human body for years.",
         "content": "",
-        "upvotes": 1259,
+        "upvotes": 1265,
         "comments": 46,
         "media": {
             "type": "image",
@@ -266,7 +279,7 @@
         "author": "umichnews",
         "title": "New U-Michigan study: When Facebook blocked news in Australia, user engagement dropped 11% and non-news posts fell 9%. The platform also lost 4.3% in ad revenue\u2014highlighting how real journalism boosts social media profits. Published in Marketing Science.",
         "content": "",
-        "upvotes": 385,
+        "upvotes": 381,
         "comments": 6,
         "media": null,
         "permalink": "/r/science/comments/1klr88s/new_umichigan_study_when_facebook_blocked_news_in/"
@@ -276,30 +289,17 @@
         "author": "mvea",
         "title": "New study suggests that Texas\u2019s abortion restrictions were associated with increases in mental distress among females of reproductive age, especially among younger individuals who may have less ability to overcome barriers to abortion care.",
         "content": "",
-        "upvotes": 6447,
+        "upvotes": 6451,
         "comments": 120,
         "media": null,
         "permalink": "/r/science/comments/1klafkr/new_study_suggests_that_texass_abortion/"
-    },
-    {
-        "id": "1kmhyp3",
-        "author": "springtimeforspiders",
-        "title": "How your genes interact with your environment changes your disease risk \u2212 new research counts the ways",
-        "content": "",
-        "upvotes": 5,
-        "comments": 1,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/5iGS5CKxY7yD1XN-gUJIrLam9mz4xes_oaMHHgXPGIw.jpeg?auto=webp&amp;s=671602dd19c5e8f65c18d1577d18517355039bca"
-        },
-        "permalink": "/r/science/comments/1kmhyp3/how_your_genes_interact_with_your_environment/"
     },
     {
         "id": "1kliw9g",
         "author": "chrisdh79",
         "title": "Researchers have found the genes linked to Obsessive Compulsive Disorder for the first time, after identifying 30 regions on the human genome | Study involved more than 50,000 people with OCD and pinpointed approximately 250 genes linked to OCD.",
         "content": "",
-        "upvotes": 792,
+        "upvotes": 795,
         "comments": 22,
         "media": {
             "type": "image",
@@ -312,7 +312,7 @@
         "author": "Virtual-Department28",
         "title": "Paper experimentally demonstrates the Terrell\u2013Penrose effect by capturing snapshot images of objects moving at relativistic speeds that appear rotated rather than length-contracted",
         "content": "",
-        "upvotes": 134,
+        "upvotes": 140,
         "comments": 6,
         "media": {
             "type": "image",
@@ -325,7 +325,7 @@
         "author": "Hrmbee",
         "title": "Time-lapse footage captured for first time shows cells quickly organise and begin to form early in development | Early coordination of cell migration and cardiac fate determination during mammalian gastrulation",
         "content": "",
-        "upvotes": 98,
+        "upvotes": 99,
         "comments": 2,
         "media": {
             "type": "image",
@@ -338,7 +338,7 @@
         "author": "mvea",
         "title": "Conservatives are more likely to prefer dominant-looking leaders, possibly because they can enforce hierarchies or defend against threats. In contrast, people with more liberal views may prefer leaders who signal cooperation rather than dominance, and less likely to support strong men.",
         "content": "",
-        "upvotes": 10235,
+        "upvotes": 10228,
         "comments": 957,
         "media": {
             "type": "image",
@@ -351,7 +351,7 @@
         "author": "mvea",
         "title": "Cats generally live longer than dogs. New research suggests that longer livespans of mammals like cats could be linked to their bigger brains and more complex immune systems. The study found that those with bigger brains and longer lifespans tend to invest more heavily in immune-related genes.",
         "content": "",
-        "upvotes": 1883,
+        "upvotes": 1885,
         "comments": 68,
         "media": {
             "type": "image",
