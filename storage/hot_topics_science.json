@@ -4,8 +4,8 @@
         "author": "mvea",
         "title": "Microplastics are \u2018silently spreading from soil to salad to humans\u2019. Agricultural soils now hold around 23 times more microplastics than oceans. Microplastics and nanoplastics have now been found in lettuce, wheat and carrot crops.",
         "content": "",
-        "upvotes": 3910,
-        "comments": 296,
+        "upvotes": 15255,
+        "comments": 864,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/BheNdWshgi7jCS_vr1vSs2xEgd1M0W8-a8TJ1pf_PAM.jpg?auto=webp&amp;s=ca7d7efb2282bb7382f48d00d4ff158239640702"
@@ -13,32 +13,38 @@
         "permalink": "/r/science/comments/1ktaciw/microplastics_are_silently_spreading_from_soil_to/"
     },
     {
-        "id": "1kt2owa",
-        "author": "Inquiring_minds42",
-        "title": "Most US drinkers underestimate the minimum DUI fine and jail time penalty in their state",
+        "id": "1ktht4t",
+        "author": "mvea",
+        "title": "Breakfast cereals in the United States now contain more sugar, fat and salt, while key nutrients like protein and fiber are on the decline, according to new research. The study looked at 1,200 newly launched or reformulated cereals sold between 2010 and 2023.",
         "content": "",
-        "upvotes": 3034,
-        "comments": 388,
-        "media": null,
-        "permalink": "/r/science/comments/1kt2owa/most_us_drinkers_underestimate_the_minimum_dui/"
+        "upvotes": 2211,
+        "comments": 194,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/8eOTrTaOCJ21_C5CEmxJzj0PQYV3PPfgBHuLs1Z1iDU.jpg?auto=webp&amp;s=42a8524aea64de3940b02477c38d6a0f04600562"
+        },
+        "permalink": "/r/science/comments/1ktht4t/breakfast_cereals_in_the_united_states_now/"
     },
     {
-        "id": "1ksn9vj",
+        "id": "1ktkbu4",
         "author": "mvea",
-        "title": "Birth rates are declining worldwide, while dog ownership is gaining popularity. Study suggests that, while dogs do not actually replace children, they may, in some cases, offer an opportunity to fulfil a nurturing drive similar to parenting, but with fewer demands than raising biological offspring.",
+        "title": "Women with anxious attachment face a slightly elevated risk of depressive symptom spillover from their partners. When their partners reported depressive symptoms, anxiously attached women were slightly more likely to experience their own depressive symptoms compared to securely attached women.",
         "content": "",
-        "upvotes": 29565,
-        "comments": 2185,
-        "media": null,
-        "permalink": "/r/science/comments/1ksn9vj/birth_rates_are_declining_worldwide_while_dog/"
+        "upvotes": 338,
+        "comments": 14,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/j7ExLQCuueBMQlJsxUIsUgcORKrM6c4rUzNVHIhh5dE.jpg?auto=webp&amp;s=283e05b9c86481831b649f7fb105d4b897b0054b"
+        },
+        "permalink": "/r/science/comments/1ktkbu4/women_with_anxious_attachment_face_a_slightly/"
     },
     {
         "id": "1ktcybb",
         "author": "Wagamaga",
         "title": "Lack of sleep can increase the risk of cardiovascular disease. Researchers found that just three nights of restricted sleep \u2013 around four hours a night \u2013 triggered changes in the blood linked to a higher risk of heart disease.",
         "content": "",
-        "upvotes": 298,
-        "comments": 12,
+        "upvotes": 1050,
+        "comments": 24,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/mTRCy-FMz9F1WAAU0ctuMJ4ZT0m1PcWH_bCcucf5gYc.jpg?auto=webp&amp;s=a8e663906c19a385d0ceaaa2fa86bdabde29e757"
@@ -46,12 +52,45 @@
         "permalink": "/r/science/comments/1ktcybb/lack_of_sleep_can_increase_the_risk_of/"
     },
     {
+        "id": "1kt2owa",
+        "author": "Inquiring_minds42",
+        "title": "Most US drinkers underestimate the minimum DUI fine and jail time penalty in their state",
+        "content": "",
+        "upvotes": 3952,
+        "comments": 482,
+        "media": null,
+        "permalink": "/r/science/comments/1kt2owa/most_us_drinkers_underestimate_the_minimum_dui/"
+    },
+    {
+        "id": "1ktim9u",
+        "author": "chrisdh79",
+        "title": "California hummingbird beaks transformed by feeders: \u2018more tapered and longer\u2019 | Study details evolutionary change of Anna\u2019s hummingbirds and finds ranges have expanded to follow such devices",
+        "content": "",
+        "upvotes": 110,
+        "comments": 3,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/BZA37K3S4DG9jvJJO7UPydKzwpfZp1uhoOBTdtqokPc.jpg?auto=webp&amp;s=50b2963d47825228facfbf0f3e9fa2e5c4b72b4d"
+        },
+        "permalink": "/r/science/comments/1ktim9u/california_hummingbird_beaks_transformed_by/"
+    },
+    {
+        "id": "1ksn9vj",
+        "author": "mvea",
+        "title": "Birth rates are declining worldwide, while dog ownership is gaining popularity. Study suggests that, while dogs do not actually replace children, they may, in some cases, offer an opportunity to fulfil a nurturing drive similar to parenting, but with fewer demands than raising biological offspring.",
+        "content": "",
+        "upvotes": 30237,
+        "comments": 2231,
+        "media": null,
+        "permalink": "/r/science/comments/1ksn9vj/birth_rates_are_declining_worldwide_while_dog/"
+    },
+    {
         "id": "1ksv69p",
         "author": "Doug27",
         "title": "\u201cTiger mom\u201d parenting boosts teens' cognitive skills but undermines emotional development, study suggests",
         "content": "",
-        "upvotes": 2798,
-        "comments": 128,
+        "upvotes": 3320,
+        "comments": 147,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/_x6WUrQzsXq_vzWCMAz5WVBGaVWckho8SIrCuUTGwq8.jpg?auto=webp&amp;s=68ac7c6543daf650115b7817413db14f870bdc0d"
@@ -59,25 +98,12 @@
         "permalink": "/r/science/comments/1ksv69p/tiger_mom_parenting_boosts_teens_cognitive_skills/"
     },
     {
-        "id": "1ktdsit",
-        "author": "ImpossibleStranger70",
-        "title": "Insect protein could be 5.7 to 13.5 times worse for climate than soy, even when the insects are fed food waste",
-        "content": "",
-        "upvotes": 130,
-        "comments": 36,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/DumZPDyQbGrPT7Xt1Fb7JJ_Y7Z1DETS6Ux5_dly5R8s.jpg?auto=webp&amp;s=af55c2d48e463f12009edd48cadc61f57eabaac8"
-        },
-        "permalink": "/r/science/comments/1ktdsit/insect_protein_could_be_57_to_135_times_worse_for/"
-    },
-    {
         "id": "1ksoy05",
         "author": "mvea",
         "title": "A new study found PFAS \u201cforever chemicals\u201d in 95% of the American beers they tested. These include PFOS and PFOA, two forever chemicals with recently established EPA limits in drinking water. Beers produced in parts of the country with known PFAS-contaminated water sources showed the highest levels.",
         "content": "",
-        "upvotes": 4532,
-        "comments": 147,
+        "upvotes": 4767,
+        "comments": 165,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/iajSU0WC7OS-JA2vPT2TRdN7-Bg2x2i9oUm3TTakmz0.jpg?auto=webp&amp;s=e1b36a54aa948e4432adf458cc51c9b3fcbc14af"
@@ -89,8 +115,8 @@
         "author": "mvea",
         "title": "New contact lenses give people infrared vision \u2014 even with their eyes shut. Sci-fi-style technology uses nanoparticles to convert infrared light into visible light that humans can see.",
         "content": "",
-        "upvotes": 1040,
-        "comments": 49,
+        "upvotes": 1193,
+        "comments": 51,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/5b7KIyl5y8moLeZwzyMbkcx22kQQ9wbJs5V42uX9Yvs.jpg?auto=webp&amp;s=a12f4ac1f734e6402455e1718aa65fbf8463315b"
@@ -102,18 +128,31 @@
         "author": "Inquiring_minds42",
         "title": "Smoke shop employees routinely make unsubstantiated health claims regarding THC and Kratom products, which could have big harms for consumers",
         "content": "",
-        "upvotes": 440,
-        "comments": 154,
+        "upvotes": 516,
+        "comments": 169,
         "media": null,
         "permalink": "/r/science/comments/1kt2qmr/smoke_shop_employees_routinely_make/"
+    },
+    {
+        "id": "1ktem75",
+        "author": "Wagamaga",
+        "title": "Researchers reveal how higher temperatures can lift mood, lower stress, and support well-being, offering new insights into climate change\u2019s psychological effects. Researchers hypothesize that warmth activates \u00b5-opioid receptors in brain regions linked to social bonding",
+        "content": "",
+        "upvotes": 60,
+        "comments": 28,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/0TcJ6lwKLPdAJcw5lkxjhqTQuXjAJLtxy8eR5reUwTk.jpg?auto=webp&amp;s=4cf09ceaa7e5e13dbd92679b0fbd691316fce250"
+        },
+        "permalink": "/r/science/comments/1ktem75/researchers_reveal_how_higher_temperatures_can/"
     },
     {
         "id": "1kssflo",
         "author": "chrisdh79",
         "title": "Yes, Social Media Might Be Making Kids Depressed | Depression symptoms jumped 35% as kids\u2019 average social media use rose from seven to 73 minutes daily over a three-year period.",
         "content": "",
-        "upvotes": 1537,
-        "comments": 85,
+        "upvotes": 1598,
+        "comments": 86,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/Q9SO7SfzhqPx8Jt4feUBZCZqpKj9FeFTV8V8rt84A6A.jpg?auto=webp&amp;s=234405475543a02a44c092a664411a1364d92b22"
@@ -125,8 +164,8 @@
         "author": "Hrmbee",
         "title": "According to new research, keeping two repetitions in reserve is almost as good as maxing out every set of your strength routine | Muscular Adaptations in Single Set Resistance Training Performed to Failure or with Repetitions-in-Reserve",
         "content": "",
-        "upvotes": 660,
-        "comments": 51,
+        "upvotes": 767,
+        "comments": 60,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/hyWb2IG_QtuxSFimbP8C2PfcZE-5Qa_qbBlWQqdrQPI.jpg?auto=webp&amp;s=8cdeb4992eb06877561ce050b96b9c02080fc721"
@@ -134,11 +173,24 @@
         "permalink": "/r/science/comments/1ksuw56/according_to_new_research_keeping_two_repetitions/"
     },
     {
+        "id": "1ktdd4p",
+        "author": "nocdev",
+        "title": "Risk for SARS-CoV-2 Infection was highest in occupational groups who had to keep working, like meat processing, cleaning, cargo handling and cooking, social workers, and security and fire protection (meta-analysis).",
+        "content": "",
+        "upvotes": 40,
+        "comments": 6,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/eonhhYtdfzDcAENLJpPdnoRpuwlx5I4M-W-avjDMOvM.jpg?auto=webp&amp;s=06afd5d5fe79976673050f1b84ad5ff41c4e1769"
+        },
+        "permalink": "/r/science/comments/1ktdd4p/risk_for_sarscov2_infection_was_highest_in/"
+    },
+    {
         "id": "1kt7y30",
         "author": "sciencealert",
         "title": "Experimental Therapy Suppresses Immune Reaction to Gluten in Mice",
         "content": "",
-        "upvotes": 84,
+        "upvotes": 98,
         "comments": 1,
         "media": {
             "type": "image",
@@ -147,12 +199,22 @@
         "permalink": "/r/science/comments/1kt7y30/experimental_therapy_suppresses_immune_reaction/"
     },
     {
+        "id": "1kt3yno",
+        "author": "smurfyjenkins",
+        "title": "Contrary to anecdotal claims that emigration from developing states leads to a brain drain, \"the weight of the evidence suggests that migration opportunities often increase human capital stock in origin countries\" along with numerous other benefits (e.g. investment, trade, knowledge transfers).",
+        "content": "",
+        "upvotes": 146,
+        "comments": 7,
+        "media": null,
+        "permalink": "/r/science/comments/1kt3yno/contrary_to_anecdotal_claims_that_emigration_from/"
+    },
+    {
         "id": "1kspdc2",
         "author": "memorialmonorail",
         "title": "If you\u2019ve ever regretted ordering a spicy meal, take note: A new study identifying molecules that suppress the heat of chili peppers hints at the possibility of adapting these compounds into an \u201canti-spice\u201d condiment for food that\u2019s too fiery to eat.",
         "content": "",
-        "upvotes": 839,
-        "comments": 150,
+        "upvotes": 879,
+        "comments": 154,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/sNBR01SuFlFDiCP_B8DkCmISrOCR6RbeurolRfH2g2E.jpg?auto=webp&amp;s=b61ba375c83614e98fec19b39bd46167684b41b8"
@@ -160,22 +222,12 @@
         "permalink": "/r/science/comments/1kspdc2/if_youve_ever_regretted_ordering_a_spicy_meal/"
     },
     {
-        "id": "1kt3yno",
-        "author": "smurfyjenkins",
-        "title": "Contrary to anecdotal claims that emigration from developing states leads to a brain drain, \"the weight of the evidence suggests that migration opportunities often increase human capital stock in origin countries\" along with numerous other benefits (e.g. investment, trade, knowledge transfers).",
-        "content": "",
-        "upvotes": 111,
-        "comments": 7,
-        "media": null,
-        "permalink": "/r/science/comments/1kt3yno/contrary_to_anecdotal_claims_that_emigration_from/"
-    },
-    {
         "id": "1ks8ola",
         "author": "PlayfulReputation112",
         "title": "Mortality in male bodybuilding athletes | Professional bodybuilders had more than five times the risk of sudden cardiac death compared to amateurs",
         "content": "",
-        "upvotes": 17190,
-        "comments": 989,
+        "upvotes": 17295,
+        "comments": 995,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/p32Ww4GU62z6l5Nfp9ZpOxvy4pKSJkxrF_66z-Sg0y8.jpg?auto=webp&amp;s=2b3087a881fc8f5e38c6da392ea6ad7c3d4b9c8d"
@@ -183,12 +235,22 @@
         "permalink": "/r/science/comments/1ks8ola/mortality_in_male_bodybuilding_athletes/"
     },
     {
+        "id": "1ktg7dd",
+        "author": "waxed__owl",
+        "title": "De Novo Reconstruction of 3D Human Facial Images from DNA Sequence",
+        "content": "",
+        "upvotes": 11,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1ktg7dd/de_novo_reconstruction_of_3d_human_facial_images/"
+    },
+    {
         "id": "1kstc32",
         "author": "Science_News",
         "title": "Penguin poop gives Antarctic cloud formation a boost | Ammonia wafting up from penguin guano in Antarctica is a key ingredient for cooling cloud formation. This may help cool the planet by reflecting more sunlight back into space, researchers report.",
         "content": "",
-        "upvotes": 338,
-        "comments": 11,
+        "upvotes": 372,
+        "comments": 15,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/kjFrh_RnlIrz8Fj1W_Hl-LyInOxfqF0Als5vRES_bow.jpg?auto=webp&amp;s=006baedaf589d1783fdcb71c66b2f44607f5f4e2"
@@ -200,7 +262,7 @@
         "author": "GeoGeoGeoGeo",
         "title": "Ultra-high precision analyses of volcanic rocks show Earth\u2019s core is leaking into rocks above",
         "content": "",
-        "upvotes": 97,
+        "upvotes": 102,
         "comments": 5,
         "media": null,
         "permalink": "/r/science/comments/1kt2xna/ultrahigh_precision_analyses_of_volcanic_rocks/"
@@ -210,8 +272,8 @@
         "author": "nohup_me",
         "title": "A potentially lifesaving new smartphone app can help people determine if they are suffering heart attacks or strokes and should seek medical attention, a clinical study suggests",
         "content": "",
-        "upvotes": 88,
-        "comments": 17,
+        "upvotes": 97,
+        "comments": 21,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/Ipd3arHThT2OAPMCCsL7vLzh_S3RdjNhA38RojR-6ns.jpg?auto=webp&amp;s=c3dcfa0e43963e277330cc278d33281c9b2f16df"
@@ -223,7 +285,7 @@
         "author": "bluish1997",
         "title": "Evolution, spread and impact of highly pathogenic H5 avian influenza A viruses",
         "content": "",
-        "upvotes": 18,
+        "upvotes": 24,
         "comments": 1,
         "media": {
             "type": "image",
@@ -232,24 +294,24 @@
         "permalink": "/r/science/comments/1kt7r8s/evolution_spread_and_impact_of_highly_pathogenic/"
     },
     {
-        "id": "1ktem75",
-        "author": "Wagamaga",
-        "title": "Researchers reveal how higher temperatures can lift mood, lower stress, and support well-being, offering new insights into climate change\u2019s psychological effects. Researchers hypothesize that warmth activates \u00b5-opioid receptors in brain regions linked to social bonding",
+        "id": "1kt3zg5",
+        "author": "lenova_kobuda",
+        "title": "Making green hydrogen can be cheaper and safer without using membrane and producing oxygen at the same time or same place.",
         "content": "",
-        "upvotes": 5,
+        "upvotes": 32,
         "comments": 2,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/0TcJ6lwKLPdAJcw5lkxjhqTQuXjAJLtxy8eR5reUwTk.jpg?auto=webp&amp;s=4cf09ceaa7e5e13dbd92679b0fbd691316fce250"
+            "url": "https://external-preview.redd.it/AUjKFJym_RbzRduCO8Cn5vd7QAVurFlCmb4HxnaZFtw.jpg?auto=webp&amp;s=ad112337acbfdbf65566d389c2a8d4977ed40ab5"
         },
-        "permalink": "/r/science/comments/1ktem75/researchers_reveal_how_higher_temperatures_can/"
+        "permalink": "/r/science/comments/1kt3zg5/making_green_hydrogen_can_be_cheaper_and_safer/"
     },
     {
         "id": "1ksex9q",
         "author": "mvea",
         "title": "Study finds connection between support for far-right political parties and belief in genetic essentialism (genes determine who we are, including social traits/ behaviors). Supporters of populist right parties in Sweden/ Norway more likely to endorse this, linked to discriminatory/eugenic ideologies.",
         "content": "",
-        "upvotes": 1317,
+        "upvotes": 1366,
         "comments": 150,
         "media": {
             "type": "image",
@@ -258,11 +320,24 @@
         "permalink": "/r/science/comments/1ksex9q/study_finds_connection_between_support_for/"
     },
     {
+        "id": "1ktb639",
+        "author": "calliope_kekule",
+        "title": "A new global study finds compulsory upper-secondary education boosts financial inclusion \u2013 but only if it reaches the groups who need it most.",
+        "content": "",
+        "upvotes": 8,
+        "comments": 2,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/xw783HlRQWafWHageQYxKi6_8Wm5NFMMh7y-xk2DINM.jpg?auto=webp&amp;s=2b2b661a12978265e95f09cce0317891d166b762"
+        },
+        "permalink": "/r/science/comments/1ktb639/a_new_global_study_finds_compulsory/"
+    },
+    {
         "id": "1ksogxt",
         "author": "sciencealert",
         "title": "Unusual Face Tattoos Discovered on 800-Year-Old South American Mummy",
         "content": "",
-        "upvotes": 195,
+        "upvotes": 208,
         "comments": 12,
         "media": {
             "type": "image",
@@ -271,98 +346,26 @@
         "permalink": "/r/science/comments/1ksogxt/unusual_face_tattoos_discovered_on_800yearold/"
     },
     {
-        "id": "1ktdd4p",
-        "author": "nocdev",
-        "title": "Risk for SARS-CoV-2 Infection was highest in occupational groups who had to keep working, like meat processing, cleaning, cargo handling and cooking, social workers, and security and fire protection (meta-analysis).",
-        "content": "",
-        "upvotes": 6,
-        "comments": 3,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/eonhhYtdfzDcAENLJpPdnoRpuwlx5I4M-W-avjDMOvM.jpg?auto=webp&amp;s=06afd5d5fe79976673050f1b84ad5ff41c4e1769"
-        },
-        "permalink": "/r/science/comments/1ktdd4p/risk_for_sarscov2_infection_was_highest_in/"
-    },
-    {
-        "id": "1kt3zg5",
-        "author": "lenova_kobuda",
-        "title": "Making green hydrogen can be cheaper and safer without using membrane and producing oxygen at the same time or same place.",
-        "content": "",
-        "upvotes": 23,
-        "comments": 1,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/AUjKFJym_RbzRduCO8Cn5vd7QAVurFlCmb4HxnaZFtw.jpg?auto=webp&amp;s=ad112337acbfdbf65566d389c2a8d4977ed40ab5"
-        },
-        "permalink": "/r/science/comments/1kt3zg5/making_green_hydrogen_can_be_cheaper_and_safer/"
-    },
-    {
-        "id": "1kt0phl",
-        "author": "GeoGeoGeoGeo",
-        "title": "No evidence for an active margin-spanning megasplay fault at the Cascadia Subduction Zone",
-        "content": "",
-        "upvotes": 30,
-        "comments": 4,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/Iw_VuvcHVvlYVGyvkYlO-P5em3U1qkXXLs2g8mC-Ovk.jpg?auto=webp&amp;s=563410f7cb3dc9dec1bbc6a0d893eb4d21064af1"
-        },
-        "permalink": "/r/science/comments/1kt0phl/no_evidence_for_an_active_marginspanning/"
-    },
-    {
-        "id": "1ks6ipg",
-        "author": "mvea",
-        "title": "Almost all forms of narcissism are associated with symptoms of social networking site addiction. In other words, individuals with narcissistic traits were more likely to develop problematic patterns of social media use.",
-        "content": "",
-        "upvotes": 2092,
-        "comments": 67,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/IqW1O8WKyhMsHegAMkap-ZY4r1_nbxM-WHWV1_XGt-k.jpg?auto=webp&amp;s=e6ad0db186827f58f634e9faa0e9d5e6a1506add"
-        },
-        "permalink": "/r/science/comments/1ks6ipg/almost_all_forms_of_narcissism_are_associated/"
-    },
-    {
-        "id": "1ksybie",
-        "author": "haberveriyo",
-        "title": "Stone Age Innovation: Bone Tool from Estonia May Be Prehistoric Multi-Tool, Study Finds",
-        "content": "",
-        "upvotes": 27,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/science/comments/1ksybie/stone_age_innovation_bone_tool_from_estonia_may/"
-    },
-    {
         "id": "1ktegyk",
         "author": "Kerubiel_Cherub",
         "title": "Oxygen isotopes, a key proxy for past temperatures, might be misinterpreted as spatial variability is not adequately accounted for.",
         "content": "",
-        "upvotes": 2,
+        "upvotes": 5,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1ktegyk/oxygen_isotopes_a_key_proxy_for_past_temperatures/"
     },
     {
-        "id": "1kt2rhp",
-        "author": "SaabTux",
-        "title": "Effects of radiofrequency electromagnetic field exposure on cancer in laboratory animal studies, a systematic review.",
+        "id": "1ktmtvu",
+        "author": "AgingUS",
+        "title": "Examining frailty phenotypes of community-dwelling older adults in Taiwan using the falls risk for older people in the community \u2013 Taiwan version (Tw-FROP-Com)",
         "content": "",
-        "upvotes": 14,
+        "upvotes": 1,
         "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1kt2rhp/effects_of_radiofrequency_electromagnetic_field/"
-    },
-    {
-        "id": "1ktb639",
-        "author": "calliope_kekule",
-        "title": "A new global study finds compulsory upper-secondary education boosts financial inclusion \u2013 but only if it reaches the groups who need it most.",
-        "content": "",
-        "upvotes": 5,
-        "comments": 2,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/xw783HlRQWafWHageQYxKi6_8Wm5NFMMh7y-xk2DINM.jpg?auto=webp&amp;s=2b2b661a12978265e95f09cce0317891d166b762"
+            "url": "https://external-preview.redd.it/UxUZ5Wxj3SkOQHVvM_1sMpFBqfxR6LUV_kHByUda0Zw.jpg?auto=webp&amp;s=7bfac3bf7cd9afabc08cb54206807a9e644f40ca"
         },
-        "permalink": "/r/science/comments/1ktb639/a_new_global_study_finds_compulsory/"
+        "permalink": "/r/science/comments/1ktmtvu/examining_frailty_phenotypes_of_communitydwelling/"
     }
 ]
