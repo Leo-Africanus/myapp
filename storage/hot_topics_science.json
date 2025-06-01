@@ -1,11 +1,24 @@
 [
     {
+        "id": "1l06ip3",
+        "author": "mvea",
+        "title": "Adults with ADHD face long-term social and economic challenges \u2014 even with medication. They are more likely to struggle with education, employment, and social functioning. Even with prescribed medication over a 10-year period, educational attainment or employment did not improve by the age of 30.",
+        "content": "",
+        "upvotes": 3438,
+        "comments": 330,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/2FNDLUgw5HZQvcg7y6sm-2iuJQJbCM2zHs6l2z4K0PA.jpg?auto=webp&amp;s=021caf201af37f94953c330c2f3b86b2b9fa3645"
+        },
+        "permalink": "/r/science/comments/1l06ip3/adults_with_adhd_face_longterm_social_and/"
+    },
+    {
         "id": "1kztjc7",
         "author": "mvea",
         "title": "New attractiveness study found that most people showed an overall preference for more feminine facial features, both in men\u2019s and women\u2019s faces. Japanese people preferred more feminine facial features than British people did, particularly when judging men\u2019s faces.",
         "content": "",
-        "upvotes": 3584,
-        "comments": 244,
+        "upvotes": 6815,
+        "comments": 382,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/H_bH6ryTjLnrmvfdHLw5SWXSLe87S3VoJHxtaVBMGlk.jpg?auto=webp&amp;s=9345351a1ebf4e6a366a88ba48f5e1a0f315f06b"
@@ -13,25 +26,25 @@
         "permalink": "/r/science/comments/1kztjc7/new_attractiveness_study_found_that_most_people/"
     },
     {
-        "id": "1kzih67",
-        "author": "mvea",
-        "title": "A growing number of incels (\"involuntary celibates\") are using their ideology as an excuse for not working or studying - known as NEET (Not in Education, Employment, or Training). These \"Blackpilled\" incels are generally more nihilistic and reject the Redpill notion of alpha-male masculinity.",
+        "id": "1l03s00",
+        "author": "nohup_me",
+        "title": "Singing to your infant can significantly boost their mood, with the improvement being observed generally, not just as an immediate response to music",
         "content": "",
-        "upvotes": 15348,
-        "comments": 4146,
+        "upvotes": 709,
+        "comments": 20,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/PhS_NMpgLGCQt__OEAYHbT9Z6zWn3glUAjqGWokVIic.jpg?auto=webp&amp;s=87bbe810c87fe18bb0586c1c6c953b044f699b75"
+            "url": "https://external-preview.redd.it/geCOgcDErNPZCjHgeYDQZPGfqlF4gjXzo1jM3YAv438.jpg?auto=webp&amp;s=f17035a06183e32b790e01484f90de369ba61d1c"
         },
-        "permalink": "/r/science/comments/1kzih67/a_growing_number_of_incels_involuntary_celibates/"
+        "permalink": "/r/science/comments/1l03s00/singing_to_your_infant_can_significantly_boost/"
     },
     {
         "id": "1kzyc73",
         "author": "mvea",
         "title": "Reddit study of engaged people asking whether to get married found advice to OP is to leave if behavior (1) is violent; (2) makes you feel worthless; (3) pulls you from friends/ family; (4) makes you physically, emotionally, financially unsafe; (5) major betrayal of trust; or (6) feels unsettling.",
         "content": "",
-        "upvotes": 424,
-        "comments": 96,
+        "upvotes": 1049,
+        "comments": 151,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/Q3JPSlORaLt1m294eWzbNRbG0Bi9_rNTAII5uG5cSQU.jpg?auto=webp&amp;s=e16a830dabadd1023b1694d1ec1f546f7efe1fc9"
@@ -43,18 +56,54 @@
         "author": "Cresomycin",
         "title": "A new triple therapy for aggressive, advanced breast cancer delays the progression of the disease by 17.2 months on average, delays the need for further chemotherapy by 2 years and helps patients live longer.",
         "content": "",
-        "upvotes": 285,
-        "comments": 4,
+        "upvotes": 748,
+        "comments": 5,
         "media": null,
         "permalink": "/r/science/comments/1kzzfb7/a_new_triple_therapy_for_aggressive_advanced/"
+    },
+    {
+        "id": "1kzih67",
+        "author": "mvea",
+        "title": "A growing number of incels (\"involuntary celibates\") are using their ideology as an excuse for not working or studying - known as NEET (Not in Education, Employment, or Training). These \"Blackpilled\" incels are generally more nihilistic and reject the Redpill notion of alpha-male masculinity.",
+        "content": "",
+        "upvotes": 18270,
+        "comments": 4949,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/PhS_NMpgLGCQt__OEAYHbT9Z6zWn3glUAjqGWokVIic.jpg?auto=webp&amp;s=87bbe810c87fe18bb0586c1c6c953b044f699b75"
+        },
+        "permalink": "/r/science/comments/1kzih67/a_growing_number_of_incels_involuntary_celibates/"
+    },
+    {
+        "id": "1l01x17",
+        "author": "smurfyjenkins",
+        "title": "Health and educational outcomes improved for each American cohort across the 20th century until the period 1947-1960. Americans born in each year of that period have worse outcomes than those born a year earlier. The most likely cause for the decline is lead pollution from motor vehicle exhaust.",
+        "content": "",
+        "upvotes": 344,
+        "comments": 9,
+        "media": null,
+        "permalink": "/r/science/comments/1l01x17/health_and_educational_outcomes_improved_for_each/"
+    },
+    {
+        "id": "1l00awr",
+        "author": "fchung",
+        "title": "New fuel cell could enable electric aviation: \u00ab These devices could pack three times as much energy per pound as today\u2019s best EV batteries, offering a lightweight option for powering trucks, planes, or ships. \u00bb",
+        "content": "",
+        "upvotes": 299,
+        "comments": 35,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/9McVZXwf76t68a7sDfDataCwO3wVCwf2_uiXep6zbH0.jpg?auto=webp&amp;s=85e035670382e8ec2e850090a07f9e85b5ca1c7f"
+        },
+        "permalink": "/r/science/comments/1l00awr/new_fuel_cell_could_enable_electric_aviation/"
     },
     {
         "id": "1kzbihr",
         "author": "calliope_kekule",
         "title": "A new study found that ending water fluoridation would lead to 25 million more decayed teeth in kids over 5 years \u2013 mostly affecting those without private insurance.",
         "content": "",
-        "upvotes": 21176,
-        "comments": 966,
+        "upvotes": 21820,
+        "comments": 980,
         "media": null,
         "permalink": "/r/science/comments/1kzbihr/a_new_study_found_that_ending_water_fluoridation/"
     },
@@ -63,8 +112,8 @@
         "author": "James_Fortis",
         "title": "Current evidence does not indicate that the absence of retinol, vitamin K2, carnitine, and creatine in plant-based diets adversely affect health or confer disadvantages compared to omnivorous diets, study finds",
         "content": "",
-        "upvotes": 257,
-        "comments": 37,
+        "upvotes": 382,
+        "comments": 51,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/nxksj_wPYHlB_IQ4PFihr0BnH5urJATU1OK3fUyGKds.jpg?auto=webp&amp;s=5337485f9884ed9dab7315deaef388262f64cace"
@@ -72,25 +121,12 @@
         "permalink": "/r/science/comments/1kzvk76/current_evidence_does_not_indicate_that_the/"
     },
     {
-        "id": "1l00awr",
-        "author": "fchung",
-        "title": "New fuel cell could enable electric aviation: \u00ab These devices could pack three times as much energy per pound as today\u2019s best EV batteries, offering a lightweight option for powering trucks, planes, or ships. \u00bb",
-        "content": "",
-        "upvotes": 85,
-        "comments": 10,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/9McVZXwf76t68a7sDfDataCwO3wVCwf2_uiXep6zbH0.jpg?auto=webp&amp;s=85e035670382e8ec2e850090a07f9e85b5ca1c7f"
-        },
-        "permalink": "/r/science/comments/1l00awr/new_fuel_cell_could_enable_electric_aviation/"
-    },
-    {
         "id": "1kztvsl",
         "author": "chrisdh79",
         "title": "Low-cost device could allow homeowners to test their own tap water for lead | An experimental new device could soon allow homeowners to check for themselves, instead of waiting for the city to do so.",
         "content": "",
-        "upvotes": 171,
-        "comments": 7,
+        "upvotes": 256,
+        "comments": 8,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/WGUJrtTOU_JCPu_fI_N8eHYNLfxlvAycXukTMR-AjpI.jpg?auto=webp&amp;s=74ff4725a298658a0cb92dd120595bc4cbc8fbad"
@@ -98,25 +134,12 @@
         "permalink": "/r/science/comments/1kztvsl/lowcost_device_could_allow_homeowners_to_test/"
     },
     {
-        "id": "1l00ixb",
-        "author": "Careful-Town-5099",
-        "title": "Researchers discovered a never-before-seen flagellate species",
-        "content": "",
-        "upvotes": 58,
-        "comments": 7,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/FyyOpiNdH6ghKMHUt4pruvf_VJQyD39I44PDU9Ph5js.jpg?auto=webp&amp;s=5b39c028880427575070e76c7f0b707b11a61a6b"
-        },
-        "permalink": "/r/science/comments/1l00ixb/researchers_discovered_a_neverbeforeseen/"
-    },
-    {
         "id": "1kzs57c",
         "author": "Darkseid-Apokolips",
         "title": "Social impacts of glacier loss: \"More than three-quarters of global glacier mass is projected to disappear under present-day policies\"",
         "content": "",
-        "upvotes": 206,
-        "comments": 11,
+        "upvotes": 277,
+        "comments": 12,
         "media": null,
         "permalink": "/r/science/comments/1kzs57c/social_impacts_of_glacier_loss_more_than/"
     },
@@ -125,8 +148,8 @@
         "author": "mvea",
         "title": "Study helps explain rising Trump support among minority voters. Support for strong leaders isn't just a right-wing thing. Ethnic minorities, regardless of political affiliation, tend to favor strong leaders. Groups expressing lower trust in others are more likely to support authoritative leadership.",
         "content": "",
-        "upvotes": 5695,
-        "comments": 849,
+        "upvotes": 5877,
+        "comments": 880,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/CH9aiaiCTbUTYZPLx3CyANw0F_SRBA-6B_lW2c-AkNY.jpg?auto=webp&amp;s=d83f560c43ac01018e336ca8e77c5003ddc0f687"
@@ -134,12 +157,25 @@
         "permalink": "/r/science/comments/1kz45jn/study_helps_explain_rising_trump_support_among/"
     },
     {
+        "id": "1l02hsc",
+        "author": "AgingUS",
+        "title": "Defining the hypoxic thresholds that trigger blood-brain barrier disruption: the effect of age",
+        "content": "",
+        "upvotes": 32,
+        "comments": 1,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/G2A95c83XJz7pKKkBa_P_UuyfooRY_Qi8wJerqByoVc.jpg?auto=webp&amp;s=10db1a503bf08084b8a89526053e424edfa9e64f"
+        },
+        "permalink": "/r/science/comments/1l02hsc/defining_the_hypoxic_thresholds_that_trigger/"
+    },
+    {
         "id": "1kzcpbp",
         "author": "nohup_me",
         "title": "Researchers have proposed transforming the narrative on ultraprocessed foods by mirroring the strategies that have successfully reshaped public perceptions of tobacco",
         "content": "",
-        "upvotes": 1192,
-        "comments": 158,
+        "upvotes": 1400,
+        "comments": 185,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/1PD9lnqLjcyg85S9VdG-CyVM5WNzIwDus0Lnd9ictMU.jpg?auto=webp&amp;s=4d39a3205804b3c369852a1b9b321700a97cf1c6"
@@ -147,12 +183,38 @@
         "permalink": "/r/science/comments/1kzcpbp/researchers_have_proposed_transforming_the/"
     },
     {
+        "id": "1kzr80g",
+        "author": "Fit_Ad3058",
+        "title": "Study shows that circulating tumor DNA (ctDNA) from cystic fluid offers higher mutation detection and better treatment tracking than plasma, opening doors to more precise, less invasive monitoring of cystic brain metastases.",
+        "content": "",
+        "upvotes": 66,
+        "comments": 2,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/p32Ww4GU62z6l5Nfp9ZpOxvy4pKSJkxrF_66z-Sg0y8.jpg?auto=webp&amp;s=2b3087a881fc8f5e38c6da392ea6ad7c3d4b9c8d"
+        },
+        "permalink": "/r/science/comments/1kzr80g/study_shows_that_circulating_tumor_dna_ctdna_from/"
+    },
+    {
+        "id": "1kzvlk8",
+        "author": "Careful-Town-5099",
+        "title": "New microscope improves how bioluminescent signals in living cells can be observed",
+        "content": "",
+        "upvotes": 21,
+        "comments": 1,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/vkHaHo6fGO4QS-N6S4EpcD8TY3QYGgyyi8a4N4wAe4w.jpg?auto=webp&amp;s=5e5c8b048a4eb92b20af400c6c05d43978872dc8"
+        },
+        "permalink": "/r/science/comments/1kzvlk8/new_microscope_improves_how_bioluminescent/"
+    },
+    {
         "id": "1kz4xdn",
         "author": "pinkyflower",
         "title": "Thousands of fossils discovered in California\u2019s La Brea tar pits reveal that mammals and birds did not exhibit any evolutionary changes in response to climate fluctuations over the last 50,000 years.",
         "content": "",
-        "upvotes": 1206,
-        "comments": 13,
+        "upvotes": 1322,
+        "comments": 14,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/Vu8maGMzVy_4Y8Edzj7DDlkMUmaDLRiu2M4gwopRL0Q.jpg?auto=webp&amp;s=25e010456796e175ccdbac5496098be1cdc1c2a8"
@@ -164,31 +226,18 @@
         "author": "asbruckman",
         "title": "People overtrust AI-Generated medical advice. 300 participants evaluated AI and doctor-written medical advice. They found low-accuracy, AI-generated responses to be trustworthy, and expressed an intention to follow the potentially harmful advice.",
         "content": "",
-        "upvotes": 581,
-        "comments": 50,
+        "upvotes": 636,
+        "comments": 53,
         "media": null,
         "permalink": "/r/science/comments/1kzacy4/people_overtrust_aigenerated_medical_advice_300/"
-    },
-    {
-        "id": "1kzr80g",
-        "author": "Fit_Ad3058",
-        "title": "Study shows that circulating tumor DNA (ctDNA) from cystic fluid offers higher mutation detection and better treatment tracking than plasma, opening doors to more precise, less invasive monitoring of cystic brain metastases.",
-        "content": "",
-        "upvotes": 40,
-        "comments": 2,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/p32Ww4GU62z6l5Nfp9ZpOxvy4pKSJkxrF_66z-Sg0y8.jpg?auto=webp&amp;s=2b3087a881fc8f5e38c6da392ea6ad7c3d4b9c8d"
-        },
-        "permalink": "/r/science/comments/1kzr80g/study_shows_that_circulating_tumor_dna_ctdna_from/"
     },
     {
         "id": "1kz5hl7",
         "author": "chrisdh79",
         "title": "Coronavirus anxiety linked to obsessive healthy eating behaviors during the pandemic | In addition, people with lower cognitive flexibility\u2014a psychological trait that helps individuals adapt to stress\u2014were more vulnerable to these symptoms when anxiety was high.",
         "content": "",
-        "upvotes": 679,
-        "comments": 69,
+        "upvotes": 719,
+        "comments": 72,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/PhCuFY639zlsMfsMBe23Sj0i9el2dWZ_yuRNlHkdfEs.jpg?auto=webp&amp;s=a785d42ef2e3419718d98f84ee0dc689878dbf3f"
@@ -196,25 +245,22 @@
         "permalink": "/r/science/comments/1kz5hl7/coronavirus_anxiety_linked_to_obsessive_healthy/"
     },
     {
-        "id": "1kzvlk8",
-        "author": "Careful-Town-5099",
-        "title": "New microscope improves how bioluminescent signals in living cells can be observed",
+        "id": "1kzovn7",
+        "author": "calliope_kekule",
+        "title": "Long before Europeans arrived, a different leprosy-causing bacterium - Mycobacterium lepromatosis - was already widespread across the Americas.",
         "content": "",
-        "upvotes": 11,
+        "upvotes": 46,
         "comments": 1,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/vkHaHo6fGO4QS-N6S4EpcD8TY3QYGgyyi8a4N4wAe4w.jpg?auto=webp&amp;s=5e5c8b048a4eb92b20af400c6c05d43978872dc8"
-        },
-        "permalink": "/r/science/comments/1kzvlk8/new_microscope_improves_how_bioluminescent/"
+        "media": null,
+        "permalink": "/r/science/comments/1kzovn7/long_before_europeans_arrived_a_different/"
     },
     {
         "id": "1kz2jvk",
         "author": "mvea",
         "title": "The popular image of tech workers as a single, cohesive class is misleading. Developers are more individualistic, open to change, idealistic and less conservative compared to non-developers, who are more closely aligned with other occupational elites like managers and professionals.",
         "content": "",
-        "upvotes": 893,
-        "comments": 58,
+        "upvotes": 926,
+        "comments": 61,
         "media": null,
         "permalink": "/r/science/comments/1kz2jvk/the_popular_image_of_tech_workers_as_a_single/"
     },
@@ -223,7 +269,7 @@
         "author": "chrisdh79",
         "title": "Parental intuition better at spotting child illness than vital signs, study finds | Research strengthens case for families to have right to second opinion under Martha\u2019s rule being piloted by NHS England",
         "content": "",
-        "upvotes": 1112,
+        "upvotes": 1187,
         "comments": 46,
         "media": {
             "type": "image",
@@ -232,21 +278,21 @@
         "permalink": "/r/science/comments/1kz0nuv/parental_intuition_better_at_spotting_child/"
     },
     {
-        "id": "1kzovn7",
-        "author": "calliope_kekule",
-        "title": "Long before Europeans arrived, a different leprosy-causing bacterium - Mycobacterium lepromatosis - was already widespread across the Americas.",
+        "id": "1kzs8ss",
+        "author": "Paul_Infinity",
+        "title": "(PDF) Pre-fertilization-origin preservation of brown fat-mediated energy expenditure in humans",
         "content": "",
-        "upvotes": 35,
-        "comments": 1,
+        "upvotes": 14,
+        "comments": 2,
         "media": null,
-        "permalink": "/r/science/comments/1kzovn7/long_before_europeans_arrived_a_different/"
+        "permalink": "/r/science/comments/1kzs8ss/pdf_prefertilizationorigin_preservation_of_brown/"
     },
     {
         "id": "1kz644l",
         "author": "OregonTripleBeam",
         "title": "A study on medical cannabis use by older adults provided \"evidence of momentary improvements in pain, anxiety, depression, and indirect benefits for sleep quality.\"",
         "content": "",
-        "upvotes": 322,
+        "upvotes": 360,
         "comments": 52,
         "media": null,
         "permalink": "/r/science/comments/1kz644l/a_study_on_medical_cannabis_use_by_older_adults/"
@@ -256,28 +302,28 @@
         "author": "James_Fortis",
         "title": "Swine industrial livestock operations in North Carolina were found to contaminate 44% of neighboring households. Fecal contamination was found on both the outer and inner surfaces of the homes, and increased with higher swine production intensity, study finds",
         "content": "",
-        "upvotes": 541,
-        "comments": 17,
+        "upvotes": 601,
+        "comments": 20,
         "media": null,
         "permalink": "/r/science/comments/1kz1r7p/swine_industrial_livestock_operations_in_north/"
     },
     {
-        "id": "1kzs8ss",
-        "author": "Paul_Infinity",
-        "title": "(PDF) Pre-fertilization-origin preservation of brown fat-mediated energy expenditure in humans",
+        "id": "1kzrnko",
+        "author": "Lord-Julius",
+        "title": "The IL-22\u2013oncostatin M axis promotes intestinal inflammation and tumorigenesis - Nature Immunology",
         "content": "",
-        "upvotes": 9,
-        "comments": 2,
+        "upvotes": 12,
+        "comments": 1,
         "media": null,
-        "permalink": "/r/science/comments/1kzs8ss/pdf_prefertilizationorigin_preservation_of_brown/"
+        "permalink": "/r/science/comments/1kzrnko/the_il22oncostatin_m_axis_promotes_intestinal/"
     },
     {
         "id": "1kymvnm",
         "author": "mvea",
         "title": "Cats distinguish owner's smell from stranger's, study finds. The study found cats spent significantly longer sniffing odours of unknown people compared to tubes containing their owner's smell. This suggests cats can discriminate between familiar and unfamiliar humans based on their odour.",
         "content": "",
-        "upvotes": 5288,
-        "comments": 224,
+        "upvotes": 5339,
+        "comments": 225,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/xcuaYYyBiLy84n243N9MW3NNRzAuogfIFlfA19SyHOs.jpg?auto=webp&amp;s=389d7a0cda06a7addaec9957d614ee58600dd9f1"
@@ -285,21 +331,11 @@
         "permalink": "/r/science/comments/1kymvnm/cats_distinguish_owners_smell_from_strangers/"
     },
     {
-        "id": "1kzrnko",
-        "author": "Lord-Julius",
-        "title": "The IL-22\u2013oncostatin M axis promotes intestinal inflammation and tumorigenesis - Nature Immunology",
-        "content": "",
-        "upvotes": 10,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1kzrnko/the_il22oncostatin_m_axis_promotes_intestinal/"
-    },
-    {
         "id": "1kzbs52",
         "author": "nohup_me",
         "title": "Researchers identify in mice group of nerve cells in the brain (so-called PNOC/NPY) that influence eating behavior and weight gain",
         "content": "",
-        "upvotes": 57,
+        "upvotes": 67,
         "comments": 3,
         "media": {
             "type": "image",
@@ -308,52 +344,16 @@
         "permalink": "/r/science/comments/1kzbs52/researchers_identify_in_mice_group_of_nerve_cells/"
     },
     {
-        "id": "1ky9qrl",
-        "author": "mvea",
-        "title": "Study finds Americans do not like mass incarceration. Most Americans favor community programs for nonviolent and drug offenders as opposed to prison sentences. Most do not want to spend tax dollars building more prisons; they favor spending money on prevention programs.",
-        "content": "",
-        "upvotes": 27627,
-        "comments": 888,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/bPs1lJhAgG5upg2DJxbcYJ_C2v_lhhDyQVG2HT2Jvkc.jpg?auto=webp&amp;s=6902b2747703966eb58d87c81bc504de658980c6"
-        },
-        "permalink": "/r/science/comments/1ky9qrl/study_finds_americans_do_not_like_mass/"
-    },
-    {
         "id": "1kz7r1a",
         "author": "CUAnschutzMed",
         "title": "Children exposed to gestational diabetes in utero with a specific variation of a common gene are at a higher risk of becoming overweight or obese during childhood, according to a new study by researchers at the University of Colorado Anschutz Medical Campus.",
         "content": "",
-        "upvotes": 83,
+        "upvotes": 97,
         "comments": 1,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/H6TlZtONbZpLPaMUpmhxTasar4YySJMQau_PMQ2QdlM.jpg?auto=webp&amp;s=bbfbb6925827ae8303977f695370edda0733f94c"
         },
         "permalink": "/r/science/comments/1kz7r1a/children_exposed_to_gestational_diabetes_in_utero/"
-    },
-    {
-        "id": "1kyir9e",
-        "author": "-Mystica-",
-        "title": "Almost 40% of world\u2019s glaciers already doomed due to climate crisis \u2013 study. The loss will soar to 75% if global heating reaches the 2.7C rise for which the world is currently on track.",
-        "content": "",
-        "upvotes": 2781,
-        "comments": 83,
-        "media": null,
-        "permalink": "/r/science/comments/1kyir9e/almost_40_of_worlds_glaciers_already_doomed_due/"
-    },
-    {
-        "id": "1kz7by6",
-        "author": "iamphilosofie",
-        "title": "More and more family doctors in Ontario Canada are choosing to practice in a focused area instead of offering full-service family medicine",
-        "content": "",
-        "upvotes": 47,
-        "comments": 2,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/OWNGsuGm8BlgMODmuVlcK8xNMHntZdi-JrJr-JnNGyA.jpg?auto=webp&amp;s=d022a9a284789c503e95258f3e0f9dacb76ae779"
-        },
-        "permalink": "/r/science/comments/1kz7by6/more_and_more_family_doctors_in_ontario_canada/"
     }
 ]
