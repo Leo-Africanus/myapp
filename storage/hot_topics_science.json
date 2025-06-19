@@ -1,21 +1,50 @@
 [
     {
-        "id": "1le4m1y",
-        "author": "shiruken",
-        "title": "Republicans are flagged more often than Democrats for sharing misinformation on X's Community Notes according to a new analysis of the crowd-sourced program.",
+        "id": "1leol3c",
+        "author": "geoff199",
+        "title": "As concern grows about America\u2019s falling birth rate, new research suggests that about half of women who want children are unsure if they will follow through and actually have a child. About 25% say they won't be bothered that much if they don't.",
         "content": "",
-        "upvotes": 19102,
-        "comments": 486,
-        "media": null,
-        "permalink": "/r/science/comments/1le4m1y/republicans_are_flagged_more_often_than_democrats/"
+        "upvotes": 10299,
+        "comments": 1461,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/eVkZ66hiOubjZKGZ2x9MP8UmwIpZbWOhPcmX7AdJFes.jpeg?auto=webp&amp;s=359311f352dc31c818170cebfa82fb3b503103d8"
+        },
+        "permalink": "/r/science/comments/1leol3c/as_concern_grows_about_americas_falling_birth/"
+    },
+    {
+        "id": "1lex01p",
+        "author": "mvea",
+        "title": "The brain parasite, Toxoplasma gondii, can significantly disrupt brain function, even when it infects only a small number of neurons, finds murine study. 10\u201330% of Americans are infected with it, often without knowing it. It is typically contracted through undercooked meat or exposure to cat feces.",
+        "content": "",
+        "upvotes": 867,
+        "comments": 68,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/pf2XPwW9_KOuEDuFGbPN3j-K-I7z_KrH7x5_6tcNKmE.jpeg?auto=webp&amp;s=e74a727203019f5449157e68e694a82b206445f9"
+        },
+        "permalink": "/r/science/comments/1lex01p/the_brain_parasite_toxoplasma_gondii_can/"
+    },
+    {
+        "id": "1lel92g",
+        "author": "TylerFortier_Photo",
+        "title": "Bats don't get cancer: Study shows that the \"little brown\" bat carries two working copies of the key tumor suppressor gene p53, while humans carry only one. \u201cHigh levels of p53 in the body can kill cancer cells before they become harmful in a process known as apoptosis\u201d",
+        "content": "",
+        "upvotes": 1864,
+        "comments": 50,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/VCRJszU6U95XPpOC4GlVVufN0GZBFJoeGg92br4XxV4.jpeg?auto=webp&amp;s=e3a3e8c065f26fa02cb51ed7fab1861ebcaeba6d"
+        },
+        "permalink": "/r/science/comments/1lel92g/bats_dont_get_cancer_study_shows_that_the_little/"
     },
     {
         "id": "1lef9j8",
         "author": "mvea",
         "title": "Scientists demonstrate superior cognitive benefits of outdoor vs indoor physical activity. Children experience greater improvements in attention, memory, and thinking speed after physical activity when it takes place outdoors rather than indoors.",
         "content": "",
-        "upvotes": 1481,
-        "comments": 28,
+        "upvotes": 3067,
+        "comments": 46,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/-MwLRGjzq1laVewCNfgDzQfkuybWITF07ySc63Hbsb4.jpeg?auto=webp&amp;s=4e0c83e06b5a5ccc6fd36cc22df00c26ce04848a"
@@ -27,8 +56,8 @@
         "author": "mvea",
         "title": "Racial insecurity helped shield Trump from Republican backlash after Capitol riot, study suggests. The findings highlight how feelings of group threat can protect political leaders from consequences\u2014even after violent, anti-democratic actions.",
         "content": "",
-        "upvotes": 2047,
-        "comments": 65,
+        "upvotes": 3284,
+        "comments": 87,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/v03mkD2jjLqjv-8h2RhkREGWDA7pH6aS5vsMXoG0UnI.jpeg?auto=webp&amp;s=80b1ebcdc7c057a8805a6ba51eec65115ee9c7ab"
@@ -36,25 +65,12 @@
         "permalink": "/r/science/comments/1led7mk/racial_insecurity_helped_shield_trump_from/"
     },
     {
-        "id": "1lecwfh",
-        "author": "Wagamaga",
-        "title": "A study of microplastics in U.S. coastal waters found that residents of counties adjacent to the most heavily microplastic-polluted waters had significantly higher rates of Type 2 diabetes, coronary artery disease and stroke compared to similar counties with low microplastic pollution",
-        "content": "",
-        "upvotes": 631,
-        "comments": 37,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/UI0CiM_QwJ1h3A3Oj7kC807trXvqXN4EhRt_eYlxi8I.jpeg?auto=webp&amp;s=91d06c5481b236bb86ab3a98e5524541ab7fefac"
-        },
-        "permalink": "/r/science/comments/1lecwfh/a_study_of_microplastics_in_us_coastal_waters/"
-    },
-    {
         "id": "1lelfas",
         "author": "Wagamaga",
         "title": "US teens showing high and increasing addictive use of social media and mobile phones were linked to two to three times greater risk of suicidal behaviour and ideation compared to kids with low addictive use patterns",
         "content": "",
-        "upvotes": 183,
-        "comments": 4,
+        "upvotes": 898,
+        "comments": 13,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/V9wOOruEovi4-7S1PuhruGU_sm2IfhQTGobc_jVhS3A.jpeg?auto=webp&amp;s=797c42c947053b78b6a7f775518e3e69a2f298b6"
@@ -62,24 +78,70 @@
         "permalink": "/r/science/comments/1lelfas/us_teens_showing_high_and_increasing_addictive/"
     },
     {
-        "id": "1ldxg13",
-        "author": "mvea",
-        "title": "Frequent pornography use linked to altered brain connectivity and impaired cognitive performance, finds a new brain imaging student with college students. Frequent pornography consumption may lead to neural and behavioral patterns that mimic other forms of addiction.",
+        "id": "1le4m1y",
+        "author": "shiruken",
+        "title": "Republicans are flagged more often than Democrats for sharing misinformation on X's Community Notes according to a new analysis of the crowd-sourced program.",
         "content": "",
-        "upvotes": 4905,
-        "comments": 301,
+        "upvotes": 20991,
+        "comments": 551,
+        "media": null,
+        "permalink": "/r/science/comments/1le4m1y/republicans_are_flagged_more_often_than_democrats/"
+    },
+    {
+        "id": "1leo900",
+        "author": "Sufficient-Bid1279",
+        "title": "First Signs of a 'Ghost' Plume Reshaping Earth Detected Beneath Oman",
+        "content": "",
+        "upvotes": 330,
+        "comments": 22,
+        "media": null,
+        "permalink": "/r/science/comments/1leo900/first_signs_of_a_ghost_plume_reshaping_earth/"
+    },
+    {
+        "id": "1lecwfh",
+        "author": "Wagamaga",
+        "title": "A study of microplastics in U.S. coastal waters found that residents of counties adjacent to the most heavily microplastic-polluted waters had significantly higher rates of Type 2 diabetes, coronary artery disease and stroke compared to similar counties with low microplastic pollution",
+        "content": "",
+        "upvotes": 961,
+        "comments": 49,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/CSb8WKWuABVAjlBJ2YF60amWD3CPccMxdyBCdUesBVY.jpeg?auto=webp&amp;s=6c6ca1c707f760a5837f5e8ce3d966402dfad7db"
+            "url": "https://external-preview.redd.it/UI0CiM_QwJ1h3A3Oj7kC807trXvqXN4EhRt_eYlxi8I.jpeg?auto=webp&amp;s=91d06c5481b236bb86ab3a98e5524541ab7fefac"
         },
-        "permalink": "/r/science/comments/1ldxg13/frequent_pornography_use_linked_to_altered_brain/"
+        "permalink": "/r/science/comments/1lecwfh/a_study_of_microplastics_in_us_coastal_waters/"
+    },
+    {
+        "id": "1leq5ou",
+        "author": "calliope_kekule",
+        "title": "A new study finds disadvantaged US communities have 64% fewer public EV chargers per capita \u2013 and face more outages when they do exist. Renters and urban residents are hit hardest.",
+        "content": "",
+        "upvotes": 137,
+        "comments": 16,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/EhkLbcoqri56ULMxgNRDqkLyUfidtFrxrX29o6R1JG4.png?auto=webp&amp;s=7e4a659f15a95a7565d18aeeaef2599f05346c44"
+        },
+        "permalink": "/r/science/comments/1leq5ou/a_new_study_finds_disadvantaged_us_communities/"
+    },
+    {
+        "id": "1leogel",
+        "author": "NGNResearch",
+        "title": "Researchers identify two proteins abundant on drug-resistant ovarian cancer cells that become receptive to chemotherapy when treated with light",
+        "content": "",
+        "upvotes": 121,
+        "comments": 2,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/AoNthV6TGte55USaEvZvek8IusIe39j-pyJgQhsNEZM.jpeg?auto=webp&amp;s=8dd7251c0a745ba98c6fc7426aeff99af8cfc72d"
+        },
+        "permalink": "/r/science/comments/1leogel/researchers_identify_two_proteins_abundant_on/"
     },
     {
         "id": "1lejbps",
         "author": "chrisdh79",
         "title": "Science Clears the Way to Treating the Trickiest Bladder Cancers | Bladder tumors that have been excluded from clinical trials have a few things in common that could lead to new therapies.",
         "content": "",
-        "upvotes": 120,
+        "upvotes": 200,
         "comments": 4,
         "media": {
             "type": "image",
@@ -88,25 +150,12 @@
         "permalink": "/r/science/comments/1lejbps/science_clears_the_way_to_treating_the_trickiest/"
     },
     {
-        "id": "1ldow6t",
-        "author": "newsweek",
-        "title": "People living in societies with more corruption, inequality, poverty and violence are more likely to exhibit \"dark\" personality traits\u2014like narcissism, psychopathy and spitefulness, according to new study led by psychologist professor Ingo Zettler of the University of Copenhagen.",
-        "content": "",
-        "upvotes": 11620,
-        "comments": 445,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/LCZMTc65O9Mzcieme9W0bQ2Yb_Y3uzMavkOz6ur79EM.png?auto=webp&amp;s=b2f7a9aeba655705125f65cedcfeb2fa76dd1755"
-        },
-        "permalink": "/r/science/comments/1ldow6t/people_living_in_societies_with_more_corruption/"
-    },
-    {
         "id": "1lee3dl",
         "author": "chrisdh79",
         "title": "Anti-aging \"glue\" naturally repairs damaged DNA to protect brain cells | A protein known as disulphide isomerase (PDI) assists against biological aging to ward off neurological degeneration including that seen in motor neuron, Alzheimer\u2019s and Parkinson\u2019s diseases.",
         "content": "",
-        "upvotes": 224,
-        "comments": 5,
+        "upvotes": 390,
+        "comments": 6,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/PlUEzBaq_zAxGZ9Lcn_R9Qj0J88RjYt8YIGeYqYvgKo.png?auto=webp&amp;s=190ea1a33c9a87dcfa98bc30d1d31450fb095a3e"
@@ -114,25 +163,77 @@
         "permalink": "/r/science/comments/1lee3dl/antiaging_glue_naturally_repairs_damaged_dna_to/"
     },
     {
-        "id": "1ldvijw",
-        "author": "nohup_me",
-        "title": "Drinking 1\u20133 cups of black or lightly sweetened coffee per day is associated with a 14\u201317% lower risk of death from all causes and cardiovascular disease, but only when sugar and saturated fat were kept low",
+        "id": "1ldxg13",
+        "author": "mvea",
+        "title": "Frequent pornography use linked to altered brain connectivity and impaired cognitive performance, finds a new brain imaging student with college students. Frequent pornography consumption may lead to neural and behavioral patterns that mimic other forms of addiction.",
         "content": "",
-        "upvotes": 2593,
-        "comments": 193,
+        "upvotes": 5300,
+        "comments": 307,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/orn827MR2FfRh9EoAREVqGKdT0L2TuOaIsOrO3Snwpg.jpeg?auto=webp&amp;s=a71bb2fa17aff7bd650e9674ae76e7e492fba8eb"
+            "url": "https://external-preview.redd.it/CSb8WKWuABVAjlBJ2YF60amWD3CPccMxdyBCdUesBVY.jpeg?auto=webp&amp;s=6c6ca1c707f760a5837f5e8ce3d966402dfad7db"
         },
-        "permalink": "/r/science/comments/1ldvijw/drinking_13_cups_of_black_or_lightly_sweetened/"
+        "permalink": "/r/science/comments/1ldxg13/frequent_pornography_use_linked_to_altered_brain/"
+    },
+    {
+        "id": "1leulfz",
+        "author": "Eppicurt",
+        "title": "Brain-inspired neuromorphic computing improves the energy efficiency of robotic navigation systems by over 90%",
+        "content": "",
+        "upvotes": 38,
+        "comments": 1,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/wioqg_qOpRlfMlZGPBYeQZYiGVxunwdzfevn-q5KBCE.jpeg?auto=webp&amp;s=0dc34ebb9f50d2211338bc2185ce951b311a13db"
+        },
+        "permalink": "/r/science/comments/1leulfz/braininspired_neuromorphic_computing_improves_the/"
+    },
+    {
+        "id": "1lekxtr",
+        "author": "-Mystica-",
+        "title": "Climate change cuts global crop yields, even when farmers adapt, study finds. It slashes yields by 5.5\u00d710\u00b9\u2074 kcal/year per \u00b0C\u2014120 kcal less per person daily. Adaptation offsets just 23% of losses by 2050. Major food-producing regions are hit hardest, not only the poor.",
+        "content": "",
+        "upvotes": 98,
+        "comments": 4,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/8sgGESv1fSm0v405v6jRST7fIg-cqfTuL6CKgLekWC8.png?auto=webp&amp;s=90c62beaddbf04116f657169c55bb881c0deb5e6"
+        },
+        "permalink": "/r/science/comments/1lekxtr/climate_change_cuts_global_crop_yields_even_when/"
+    },
+    {
+        "id": "1lepq55",
+        "author": "nohup_me",
+        "title": "Research in mice suggests that disrupted daily rhythms during adolescence can affect brain development",
+        "content": "",
+        "upvotes": 57,
+        "comments": 3,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/4Jrok0Kp0khmXK56p5z9Tnp80m_Sv07q3Hu-gFaaXI8.jpeg?auto=webp&amp;s=b9f993d715f314b6986b9bade3ce69be148023d6"
+        },
+        "permalink": "/r/science/comments/1lepq55/research_in_mice_suggests_that_disrupted_daily/"
+    },
+    {
+        "id": "1ldow6t",
+        "author": "newsweek",
+        "title": "People living in societies with more corruption, inequality, poverty and violence are more likely to exhibit \"dark\" personality traits\u2014like narcissism, psychopathy and spitefulness, according to new study led by psychologist professor Ingo Zettler of the University of Copenhagen.",
+        "content": "",
+        "upvotes": 11896,
+        "comments": 458,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/LCZMTc65O9Mzcieme9W0bQ2Yb_Y3uzMavkOz6ur79EM.png?auto=webp&amp;s=b2f7a9aeba655705125f65cedcfeb2fa76dd1755"
+        },
+        "permalink": "/r/science/comments/1ldow6t/people_living_in_societies_with_more_corruption/"
     },
     {
         "id": "1lefpbv",
         "author": "geoff199",
         "title": "Corporate executives with subprime credit scores tend to make poorer business decisions involving risk, a new experiment shows.  They tend to be \"yes persons\" who seeks consensus even when it is counterproductive.",
         "content": "",
-        "upvotes": 88,
-        "comments": 5,
+        "upvotes": 140,
+        "comments": 8,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/Oy_Y-1jiIuEZXIQwO_oDYON73VIyHD1mHZb-8Dmk8H8.jpeg?auto=webp&amp;s=42fbe0636101641b177d318c33fd3013adc40ffc"
@@ -140,11 +241,24 @@
         "permalink": "/r/science/comments/1lefpbv/corporate_executives_with_subprime_credit_scores/"
     },
     {
+        "id": "1ldvijw",
+        "author": "nohup_me",
+        "title": "Drinking 1\u20133 cups of black or lightly sweetened coffee per day is associated with a 14\u201317% lower risk of death from all causes and cardiovascular disease, but only when sugar and saturated fat were kept low",
+        "content": "",
+        "upvotes": 2798,
+        "comments": 200,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/orn827MR2FfRh9EoAREVqGKdT0L2TuOaIsOrO3Snwpg.jpeg?auto=webp&amp;s=a71bb2fa17aff7bd650e9674ae76e7e492fba8eb"
+        },
+        "permalink": "/r/science/comments/1ldvijw/drinking_13_cups_of_black_or_lightly_sweetened/"
+    },
+    {
         "id": "1leg6i4",
         "author": "BlackViperMWG",
         "title": "Artificial light at night outweighs temperature in lengthening urban growing seasons",
         "content": "",
-        "upvotes": 64,
+        "upvotes": 93,
         "comments": 4,
         "media": {
             "type": "image",
@@ -157,8 +271,8 @@
         "author": "chrisdh79",
         "title": "Female baboons with strong relationship to fathers found to live longer | Study suggests role of male parents may be under-appreciated in some primate species",
         "content": "",
-        "upvotes": 70,
-        "comments": 9,
+        "upvotes": 110,
+        "comments": 11,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/TVykW1eUGFgQZ_bvrEZlHkuwwWYf2ep_F5nlEcCt640.jpeg?auto=webp&amp;s=926e1da476a8861031c2058080690768650ad4ba"
@@ -166,25 +280,55 @@
         "permalink": "/r/science/comments/1leeb80/female_baboons_with_strong_relationship_to/"
     },
     {
-        "id": "1lekxtr",
-        "author": "-Mystica-",
-        "title": "Climate change cuts global crop yields, even when farmers adapt, study finds. It slashes yields by 5.5\u00d710\u00b9\u2074 kcal/year per \u00b0C\u2014120 kcal less per person daily. Adaptation offsets just 23% of losses by 2050. Major food-producing regions are hit hardest, not only the poor.",
+        "id": "1lekyaa",
+        "author": "umichnews",
+        "title": "Positive self-disclosure at work enhances well-being, energy &amp; social connection; venting linked to increased rumination &amp; lower emotional health, according to new U-Michigan study",
         "content": "",
-        "upvotes": 24,
+        "upvotes": 38,
         "comments": 3,
+        "media": null,
+        "permalink": "/r/science/comments/1lekyaa/positive_selfdisclosure_at_work_enhances/"
+    },
+    {
+        "id": "1leqib5",
+        "author": "mitchbacano",
+        "title": "\u2018Understudied secret\u2019 in brain dampens nicotine drive in mice",
+        "content": "",
+        "upvotes": 15,
+        "comments": 2,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/8sgGESv1fSm0v405v6jRST7fIg-cqfTuL6CKgLekWC8.png?auto=webp&amp;s=90c62beaddbf04116f657169c55bb881c0deb5e6"
+            "url": "https://external-preview.redd.it/DJPVxTXHgla3nJVDPHPDem5qqQavPLgb4aKGQA_N1hM.png?auto=webp&amp;s=f58207baefeaa057a98be984b1f17c4f1be8887f"
         },
-        "permalink": "/r/science/comments/1lekxtr/climate_change_cuts_global_crop_yields_even_when/"
+        "permalink": "/r/science/comments/1leqib5/understudied_secret_in_brain_dampens_nicotine/"
+    },
+    {
+        "id": "1lel1nt",
+        "author": "umichnews",
+        "title": "In undernourished children, weight gain from ages 1\u201310 increases adult height without raising obesity or hypertension risk; challenges prior focus on early-life interventions only (U-Michigan study via JAMA Network Open)",
+        "content": "",
+        "upvotes": 32,
+        "comments": 3,
+        "media": null,
+        "permalink": "/r/science/comments/1lel1nt/in_undernourished_children_weight_gain_from_ages/"
+    },
+    {
+        "id": "1lemew0",
+        "author": "umichnews",
+        "title": "Using liquid-phase electron microscopy, researchers from U-Mich, Illinois &amp; Wisconsin observe phonon dynamics in self-assembling nanoparticle metamaterials, enabling nanoscale control of mechanical properties for robotics, computing &amp; extreme environments (Nature Materials)",
+        "content": "",
+        "upvotes": 17,
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/science/comments/1lemew0/using_liquidphase_electron_microscopy_researchers/"
     },
     {
         "id": "1ldlasv",
         "author": "mvea",
         "title": "Americans\u2019 favorable attitudes toward Asians declined during the height of the COVID-19 pandemic. The effect was stronger among people who supported then-President Donald Trump, suggesting that partisan cues and pandemic-related rhetoric influenced how Americans viewed Asians as a group.",
         "content": "",
-        "upvotes": 2487,
-        "comments": 158,
+        "upvotes": 2569,
+        "comments": 160,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/0TVMS-GzfGQJrgPrdR2v3EQG7quT72OjZ5MB4Ij-Nn8.jpeg?auto=webp&amp;s=c84d60ec7ac5958a92934a56f2b3f7e47f2de849"
@@ -192,123 +336,11 @@
         "permalink": "/r/science/comments/1ldlasv/americans_favorable_attitudes_toward_asians/"
     },
     {
-        "id": "1ldr27t",
-        "author": "chrisdh79",
-        "title": "Childhood trauma linked to changes in brain structure and connectivity, study finds | Reduced cortical volume was observed in a cluster involving the left postcentral gyrus.",
-        "content": "",
-        "upvotes": 1008,
-        "comments": 39,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/09Klv0dKD7YHjhpBq5WxJd7aBp1SiAHOtkSfmkTnQ0o.jpeg?auto=webp&amp;s=485f1f0dcf4e9e985e048c9b1330a61de2dbefe0"
-        },
-        "permalink": "/r/science/comments/1ldr27t/childhood_trauma_linked_to_changes_in_brain/"
-    },
-    {
-        "id": "1lekyaa",
-        "author": "umichnews",
-        "title": "Positive self-disclosure at work enhances well-being, energy &amp; social connection; venting linked to increased rumination &amp; lower emotional health, according to new U-Michigan study",
-        "content": "",
-        "upvotes": 12,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/science/comments/1lekyaa/positive_selfdisclosure_at_work_enhances/"
-    },
-    {
-        "id": "1ldwnt1",
-        "author": "Wagamaga",
-        "title": "Relationship satisfaction fluctuates frequently\u2014even daily\u2014but these shifts are a normal part of romantic dynamics. Using high-frequency surveys from over 700 couples, researchers found that satisfaction often rises and falls in sync between partners.",
-        "content": "",
-        "upvotes": 417,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/science/comments/1ldwnt1/relationship_satisfaction_fluctuates/"
-    },
-    {
-        "id": "1lekklo",
-        "author": "Dr_Lee_Smee",
-        "title": "Life on the edge: Two dissimilar extreme events alter food webs through modification of top\u2010down control - Smee - 2025 - Ecology - Wiley Online Library",
-        "content": "",
-        "upvotes": 7,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1lekklo/life_on_the_edge_two_dissimilar_extreme_events/"
-    },
-    {
-        "id": "1ledzwv",
-        "author": "Lord-Julius",
-        "title": "Splenic immune activity influences atherosclerosis and myocardial ischaemia",
-        "content": "",
-        "upvotes": 18,
-        "comments": 1,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/AT_z9yG5SKwfl2yxxyXGrUKfRXat7bVsqWbdQQe-sSQ.png?auto=webp&amp;s=d4e8df07a59435bb9f48503c7619b2a8afb265b7"
-        },
-        "permalink": "/r/science/comments/1ledzwv/splenic_immune_activity_influences/"
-    },
-    {
-        "id": "1lel1nt",
-        "author": "umichnews",
-        "title": "In undernourished children, weight gain from ages 1\u201310 increases adult height without raising obesity or hypertension risk; challenges prior focus on early-life interventions only (U-Michigan study via JAMA Network Open)",
-        "content": "",
-        "upvotes": 9,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/science/comments/1lel1nt/in_undernourished_children_weight_gain_from_ages/"
-    },
-    {
-        "id": "1ldgw04",
-        "author": "ToranDur",
-        "title": "The Replication crisis hits sports and exercise research: only 28% replicate fully, effect sizes are reduced by 75% on average. Only 14% of original authors were willing to share their data.",
-        "content": "",
-        "upvotes": 2474,
-        "comments": 105,
-        "media": null,
-        "permalink": "/r/science/comments/1ldgw04/the_replication_crisis_hits_sports_and_exercise/"
-    },
-    {
-        "id": "1ldllfl",
-        "author": "chrisdh79",
-        "title": "Dads with poor mental health may be impacting the development of their kids | Research linking mental distress in fathers to poorer social-emotional, cognitive, language, and physical development in their kids.",
-        "content": "",
-        "upvotes": 959,
-        "comments": 62,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/J_-Z1nqjA___CHgbg1yxiFhGFP4agijF_s8px8cqj_8.jpeg?auto=webp&amp;s=73bb0cd0c4067274b4a9e572307e826cd2e494bb"
-        },
-        "permalink": "/r/science/comments/1ldllfl/dads_with_poor_mental_health_may_be_impacting_the/"
-    },
-    {
-        "id": "1ldz1fa",
-        "author": "nohup_me",
-        "title": "Low sodium in blood can directly cause anxiety-like behaviors in mice by disrupting key neurotransmitters in the brain",
-        "content": "",
-        "upvotes": 176,
-        "comments": 9,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/s-4s1OAXxUFQ807Kj1hc4SchFAbwF1uvjZSXKsni1H0.jpeg?auto=webp&amp;s=c1ad848a08e92439986e9e090d8fa953aed116f3"
-        },
-        "permalink": "/r/science/comments/1ldz1fa/low_sodium_in_blood_can_directly_cause/"
-    },
-    {
-        "id": "1ld5ft4",
-        "author": "mvea",
-        "title": "Medicaid cuts in the \"One Big Beautiful Bill Act\" will increase the number of uninsured persons by 7.6 million, undermining the coverage, financial well-being, medical care, and health of low-income Americans, and lead to an additional 16,642 medically-preventable deaths annually.",
-        "content": "",
-        "upvotes": 22129,
-        "comments": 624,
-        "media": null,
-        "permalink": "/r/science/comments/1ld5ft4/medicaid_cuts_in_the_one_big_beautiful_bill_act/"
-    },
-    {
         "id": "1lek9fb",
         "author": "coipham",
         "title": "Nanoneedles enable spatiotemporal lipidomics of living tissues",
         "content": "",
-        "upvotes": 5,
+        "upvotes": 17,
         "comments": 1,
         "media": {
             "type": "image",
@@ -317,46 +349,26 @@
         "permalink": "/r/science/comments/1lek9fb/nanoneedles_enable_spatiotemporal_lipidomics_of/"
     },
     {
-        "id": "1leedwg",
-        "author": "Super_Letterhead381",
-        "title": "Osteology and histology of a Plateosaurus trossingensis (Dinosauria: Sauropodomorpha) from the Upper Triassic of Switzerland with an advanced chronic pathology",
+        "id": "1ldr27t",
+        "author": "chrisdh79",
+        "title": "Childhood trauma linked to changes in brain structure and connectivity, study finds | Reduced cortical volume was observed in a cluster involving the left postcentral gyrus.",
         "content": "",
-        "upvotes": 10,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/science/comments/1leedwg/osteology_and_histology_of_a_plateosaurus/"
-    },
-    {
-        "id": "1led5gl",
-        "author": "Lord-Julius",
-        "title": "Probing the Shell Effects on Fission: The New Superheavy Nucleus 257^Sg",
-        "content": "",
-        "upvotes": 10,
-        "comments": 3,
-        "media": null,
-        "permalink": "/r/science/comments/1led5gl/probing_the_shell_effects_on_fission_the_new/"
-    },
-    {
-        "id": "1lds6sr",
-        "author": "icoralclast",
-        "title": "Emergency departments may be undertreating women for STIs: New meta-analysis finds females are 3.5x more likely than males to go untreated for gonorrhea or chlamydia, while males are more likely to receive antibiotics unnecessarily.",
-        "content": "",
-        "upvotes": 240,
-        "comments": 11,
-        "media": null,
-        "permalink": "/r/science/comments/1lds6sr/emergency_departments_may_be_undertreating_women/"
-    },
-    {
-        "id": "1le8gp5",
-        "author": "calliope_kekule",
-        "title": "A new study finds that in BRICS-T countries, stronger laws and property rights help lower CO2 emissions. But more city growth, wealth, and looser business rules push them up.",
-        "content": "",
-        "upvotes": 23,
-        "comments": 18,
+        "upvotes": 1058,
+        "comments": 43,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/XHhBcu8ErC1TfdHHGzNGivzwuTfRGXiRGirZ2pVDWu0.png?auto=webp&amp;s=c6cf5bb8998502c89fde87872292bfc59dff0fce"
+            "url": "https://external-preview.redd.it/09Klv0dKD7YHjhpBq5WxJd7aBp1SiAHOtkSfmkTnQ0o.jpeg?auto=webp&amp;s=485f1f0dcf4e9e985e048c9b1330a61de2dbefe0"
         },
-        "permalink": "/r/science/comments/1le8gp5/a_new_study_finds_that_in_bricst_countries/"
+        "permalink": "/r/science/comments/1ldr27t/childhood_trauma_linked_to_changes_in_brain/"
+    },
+    {
+        "id": "1lekklo",
+        "author": "Dr_Lee_Smee",
+        "title": "Life on the edge: Two dissimilar extreme events alter food webs through modification of top\u2010down control - Smee - 2025 - Ecology - Wiley Online Library",
+        "content": "",
+        "upvotes": 13,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1lekklo/life_on_the_edge_two_dissimilar_extreme_events/"
     }
 ]
