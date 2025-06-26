@@ -1,11 +1,21 @@
 [
     {
+        "id": "1ll0g7c",
+        "author": "iamphilosofie",
+        "title": "Body Fat Percentage Beats BMI in Predicting 15-Year Mortality Risk Among U.S. Adults Ages 20 to 49",
+        "content": "",
+        "upvotes": 1410,
+        "comments": 258,
+        "media": null,
+        "permalink": "/r/science/comments/1ll0g7c/body_fat_percentage_beats_bmi_in_predicting/"
+    },
+    {
         "id": "1lkpn5i",
         "author": "mvea",
         "title": "Study found food packaging is actually a direct source of the micro- and nanoplastics measured in food. Plastic contamination may occur when you\u2019re unwrapping food, steeping tea bag in hot water, or opening cartons. Glass bottles with a plastic-coated metal closure may also shed microplastics.",
         "content": "",
-        "upvotes": 4663,
-        "comments": 305,
+        "upvotes": 11005,
+        "comments": 582,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/lHp6P2OHQd2JsCgGs_N4G2YobbzrlBS2i3EnYsw9KOE.jpeg?auto=webp&amp;s=71276f8881f0e57d88082c5722617e2de38bebbf"
@@ -13,12 +23,94 @@
         "permalink": "/r/science/comments/1lkpn5i/study_found_food_packaging_is_actually_a_direct/"
     },
     {
+        "id": "1lkyc5r",
+        "author": "mvea",
+        "title": "Gut bacteria are associated with obsessive-compulsive disorder (OCD). Mendelian randomization shows these bacteria are causal. That makes dietary interventions plausible as a treatment for OCD.",
+        "content": "",
+        "upvotes": 1645,
+        "comments": 95,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/7oil2nGmMTZdlbCkvJ2RuEZEuTyDb0go-nyiVkeL0LI.jpeg?auto=webp&amp;s=35da21517630367e40912adf2030c29999f7dd5f"
+        },
+        "permalink": "/r/science/comments/1lkyc5r/gut_bacteria_are_associated_with/"
+    },
+    {
+        "id": "1lkxgq2",
+        "author": "mvea",
+        "title": "People use 3 main strategies to end an intimate relationship: 86% \u201csoften the blow\u201d by explaining breakup reasons, taking responsibility and convincing partner separation is beneficial. 24% \u201ctake a break\u201d, and 16% \u201cavoid confrontation\u201d by gradually fading away or disappearing without explanation.",
+        "content": "",
+        "upvotes": 1154,
+        "comments": 81,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/y-inCLg29_lwFtaYC6e3Dl_wdSLrgBBMJtRDeEvn37I.jpeg?auto=webp&amp;s=a57b8ff1137dd569eb39816c91eacd79ba58e21b"
+        },
+        "permalink": "/r/science/comments/1lkxgq2/people_use_3_main_strategies_to_end_an_intimate/"
+    },
+    {
+        "id": "1lkx6kk",
+        "author": "Wagamaga",
+        "title": "Updated COVID Vaccines Effective Against New Strains. Maximum protection came during the first two months after vaccination, reducing severe cases of COVID by up to 68%, results show.",
+        "content": "",
+        "upvotes": 773,
+        "comments": 70,
+        "media": null,
+        "permalink": "/r/science/comments/1lkx6kk/updated_covid_vaccines_effective_against_new/"
+    },
+    {
+        "id": "1lku5su",
+        "author": "Canadian_Indian1472",
+        "title": "Controversial: We're a step closer to two men being able to have genetic children of their own after the creation of fertile mice by putting two sperm cells in an empty egg",
+        "content": "",
+        "upvotes": 996,
+        "comments": 341,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/bl1hjNknMiya54gDZaWVyspL98zoL9JbWPnU42PSeaM.jpeg?auto=webp&amp;s=6718a0461844253a4e78fdbaf797af6a6baccea2"
+        },
+        "permalink": "/r/science/comments/1lku5su/controversial_were_a_step_closer_to_two_men_being/"
+    },
+    {
+        "id": "1ll209o",
+        "author": "smurfyjenkins",
+        "title": "Children in Denmark with immigrant parents tend to have worse economic, education and crime outcomes. However, when compared to children with the same parental socioeconomic characteristics, the immigrant children perform the same or better than native children.",
+        "content": "",
+        "upvotes": 235,
+        "comments": 58,
+        "media": null,
+        "permalink": "/r/science/comments/1ll209o/children_in_denmark_with_immigrant_parents_tend/"
+    },
+    {
+        "id": "1lkykeq",
+        "author": "chrisdh79",
+        "title": "Gold from e-waste opens a rich vein for miners and the environment | Researchers have developed a safer and more sustainable approach to extract and recover gold from ore and electronic waste which promises to reduce levels of toxic waste from mining.",
+        "content": "",
+        "upvotes": 198,
+        "comments": 8,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/efPJEMGkZtP0a5l37HiFHWPRUD0k8W7IqUy6X9AX0XI.jpeg?auto=webp&amp;s=a2d334881c6aad5e25b6cd07b61449c9bfa3f430"
+        },
+        "permalink": "/r/science/comments/1lkykeq/gold_from_ewaste_opens_a_rich_vein_for_miners_and/"
+    },
+    {
+        "id": "1ll2zmj",
+        "author": "chrisdh79",
+        "title": "Global warming is triggering earthquakes in the Alps | Study provides first solid link between climate change and earthquake hazard",
+        "content": "",
+        "upvotes": 95,
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/science/comments/1ll2zmj/global_warming_is_triggering_earthquakes_in_the/"
+    },
+    {
         "id": "1lk5nlh",
         "author": "Science_News",
         "title": "Many U.S. babies lack detectable levels of Bifidobacterium, a gut bacteria that trains their immune systems to protect against developing allergies, asthma and eczema",
         "content": "",
-        "upvotes": 10147,
-        "comments": 312,
+        "upvotes": 10925,
+        "comments": 329,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/3hdhRCVbL1AOSAJj1ennuLNS9m-go_sxUBZQbQxA1q0.jpeg?auto=webp&amp;s=a1e0b7e1c80c474d70a6baf46f2c9558038e1e56"
@@ -26,12 +118,32 @@
         "permalink": "/r/science/comments/1lk5nlh/many_us_babies_lack_detectable_levels_of/"
     },
     {
+        "id": "1lkmefc",
+        "author": "-Mystica-",
+        "title": "One in five U.S. food and drink products contain synthetic dyes, with highest rates in confectionery and children's products, new study finds. Ferrero, Mars, and PepsiCo among top offenders, raising health concerns over widespread exposure.",
+        "content": "",
+        "upvotes": 1092,
+        "comments": 49,
+        "media": null,
+        "permalink": "/r/science/comments/1lkmefc/one_in_five_us_food_and_drink_products_contain/"
+    },
+    {
+        "id": "1lktyau",
+        "author": "Shiny-Tie-126",
+        "title": "The discovery of an unknown organelle inside our cells could open the door to new treatments for devastating inherited diseases",
+        "content": "",
+        "upvotes": 280,
+        "comments": 10,
+        "media": null,
+        "permalink": "/r/science/comments/1lktyau/the_discovery_of_an_unknown_organelle_inside_our/"
+    },
+    {
         "id": "1lk1zkw",
         "author": "mvea",
         "title": "Currently, the world\u2019s 8 richest individuals have as much wealth as the bottom 50% of people worldwide. Members of societies that are more equal and wealthy than average are more likely to believe it is wrong to have too much money. Extreme wealth, to some, is disgusting.",
         "content": "",
-        "upvotes": 38782,
-        "comments": 1767,
+        "upvotes": 39650,
+        "comments": 1806,
         "media": null,
         "permalink": "/r/science/comments/1lk1zkw/currently_the_worlds_8_richest_individuals_have/"
     },
@@ -40,8 +152,8 @@
         "author": "New_Scientist_Mag",
         "title": "Heart attacks are no longer the leading cause of death in the US",
         "content": "",
-        "upvotes": 7157,
-        "comments": 354,
+        "upvotes": 7454,
+        "comments": 370,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/aq3VoZFGOTL9RoZ9Og532HqBhyLfzbBwJCMKgtDB9a0.jpeg?auto=webp&amp;s=0445dd1e013f53287026cd3f2835733e78f1143b"
@@ -49,35 +161,12 @@
         "permalink": "/r/science/comments/1lk678l/heart_attacks_are_no_longer_the_leading_cause_of/"
     },
     {
-        "id": "1lkmefc",
-        "author": "-Mystica-",
-        "title": "One in five U.S. food and drink products contain synthetic dyes, with highest rates in confectionery and children's products, new study finds. Ferrero, Mars, and PepsiCo among top offenders, raising health concerns over widespread exposure.",
-        "content": "",
-        "upvotes": 862,
-        "comments": 44,
-        "media": null,
-        "permalink": "/r/science/comments/1lkmefc/one_in_five_us_food_and_drink_products_contain/"
-    },
-    {
-        "id": "1lku5su",
-        "author": "Canadian_Indian1472",
-        "title": "Controversial: We're a step closer to two men being able to have genetic children of their own after the creation of fertile mice by putting two sperm cells in an empty egg",
-        "content": "",
-        "upvotes": 205,
-        "comments": 86,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/bl1hjNknMiya54gDZaWVyspL98zoL9JbWPnU42PSeaM.jpeg?auto=webp&amp;s=6718a0461844253a4e78fdbaf797af6a6baccea2"
-        },
-        "permalink": "/r/science/comments/1lku5su/controversial_were_a_step_closer_to_two_men_being/"
-    },
-    {
         "id": "1lkgkdk",
         "author": "chrisdh79",
         "title": "Anxious minds don\u2019t always fixate on danger, according to new study | Individuals with higher anxiety are thought to have difficulty disengaging attention from threatening stimuli, potentially fueling hypervigilance and a sense that danger is always present.",
         "content": "",
-        "upvotes": 1611,
-        "comments": 40,
+        "upvotes": 1907,
+        "comments": 49,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/XAcLu0FLV214djIlHjWGhtcbu24hjflmEbQsDk5Pgng.jpeg?auto=webp&amp;s=969c3d73bd59d0166da13b1accd14a5656b97a63"
@@ -89,8 +178,8 @@
         "author": "Wagamaga",
         "title": "Many Uber drivers are earning \u201csubstantially less\u201d an hour since the ride hailing app introduced a \u201cdynamic pricing\u201d algorithm in 2023 that coincided with the company taking a significantly higher share of fares, research has revealed.",
         "content": "",
-        "upvotes": 6708,
-        "comments": 243,
+        "upvotes": 7209,
+        "comments": 264,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/4B6rHkCbdMmvHFUTordC1lljNp_0TcW2gEUF6qlJ56k.jpeg?auto=webp&amp;s=cfe9e88415fd5f7b2543b672c160f6c032826b58"
@@ -98,12 +187,35 @@
         "permalink": "/r/science/comments/1lk4vhz/many_uber_drivers_are_earning_substantially_less/"
     },
     {
+        "id": "1lkxfof",
+        "author": "chrisdh79",
+        "title": "\u2018Single shot\u2019 malaria vaccine delivery system could transform global immunization | Oxford researchers have developed programmable microcapsules to deliver vaccines in stages, potentially eliminating the need for booster shots and increasing immunization coverage in hard-to-reach communities.",
+        "content": "",
+        "upvotes": 81,
+        "comments": 3,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/Q5R_Vvq1cLs7d4wV9SIG7UfUqDpEAJ4CVyZUEQiT31o.jpeg?auto=webp&amp;s=f43237d9735be1895955028dcdb9c1e381d9ca14"
+        },
+        "permalink": "/r/science/comments/1lkxfof/single_shot_malaria_vaccine_delivery_system_could/"
+    },
+    {
+        "id": "1ll1gxz",
+        "author": "smurfyjenkins",
+        "title": "Trade restrictions are prone to crony capitalism and productivity losses, as firms seek out political connections to circumvent trade barriers \u2013 When India liberalized its trade in the 1990s, politically connected firms performed worse relative to comparable non-connected firms.",
+        "content": "",
+        "upvotes": 23,
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/science/comments/1ll1gxz/trade_restrictions_are_prone_to_crony_capitalism/"
+    },
+    {
         "id": "1lkbigb",
         "author": "mvea",
         "title": "Cognitive inflexibility amplifies risk of disordered exercise in men. In other words, men who were highly inflexible about their exercise and body image were more likely to engage in dysfunctional exercise when they also had a strong drive for muscularity.",
         "content": "",
-        "upvotes": 1043,
-        "comments": 43,
+        "upvotes": 1153,
+        "comments": 48,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/OaGNbD4WwteuQAGIkxw9dinaGSu6f-HsNVPicJk7hnE.jpeg?auto=webp&amp;s=b6a138fe255bf191cc39210e112cebae3da5d0e2"
@@ -115,8 +227,8 @@
         "author": "USCDornsifeNews",
         "title": "Maritime shipping accounts for nearly 3% of global greenhouse gas emissions. New study shows ships can cut carbon output in half by dissolving limestone in seawater, locking CO\u2082 away for millennia\u2014with minimal impact on ocean chemistry.",
         "content": "",
-        "upvotes": 150,
-        "comments": 33,
+        "upvotes": 201,
+        "comments": 42,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/feCDHqjTDIpzFXrsB6BqvH1cmRmTnDRY_T_BkFIISt4.jpeg?auto=webp&amp;s=3162dfd358ba85c4e395aff20921827d9a15fe7e"
@@ -124,22 +236,12 @@
         "permalink": "/r/science/comments/1lkofkw/maritime_shipping_accounts_for_nearly_3_of_global/"
     },
     {
-        "id": "1lktyau",
-        "author": "Shiny-Tie-126",
-        "title": "The discovery of an unknown organelle inside our cells could open the door to new treatments for devastating inherited diseases",
-        "content": "",
-        "upvotes": 52,
-        "comments": 6,
-        "media": null,
-        "permalink": "/r/science/comments/1lktyau/the_discovery_of_an_unknown_organelle_inside_our/"
-    },
-    {
         "id": "1lk4xv8",
         "author": "universityofga",
         "title": "Staying physically active may slow cognitive decline",
         "content": "",
-        "upvotes": 1527,
-        "comments": 64,
+        "upvotes": 1595,
+        "comments": 69,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/pYGh75E8GzEI5v0A7ZCEGFeU7NMbGcR5euE1wpR1o1A.jpeg?auto=webp&amp;s=d88baee1d94ce6c7db47dd5d8a69bdd61fc881cc"
@@ -147,12 +249,25 @@
         "permalink": "/r/science/comments/1lk4xv8/staying_physically_active_may_slow_cognitive/"
     },
     {
+        "id": "1lkeefd",
+        "author": "TheMuseumOfScience",
+        "title": "Researchers discover how caffeine could slow cellular ageing",
+        "content": "",
+        "upvotes": 482,
+        "comments": 52,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/CzrAmkmL6qjjn8unRGdWBONRLtHTZ5P_ysL_FRHrDkg.jpeg?auto=webp&amp;s=94af021f146f6ebe9894c212471d5b6f7024b7c6"
+        },
+        "permalink": "/r/science/comments/1lkeefd/researchers_discover_how_caffeine_could_slow/"
+    },
+    {
         "id": "1lk1rmo",
         "author": "mvea",
         "title": "When a fatal school shooting takes place, people buy fewer groceries, eat out less, and spend less money in stores. Liberals felt more anxious about a school shooting than conservative participants, making them even less likely to shop in public spaces.",
         "content": "",
-        "upvotes": 2166,
-        "comments": 154,
+        "upvotes": 2235,
+        "comments": 157,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/e5M0NC2mugxsEnYiShpHE6AYUyaWhR_afJJid_w1H1U.jpeg?auto=webp&amp;s=01c8a4a32df609bb8d54b4f94f9b70560b9dcf73"
@@ -164,8 +279,8 @@
         "author": "mvea",
         "title": "Millions of children worldwide are at risk of lethal diseases because vaccine coverage has stalled or reversed amid persistent health inequalities and soaring levels of misinformation and hesitancy, the largest study of its kind has found. Vaccine-preventable disease pose a growing global risk.",
         "content": "",
-        "upvotes": 11803,
-        "comments": 161,
+        "upvotes": 11892,
+        "comments": 165,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/YRZhSN1fhFRsE9kI3dmBwDDS7qTPyZIgSrWth1Jz3u0.jpeg?auto=webp&amp;s=d4d255f4c9018a5a0b3cf7f4df791d557908f0d9"
@@ -173,25 +288,12 @@
         "permalink": "/r/science/comments/1ljtii2/millions_of_children_worldwide_are_at_risk_of/"
     },
     {
-        "id": "1lkeefd",
-        "author": "TheMuseumOfScience",
-        "title": "Researchers discover how caffeine could slow cellular ageing",
-        "content": "",
-        "upvotes": 409,
-        "comments": 42,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/CzrAmkmL6qjjn8unRGdWBONRLtHTZ5P_ysL_FRHrDkg.jpeg?auto=webp&amp;s=94af021f146f6ebe9894c212471d5b6f7024b7c6"
-        },
-        "permalink": "/r/science/comments/1lkeefd/researchers_discover_how_caffeine_could_slow/"
-    },
-    {
         "id": "1lkeqjk",
         "author": "sciencealert",
         "title": "Sea Slugs Steal Body Parts From Prey to Gain Their Powers",
         "content": "",
-        "upvotes": 315,
-        "comments": 30,
+        "upvotes": 351,
+        "comments": 34,
         "media": null,
         "permalink": "/r/science/comments/1lkeqjk/sea_slugs_steal_body_parts_from_prey_to_gain/"
     },
@@ -200,17 +302,27 @@
         "author": "-Mystica-",
         "title": "Researchers track unprecedented ice loss. Glaciers in Canada, the U.S., and Switzerland have lost around 12% of their ice since 2001. Researchers say ice loss is now \u201cfalling off a cliff\u201d due to heat, drought, and glacial darkening\u2014a deadly acceleration never seen before.",
         "content": "",
-        "upvotes": 647,
-        "comments": 8,
+        "upvotes": 670,
+        "comments": 10,
         "media": null,
         "permalink": "/r/science/comments/1lk7dj7/researchers_track_unprecedented_ice_loss_glaciers/"
+    },
+    {
+        "id": "1lkwvrp",
+        "author": "Lord-Julius",
+        "title": "First evidence shows ocelots and opossums forming non-predatory associations in the wild",
+        "content": "",
+        "upvotes": 14,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1lkwvrp/first_evidence_shows_ocelots_and_opossums_forming/"
     },
     {
         "id": "1lka6nb",
         "author": "umichnews",
         "title": "Scientists who share failures on social media are seen as more honest, open, and relatable, boosting public trust and support for science\u2014even without harming perceptions of competence according to U-Michigan research.",
         "content": "",
-        "upvotes": 431,
+        "upvotes": 459,
         "comments": 4,
         "media": null,
         "permalink": "/r/science/comments/1lka6nb/scientists_who_share_failures_on_social_media_are/"
@@ -220,8 +332,8 @@
         "author": "Hrmbee",
         "title": "Animal trials show that tiny robots could clear infected sinuses, researchers say | Photocatalytic microrobots for treating bacterial infections deep within sinuses",
         "content": "",
-        "upvotes": 242,
-        "comments": 13,
+        "upvotes": 267,
+        "comments": 15,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/NBa68SfgdSRHy-x3oQ5ZFi8adavojy4oh_Bee6ieE_U.jpeg?auto=webp&amp;s=2e1f4f4871ba228179f1daef8a4fcfc7f50b2ae1"
@@ -233,130 +345,9 @@
         "author": "calliope_kekule",
         "title": "A new study tested if a canoe made with Stone Age tools could cross a 110 km strait against one of the world\u2019s strongest currents. It did - in 45 hours.",
         "content": "",
-        "upvotes": 182,
-        "comments": 3,
+        "upvotes": 218,
+        "comments": 4,
         "media": null,
         "permalink": "/r/science/comments/1lkeafa/a_new_study_tested_if_a_canoe_made_with_stone_age/"
-    },
-    {
-        "id": "1lk0qgg",
-        "author": "sciencealert",
-        "title": "Earth Is Pulsing Beneath Ethiopia Where The Crust Is Being Torn Apart In The Early Formation Stages Of A New Ocean Basin.",
-        "content": "",
-        "upvotes": 908,
-        "comments": 25,
-        "media": null,
-        "permalink": "/r/science/comments/1lk0qgg/earth_is_pulsing_beneath_ethiopia_where_the_crust/"
-    },
-    {
-        "id": "1lk8ekb",
-        "author": "TheMuseumOfScience",
-        "title": "Brains over bots: why toddlers still beat AI at learning language",
-        "content": "",
-        "upvotes": 235,
-        "comments": 23,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/cPZpyZbQfmEV9ea3PnpVZiAP7dU1ISQW4MKtlhJTvzM.jpeg?auto=webp&amp;s=135958131a33d237a06003021cdd673e706cb742"
-        },
-        "permalink": "/r/science/comments/1lk8ekb/brains_over_bots_why_toddlers_still_beat_ai_at/"
-    },
-    {
-        "id": "1lkdas8",
-        "author": "daquanisd1bound",
-        "title": "Wake up call for AI: Computer-vision research increasingly used for surveillance",
-        "content": "",
-        "upvotes": 94,
-        "comments": 24,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/eNN5Dyjz1YDDlm3HUnu0I8tbk9EEyPJfBa8-0FELKKE.jpeg?auto=webp&amp;s=56d2ee1cf463721018fe3b06e0766733463c4b4a"
-        },
-        "permalink": "/r/science/comments/1lkdas8/wake_up_call_for_ai_computervision_research/"
-    },
-    {
-        "id": "1lk2jb9",
-        "author": "chrisdh79",
-        "title": "Wasp Mums Keep a Mental To-Do List For Multiple Nests Despite Tiny Brain | A mother digger wasp can remember the locations and feeding history of up to nine nests. A brain smaller than a pinhead, are capable of a highly complex parenting routine that rivals human-level organization.",
-        "content": "",
-        "upvotes": 343,
-        "comments": 22,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/o5S9B3aUQBfGfgyPcMv4s7mkjEn-4r7a0RIKinDOOvg.jpeg?auto=webp&amp;s=9bfb2bbd647df64201a84b6f99b15fe8514639aa"
-        },
-        "permalink": "/r/science/comments/1lk2jb9/wasp_mums_keep_a_mental_todo_list_for_multiple/"
-    },
-    {
-        "id": "1lkb44s",
-        "author": "Dystopics_IT",
-        "title": "James Webb telescope captures direct images of Saturn-sized exoplanet",
-        "content": "",
-        "upvotes": 94,
-        "comments": 4,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/7pLZBz0OaYhilrq7n7t99DzLV_0aak5v3TQUy8k9qbA.jpeg?auto=webp&amp;s=7e06450bcf7546d5bbe451273fdf5e15f15ff0db"
-        },
-        "permalink": "/r/science/comments/1lkb44s/james_webb_telescope_captures_direct_images_of/"
-    },
-    {
-        "id": "1lktb2h",
-        "author": "Lord-Julius",
-        "title": "Simulations reveal how electrons interact in warm dense beryllium, improving interpretation of X-ray data",
-        "content": "",
-        "upvotes": 6,
-        "comments": 2,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/ZxzofXWjc1g8szRYVXzucITlYgkTnpyZ8LUU3Ic_cbM.png?auto=webp&amp;s=b979a4448593716d40efe22ac00b59c188f1ebbf"
-        },
-        "permalink": "/r/science/comments/1lktb2h/simulations_reveal_how_electrons_interact_in_warm/"
-    },
-    {
-        "id": "1lkcqdb",
-        "author": "SlightLion7",
-        "title": "New Computational Method Finds Ways to Make Drug-Resistant Breast Cancer Cells Sensitive Again",
-        "content": "",
-        "upvotes": 65,
-        "comments": 2,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/TVxWf9XLjRwj5n24q7TzEBRfTJCT3ZvVq-bhLbuOdh8.jpeg?auto=webp&amp;s=0a99dbfd1da29982c3373a48e85f3497e78d5d2d"
-        },
-        "permalink": "/r/science/comments/1lkcqdb/new_computational_method_finds_ways_to_make/"
-    },
-    {
-        "id": "1lkom87",
-        "author": "JIntegrAgri",
-        "title": "Researchers found RNA-binding protein ZmFRKH1 promotes maize flowering by modulating the stability of multiple flowering regulator RNAs",
-        "content": "",
-        "upvotes": 12,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/science/comments/1lkom87/researchers_found_rnabinding_protein_zmfrkh1/"
-    },
-    {
-        "id": "1ljj9iv",
-        "author": "mvea",
-        "title": "Video games calm the body after stress, even when players feel on edge - physiological stress indicators decreased while participants were playing the video game A Plague Tale: Requiem, regardless of which part of the game they were playing.",
-        "content": "",
-        "upvotes": 3677,
-        "comments": 142,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/2gk2Ed1hUdF2hjmsQ8t9wtPgvR6ghYI9VINDjy5sF58.jpeg?auto=webp&amp;s=cb298909762ead7e0414e1126db11c30298fdc86"
-        },
-        "permalink": "/r/science/comments/1ljj9iv/video_games_calm_the_body_after_stress_even_when/"
-    },
-    {
-        "id": "1lkqe1u",
-        "author": "JIntegrAgri",
-        "title": "Enhancing soil organic matter mapping in saline-alkali and black soil areas with prior knowledge and multi-temporal remote sensing",
-        "content": "",
-        "upvotes": 7,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1lkqe1u/enhancing_soil_organic_matter_mapping_in/"
     }
 ]
