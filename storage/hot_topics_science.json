@@ -1,11 +1,60 @@
 [
     {
+        "id": "1lx2iz4",
+        "author": "mvea",
+        "title": "Denmark has been offering free vaccination against human papillomavirus (HPV) to girls since 2008. New data show vaccination has effectively reduced infections with cancerogenic HPV 16/18 types covered by the vaccine, indicating population immunity.",
+        "content": "",
+        "upvotes": 7298,
+        "comments": 190,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/hH9EicCTMuqshh5JCy7y9bsmgY_vAAfhd23NGRVRFBc.jpeg?auto=webp&amp;s=d30c8807dc8bfc4c37ecd36cc7ab8101a208ed14"
+        },
+        "permalink": "/r/science/comments/1lx2iz4/denmark_has_been_offering_free_vaccination/"
+    },
+    {
+        "id": "1lx66vh",
+        "author": "mvea",
+        "title": "Fish may be  smarter than we think. Lab-based studies of learning and memory in fish may underestimate their true cognitive abilities in the wild. A new tool allows scientists to study fish cognition in the wild. The study of fish cognition has implications for the care of captive fish.",
+        "content": "",
+        "upvotes": 826,
+        "comments": 65,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/uDRN_qfCpSWeGYNH8Ws81dCz2YTaSbf4QnehDjr4_hs.jpeg?auto=webp&amp;s=a75b2d9f84ba28de492a7e79c116e09fb461cdcc"
+        },
+        "permalink": "/r/science/comments/1lx66vh/fish_may_be_smarter_than_we_think_labbased/"
+    },
+    {
+        "id": "1lx7ovn",
+        "author": "mvea",
+        "title": "A new study suggests that adding okra to the diet can protect against long-term metabolic problems caused by early-life overfeeding. In a rat model, okra supplementation prevented obesity, high blood sugar, and brain inflammation associated with being overnourished during infancy.",
+        "content": "",
+        "upvotes": 438,
+        "comments": 63,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/UD5xDlqRGvSDKgPZ5EZJNKYhQaGWqSQNZFwsOG0XDZA.jpeg?auto=webp&amp;s=4fd243f2254e1d47a5e4617ace433ecfd273ec67"
+        },
+        "permalink": "/r/science/comments/1lx7ovn/a_new_study_suggests_that_adding_okra_to_the_diet/"
+    },
+    {
+        "id": "1lx6dxe",
+        "author": "chrisdh79",
+        "title": "Over the past two centuries, humans have locked up enough water in dams to shift Earth\u2019s poles slightly away from the planet\u2019s axis of rotation | The construction of nearly 7,000 dams from 1835 to 2011 shifted the poles about a meter in total and caused a 21-millimeter drop in global sea levels.",
+        "content": "",
+        "upvotes": 379,
+        "comments": 24,
+        "media": null,
+        "permalink": "/r/science/comments/1lx6dxe/over_the_past_two_centuries_humans_have_locked_up/"
+    },
+    {
         "id": "1lwqeyp",
         "author": "mvea",
         "title": "Despite its name, young adult books are increasingly dominated by stories about older teens and even adults. As protagonists get older, younger readers are left behind. As young adult genre spiked in recent years, so too has age of readers. More than a quarter of young adult readers are 28 or older.",
         "content": "",
-        "upvotes": 1904,
-        "comments": 325,
+        "upvotes": 2528,
+        "comments": 401,
         "media": null,
         "permalink": "/r/science/comments/1lwqeyp/despite_its_name_young_adult_books_are/"
     },
@@ -14,8 +63,8 @@
         "author": "chrisdh79",
         "title": "Scientists use deep learning to uncover hidden motor signs of neurodivergence | Using AI to analyze subtle patterns in how people move their hands during simple tasks, identifying with surprising accuracy whether someone is likely to have autism, attention-deficit traits, or both.",
         "content": "",
-        "upvotes": 1289,
-        "comments": 88,
+        "upvotes": 1957,
+        "comments": 132,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/12UemUqlU5VCtjsDWx34MR_4gd3LbuQbwKDUOltBdLM.png?auto=webp&amp;s=5b5162309e18ecdf401088c37a1d59da8ba80140"
@@ -23,25 +72,12 @@
         "permalink": "/r/science/comments/1lwrnbg/scientists_use_deep_learning_to_uncover_hidden/"
     },
     {
-        "id": "1lwaxs0",
-        "author": "mvea",
-        "title": "Humor may not be inherited. Twin study suggests the ability to be funny may not run in the family. People\u2019s actual ability to produce jokes that make others laugh appears to come almost entirely from environmental factors.",
-        "content": "",
-        "upvotes": 9224,
-        "comments": 324,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/fywQdPfN48rXqOrlCWzVmhlgkEykhxva5FhTBy7c5H0.jpeg?auto=webp&amp;s=fe58a2e42135bc2b30e44a3744bff3225acadb6c"
-        },
-        "permalink": "/r/science/comments/1lwaxs0/humor_may_not_be_inherited_twin_study_suggests/"
-    },
-    {
         "id": "1lwtenf",
         "author": "w00tstock",
         "title": "New study: 4 years after pre-surgical immunotherapy, most patients with advanced melanoma remain alive and disease-free",
         "content": "",
-        "upvotes": 744,
-        "comments": 12,
+        "upvotes": 976,
+        "comments": 14,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/PGWKeZBonBFtJSlvAsbdHlMAls52EKFC-FNitQ8PWz4.jpeg?auto=webp&amp;s=333cca4da5280ba51833450a4a104368bf80f75f"
@@ -49,12 +85,61 @@
         "permalink": "/r/science/comments/1lwtenf/new_study_4_years_after_presurgical_immunotherapy/"
     },
     {
+        "id": "1lwaxs0",
+        "author": "mvea",
+        "title": "Humor may not be inherited. Twin study suggests the ability to be funny may not run in the family. People\u2019s actual ability to produce jokes that make others laugh appears to come almost entirely from environmental factors.",
+        "content": "",
+        "upvotes": 9717,
+        "comments": 339,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/fywQdPfN48rXqOrlCWzVmhlgkEykhxva5FhTBy7c5H0.jpeg?auto=webp&amp;s=fe58a2e42135bc2b30e44a3744bff3225acadb6c"
+        },
+        "permalink": "/r/science/comments/1lwaxs0/humor_may_not_be_inherited_twin_study_suggests/"
+    },
+    {
+        "id": "1lx1whh",
+        "author": "Wagamaga",
+        "title": "Researchers summarised data of 85 studies from more than 8 million people, finding that lifelong physical activity reduced the risk of premature death, while inactive people who became active later in life could lower their risk by 20-25%.",
+        "content": "",
+        "upvotes": 176,
+        "comments": 5,
+        "media": null,
+        "permalink": "/r/science/comments/1lx1whh/researchers_summarised_data_of_85_studies_from/"
+    },
+    {
+        "id": "1lx7vot",
+        "author": "chrisdh79",
+        "title": "Adults with autism show similar brain mapping of body parts as typically developing adults | Researchers reveal that adults with autism show brain patterns for body part perception similar to typical adults, despite behavioral differences",
+        "content": "",
+        "upvotes": 64,
+        "comments": 16,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/h0lYE4QBbc3JaQDjABUdz-bm_B3wJ1R53ioZIbv8VW4.jpeg?auto=webp&amp;s=dfaf755bb74c2870746d91ddf794b7afd339fff9"
+        },
+        "permalink": "/r/science/comments/1lx7vot/adults_with_autism_show_similar_brain_mapping_of/"
+    },
+    {
+        "id": "1lx3psr",
+        "author": "chrisdh79",
+        "title": "Brain circuit identified that gives physical pain its emotional sting, explaining why some hurts linger as suffering | The breakthrough challenges our beliefs about how we process pain and may transform chronic pain treatments.",
+        "content": "",
+        "upvotes": 90,
+        "comments": 3,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/NkiDmAOOpifS5zP2hDC3Gmcfgkl4b0I-dSQD2ZByQIY.jpeg?auto=webp&amp;s=4dcc81afa2917aa9ec924d4fcb166cec9756e270"
+        },
+        "permalink": "/r/science/comments/1lx3psr/brain_circuit_identified_that_gives_physical_pain/"
+    },
+    {
         "id": "1lwdefs",
         "author": "Aggravating_Money992",
         "title": "New research shows Americans can\u2019t tell healthy processed foods from unhealthy ones | Doctor\u2019s group: Consumption of items such as bacon, bologna, and hot dogs \u2014 not processed plant foods \u2014 associated with diabetes, cardiovascular disease and cancer.",
         "content": "",
-        "upvotes": 3835,
-        "comments": 481,
+        "upvotes": 4104,
+        "comments": 529,
         "media": null,
         "permalink": "/r/science/comments/1lwdefs/new_research_shows_americans_cant_tell_healthy/"
     },
@@ -63,8 +148,8 @@
         "author": "mvea",
         "title": "Most popular teen movies don\u2019t reflect the true challenges of adolescence, suggests new research. Unlike a typical high school student, protagonists in movies, for example, are rarely shown to struggle with the physical aspects of puberty, and typically excel at initiating romantic relationships.",
         "content": "",
-        "upvotes": 3536,
-        "comments": 253,
+        "upvotes": 3780,
+        "comments": 259,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/ecOIfGJvRPR5cSS1bFybDzvCR4gO4EdvJelc1rQQKaE.jpeg?auto=webp&amp;s=4c0fe44c0049e5d580504bd98f280f00d288d39e"
@@ -72,12 +157,35 @@
         "permalink": "/r/science/comments/1lwdvyd/most_popular_teen_movies_dont_reflect_the_true/"
     },
     {
+        "id": "1lx7dyp",
+        "author": "TheMuseumOfScience",
+        "title": "\u2018Molecular shield\u2019 placed in the nose may soon treat common hay fever trigger",
+        "content": "",
+        "upvotes": 42,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1lx7dyp/molecular_shield_placed_in_the_nose_may_soon/"
+    },
+    {
+        "id": "1lx120b",
+        "author": "Significant-Scheme57",
+        "title": "Robot surgery on humans could be trialled within decade after success on pig organs",
+        "content": "",
+        "upvotes": 103,
+        "comments": 22,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/VR7LHYCiE2tf2Vlj4zqrOSFSnCVtLj84PjRNrqnvmAc.jpeg?auto=webp&amp;s=215b3381abdedbf96613c00a3d36270c7e816274"
+        },
+        "permalink": "/r/science/comments/1lx120b/robot_surgery_on_humans_could_be_trialled_within/"
+    },
+    {
         "id": "1lwm536",
         "author": "nohup_me",
         "title": "The largest review of \u2018gold standard\u2019 antidepressant withdrawal studies to date has identified the type and incidence of symptoms experienced by people discontinuing antidepressants, finding that most people do not experience severe withdrawal",
         "content": "",
-        "upvotes": 728,
-        "comments": 136,
+        "upvotes": 860,
+        "comments": 156,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/OlIbf4RY53n59TVumwddlmXLRj5LoVSa2Kmum-KRP-M.jpeg?auto=webp&amp;s=a08c5548f0529c58fcf389fe33bc8368995c6945"
@@ -89,8 +197,8 @@
         "author": "Wagamaga",
         "title": "Loneliness dramatically increases a person's risk of depression and poor health. People who felt lonely 'always' had a fivefold increase in depression risk, 11 more poor mental health days, and five additional poor physical health days per month compared to those who never felt lonely,\"",
         "content": "",
-        "upvotes": 939,
-        "comments": 58,
+        "upvotes": 1030,
+        "comments": 61,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/WkCzdVieAsCPvp_qD6FqtAN-eQCw6ynE0wzyXu67Iwg.jpeg?auto=webp&amp;s=2e2ced21a823212340f25a18b69e515b565cab29"
@@ -98,22 +206,42 @@
         "permalink": "/r/science/comments/1lwjx79/loneliness_dramatically_increases_a_persons_risk/"
     },
     {
+        "id": "1lx1ipq",
+        "author": "charmer143",
+        "title": "Researchers have found that regularly attending events can lead to greater positive emotions and feelings. This gives us another strong reason to support events, not just for visitors, but for the benefit of locals as well.",
+        "content": "",
+        "upvotes": 39,
+        "comments": 3,
+        "media": null,
+        "permalink": "/r/science/comments/1lx1ipq/researchers_have_found_that_regularly_attending/"
+    },
+    {
         "id": "1lwlu8j",
         "author": "calliope_kekule",
         "title": "A new study shows that early investment in geothermal tech could power 1 in 5 US homes by 2050",
         "content": "",
-        "upvotes": 209,
-        "comments": 14,
+        "upvotes": 231,
+        "comments": 15,
         "media": null,
         "permalink": "/r/science/comments/1lwlu8j/a_new_study_shows_that_early_investment_in/"
+    },
+    {
+        "id": "1lx6i3p",
+        "author": "sciencealert",
+        "title": "Amorphous ice, the most common form of water in space, is likely to contain nanometer-scale crystalline regions, according to new research combining simulations and experiments.",
+        "content": "",
+        "upvotes": 10,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1lx6i3p/amorphous_ice_the_most_common_form_of_water_in/"
     },
     {
         "id": "1lwbcdo",
         "author": "memorialmonorail",
         "title": "A new study values food wasted by US vacation renters at $2 billion each year.  Based on survey results, researchers estimated groceries, takeout &amp; restaurant leftovers averaging $12 in value per night of short-term lodging goes uneaten, &amp; wasted food per trip amounts to 5% of the nightly fee.",
         "content": "",
-        "upvotes": 633,
-        "comments": 122,
+        "upvotes": 658,
+        "comments": 125,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/0sfpp94hi98qLT07BEvcT06M7qczw5EJx90sfwXihoc.jpeg?auto=webp&amp;s=24a251a61e68b173b56ae1963a5d90d20944b5de"
@@ -121,35 +249,22 @@
         "permalink": "/r/science/comments/1lwbcdo/a_new_study_values_food_wasted_by_us_vacation/"
     },
     {
-        "id": "1lx1whh",
-        "author": "Wagamaga",
-        "title": "Researchers summarised data of 85 studies from more than 8 million people, finding that lifelong physical activity reduced the risk of premature death, while inactive people who became active later in life could lower their risk by 20-25%.",
+        "id": "1lx2na5",
+        "author": "lfuwebred",
+        "title": "Detecting Ice Structures from Space",
         "content": "",
-        "upvotes": 14,
-        "comments": 2,
+        "upvotes": 11,
+        "comments": 1,
         "media": null,
-        "permalink": "/r/science/comments/1lx1whh/researchers_summarised_data_of_85_studies_from/"
-    },
-    {
-        "id": "1lx120b",
-        "author": "Significant-Scheme57",
-        "title": "Robot surgery on humans could be trialled within decade after success on pig organs",
-        "content": "",
-        "upvotes": 19,
-        "comments": 7,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/VR7LHYCiE2tf2Vlj4zqrOSFSnCVtLj84PjRNrqnvmAc.jpeg?auto=webp&amp;s=215b3381abdedbf96613c00a3d36270c7e816274"
-        },
-        "permalink": "/r/science/comments/1lx120b/robot_surgery_on_humans_could_be_trialled_within/"
+        "permalink": "/r/science/comments/1lx2na5/detecting_ice_structures_from_space/"
     },
     {
         "id": "1lwk5rw",
         "author": "NGNResearch",
         "title": "Active video games with narrative through lines could benefit children with obesity, new research finds.",
         "content": "",
-        "upvotes": 182,
-        "comments": 38,
+        "upvotes": 195,
+        "comments": 37,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/gvShNmm6EWUuDI4PE9lklyu3M6y6OA1k7vGrgJpZO4k.jpeg?auto=webp&amp;s=b772401823d0555b634e5b314de2f88019ab58cd"
@@ -161,8 +276,8 @@
         "author": "Wagamaga",
         "title": "Researchers have now developed an efficient system to extract and convert dissolved CO\u2082 into clean fuels and useful industrial feedstock. This breakthrough could transform seawater into a sustainable source for carbon-based products while helping balance oceanic CO\u2082 levels.",
         "content": "",
-        "upvotes": 230,
-        "comments": 17,
+        "upvotes": 251,
+        "comments": 18,
         "media": null,
         "permalink": "/r/science/comments/1lwfzbl/researchers_have_now_developed_an_efficient/"
     },
@@ -171,7 +286,7 @@
         "author": "odetoanurn",
         "title": "Tissue-integrated bionic knee restores versatile legged movement after amputation",
         "content": "",
-        "upvotes": 59,
+        "upvotes": 58,
         "comments": 4,
         "media": null,
         "permalink": "/r/science/comments/1lwqucw/tissueintegrated_bionic_knee_restores_versatile/"
@@ -181,8 +296,8 @@
         "author": "Independent_Dig6407",
         "title": "On June 25, 2025, a brand new organelle was discovered in human cells. Researchers identified this previously unknown cell structure, dubbed a \u00abhemifusome\u00bb. The discovery could open the door to new treatments for devastating inherited diseases.",
         "content": "",
-        "upvotes": 3595,
-        "comments": 62,
+        "upvotes": 3680,
+        "comments": 63,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/HaXzxeE6G-EBOue1Hkmi_WnXb_5mWzBtbW9YMYJ9jX4.jpeg?auto=webp&amp;s=80c5cecb30a5c842cefe1c2d35fa043f15a19ccf"
@@ -190,31 +305,21 @@
         "permalink": "/r/science/comments/1lvymo3/on_june_25_2025_a_brand_new_organelle_was/"
     },
     {
-        "id": "1lx22gm",
-        "author": "mvea",
-        "title": "Untapped potential of semen for men\u2019s health: Semen analysis is traditionally used as part of male fertility assessments, but researchers believe it has the potential to promote healthier lifestyles in men. Researchers believe a man's semen quality could be used to predict long-term health risks.",
+        "id": "1lx5bie",
+        "author": "RegularParamedic9994",
+        "title": "Action-mode subnetworks for decision-making, action control, and feedback",
         "content": "",
-        "upvotes": 9,
-        "comments": 5,
-        "media": null,
-        "permalink": "/r/science/comments/1lx22gm/untapped_potential_of_semen_for_mens_health_semen/"
-    },
-    {
-        "id": "1lx1ipq",
-        "author": "charmer143",
-        "title": "Researchers have found that regularly attending events can lead to greater positive emotions and feelings. This gives us another strong reason to support events, not just for visitors, but for the benefit of locals as well.",
-        "content": "",
-        "upvotes": 6,
+        "upvotes": 3,
         "comments": 2,
         "media": null,
-        "permalink": "/r/science/comments/1lx1ipq/researchers_have_found_that_regularly_attending/"
+        "permalink": "/r/science/comments/1lx5bie/actionmode_subnetworks_for_decisionmaking_action/"
     },
     {
         "id": "1lwjxne",
         "author": "UCBerkeley",
         "title": "Neuroscientists have recorded activity from hundreds of neurons simultaneously in bats, providing new clues into how memories are stored.",
         "content": "",
-        "upvotes": 79,
+        "upvotes": 81,
         "comments": 2,
         "media": {
             "type": "image",
@@ -223,37 +328,11 @@
         "permalink": "/r/science/comments/1lwjxne/neuroscientists_have_recorded_activity_from/"
     },
     {
-        "id": "1lvvstt",
-        "author": "Wagamaga",
-        "title": "New research found the southwestern United States is currently in a multi-decade drought that has developed since a precipitation maximum in the 1980s. The study was supported by NOAA, the U.S. Department of Energy",
-        "content": "",
-        "upvotes": 3160,
-        "comments": 59,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/lc1yV23oQX9DU6RGdCpg3dfWoT3BuExB7zUPnjBQq6g.jpeg?auto=webp&amp;s=5f1a47a90e92b83973b00038c3ff9f257c52ca3e"
-        },
-        "permalink": "/r/science/comments/1lvvstt/new_research_found_the_southwestern_united_states/"
-    },
-    {
-        "id": "1lvrmxw",
-        "author": "mvea",
-        "title": "Millions of tonnes of nanoplastics are polluting ocean. Plastic particles smaller than human hair can pass through cell walls and enter food web. 3 types of nanoplastic, PET, polystyrene, PVC, found at concentrations of 18 mg/m3 - 27 million tonnes of nanoplastics in top layer of North Atlantic.",
-        "content": "",
-        "upvotes": 5317,
-        "comments": 251,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/YmG_9UgcXhCUatmueXoAp1_Jd1KRXZ9LgZmgFxKAY04.jpeg?auto=webp&amp;s=c7c557dc77c4407443d35865f6b9fc914e34176e"
-        },
-        "permalink": "/r/science/comments/1lvrmxw/millions_of_tonnes_of_nanoplastics_are_polluting/"
-    },
-    {
         "id": "1lwls0k",
         "author": "calliope_kekule",
         "title": "A new study projects up to 34,000 heat-related deaths a year by the 2070s if emissions and inequality remain high. With stronger climate action and adaptation, that number could stay under 5,000.",
         "content": "",
-        "upvotes": 56,
+        "upvotes": 61,
         "comments": 6,
         "media": {
             "type": "image",
@@ -262,104 +341,16 @@
         "permalink": "/r/science/comments/1lwls0k/a_new_study_projects_up_to_34000_heatrelated/"
     },
     {
-        "id": "1lvyjxo",
-        "author": "mvea",
-        "title": "Using pornography to reduce stress or escape emotions was linked to fewer positive behaviors and more conflict toward partners. But, when people used pornography for sexual pleasure or as a shared activity with their partner, they tended to report more warmth and less tension in daily interactions.",
-        "content": "",
-        "upvotes": 1776,
-        "comments": 124,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/r9cKuuw4dECXRfeHjD9yG7uC9pYEF2qhz6Vc8RSGeMk.jpeg?auto=webp&amp;s=ad5fed0d48691fd7d7b1cfb2b35d3d6f1f21eba2"
-        },
-        "permalink": "/r/science/comments/1lvyjxo/using_pornography_to_reduce_stress_or_escape/"
-    },
-    {
-        "id": "1lw4guk",
-        "author": "brendigio",
-        "title": "Decomposition of phenotypic heterogeneity in autism reveals underlying genetic programs",
-        "content": "",
-        "upvotes": 660,
-        "comments": 73,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/Ul3QZfCXuridY6pEciP4IyZLOotDch1EfxCL0dHWahw.png?auto=webp&amp;s=6876138f682463bd5ad1bf300a8da50118711943"
-        },
-        "permalink": "/r/science/comments/1lw4guk/decomposition_of_phenotypic_heterogeneity_in/"
-    },
-    {
-        "id": "1lwncjq",
-        "author": "SlothSpeedRunning",
-        "title": "Molecular simulations show graphite \u2018hijacks\u2019 diamond formation through unexpected crystallization pathways",
-        "content": "",
-        "upvotes": 41,
-        "comments": 1,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/75Y6MJIgr682rRumajOLJYpJRYQ3fCf_N4uGSKz-9Mk.jpeg?auto=webp&amp;s=2e9f529a9364095590a5380ba2edbfe7c95397c9"
-        },
-        "permalink": "/r/science/comments/1lwncjq/molecular_simulations_show_graphite_hijacks/"
-    },
-    {
-        "id": "1lw9z73",
-        "author": "chrisdh79",
-        "title": "Large-scale DNA study maps 37,000 years of human disease history | Researchers have mapped the spread of infectious diseases in humans across millennia, to reveal how human-animal interactions permanently transformed our health today.",
-        "content": "",
-        "upvotes": 185,
-        "comments": 3,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/tuT1jKMIPu9KgqNj0H2XQzt4VI9NvbdkiIM-CBTyyoQ.jpeg?auto=webp&amp;s=bca1897039adbade3683670d1dc9c34aa6dcfbac"
-        },
-        "permalink": "/r/science/comments/1lw9z73/largescale_dna_study_maps_37000_years_of_human/"
-    },
-    {
-        "id": "1lwbrp5",
-        "author": "sciencealert",
-        "title": "Using a technique called \"thermal quenching,\" physicists have discovered how to make a quantum material shift instantly between conductive and insulative states.",
-        "content": "",
-        "upvotes": 131,
-        "comments": 5,
-        "media": null,
-        "permalink": "/r/science/comments/1lwbrp5/using_a_technique_called_thermal_quenching/"
-    },
-    {
-        "id": "1lvnvvm",
+        "id": "1lvvstt",
         "author": "Wagamaga",
-        "title": "People with \u2018young brains\u2019 outlive \u2018old-brained\u2019 peers. Research has shown that we have what's called a \"biological age,\" a cryptic but more accurate measure of our physiological condition and likelihood of developing aging-associated disorders from heart trouble to Alzheimer's disease.",
+        "title": "New research found the southwestern United States is currently in a multi-decade drought that has developed since a precipitation maximum in the 1980s. The study was supported by NOAA, the U.S. Department of Energy",
         "content": "",
-        "upvotes": 3726,
-        "comments": 79,
+        "upvotes": 3190,
+        "comments": 61,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/A_2UQZMDqlHOdc78GfF3mKhtToRlXkYv7bFhHsHTtuA.png?auto=webp&amp;s=7f649a00cd99a2fc819a43247654fac590a95088"
+            "url": "https://external-preview.redd.it/lc1yV23oQX9DU6RGdCpg3dfWoT3BuExB7zUPnjBQq6g.jpeg?auto=webp&amp;s=5f1a47a90e92b83973b00038c3ff9f257c52ca3e"
         },
-        "permalink": "/r/science/comments/1lvnvvm/people_with_young_brains_outlive_oldbrained_peers/"
-    },
-    {
-        "id": "1lvg4y3",
-        "author": "mvea",
-        "title": "Only around 1% of turtles are affected by cancer \u2013 far less than in mammals or birds. Scientists have found the strongest evidence to date that cancer is extremely rare in turtles \u2013 which could help prevent and even fight the disease in humans.",
-        "content": "",
-        "upvotes": 3844,
-        "comments": 117,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/63bIi0HczqUze0O5f01esdnNrCtYBN4TPns_ZeYTAZc.jpeg?auto=webp&amp;s=4a57b24f48f17a870c3fc5620e8379020aecae45"
-        },
-        "permalink": "/r/science/comments/1lvg4y3/only_around_1_of_turtles_are_affected_by_cancer/"
-    },
-    {
-        "id": "1lvs8fn",
-        "author": "calliope_kekule",
-        "title": "A study of 1M+ abstracts shows global academic writing is getting more complex and more equal. China now leads in writing quality, helped by AI tools and better internet access.",
-        "content": "",
-        "upvotes": 746,
-        "comments": 43,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/fb-A85Wt5M2Pt8Stq1kIm5tSPABbtil2j4WtVyoDCP0.png?auto=webp&amp;s=a5b246b36965e7f3a5d4b6889de13c2be1e6a407"
-        },
-        "permalink": "/r/science/comments/1lvs8fn/a_study_of_1m_abstracts_shows_global_academic/"
+        "permalink": "/r/science/comments/1lvvstt/new_research_found_the_southwestern_united_states/"
     }
 ]
