@@ -1,24 +1,11 @@
 [
     {
-        "id": "1m26po0",
-        "author": "mvea",
-        "title": "People who don't get the flu shot are being protected by those who do. While those who received a vaccine saw the best protection, the researchers say unvaccinated people had an indirect benefit if people around them were vaccinated.",
-        "content": "",
-        "upvotes": 6312,
-        "comments": 338,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/mEN8lu1eSiIjyEReXESr7xtTHMJmQUMdo-oZKfSbNMY.png?auto=webp&amp;s=3325b48c385292bbfb067b077d948d79080b00b8"
-        },
-        "permalink": "/r/science/comments/1m26po0/people_who_dont_get_the_flu_shot_are_being/"
-    },
-    {
         "id": "1m2k02e",
         "author": "mvea",
         "title": "Parasites like Toxoplasma gondii increase dopamine production in the brain. Infected individuals may exhibit more aggression, impulsive decisions, and even sexual risk behaviors. Up to 80% of older humans may carry T. gondii, underscoring the widespread potential for subtle behavioral influence.",
         "content": "",
-        "upvotes": 1140,
-        "comments": 51,
+        "upvotes": 3332,
+        "comments": 141,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/PbJQn34wGTM9Rwk6voDg7vrXXpc0KlsKC-wHDRpcJVk.jpeg?auto=webp&amp;s=6eb4d994c2dab4493be608b5abd5b4a8ddd24965"
@@ -26,22 +13,25 @@
         "permalink": "/r/science/comments/1m2k02e/parasites_like_toxoplasma_gondii_increase/"
     },
     {
-        "id": "1m27xx8",
-        "author": "-Mystica-",
-        "title": "A new study suggests that the global rise in obesity is primarily due to increased calorie consumption rather than reduced physical activity, as differences in energy expenditure between populations are too small to account for the dramatic weight gain observed worldwide.",
+        "id": "1m2rwkt",
+        "author": "chilispiced-mango2",
+        "title": "Scientific Reports | Bacteria discovered that turns CO2 gas into limestone",
         "content": "",
-        "upvotes": 2082,
-        "comments": 235,
-        "media": null,
-        "permalink": "/r/science/comments/1m27xx8/a_new_study_suggests_that_the_global_rise_in/"
+        "upvotes": 978,
+        "comments": 37,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/eFTNIOQTwvwjoxzAnOxSGSaYEfXmhwlhnAbFQk5ox-U.jpeg?auto=webp&amp;s=29a9f5dd50313afa096882fb9b78f1a14b55c9ee"
+        },
+        "permalink": "/r/science/comments/1m2rwkt/scientific_reports_bacteria_discovered_that_turns/"
     },
     {
         "id": "1m2owqv",
         "author": "-Mystica-",
         "title": "In the U.S., climate anxiety is more common among young people, women, those expecting personal impacts, and those exposed to frequent media or community climate discussions. 26% report anxiety; 48% of those without it also deny that climate change is real.",
         "content": "",
-        "upvotes": 244,
-        "comments": 9,
+        "upvotes": 1044,
+        "comments": 39,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/pI2axCGpfLWMT5AADNvORHj_dLHHIn49XoZ_Katiddc.png?auto=webp&amp;s=330fd4131b6163e454735d730925ebc494cc5395"
@@ -49,11 +39,60 @@
         "permalink": "/r/science/comments/1m2owqv/in_the_us_climate_anxiety_is_more_common_among/"
     },
     {
+        "id": "1m26po0",
+        "author": "mvea",
+        "title": "People who don't get the flu shot are being protected by those who do. While those who received a vaccine saw the best protection, the researchers say unvaccinated people had an indirect benefit if people around them were vaccinated.",
+        "content": "",
+        "upvotes": 7085,
+        "comments": 363,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/mEN8lu1eSiIjyEReXESr7xtTHMJmQUMdo-oZKfSbNMY.png?auto=webp&amp;s=3325b48c385292bbfb067b077d948d79080b00b8"
+        },
+        "permalink": "/r/science/comments/1m26po0/people_who_dont_get_the_flu_shot_are_being/"
+    },
+    {
+        "id": "1m2shg5",
+        "author": "mvea",
+        "title": "People living in US states with stronger honor cultures (more in Southern/ Western states) are more likely to experience depression and suicidal thoughts. Honor cultures emphasize reputation, strength, self-reliance, retaliation to threats/ insults, discourage self-help and stigmatize mental health.",
+        "content": "",
+        "upvotes": 394,
+        "comments": 25,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/MegFLt3YKTddzsHtXlzHiWPcvcWN-Q3k7V6zfZCq6JM.jpeg?auto=webp&amp;s=6e2649b10b8ecd8c9f0951b47265175419dddc15"
+        },
+        "permalink": "/r/science/comments/1m2shg5/people_living_in_us_states_with_stronger_honor/"
+    },
+    {
+        "id": "1m2p1mn",
+        "author": "-Mystica-",
+        "title": "New COVID-19 vaccine candidate shows strong protection against multiple variants in mouse study. By targeting features shared by a range of coronaviruses, the vaccine is designed to offer broader and longer-lasting protection as the virus continues to evolve.",
+        "content": "",
+        "upvotes": 425,
+        "comments": 10,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/hKfx1bHGk4D0639dOw_sWxf6IuLZlPwAlZYxRWDT9Z8.jpeg?auto=webp&amp;s=de03526658f44ad5d0047ccfef0c1fd8e874d4c0"
+        },
+        "permalink": "/r/science/comments/1m2p1mn/new_covid19_vaccine_candidate_shows_strong/"
+    },
+    {
+        "id": "1m27xx8",
+        "author": "-Mystica-",
+        "title": "A new study suggests that the global rise in obesity is primarily due to increased calorie consumption rather than reduced physical activity, as differences in energy expenditure between populations are too small to account for the dramatic weight gain observed worldwide.",
+        "content": "",
+        "upvotes": 2649,
+        "comments": 277,
+        "media": null,
+        "permalink": "/r/science/comments/1m27xx8/a_new_study_suggests_that_the_global_rise_in/"
+    },
+    {
         "id": "1m28cdi",
         "author": "mvea",
         "title": "Persistent apathy predicts faster functional decline in Alzheimer\u2019s disease. Researchers found that individuals with persistent apathy\u2014characterized by diminished motivation and reduced emotional engagement\u2014tend to experience a faster loss of independence over time.",
         "content": "",
-        "upvotes": 1705,
+        "upvotes": 1979,
         "comments": 47,
         "media": {
             "type": "image",
@@ -62,12 +101,22 @@
         "permalink": "/r/science/comments/1m28cdi/persistent_apathy_predicts_faster_functional/"
     },
     {
+        "id": "1m2hw8o",
+        "author": "Wagamaga",
+        "title": "New fndings demonstrate a concerning trend: autistic adults are significantly more likely to be readmitted to mental health hospitals shortly after discharge, suggesting that current care pathways may not be adequately addressing their needs.",
+        "content": "",
+        "upvotes": 370,
+        "comments": 34,
+        "media": null,
+        "permalink": "/r/science/comments/1m2hw8o/new_fndings_demonstrate_a_concerning_trend/"
+    },
+    {
         "id": "1m2h899",
         "author": "nohup_me",
         "title": "Scientists report achieving a major step forward in organoid technology\u2013producing liver tissue that grows its own internal blood vessels.",
         "content": "",
-        "upvotes": 285,
-        "comments": 3,
+        "upvotes": 357,
+        "comments": 5,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/7tZtl-EDwL0kp1heM58LJLWLFfqpgXEnNaRKiPCS-JM.jpeg?auto=webp&amp;s=78d7d814df578c46799e1a9b827d7ebdf0bc8b3b"
@@ -75,22 +124,12 @@
         "permalink": "/r/science/comments/1m2h899/scientists_report_achieving_a_major_step_forward/"
     },
     {
-        "id": "1m2hw8o",
-        "author": "Wagamaga",
-        "title": "New fndings demonstrate a concerning trend: autistic adults are significantly more likely to be readmitted to mental health hospitals shortly after discharge, suggesting that current care pathways may not be adequately addressing their needs.",
-        "content": "",
-        "upvotes": 229,
-        "comments": 30,
-        "media": null,
-        "permalink": "/r/science/comments/1m2hw8o/new_fndings_demonstrate_a_concerning_trend/"
-    },
-    {
         "id": "1m2dvce",
         "author": "Hrmbee",
         "title": "Physiologists track the calories burned and fluids consumed during and after a 100-mile mountain ultramarathon | Total Energy Expenditure and Intake During a 161-km Mountain Ultramarathon",
         "content": "",
-        "upvotes": 315,
-        "comments": 32,
+        "upvotes": 414,
+        "comments": 37,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/eMvuGM_KXOdc_OLZBrvJ7Y2-w4JUaKQYUrT7OcHAY6I.jpeg?auto=webp&amp;s=e4ce7b44919650c85e1e3e38262146ccbf79e346"
@@ -98,12 +137,25 @@
         "permalink": "/r/science/comments/1m2dvce/physiologists_track_the_calories_burned_and/"
     },
     {
+        "id": "1m2vf2b",
+        "author": "wise_karlaz",
+        "title": "Scientists discovered a super-fast chemical shortcut to build uniquely-shaped molecules that are essential for creating new medicines",
+        "content": "",
+        "upvotes": 29,
+        "comments": 3,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/o1rcXFnnptC1kw4R0tlGAqwT2UN9xe4xgpTRVkAwpZk.png?auto=webp&amp;s=68da1d0179a503a174f5e3277d07d7d0cf3f3f9c"
+        },
+        "permalink": "/r/science/comments/1m2vf2b/scientists_discovered_a_superfast_chemical/"
+    },
+    {
         "id": "1m23wss",
         "author": "nimicdoareu",
         "title": "Revolution in medicine: A molecule produced by gut bacteria causes atherosclerosis, responsible for millions of deaths",
         "content": "",
-        "upvotes": 1038,
-        "comments": 14,
+        "upvotes": 1129,
+        "comments": 15,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/CDbxxmeR99v6vnWuA17dVyhReVsKq8KfupCDq-OSaSI.jpeg?auto=webp&amp;s=42fa57dd59bd626f694d4f341c98c9e5af6047cc"
@@ -111,12 +163,25 @@
         "permalink": "/r/science/comments/1m23wss/revolution_in_medicine_a_molecule_produced_by_gut/"
     },
     {
+        "id": "1m2to3u",
+        "author": "Thalesian",
+        "title": "An analysis of +671k works of fan fiction finds that attraction follows a U shaped curve with the highest peak at \"familiarity\", while enjoyment follows an inverse but increasing U curve toward novelty. People were more likely to consume similar content they have read in the past, but enjoy it less.",
+        "content": "",
+        "upvotes": 35,
+        "comments": 3,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/w-PeFJgPAGWorJ16Wy1x306ykAmXGJn6xXwFNlkgE8U.png?auto=webp&amp;s=a35c9aa8a1d030a7e1dc1a856d88a1e00a04e033"
+        },
+        "permalink": "/r/science/comments/1m2to3u/an_analysis_of_671k_works_of_fan_fiction_finds/"
+    },
+    {
         "id": "1m1mlv4",
         "author": "mvea",
         "title": "Billionaires, oligarchs, and other members of the uber rich, known as \"elites,\" are notorious for use of offshore financial systems to conceal their assets and mask their identities. A new study from 65 countries revealed three distinct patterns of how they do this.",
         "content": "",
-        "upvotes": 29149,
-        "comments": 502,
+        "upvotes": 29574,
+        "comments": 513,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/r-2uY_nrt1uUjdjpPUHm1kGb0GF2OQ2-LcFlYWehEMA.jpeg?auto=webp&amp;s=70763fc3fa2c2a73b3ce9f8f53327684f3979fbb"
@@ -128,44 +193,18 @@
         "author": "fchung",
         "title": "How the brain increases blood flow on demand: \u00ab New findings could improve understanding of neurodegeneration, interpretation of brain scans. \u00bb",
         "content": "",
-        "upvotes": 250,
+        "upvotes": 274,
         "comments": 3,
         "media": null,
         "permalink": "/r/science/comments/1m2cacv/how_the_brain_increases_blood_flow_on_demand_new/"
-    },
-    {
-        "id": "1m2p1mn",
-        "author": "-Mystica-",
-        "title": "New COVID-19 vaccine candidate shows strong protection against multiple variants in mouse study. By targeting features shared by a range of coronaviruses, the vaccine is designed to offer broader and longer-lasting protection as the virus continues to evolve.",
-        "content": "",
-        "upvotes": 49,
-        "comments": 6,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/hKfx1bHGk4D0639dOw_sWxf6IuLZlPwAlZYxRWDT9Z8.jpeg?auto=webp&amp;s=de03526658f44ad5d0047ccfef0c1fd8e874d4c0"
-        },
-        "permalink": "/r/science/comments/1m2p1mn/new_covid19_vaccine_candidate_shows_strong/"
-    },
-    {
-        "id": "1m26rl5",
-        "author": "chrisdh79",
-        "title": "Atomic Waste Left Kids From Coldwater Creek - a Tributary of the Missouri River North of St. Louis at Greater Cancer Risk | The study's findings revealed a dose-response effect, individuals living closest to the creek exhibited a higher risk for most cancers compared to those residing farther away.",
-        "content": "",
-        "upvotes": 226,
-        "comments": 10,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/TwYPbxPHbWnpOrN7W92AUVa0MiTuqXpzq9IhqwHw9Xs.jpeg?auto=webp&amp;s=0bed77d5820b95373a46a942940be258b8e1894d"
-        },
-        "permalink": "/r/science/comments/1m26rl5/atomic_waste_left_kids_from_coldwater_creek_a/"
     },
     {
         "id": "1m2fa5i",
         "author": "nohup_me",
         "title": "Dogs' TV viewing habits vary by personality: television viewing habits may be predicted by aspects of a dog\u2019s personality and that dogs may represent objects in the 2D television format similarly to the 3D environment",
         "content": "",
-        "upvotes": 81,
-        "comments": 33,
+        "upvotes": 94,
+        "comments": 34,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/9xim2IaXKi37wdZDR9d1uHTebZ-aCHOFTdCS_yz0o28.png?auto=webp&amp;s=f86fcd961137d604e3c94b8ecf68b09c55d481e6"
@@ -173,11 +212,24 @@
         "permalink": "/r/science/comments/1m2fa5i/dogs_tv_viewing_habits_vary_by_personality/"
     },
     {
+        "id": "1m26rl5",
+        "author": "chrisdh79",
+        "title": "Atomic Waste Left Kids From Coldwater Creek - a Tributary of the Missouri River North of St. Louis at Greater Cancer Risk | The study's findings revealed a dose-response effect, individuals living closest to the creek exhibited a higher risk for most cancers compared to those residing farther away.",
+        "content": "",
+        "upvotes": 251,
+        "comments": 12,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/TwYPbxPHbWnpOrN7W92AUVa0MiTuqXpzq9IhqwHw9Xs.jpeg?auto=webp&amp;s=0bed77d5820b95373a46a942940be258b8e1894d"
+        },
+        "permalink": "/r/science/comments/1m26rl5/atomic_waste_left_kids_from_coldwater_creek_a/"
+    },
+    {
         "id": "1m246hb",
         "author": "chrisdh79",
         "title": "Births of eight healthy children show promise of mitochondrial replacement therapy | \u2018Three-parent IVF\u2019 technique can spare newborns from sometimes-fatal diseases",
         "content": "",
-        "upvotes": 278,
+        "upvotes": 312,
         "comments": 6,
         "media": {
             "type": "image",
@@ -186,12 +238,25 @@
         "permalink": "/r/science/comments/1m246hb/births_of_eight_healthy_children_show_promise_of/"
     },
     {
+        "id": "1m2vx7w",
+        "author": "Lord-Julius",
+        "title": "Creating of new DNA moir\u00e9 superlattices on a nanometer scale with the help of advanced DNA nanotechnology",
+        "content": "",
+        "upvotes": 6,
+        "comments": 1,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/1G-b7tmBJVwRXGcXRMn4Do6Qh280SAfZskV99RnJwMI.png?auto=webp&amp;s=ba87959471dd4a8651e0d865d212571bdb00a225"
+        },
+        "permalink": "/r/science/comments/1m2vx7w/creating_of_new_dna_moir\u00e9_superlattices_on_a/"
+    },
+    {
         "id": "1m1grwq",
         "author": "The_Conversation",
         "title": "Golden oyster mushrooms have escaped from hobby mushroom-growing kits into the wild in 25 US states and one Canadian province; a study in Wisconsin finds they are displacing native fungi, as trees with GOM house fewer fungi as compared with trees without GOM",
         "content": "",
-        "upvotes": 7488,
-        "comments": 261,
+        "upvotes": 7552,
+        "comments": 264,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/WKzTP7mbdn_eCan8DXexBfiLOiTkd0p8KUe-vYlZj8I.jpeg?auto=webp&amp;s=e13c286a10c2be3716b78b6d637ccee107416d4e"
@@ -199,12 +264,35 @@
         "permalink": "/r/science/comments/1m1grwq/golden_oyster_mushrooms_have_escaped_from_hobby/"
     },
     {
+        "id": "1m2v06v",
+        "author": "SurayaThrowaway12",
+        "title": "Some Australian dolphins use sponges to hunt fish, but it's harder than it looks, as it may be at the cost of echolocation",
+        "content": "",
+        "upvotes": 5,
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/science/comments/1m2v06v/some_australian_dolphins_use_sponges_to_hunt_fish/"
+    },
+    {
+        "id": "1m2vzdb",
+        "author": "Lord-Julius",
+        "title": "Electric control of magnetic exchange in a molecular spin triangle",
+        "content": "",
+        "upvotes": 4,
+        "comments": 1,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/Ik-eOB1MIb-M8_U1WgEHbafm5Oc6VmbGAS22jJLLNbE.png?auto=webp&amp;s=48b8b61369f1f4754265d046b2c8283ebb32e565"
+        },
+        "permalink": "/r/science/comments/1m2vzdb/electric_control_of_magnetic_exchange_in_a/"
+    },
+    {
         "id": "1m23rgy",
         "author": "chrisdh79",
         "title": "Anti-nausea drug lowers risk of death from aggressive breast cancer by 39% | An anti-nausea drug used to combat the side effects of chemo can improve breast cancer outcomes",
         "content": "",
-        "upvotes": 162,
-        "comments": 3,
+        "upvotes": 183,
+        "comments": 4,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/2gIhOday559Y-pELaaxuacOmKlitHr04JOevDnoLVYQ.jpeg?auto=webp&amp;s=bb36df7e0f7a28b2747d344929341f3ee7fd220e"
@@ -216,7 +304,7 @@
         "author": "RegularParamedic9994",
         "title": "Global study shows that longer brain scans boost prediction and cut costs in brain-wide association studies - Nature",
         "content": "",
-        "upvotes": 79,
+        "upvotes": 81,
         "comments": 3,
         "media": {
             "type": "image",
@@ -229,27 +317,17 @@
         "author": "haberveriyo",
         "title": "3,000-Year-Old Eyeliner Innovative Formula Discovered in Iran: A Unique Iron Age Kohl Without Lead",
         "content": "",
-        "upvotes": 33,
+        "upvotes": 36,
         "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1m2ecqa/3000yearold_eyeliner_innovative_formula/"
-    },
-    {
-        "id": "1m1pejy",
-        "author": "mvea",
-        "title": "Private health industry lobby group engages in marketing and publicity strategies similar to Big Tobacco to shape public perception of universal health care policies as negative in the US, finds study. The US remains the only high-income country without universal health insurance coverage.",
-        "content": "",
-        "upvotes": 1305,
-        "comments": 11,
-        "media": null,
-        "permalink": "/r/science/comments/1m1pejy/private_health_industry_lobby_group_engages_in/"
     },
     {
         "id": "1m2aqoy",
         "author": "shiruken",
         "title": "Subaru Telescope has discovered a small body beyond Pluto in the outer Solar System. The object has been designated 2023 KQ14 and has been classified as a \"sednoid\" because of its peculiar distant orbit.",
         "content": "",
-        "upvotes": 47,
+        "upvotes": 53,
         "comments": 2,
         "media": {
             "type": "image",
@@ -258,12 +336,22 @@
         "permalink": "/r/science/comments/1m2aqoy/subaru_telescope_has_discovered_a_small_body/"
     },
     {
+        "id": "1m1pejy",
+        "author": "mvea",
+        "title": "Private health industry lobby group engages in marketing and publicity strategies similar to Big Tobacco to shape public perception of universal health care policies as negative in the US, finds study. The US remains the only high-income country without universal health insurance coverage.",
+        "content": "",
+        "upvotes": 1343,
+        "comments": 12,
+        "media": null,
+        "permalink": "/r/science/comments/1m1pejy/private_health_industry_lobby_group_engages_in/"
+    },
+    {
         "id": "1m1is6w",
         "author": "NGNResearch",
         "title": "Around 850 million people will be affected by a scarcity of water by 2100 \u2014 more than three times the number estimated by previous analysis of Earth system models.",
         "content": "",
-        "upvotes": 2688,
-        "comments": 95,
+        "upvotes": 2750,
+        "comments": 99,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/PZ_HAlct-yW4Ff0nOsRN9G-H5066ivcG4UUcVu78vJw.jpeg?auto=webp&amp;s=1b5a0964e6c202406a22150b27d03dd0ac2414e3"
@@ -271,101 +359,13 @@
         "permalink": "/r/science/comments/1m1is6w/around_850_million_people_will_be_affected_by_a/"
     },
     {
-        "id": "1m1m6m5",
-        "author": "ToranDur",
-        "title": "Large replication study challenges a key theory of social class, finding that higher-class individuals are not just more self-focused, but also more other-focused, contrary to the established 'self vs. others' model",
+        "id": "1m2u6cv",
+        "author": "dianaplldress291",
+        "title": "First contact with greater gravity: Moss plants adapted via enhanced photosynthesis mediated by AP2/ERF transcription factors",
         "content": "",
-        "upvotes": 655,
-        "comments": 110,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/yH3-ObMAvfe1T9757wUk6JBsIvglQNXtV5NoQ7heajQ.png?auto=webp&amp;s=f9385d1f51b9613ad7a78f53b500aa3c5c471605"
-        },
-        "permalink": "/r/science/comments/1m1m6m5/large_replication_study_challenges_a_key_theory/"
-    },
-    {
-        "id": "1m1d3mg",
-        "author": "chrisdh79",
-        "title": "New research has found evidence of hepatitis C virus in the human brain, particularly in people who had schizophrenia | The findings suggest that HCV infections may be associated with the cause of disease rather than behaviors such as intravenous drug use",
-        "content": "",
-        "upvotes": 1773,
-        "comments": 43,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/wIFpYgpqJVozphjst9h-FM2zS8slvh6nXZ-dDgJ-y7I.png?auto=webp&amp;s=8113ac735f7b24eafe4d585cb926c3ab1c05103b"
-        },
-        "permalink": "/r/science/comments/1m1d3mg/new_research_has_found_evidence_of_hepatitis_c/"
-    },
-    {
-        "id": "1m1kffj",
-        "author": "memorialmonorail",
-        "title": "In utero exposure to 2 liquid ingredients in e-cigarettes \u2013 with no nicotine included \u2013 can alter skull shape during fetal development, a new study in mice finds. The 30/70 ratio of propylene glycol &amp; glycerol that produced the defect was intended to be a safer option than earlier products.",
-        "content": "",
-        "upvotes": 637,
-        "comments": 23,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/gDAQPTTcoZFlnNctkGfFN83tivCIn20kEz8S2GmP0BE.jpeg?auto=webp&amp;s=18e5106e6851007cedf26cda29bbee733f8362b1"
-        },
-        "permalink": "/r/science/comments/1m1kffj/in_utero_exposure_to_2_liquid_ingredients_in/"
-    },
-    {
-        "id": "1m1x8f8",
-        "author": "upyoars",
-        "title": "Scientists achieve first experimental observation of the transverse Thomson effect",
-        "content": "",
-        "upvotes": 103,
-        "comments": 17,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/Dhvu25wKxpmainQiM4Ksstrd_VbTMqOM8qciQveSxFU.png?auto=webp&amp;s=c96f78dc5e8e4f3641aa239fbc1819516c6b20ff"
-        },
-        "permalink": "/r/science/comments/1m1x8f8/scientists_achieve_first_experimental_observation/"
-    },
-    {
-        "id": "1m1bues",
-        "author": "universityofga",
-        "title": "Childhood trauma can harm health for life",
-        "content": "",
-        "upvotes": 1532,
-        "comments": 75,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/LsvJv1JLliFOOMR13EGEw01iv6W2kpaO8wF8Vt5PqNE.jpeg?auto=webp&amp;s=0e504626b78f85ff1734ea5b5aa97a0556dd12d7"
-        },
-        "permalink": "/r/science/comments/1m1bues/childhood_trauma_can_harm_health_for_life/"
-    },
-    {
-        "id": "1m1z3s7",
-        "author": "acidgoat_15",
-        "title": "Microbiota-driven antitumour immunity mediated by dendritic cell migration",
-        "content": "",
-        "upvotes": 42,
-        "comments": 4,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/HU0ZW8GvxPEKdvA8gsGxqEZ0peIorr6G9cQQ2nSZNNI.png?auto=webp&amp;s=32b7fa5f6feac4ba37aace9aaa014a5cc35a8167"
-        },
-        "permalink": "/r/science/comments/1m1z3s7/microbiotadriven_antitumour_immunity_mediated_by/"
-    },
-    {
-        "id": "1m25rea",
-        "author": "reflibman",
-        "title": "Unveiling the Myth: Harpy Eagle Harpia harpyja Attacks on a Human in the Amazon Forest",
-        "content": "",
-        "upvotes": 11,
-        "comments": 2,
+        "upvotes": 2,
+        "comments": 1,
         "media": null,
-        "permalink": "/r/science/comments/1m25rea/unveiling_the_myth_harpy_eagle_harpia_harpyja/"
-    },
-    {
-        "id": "1m25qhw",
-        "author": "MetaKnowing",
-        "title": "Robot metabolism: Toward machines that can grow by consuming other machines",
-        "content": "",
-        "upvotes": 9,
-        "comments": 5,
-        "media": null,
-        "permalink": "/r/science/comments/1m25qhw/robot_metabolism_toward_machines_that_can_grow_by/"
+        "permalink": "/r/science/comments/1m2u6cv/first_contact_with_greater_gravity_moss_plants/"
     }
 ]
