@@ -1,21 +1,96 @@
 [
     {
+        "id": "1m9pm2m",
+        "author": "mvea",
+        "title": "A new study provides evidence that the human brain emits extremely faint light signals that not only pass through the skull but also appear to change in response to mental states. Researchers found that these ultraweak light emissions could be recorded in complete darkness.",
+        "content": "",
+        "upvotes": 6557,
+        "comments": 495,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/ZmCc3LgZqvlHTbMYKc9BLAYXqlvBsoIdTOzgTpkTxsM.jpeg?auto=webp&amp;s=5af782431f3c258418d811c274ad0256c2dbf114"
+        },
+        "permalink": "/r/science/comments/1m9pm2m/a_new_study_provides_evidence_that_the_human/"
+    },
+    {
+        "id": "1m9u3as",
+        "author": "mvea",
+        "title": "New study found that loneliness was not associated with social media addiction (when controlling for other factors), but boredom in life was. Bored individuals were more likely to exhibit signs of social media addiction.",
+        "content": "",
+        "upvotes": 620,
+        "comments": 20,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/d649m_acpgcXDRh1h9fCFasGMlHWkZw2FPtF8mAML-8.jpeg?auto=webp&amp;s=f257f12920cba56a555222a0c237c4199c73b185"
+        },
+        "permalink": "/r/science/comments/1m9u3as/new_study_found_that_loneliness_was_not/"
+    },
+    {
+        "id": "1m9p6d3",
+        "author": "mvea",
+        "title": "New study found that COVID-19 vaccinations averted 2.5 million deaths during 2020-2024 and saved 15 million life-years. COVID-19 vaccinations had a substantial benefit on global mortality during 2020-2024, but this benefit was mostly limited to a minority of the population of older individuals.",
+        "content": "",
+        "upvotes": 1035,
+        "comments": 63,
+        "media": null,
+        "permalink": "/r/science/comments/1m9p6d3/new_study_found_that_covid19_vaccinations_averted/"
+    },
+    {
+        "id": "1m9rlgv",
+        "author": "chrisdh79",
+        "title": "Longer birth control pill use linked to lower odds of depressive symptoms | The research found a consistent link between extended oral contraceptive use and lower rates of depressive symptoms, particularly among women without diabetes.",
+        "content": "",
+        "upvotes": 448,
+        "comments": 54,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/FPy8k1KWNX6hKCLTDV2KkKMCfE1VnkGL3CYLS3GKUBg.jpeg?auto=webp&amp;s=c6bc85ec90dabcc36434cb73caf2cbe53a5b8faf"
+        },
+        "permalink": "/r/science/comments/1m9rlgv/longer_birth_control_pill_use_linked_to_lower/"
+    },
+    {
         "id": "1m9b0j0",
         "author": "-Mystica-",
         "title": "Freshwater is vanishing at an alarming pace, a new global study reveals. Since 2002, Earth\u2019s continents have experienced unprecedented losses of freshwater, driven by climate change, unsustainable groundwater extraction and extreme droughts \u2014 which are now contributing to sea level rise.",
         "content": "",
-        "upvotes": 4044,
-        "comments": 134,
+        "upvotes": 5632,
+        "comments": 192,
         "media": null,
         "permalink": "/r/science/comments/1m9b0j0/freshwater_is_vanishing_at_an_alarming_pace_a_new/"
+    },
+    {
+        "id": "1m9x06r",
+        "author": "chrisdh79",
+        "title": "Study suggests that people with high social anxiety are more accurate at recognizing subtle angry expressions compared to people with low social anxiety | These responses occurred during later stages of processing, which may reflect increased cognitive effort to interpret socially ambiguous cues.",
+        "content": "",
+        "upvotes": 70,
+        "comments": 5,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/xc1_EUBbt8o95JHidPNIDbXjYAboO_4lUbVRCn5Qha4.jpeg?auto=webp&amp;s=b23f6385bbb0382352fa7702b66add2cea49e5c3"
+        },
+        "permalink": "/r/science/comments/1m9x06r/study_suggests_that_people_with_high_social/"
+    },
+    {
+        "id": "1m9oneo",
+        "author": "Shiny-Tie-126",
+        "title": "Neanderthals were not \u2018hypercarnivores\u2019 and feasted on maggots",
+        "content": "",
+        "upvotes": 227,
+        "comments": 43,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/wv7GftQaUIvpnQjK192QclUKXETX4WIB5ZS2-gMKTsE.jpeg?auto=webp&amp;s=5e70e83745fe24d91dc97bc9083acc9d001142f9"
+        },
+        "permalink": "/r/science/comments/1m9oneo/neanderthals_were_not_hypercarnivores_and_feasted/"
     },
     {
         "id": "1m9ax7w",
         "author": "drewiepoodle",
         "title": "Puberty blockers, gender-affirming hormones prescribed to less than 0.1% of US trans and gender diverse (TGD) minors with private insurance. Lower rates would be expected among the uninsured, Medicaid recipients, and those with less comprehensive private insurance.",
         "content": "",
-        "upvotes": 1855,
-        "comments": 438,
+        "upvotes": 2003,
+        "comments": 480,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/fTJ58hSN5jCtJG4pMNVs5-PN-onQYJcIXJV47xPdwd8.jpeg?auto=webp&amp;s=ebcee16184d463daeae2196b660bb013b1bc9515"
@@ -27,8 +102,8 @@
         "author": "chrisdh79",
         "title": "A new study suggests that when Americans learn about members of Congress profiting from stock trading, their trust in Congress falls\u2014and so does their willingness to comply with the laws that Congress passes.",
         "content": "",
-        "upvotes": 24929,
-        "comments": 365,
+        "upvotes": 25669,
+        "comments": 380,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/Ib3KimYLMbhgPVsvfbmfQNYxpVPHom8mU5cpE5Fj6so.jpeg?auto=webp&amp;s=da29b96621907b669604d75b1a167ebef2cce486"
@@ -36,48 +111,32 @@
         "permalink": "/r/science/comments/1m8v5y5/a_new_study_suggests_that_when_americans_learn/"
     },
     {
-        "id": "1m9eeyx",
-        "author": "mvea",
-        "title": "Immigration status can become a death sentence during public health crisis. A study looking back on COVID-19 deaths in California found that immigrants who were potentially undocumented experienced much higher relative excess mortality during the pandemic.",
+        "id": "1m9ti04",
+        "author": "reflibman",
+        "title": "A Novel Exopolysaccharide, Highly Prevalent in Marine Spongiibacter, Triggers Pyroptosis to Exhibit Potent Anticancer Effects",
         "content": "",
-        "upvotes": 638,
-        "comments": 8,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/yHrDJJ735ICajylsSE9T_0laL6KnLlchekaSuSctvOU.jpeg?auto=webp&amp;s=adc63b1006e5f712c01d19d8d42d4a11b5a1c06c"
-        },
-        "permalink": "/r/science/comments/1m9eeyx/immigration_status_can_become_a_death_sentence/"
+        "upvotes": 36,
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/science/comments/1m9ti04/a_novel_exopolysaccharide_highly_prevalent_in/"
     },
     {
         "id": "1m97t3a",
         "author": "-Mystica-",
         "title": "Voters judge women candidates more harshly for deviating from party norms and exhibit greater initial uncertainty, leading to increased scrutiny compared to male candidates, according to new research",
         "content": "",
-        "upvotes": 830,
-        "comments": 32,
+        "upvotes": 913,
+        "comments": 34,
         "media": null,
         "permalink": "/r/science/comments/1m97t3a/voters_judge_women_candidates_more_harshly_for/"
-    },
-    {
-        "id": "1m984ng",
-        "author": "drewiepoodle",
-        "title": "TB bacteria \u2018play dead\u2019 to outlast vaccinated or previously infected hosts. Genetic mouse study shows TB switches into a quiescent survival mode, relying on stress-response genes rather than growth factors, undermining traditional vaccine protection and guiding new vaccine plus therapy strategies",
-        "content": "",
-        "upvotes": 709,
-        "comments": 4,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/rGoXqpUB6J_6w-IwXlhW3U9sLxAh8LP5D3F9QlQXa58.jpeg?auto=webp&amp;s=501176768a839106b778a325e37842a888bf9ba6"
-        },
-        "permalink": "/r/science/comments/1m984ng/tb_bacteria_play_dead_to_outlast_vaccinated_or/"
     },
     {
         "id": "1m9ko2m",
         "author": "calliope_kekule",
         "title": "A new review finds most research on kids and phones ignores when they get one. Only 0.8% of studies explore why some children get smartphones early, despite links to later problematic use.",
         "content": "",
-        "upvotes": 85,
-        "comments": 2,
+        "upvotes": 136,
+        "comments": 3,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/cEtaTCN4Swy0f4blzTrDotRqidPFgwB5ZO8IXCofp1w.png?auto=webp&amp;s=56f778db212115b1eb92678f7835dbb289b1321c"
@@ -85,12 +144,35 @@
         "permalink": "/r/science/comments/1m9ko2m/a_new_review_finds_most_research_on_kids_and/"
     },
     {
+        "id": "1m984ng",
+        "author": "drewiepoodle",
+        "title": "TB bacteria \u2018play dead\u2019 to outlast vaccinated or previously infected hosts. Genetic mouse study shows TB switches into a quiescent survival mode, relying on stress-response genes rather than growth factors, undermining traditional vaccine protection and guiding new vaccine plus therapy strategies",
+        "content": "",
+        "upvotes": 799,
+        "comments": 6,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/rGoXqpUB6J_6w-IwXlhW3U9sLxAh8LP5D3F9QlQXa58.jpeg?auto=webp&amp;s=501176768a839106b778a325e37842a888bf9ba6"
+        },
+        "permalink": "/r/science/comments/1m984ng/tb_bacteria_play_dead_to_outlast_vaccinated_or/"
+    },
+    {
+        "id": "1m9mgnj",
+        "author": "Lord-Julius",
+        "title": "Social Media Influencers as \u201cDirty Workers\u201d: An Explorative Study on How They Use Strategies to Reduce the Moral Taint",
+        "content": "",
+        "upvotes": 66,
+        "comments": 12,
+        "media": null,
+        "permalink": "/r/science/comments/1m9mgnj/social_media_influencers_as_dirty_workers_an/"
+    },
+    {
         "id": "1m8w3xk",
         "author": "mvea",
         "title": "Scientists discover gut cells that communicate like brain neurons: Support cells known as telocytes use fine extensions\u2014like neurons in the brain\u2014to deliver signals directly to intestinal stem cells, making this one of the clearest cellular analogues between brain and gut function seen to date.",
         "content": "",
-        "upvotes": 1900,
-        "comments": 22,
+        "upvotes": 2002,
+        "comments": 23,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/ROiJogD27UAJ2J2wR84huTIoltmFZ9ID2ohEOzHurv8.jpeg?auto=webp&amp;s=1ea268d22910e9e402077713cbab48d15bed5990"
@@ -98,12 +180,25 @@
         "permalink": "/r/science/comments/1m8w3xk/scientists_discover_gut_cells_that_communicate/"
     },
     {
+        "id": "1m9mkuv",
+        "author": "Lord-Julius",
+        "title": "Complex genetic variation in nearly complete human genomes",
+        "content": "",
+        "upvotes": 56,
+        "comments": 3,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/D3wGCHadfiOaxcryJ2FrQkdeQrV28j-ZvfMd30w2lRg.png?auto=webp&amp;s=5e043b90ad766df57eab0d30c35bf4a129750f19"
+        },
+        "permalink": "/r/science/comments/1m9mkuv/complex_genetic_variation_in_nearly_complete/"
+    },
+    {
         "id": "1m90a5c",
         "author": "mvea",
         "title": "People with persistent high grief symptoms had an 88% higher risk of dying within 10 years. These individuals were more likely to receive mental health treatment and medications, including antidepressants and sedatives.",
         "content": "",
-        "upvotes": 968,
-        "comments": 32,
+        "upvotes": 1045,
+        "comments": 36,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/si2PwAYZX6niY9wG5HOkc3Z6Nk_FQ2lOK2agbDzoMoc.jpeg?auto=webp&amp;s=48058733bfa2fc3035a6c259b38c647fc64070a3"
@@ -115,8 +210,8 @@
         "author": "memorialmonorail",
         "title": "An estimated 12% of first graders\u2019 most-used media at home is educational, a new study suggests, also finding that higher use of educational apps and videos was associated with more time spent reading and less overall time in front of a screen.",
         "content": "",
-        "upvotes": 1178,
-        "comments": 21,
+        "upvotes": 1270,
+        "comments": 22,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/PLbGkNYIsxLHcm_LRmYDWIjjqRAv4VXOTXl0QFZeSn4.jpeg?auto=webp&amp;s=53d0314cb589565c2baa3cfd442ce4d058979674"
@@ -128,8 +223,8 @@
         "author": "nohup_me",
         "title": "Simplified science communication via videos tempt people to overestimate their ability",
         "content": "",
-        "upvotes": 237,
-        "comments": 11,
+        "upvotes": 307,
+        "comments": 14,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/Y09IqWi5uo9WYzVV44zbyMxwu8i9NID6iKPuWXu_V5I.jpeg?auto=webp&amp;s=19e246e60f73a6a88b8913ed19c23e7837dfb585"
@@ -137,12 +232,25 @@
         "permalink": "/r/science/comments/1m98hto/simplified_science_communication_via_videos_tempt/"
     },
     {
+        "id": "1m9lzna",
+        "author": "Moist_Lychee6762",
+        "title": "Effect of naltrexone pretreatment on ketamine-induced glutamatergic activity and symptoms of depression: a randomized crossover study",
+        "content": "",
+        "upvotes": 30,
+        "comments": 2,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/ldY74UhSu8el-iRQE6qrGViN_px3we-d6RuPt66kiQM.png?auto=webp&amp;s=d95d98686ea6e1af86881baec7e4834ff91b30dd"
+        },
+        "permalink": "/r/science/comments/1m9lzna/effect_of_naltrexone_pretreatment_on/"
+    },
+    {
         "id": "1m8mv8h",
         "author": "PHealthy",
         "title": "Outbreak of Salmonella Typhimurium Infections Linked to Commercially Distributed Raw Milk",
         "content": "",
-        "upvotes": 5965,
-        "comments": 282,
+        "upvotes": 6060,
+        "comments": 287,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/7xxUvD311sJ-YijA4cnJQXCsuMQDRqqOdPmkXeDKx20.png?auto=webp&amp;s=184414e5e8789b163851b04f80fae4e9d91caa12"
@@ -154,7 +262,7 @@
         "author": "Wagamaga",
         "title": "Forests in the Brazilian Amazon damaged by fire remain about 2.6\u202f\u00b0C\u202f(4.7\u202f\u00b0F) hotter than neighboring intact or selectively logged stands, and the extra heat can linger for at least 30\u202fyears",
         "content": "",
-        "upvotes": 175,
+        "upvotes": 190,
         "comments": 2,
         "media": {
             "type": "image",
@@ -163,47 +271,11 @@
         "permalink": "/r/science/comments/1m97fmz/forests_in_the_brazilian_amazon_damaged_by_fire/"
     },
     {
-        "id": "1m9mkuv",
-        "author": "Lord-Julius",
-        "title": "Complex genetic variation in nearly complete human genomes",
-        "content": "",
-        "upvotes": 20,
-        "comments": 3,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/D3wGCHadfiOaxcryJ2FrQkdeQrV28j-ZvfMd30w2lRg.png?auto=webp&amp;s=5e043b90ad766df57eab0d30c35bf4a129750f19"
-        },
-        "permalink": "/r/science/comments/1m9mkuv/complex_genetic_variation_in_nearly_complete/"
-    },
-    {
-        "id": "1m9lzna",
-        "author": "Moist_Lychee6762",
-        "title": "Effect of naltrexone pretreatment on ketamine-induced glutamatergic activity and symptoms of depression: a randomized crossover study",
-        "content": "",
-        "upvotes": 21,
-        "comments": 2,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/ldY74UhSu8el-iRQE6qrGViN_px3we-d6RuPt66kiQM.png?auto=webp&amp;s=d95d98686ea6e1af86881baec7e4834ff91b30dd"
-        },
-        "permalink": "/r/science/comments/1m9lzna/effect_of_naltrexone_pretreatment_on/"
-    },
-    {
-        "id": "1m9mgnj",
-        "author": "Lord-Julius",
-        "title": "Social Media Influencers as \u201cDirty Workers\u201d: An Explorative Study on How They Use Strategies to Reduce the Moral Taint",
-        "content": "",
-        "upvotes": 18,
-        "comments": 5,
-        "media": null,
-        "permalink": "/r/science/comments/1m9mgnj/social_media_influencers_as_dirty_workers_an/"
-    },
-    {
         "id": "1m98drm",
         "author": "calliope_kekule",
         "title": "A 25-year study shows major changes in phytoplankton: fewer diatoms, more cryptophytes and haptophytes. This could weaken the krill food web and carbon storage in the deep ocean.",
         "content": "",
-        "upvotes": 101,
+        "upvotes": 108,
         "comments": 1,
         "media": {
             "type": "image",
@@ -212,12 +284,22 @@
         "permalink": "/r/science/comments/1m98drm/a_25year_study_shows_major_changes_in/"
     },
     {
+        "id": "1m97ia4",
+        "author": "-Mystica-",
+        "title": "Substituting meat with plant-based meat alternatives improves dietary environmental impact and supports reduced red and processed meat intake without compromising protein intake in high-income settings: evidence from the UK and Ireland",
+        "content": "",
+        "upvotes": 92,
+        "comments": 34,
+        "media": null,
+        "permalink": "/r/science/comments/1m97ia4/substituting_meat_with_plantbased_meat/"
+    },
+    {
         "id": "1m90rjp",
         "author": "PHealthy",
         "title": "Floss-based vaccination targets the gingival sulcus for mucosal and systemic immunization",
         "content": "",
-        "upvotes": 175,
-        "comments": 5,
+        "upvotes": 186,
+        "comments": 6,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/d79kHUcBp9sZJ7rnj_1q_X4_msOPU1YJp0hVd1YV2II.png?auto=webp&amp;s=db6f294ada6fbd7862749562761f7ec890d6f9fc"
@@ -225,34 +307,11 @@
         "permalink": "/r/science/comments/1m90rjp/flossbased_vaccination_targets_the_gingival/"
     },
     {
-        "id": "1m97ia4",
-        "author": "-Mystica-",
-        "title": "Substituting meat with plant-based meat alternatives improves dietary environmental impact and supports reduced red and processed meat intake without compromising protein intake in high-income settings: evidence from the UK and Ireland",
-        "content": "",
-        "upvotes": 77,
-        "comments": 27,
-        "media": null,
-        "permalink": "/r/science/comments/1m97ia4/substituting_meat_with_plantbased_meat/"
-    },
-    {
-        "id": "1m9oneo",
-        "author": "Shiny-Tie-126",
-        "title": "Neanderthals were not \u2018hypercarnivores\u2019 and feasted on maggots",
-        "content": "",
-        "upvotes": 6,
-        "comments": 1,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/wv7GftQaUIvpnQjK192QclUKXETX4WIB5ZS2-gMKTsE.jpeg?auto=webp&amp;s=5e70e83745fe24d91dc97bc9083acc9d001142f9"
-        },
-        "permalink": "/r/science/comments/1m9oneo/neanderthals_were_not_hypercarnivores_and_feasted/"
-    },
-    {
         "id": "1m9mhn1",
         "author": "Lord-Julius",
         "title": "Systematic screen uncovers regulator contributions to chemical cues in Escherichia coli",
         "content": "",
-        "upvotes": 9,
+        "upvotes": 8,
         "comments": 1,
         "media": {
             "type": "image",
@@ -265,7 +324,7 @@
         "author": "Ollyfer",
         "title": "The return of wolves to the Yellowstone National Park has led to an increased presence of aspen trees",
         "content": "",
-        "upvotes": 6570,
+        "upvotes": 6614,
         "comments": 104,
         "media": null,
         "permalink": "/r/science/comments/1m88vzy/the_return_of_wolves_to_the_yellowstone_national/"
@@ -275,7 +334,7 @@
         "author": "jdfoote",
         "title": "Researchers show differences in how peers, bullies, and victims perceive bullying: peers perceive more victims per bully while victims often perceive many bullies per victim; peers see boy bullying and cross-sex bullying but miss within-gender and within-friendship bullying",
         "content": "",
-        "upvotes": 35,
+        "upvotes": 40,
         "comments": 4,
         "media": null,
         "permalink": "/r/science/comments/1m98qkj/researchers_show_differences_in_how_peers_bullies/"
@@ -285,7 +344,7 @@
         "author": "mvea",
         "title": "SARS-CoV-2 induces Alzheimer\u2019s disease\u2013related amyloid-\u03b2 pathology in ex vivo human retinal explants and retinal organoids. This suggests that infection with SARS-CoV-2 can induce amyloid-\u03b2 aggregation, which may be associated with neurological symptoms experienced in COVID-19.",
         "content": "",
-        "upvotes": 1786,
+        "upvotes": 1821,
         "comments": 53,
         "media": null,
         "permalink": "/r/science/comments/1m8g1iq/sarscov2_induces_alzheimers_diseaserelated/"
@@ -295,74 +354,12 @@
         "author": "RhiannaSmithSci",
         "title": "Glucagon-like peptide-1 (GLP-1) receptor agonists, such as Ozempic\u2122 (semaglutide), can reduce asthma symptoms in obese people, according to a new study comparing medical records from over 60,000 patients with obesity.",
         "content": "",
-        "upvotes": 113,
-        "comments": 16,
+        "upvotes": 122,
+        "comments": 17,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/A-mFpz9B520HDeKkpbbIwDsEo8YqUaEOwWqa8KVJ73w.jpeg?auto=webp&amp;s=df479fa297aa735dcdef7af8ec0d7662c27ea651"
         },
         "permalink": "/r/science/comments/1m8wu1d/glucagonlike_peptide1_glp1_receptor_agonists_such/"
-    },
-    {
-        "id": "1m82pib",
-        "author": "mvea",
-        "title": "Attractive long-term mates have an unexpected effect on women\u2019s creativity - they are linked to lower creativity in women, and this drop was explained by heightened sexual arousal. However, men were more motivated to perform well after viewing attractive mates, which predicted greater creativity.",
-        "content": "",
-        "upvotes": 8075,
-        "comments": 336,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/Vu6IQujVgOH5fGoqTGZ-BzBzhF-F2Yc_LDtUcjqqpes.jpeg?auto=webp&amp;s=be9d7ca56abb40e2036b1994609074c98eb22279"
-        },
-        "permalink": "/r/science/comments/1m82pib/attractive_longterm_mates_have_an_unexpected/"
-    },
-    {
-        "id": "1m8udwl",
-        "author": "Wagamaga",
-        "title": "The world\u2019s oceans experienced a staggering amount of warming in 2023, with vast marine heat waves affecting 96% of their surface, according to a new study.",
-        "content": "",
-        "upvotes": 144,
-        "comments": 5,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/Rts376xCrYH4RPDLxv_us2KamerWGojoVCR-ySyMxCM.jpeg?auto=webp&amp;s=6566febabca4893fe552b4cc9f7348d5f6dac8e7"
-        },
-        "permalink": "/r/science/comments/1m8udwl/the_worlds_oceans_experienced_a_staggering_amount/"
-    },
-    {
-        "id": "1m8lgxh",
-        "author": "drewiepoodle",
-        "title": "New study of rats suggests more than 200 types of misfolded proteins could be associated with age-related cognitive decline. Findings could lead to new therapeutic targets and treatments in humans.",
-        "content": "",
-        "upvotes": 580,
-        "comments": 23,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/XLa3bSqK91Xgof_Eq6rpxFj47NxVH2U42kVR8cOdWj8.jpeg?auto=webp&amp;s=b9be49d78f7c75b31eb3b3bf9eced5564111d592"
-        },
-        "permalink": "/r/science/comments/1m8lgxh/new_study_of_rats_suggests_more_than_200_types_of/"
-    },
-    {
-        "id": "1m8jcco",
-        "author": "mvea",
-        "title": "Air pollution raises risk of dementia, say Cambridge scientists. Most comprehensive study of its kind highlights dangers of vehicle emissions and woodburning stoves. For every 10 micrograms per cubic metre of PM2.5, relative risk of dementia increases by 17%. For soot, the risk rose by 13%.",
-        "content": "",
-        "upvotes": 685,
-        "comments": 13,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/Dpp8xg9W3Gu4oQrVyC4xb_WVziO821zt59IvPsKMlM4.jpeg?auto=webp&amp;s=308b24b766fba4c3b181665feedfd6ab31e227a8"
-        },
-        "permalink": "/r/science/comments/1m8jcco/air_pollution_raises_risk_of_dementia_say/"
-    },
-    {
-        "id": "1m8s0id",
-        "author": "hftyjvdry",
-        "title": "Psilocybin-assisted psychotherapy appears feasible, acceptable, and safe in recently detoxified patients with comorbid alcohol use disorder and depression.",
-        "content": "",
-        "upvotes": 145,
-        "comments": 5,
-        "media": null,
-        "permalink": "/r/science/comments/1m8s0id/psilocybinassisted_psychotherapy_appears_feasible/"
     }
 ]
