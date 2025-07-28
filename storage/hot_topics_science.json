@@ -4,7 +4,7 @@
         "author": "unsw",
         "title": "Between 10 and 13 million babies have been born via IVF in the 40 years since the world\u2019s first IVF infant was born",
         "content": "",
-        "upvotes": 3229,
+        "upvotes": 3305,
         "comments": 89,
         "media": {
             "type": "image",
@@ -17,7 +17,7 @@
         "author": "mvea",
         "title": "Ageing accelerates around age 50 for humans, some organs faster than others. The findings add to mounting evidence that ageing is not linear, but is instead pockmarked by periods of rapid change. It also suggests that some tissues, especially blood vessels, age faster than others.",
         "content": "",
-        "upvotes": 3003,
+        "upvotes": 3050,
         "comments": 57,
         "media": {
             "type": "image",
@@ -30,8 +30,8 @@
         "author": "mvea",
         "title": "Friendships between Americans who hold different political views are surprisingly uncommon. This suggests that political disagreement may introduce tension or discomfort into a relationship, even if it doesn\u2019t end the friendship entirely.",
         "content": "",
-        "upvotes": 16878,
-        "comments": 3125,
+        "upvotes": 16937,
+        "comments": 3134,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/kYVrT7RHSMxQrMlVdcVpdoIBoZK04kv4_vuQotZy-qk.jpeg?auto=webp&amp;s=1061b3c770e47c529338e39ac0719eaf0be63fcb"
@@ -43,7 +43,7 @@
         "author": "geoff199",
         "title": "People who have a lot of friends actually experience greater distress than others when they are socially excluded by strangers, a study found. While research often stresses the benefits of a large friend network, this research shows one possible negative impact.",
         "content": "",
-        "upvotes": 764,
+        "upvotes": 778,
         "comments": 27,
         "media": null,
         "permalink": "/r/science/comments/1mavug6/people_who_have_a_lot_of_friends_actually/"
@@ -53,7 +53,7 @@
         "author": "OneYellowLeaf",
         "title": "MDMA-assisted therapy as a treatment for major depressive disorder: proof of principle study",
         "content": "",
-        "upvotes": 485,
+        "upvotes": 493,
         "comments": 31,
         "media": null,
         "permalink": "/r/science/comments/1maz668/mdmaassisted_therapy_as_a_treatment_for_major/"
@@ -63,8 +63,8 @@
         "author": "Tall_Block_9961",
         "title": "Even though they believe expert-only voting makes for better and faster decisions, kids still think it is more fair to let everyone vote to decide things.",
         "content": "",
-        "upvotes": 1036,
-        "comments": 96,
+        "upvotes": 1042,
+        "comments": 98,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/x2LkJZIv4hvZuvnC4-TTeESTwbnAE_97zHLVYJNwEAg.jpeg?auto=webp&amp;s=270d464967f4fe7ca4ce4257e3916cf3316da252"
@@ -76,7 +76,7 @@
         "author": "mvea",
         "title": "Beetroot juice lowers blood pressure in older people by changing oral microbiome. New study shows that nitrate-rich foods alter the oral microbiome in a way that could result in less inflammation, as well as a lowering of blood pressure in older people.",
         "content": "",
-        "upvotes": 3192,
+        "upvotes": 3214,
         "comments": 130,
         "media": {
             "type": "image",
@@ -85,11 +85,21 @@
         "permalink": "/r/science/comments/1mair0j/beetroot_juice_lowers_blood_pressure_in_older/"
     },
     {
+        "id": "1mb97si",
+        "author": "wise_karlaz",
+        "title": "As a common rechargeable battery (Li-Ion) is used repeatedly, its internal layers physically bend, crack, and come apart, which is why it gradually loses its ability to hold a charge",
+        "content": "",
+        "upvotes": 28,
+        "comments": 4,
+        "media": null,
+        "permalink": "/r/science/comments/1mb97si/as_a_common_rechargeable_battery_liion_is_used/"
+    },
+    {
         "id": "1mb1edm",
         "author": "bluish1997",
         "title": "Comparative analyses for plant virus-based cancer immunotherapy drug development - Plant virus triggers immune response that targets and destroys cancer cells",
         "content": "",
-        "upvotes": 90,
+        "upvotes": 86,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1mb1edm/comparative_analyses_for_plant_virusbased_cancer/"
@@ -99,7 +109,7 @@
         "author": "chrisdh79",
         "title": "Surrogates at greater risk of new mental illness than women carrying own babies | Canadian data analysis underscores importance of support during and after pregnancy, researchers say",
         "content": "",
-        "upvotes": 620,
+        "upvotes": 626,
         "comments": 70,
         "media": {
             "type": "image",
@@ -108,14 +118,24 @@
         "permalink": "/r/science/comments/1malul1/surrogates_at_greater_risk_of_new_mental_illness/"
     },
     {
-        "id": "1mb97si",
+        "id": "1mb9cdx",
         "author": "wise_karlaz",
-        "title": "As a common rechargeable battery (Li-Ion) is used repeatedly, its internal layers physically bend, crack, and come apart, which is why it gradually loses its ability to hold a charge",
+        "title": "The main challenge for training computer security systems has shifted from having too little data to having a lot of new data that is often flawed, unknown, or used incorrectly by researchers",
         "content": "",
-        "upvotes": 23,
-        "comments": 2,
+        "upvotes": 22,
+        "comments": 1,
         "media": null,
-        "permalink": "/r/science/comments/1mb97si/as_a_common_rechargeable_battery_liion_is_used/"
+        "permalink": "/r/science/comments/1mb9cdx/the_main_challenge_for_training_computer_security/"
+    },
+    {
+        "id": "1mb94hf",
+        "author": "wise_karlaz",
+        "title": "Researchers built a fully automatic robotic camera called EYRINA that can scan a much larger area of the back of your eye than normal cameras by taking multiple pictures from different angles and then stitching them together into a single, large, detailed image.",
+        "content": "",
+        "upvotes": 21,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1mb94hf/researchers_built_a_fully_automatic_robotic/"
     },
     {
         "id": "1mb933r",
@@ -126,26 +146,6 @@
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1mb933r/brno_scientists_developed_a_new_superfast_method/"
-    },
-    {
-        "id": "1mb94hf",
-        "author": "wise_karlaz",
-        "title": "Researchers built a fully automatic robotic camera called EYRINA that can scan a much larger area of the back of your eye than normal cameras by taking multiple pictures from different angles and then stitching them together into a single, large, detailed image.",
-        "content": "",
-        "upvotes": 22,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1mb94hf/researchers_built_a_fully_automatic_robotic/"
-    },
-    {
-        "id": "1mb9cdx",
-        "author": "wise_karlaz",
-        "title": "The main challenge for training computer security systems has shifted from having too little data to having a lot of new data that is often flawed, unknown, or used incorrectly by researchers",
-        "content": "",
-        "upvotes": 20,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1mb9cdx/the_main_challenge_for_training_computer_security/"
     },
     {
         "id": "1mb6zvv",
@@ -162,7 +162,7 @@
         "author": "mvea",
         "title": "Adolescents with higher testosterone levels were better at adjusting their trust levels. This effect was most apparent among boys. For them, testosterone increased theory of mind, which in turn predicted more strategic trust\u2014investing more in friends and less in strangers.",
         "content": "",
-        "upvotes": 2267,
+        "upvotes": 2270,
         "comments": 46,
         "media": {
             "type": "image",
@@ -175,7 +175,7 @@
         "author": "wise_karlaz",
         "title": "New technique streams multi-angle 'light field' videos in real-time by using a graphics card to compress and decode only the most essential data",
         "content": "",
-        "upvotes": 8,
+        "upvotes": 6,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1mb90hu/new_technique_streams_multiangle_light_field/"
@@ -198,7 +198,7 @@
         "author": "FocusingEndeavor",
         "title": "A new eco-friendly plastic called LAHB has shown it can biodegrade even in the extreme environment of the deep ocean, unlike conventional plastics that persist for decades",
         "content": "",
-        "upvotes": 1209,
+        "upvotes": 1213,
         "comments": 31,
         "media": null,
         "permalink": "/r/science/comments/1ma99m9/a_new_ecofriendly_plastic_called_lahb_has_shown/"
@@ -208,7 +208,7 @@
         "author": "chrisdh79",
         "title": "Study suggests that people with high social anxiety are more accurate at recognizing subtle angry expressions compared to people with low social anxiety | These responses occurred during later stages of processing, which may reflect increased cognitive effort to interpret socially ambiguous cues.",
         "content": "",
-        "upvotes": 5828,
+        "upvotes": 5838,
         "comments": 88,
         "media": {
             "type": "image",
@@ -221,7 +221,7 @@
         "author": "Kolderke",
         "title": "Porphyridium purpureum Cultivation in Outdoor Pilot-Scale: Economic Assessment and Life Cycle Assessment of Photobioreactor-Based Cultivation Systems",
         "content": "",
-        "upvotes": 5,
+        "upvotes": 3,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1mb9ibb/porphyridium_purpureum_cultivation_in_outdoor/"
@@ -231,7 +231,7 @@
         "author": "mvea",
         "title": "A new study provides evidence that the human brain emits extremely faint light signals that not only pass through the skull but also appear to change in response to mental states. Researchers found that these ultraweak light emissions could be recorded in complete darkness.",
         "content": "",
-        "upvotes": 16135,
+        "upvotes": 16148,
         "comments": 811,
         "media": {
             "type": "image",
@@ -244,7 +244,7 @@
         "author": "Lord-Julius",
         "title": "Reporting Partial Election Results Fuels Beliefs in Election Fraud because of the Cumulative Redundancy Bias",
         "content": "",
-        "upvotes": 199,
+        "upvotes": 204,
         "comments": 4,
         "media": null,
         "permalink": "/r/science/comments/1mafwjo/reporting_partial_election_results_fuels_beliefs/"
@@ -254,7 +254,7 @@
         "author": "hftyjvdry",
         "title": "Early parental death and lower parental education both linked to more years in NEET (not in education, employment or training) status, study shows.",
         "content": "",
-        "upvotes": 151,
+        "upvotes": 156,
         "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1magxz5/early_parental_death_and_lower_parental_education/"
@@ -264,7 +264,7 @@
         "author": "mvea",
         "title": "New study found that loneliness was not associated with social media addiction (when controlling for other factors), but boredom in life was. Bored individuals were more likely to exhibit signs of social media addiction.",
         "content": "",
-        "upvotes": 2142,
+        "upvotes": 2148,
         "comments": 39,
         "media": {
             "type": "image",
@@ -277,7 +277,7 @@
         "author": "Lewoniewski",
         "title": "Political Narratives and Misinformation During the COVID-19 Pandemic: the study investigates how supporters of four Polish political parties \u2013 Law and Justice (PiS), Civic Platform (PO), Confederation, The Left (Lewica) \u2013 engaged in pandemic-related discussions.",
         "content": "",
-        "upvotes": 2,
+        "upvotes": 1,
         "comments": 3,
         "media": null,
         "permalink": "/r/science/comments/1mb9k2x/political_narratives_and_misinformation_during/"
@@ -287,7 +287,7 @@
         "author": "calliope_kekule",
         "title": "New research finds that songbirds like tanagers boost their brilliant colours using hidden black and white feather layers beneath the surface, brightening reds and deepening blues.",
         "content": "",
-        "upvotes": 117,
+        "upvotes": 122,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1mado52/new_research_finds_that_songbirds_like_tanagers/"
@@ -307,7 +307,7 @@
         "author": "nohup_me",
         "title": "The origin of some neuropsychiatric diseases, such as autism, bipolar disorder, or depression, and certain neurodegenerative diseases, Alzheimer's and Parkinson's, can be found in very early stages of brain formation in the fetus",
         "content": "",
-        "upvotes": 582,
+        "upvotes": 583,
         "comments": 29,
         "media": null,
         "permalink": "/r/science/comments/1ma1zx4/the_origin_of_some_neuropsychiatric_diseases_such/"
@@ -317,7 +317,7 @@
         "author": "Lord-Julius",
         "title": "Traces of the oxygen isotope composition of ancient air in fossilized cosmic dust",
         "content": "",
-        "upvotes": 53,
+        "upvotes": 52,
         "comments": 2,
         "media": {
             "type": "image",
@@ -330,7 +330,7 @@
         "author": "mvea",
         "title": "New study found that COVID-19 vaccinations averted 2.5 million deaths during 2020-2024 and saved 15 million life-years. COVID-19 vaccinations had a substantial benefit on global mortality during 2020-2024, but this benefit was mostly limited to a minority of the population of older individuals.",
         "content": "",
-        "upvotes": 2518,
+        "upvotes": 2524,
         "comments": 111,
         "media": null,
         "permalink": "/r/science/comments/1m9p6d3/new_study_found_that_covid19_vaccinations_averted/"
