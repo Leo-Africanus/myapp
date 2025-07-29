@@ -1,11 +1,21 @@
 [
     {
+        "id": "1mbo1ar",
+        "author": "-Mystica-",
+        "title": "A new sociological study offers a surprising take on the state of American news: right-wing news media doesn\u2019t just sit on the opposite end of the political spectrum from mainstream outlets\u2014it operates more like a religion than a traditional news source.",
+        "content": "",
+        "upvotes": 11025,
+        "comments": 325,
+        "media": null,
+        "permalink": "/r/science/comments/1mbo1ar/a_new_sociological_study_offers_a_surprising_take/"
+    },
+    {
         "id": "1mbfgkd",
         "author": "mvea",
         "title": "Parents frequently try to influence who their children date. New study finds that when parents interfere with their child\u2019s romantic relationship, the child was more likely to report a strained or chaotic relationship with that parent.",
         "content": "",
-        "upvotes": 3350,
-        "comments": 75,
+        "upvotes": 6033,
+        "comments": 122,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/zA-rgcaVQsK52eNWtW1KW1XguP1WZZD7tB3CCRE1E50.jpeg?auto=webp&amp;s=cfe94169241772aecb53454b8d6d5cb76cba94c0"
@@ -13,25 +23,51 @@
         "permalink": "/r/science/comments/1mbfgkd/parents_frequently_try_to_influence_who_their/"
     },
     {
-        "id": "1mbgg42",
-        "author": "chrisdh79",
-        "title": "You Don\u2019t Remember Being a Baby, but Your Brain Was Making Memories | Brain scans capture memory formation in babies, raising new questions about why people forget their earliest years",
+        "id": "1mbjkyl",
+        "author": "Shiny-Tie-126",
+        "title": "Famous double-slit experiment holds up when stripped to its quantum essentials, it also  confirms that Albert Einstein was wrong about this particular quantum scenario",
         "content": "",
-        "upvotes": 1753,
-        "comments": 216,
+        "upvotes": 1616,
+        "comments": 143,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/1LKP7uTgw_0wsPIiJ9k1mPWI776zc3tDIddzSFUzscI.jpeg?auto=webp&amp;s=64f53a3c77acf73e03de9076bf6187ce4c0ed384"
+            "url": "https://external-preview.redd.it/BTO2PMwQQVIC9v70imCtGFwqKwqtq98AX7y_bxZTH_s.jpeg?auto=webp&amp;s=f901470a5f03e7e6c156b4996f60fabcd4ce4238"
         },
-        "permalink": "/r/science/comments/1mbgg42/you_dont_remember_being_a_baby_but_your_brain_was/"
+        "permalink": "/r/science/comments/1mbjkyl/famous_doubleslit_experiment_holds_up_when/"
+    },
+    {
+        "id": "1mbsnoc",
+        "author": "drewiepoodle",
+        "title": "Participation in sports lowered the risk of suicide ideation/behaviors for both middle and high school students in the U.S. The findings suggest that engaging in sports, particularly multiple sports, serves as an intervention strategy for reducing suicide risks in this population.",
+        "content": "",
+        "upvotes": 571,
+        "comments": 64,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/dHLna3eq2wdPd3Ojr3qlyA-Zfp5stmSzJsYX3N8LcWc.jpeg?auto=webp&amp;s=a0b59971a2a8746ae33aa7663b90a46586287c44"
+        },
+        "permalink": "/r/science/comments/1mbsnoc/participation_in_sports_lowered_the_risk_of/"
+    },
+    {
+        "id": "1mbx98f",
+        "author": "sciencealert",
+        "title": "New evidence suggests Stone Age people really did move massive Stonehenge boulders more than 200 kilometers to the inner ring of Stonehenge, without the help of any glaciers.",
+        "content": "",
+        "upvotes": 272,
+        "comments": 11,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/JKHmwBhQ0Naq5f4wQrz-79eEO_Ly_188om8f3VGP7Zk.jpeg?auto=webp&amp;s=3a3f2b1fc7699f5c83739b71ecfb19fda3791e6d"
+        },
+        "permalink": "/r/science/comments/1mbx98f/new_evidence_suggests_stone_age_people_really_did/"
     },
     {
         "id": "1mbd039",
         "author": "mvea",
         "title": "ADHD medication use was consistently associated with lower risks of self-harm, unintentional injury, traffic crashes, and crime, finds a nationwide study of 247,420 ADHD medication users in Sweden from 2006 to 2020.",
         "content": "",
-        "upvotes": 1780,
-        "comments": 50,
+        "upvotes": 2696,
+        "comments": 72,
         "media": null,
         "permalink": "/r/science/comments/1mbd039/adhd_medication_use_was_consistently_associated/"
     },
@@ -40,8 +76,8 @@
         "author": "chrisdh79",
         "title": "Scientists observe synchronized oxytocin in couples after sex | Study found that men\u2019s and women\u2019s oxytocin levels tended to peak 40 minutes after sex and showed signs of synchronization during that period, though the hormone\u2019s link to orgasm was weaker than previously believed.",
         "content": "",
-        "upvotes": 787,
-        "comments": 5,
+        "upvotes": 1292,
+        "comments": 6,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/ucj2Joy0u_N-dKb9Uhwtn8R_6vIKrFljXWMMobCsetY.jpeg?auto=webp&amp;s=934d493c5d5f2753b8de57a491dfbc6484247355"
@@ -49,48 +85,81 @@
         "permalink": "/r/science/comments/1mbgzws/scientists_observe_synchronized_oxytocin_in/"
     },
     {
+        "id": "1mbphv3",
+        "author": "calliope_kekule",
+        "title": "A new study found that people living near the coast tend to live longer, while those near rivers or lakes may not, especially in cities. Researchers looked at over 66,000 US areas and suggest that climate, air quality, income, and access to nature all play a role.",
+        "content": "",
+        "upvotes": 490,
+        "comments": 14,
+        "media": null,
+        "permalink": "/r/science/comments/1mbphv3/a_new_study_found_that_people_living_near_the/"
+    },
+    {
         "id": "1mbiqkj",
         "author": "Lord-Julius",
         "title": "Study shows that Olympic Games have no effect on democratization in the organizing country",
         "content": "",
-        "upvotes": 482,
-        "comments": 29,
+        "upvotes": 959,
+        "comments": 42,
         "media": null,
         "permalink": "/r/science/comments/1mbiqkj/study_shows_that_olympic_games_have_no_effect_on/"
     },
     {
-        "id": "1mb2c6q",
-        "author": "unsw",
-        "title": "Between 10 and 13 million babies have been born via IVF in the 40 years since the world\u2019s first IVF infant was born",
+        "id": "1mbnx9d",
+        "author": "Wagamaga",
+        "title": "Research found older adults who consistently ate a healthy diet developed chronic diseases more slowly, in contrast to those whose diets were considered more inflammatory; that is, diets high in processed meats, refined grains and sugary drinks",
         "content": "",
-        "upvotes": 4580,
-        "comments": 158,
+        "upvotes": 411,
+        "comments": 6,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/VHvGzRqZp9ZXex5RgW16LR7Qv45v_MphfJ8Tup8xOCI.jpeg?auto=webp&amp;s=876742846e74e295b96996fcd24d89a97f9effd0"
+            "url": "https://external-preview.redd.it/yigqKrOzI1R2WxMpC99jJ-aomlc8xuaEjfYUwFjxaog.jpeg?auto=webp&amp;s=4cc727c7037ee90723769fe58013cfc2f1a36897"
         },
-        "permalink": "/r/science/comments/1mb2c6q/between_10_and_13_million_babies_have_been_born/"
+        "permalink": "/r/science/comments/1mbnx9d/research_found_older_adults_who_consistently_ate/"
     },
     {
-        "id": "1mbjkyl",
-        "author": "Shiny-Tie-126",
-        "title": "Famous double-slit experiment holds up when stripped to its quantum essentials, it also  confirms that Albert Einstein was wrong about this particular quantum scenario",
+        "id": "1mbvi3h",
+        "author": "mvea",
+        "title": "New research debunks a widespread belief that lefties score higher in creativity. It's commonly thought that left-handed people are more creative. But a new study found that left-handed people scored no better in tests designed to measure creativity.",
         "content": "",
-        "upvotes": 233,
-        "comments": 40,
+        "upvotes": 160,
+        "comments": 26,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/BTO2PMwQQVIC9v70imCtGFwqKwqtq98AX7y_bxZTH_s.jpeg?auto=webp&amp;s=f901470a5f03e7e6c156b4996f60fabcd4ce4238"
+            "url": "https://external-preview.redd.it/8bZSSk0eApjQRGP98Ff8tMRLuAUTiAs0IK3j7rOl8dY.jpeg?auto=webp&amp;s=d851a7cbd6f96a7d500e8c1117cb071eeec966c3"
         },
-        "permalink": "/r/science/comments/1mbjkyl/famous_doubleslit_experiment_holds_up_when/"
+        "permalink": "/r/science/comments/1mbvi3h/new_research_debunks_a_widespread_belief_that/"
+    },
+    {
+        "id": "1mbnayp",
+        "author": "nohup_me",
+        "title": "Certain scent compounds in female body odor increased during ovulation and can subtly influence how men feel: men rated them as more pleasant and faces associated with the samples as more attractive",
+        "content": "",
+        "upvotes": 351,
+        "comments": 15,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/eQE_VNl5GE38Qh9MqPO-EP8MJvJI1sM4l7q_AtWuBgw.jpeg?auto=webp&amp;s=b60051dfa2571f3540c466c28adbe5409e183f83"
+        },
+        "permalink": "/r/science/comments/1mbnayp/certain_scent_compounds_in_female_body_odor/"
+    },
+    {
+        "id": "1mbs1rc",
+        "author": "-Mystica-",
+        "title": "You can slow cognitive decline as you age, large study finds: 2-year trial in 2,111 older adults shows that a combined lifestyle\u2014exercise, MIND diet (rich in greens, berries, nuts, and olive oil), mental and social activity, and heart health monitoring\u2014boosts cognition.",
+        "content": "",
+        "upvotes": 174,
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/science/comments/1mbs1rc/you_can_slow_cognitive_decline_as_you_age_large/"
     },
     {
         "id": "1mbjfrb",
         "author": "geoff199",
         "title": "Patients with type 2 diabetes fare worse than other patients on seven financial outcomes, from credit scores to bankruptcy, a study finds.  Researchers say the results show diabetes patients need to be screened for financial and debt issues.",
         "content": "",
-        "upvotes": 146,
-        "comments": 37,
+        "upvotes": 342,
+        "comments": 62,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/HarDcuKAVwZXW5bFRqGUGLxBG2AbPkLrK2C2ch1p7LI.jpeg?auto=webp&amp;s=2b1f7ce110e6f5f019cb3e7c28de95506f85a94c"
@@ -98,25 +167,25 @@
         "permalink": "/r/science/comments/1mbjfrb/patients_with_type_2_diabetes_fare_worse_than/"
     },
     {
-        "id": "1maxmoz",
-        "author": "mvea",
-        "title": "Ageing accelerates around age 50 for humans, some organs faster than others. The findings add to mounting evidence that ageing is not linear, but is instead pockmarked by periods of rapid change. It also suggests that some tissues, especially blood vessels, age faster than others.",
+        "id": "1mb2c6q",
+        "author": "unsw",
+        "title": "Between 10 and 13 million babies have been born via IVF in the 40 years since the world\u2019s first IVF infant was born",
         "content": "",
-        "upvotes": 4006,
-        "comments": 76,
+        "upvotes": 4888,
+        "comments": 171,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/ApkHDi35YmPz9OM33Y-ywNE-Fiz6F1cfgxsk3Zb0WIY.jpeg?auto=webp&amp;s=947b68fba385249bcaf2e11cdf4dfab5a54c19fe"
+            "url": "https://external-preview.redd.it/VHvGzRqZp9ZXex5RgW16LR7Qv45v_MphfJ8Tup8xOCI.jpeg?auto=webp&amp;s=876742846e74e295b96996fcd24d89a97f9effd0"
         },
-        "permalink": "/r/science/comments/1maxmoz/ageing_accelerates_around_age_50_for_humans_some/"
+        "permalink": "/r/science/comments/1mb2c6q/between_10_and_13_million_babies_have_been_born/"
     },
     {
         "id": "1mbizgh",
         "author": "NGNResearch",
         "title": "Researcher uses light-sensitive drugs to target two of the deadliest cancers \u2014 melanoma and triple negative breast cancer \u2014 without the toxic side effects of traditional chemotherapy.",
         "content": "",
-        "upvotes": 92,
-        "comments": 1,
+        "upvotes": 288,
+        "comments": 3,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/dMKfRFbge2yIWVK1NkPo3O6bYPzwavOFhY_dk57zTgg.jpeg?auto=webp&amp;s=083dbca92e81b053f7b0f0395b4e8d6b38bd1e01"
@@ -124,25 +193,51 @@
         "permalink": "/r/science/comments/1mbizgh/researcher_uses_lightsensitive_drugs_to_target/"
     },
     {
-        "id": "1makuhp",
-        "author": "mvea",
-        "title": "Friendships between Americans who hold different political views are surprisingly uncommon. This suggests that political disagreement may introduce tension or discomfort into a relationship, even if it doesn\u2019t end the friendship entirely.",
+        "id": "1mboxbi",
+        "author": "drewiepoodle",
+        "title": "Study finds blood pressure drug may ease stomach issues for some autistic people. Given propranolol over 12 weeks, subjects with higher heart rate variability, a sign of a calmer nervous system, showed more improvement in gastrointestinal symptoms compared to those with more stressed nervous systems",
         "content": "",
-        "upvotes": 17769,
-        "comments": 3217,
+        "upvotes": 113,
+        "comments": 8,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/kYVrT7RHSMxQrMlVdcVpdoIBoZK04kv4_vuQotZy-qk.jpeg?auto=webp&amp;s=1061b3c770e47c529338e39ac0719eaf0be63fcb"
+            "url": "https://external-preview.redd.it/G10GZE9e2sbXjxqLywR4aoGS3hgR2g7Q6kxKTvQg1Fw.png?auto=webp&amp;s=a6f74c1f4abb2f2a44196ef7ed2a97ca66822e66"
         },
-        "permalink": "/r/science/comments/1makuhp/friendships_between_americans_who_hold_different/"
+        "permalink": "/r/science/comments/1mboxbi/study_finds_blood_pressure_drug_may_ease_stomach/"
+    },
+    {
+        "id": "1mbub8u",
+        "author": "andyhfell",
+        "title": "Using machine learning, researchers have tweaked immune receptors in plants to make them more resistant to bacterial pathogens. A major target is Ralstonia solanacearum, which causes bacterial wilt in tomato and potato crops.",
+        "content": "",
+        "upvotes": 55,
+        "comments": 3,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/gAJR8CGXd56aUSzbvX54vxh6iKMA8nInlTSKBREGeE8.jpeg?auto=webp&amp;s=bd905d6318a5f992f59c0a16caf6bbd0051592f2"
+        },
+        "permalink": "/r/science/comments/1mbub8u/using_machine_learning_researchers_have_tweaked/"
+    },
+    {
+        "id": "1mbkk57",
+        "author": "Science_News",
+        "title": "Visual recognition of someone who looks sick might prime a person\u2019s immune system | Brain imaging showed regions responsible for monitoring personal space reacted differently to sick faces; blood tests showed an increase of innate lymphoid cells in those presented with a sick face",
+        "content": "",
+        "upvotes": 147,
+        "comments": 9,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/Jl6gIYTZ7r5LM85pOQoATCgWYqnltNj8Zw_foEAxuPQ.jpeg?auto=webp&amp;s=976bcc2c5ec36d9382582951970485b3223b5c78"
+        },
+        "permalink": "/r/science/comments/1mbkk57/visual_recognition_of_someone_who_looks_sick/"
     },
     {
         "id": "1mbk67z",
         "author": "scientificamerican",
         "title": "Scientists create first antimatter qubit",
         "content": "",
-        "upvotes": 58,
-        "comments": 4,
+        "upvotes": 130,
+        "comments": 7,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/Md1U_2UST5GFS8cd6B9eyRT2fOe143EaTeKTjZ_NzaE.jpeg?auto=webp&amp;s=e49aa964ee7d08607d210b877a2111a75ed620aa"
@@ -150,11 +245,70 @@
         "permalink": "/r/science/comments/1mbk67z/scientists_create_first_antimatter_qubit/"
     },
     {
+        "id": "1maxmoz",
+        "author": "mvea",
+        "title": "Ageing accelerates around age 50 for humans, some organs faster than others. The findings add to mounting evidence that ageing is not linear, but is instead pockmarked by periods of rapid change. It also suggests that some tissues, especially blood vessels, age faster than others.",
+        "content": "",
+        "upvotes": 4344,
+        "comments": 81,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/ApkHDi35YmPz9OM33Y-ywNE-Fiz6F1cfgxsk3Zb0WIY.jpeg?auto=webp&amp;s=947b68fba385249bcaf2e11cdf4dfab5a54c19fe"
+        },
+        "permalink": "/r/science/comments/1maxmoz/ageing_accelerates_around_age_50_for_humans_some/"
+    },
+    {
+        "id": "1mbrt18",
+        "author": "FunnyGamer97",
+        "title": "Study finds sunflower sea stars (Pycnopodia helianthoides) not only prey on sea urchins but also create a \u201clandscape of fear\u201d that suppresses urchin grazing on kelp, thereby potentially aiding kelp\u2011forest recovery",
+        "content": "",
+        "upvotes": 48,
+        "comments": 1,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/KsEScyH_NIlBsr1Eqorx6kTEWW8kJxmZ51Ap8WaapJ8.jpeg?auto=webp&amp;s=d9d477f1761c37fed48d99bc35cf1274665e5d39"
+        },
+        "permalink": "/r/science/comments/1mbrt18/study_finds_sunflower_sea_stars_pycnopodia/"
+    },
+    {
+        "id": "1mbnlve",
+        "author": "-Mystica-",
+        "title": "Climate change significantly worsened deadly 2022 Durban floods. New study formally and scientifically attributes the extreme nature of the floods to climate change. It shows that rainfall during the storm was between 40% and 107% heavier than it would have been in a cooler, pre-industrial climate.",
+        "content": "",
+        "upvotes": 61,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1mbnlve/climate_change_significantly_worsened_deadly_2022/"
+    },
+    {
+        "id": "1makuhp",
+        "author": "mvea",
+        "title": "Friendships between Americans who hold different political views are surprisingly uncommon. This suggests that political disagreement may introduce tension or discomfort into a relationship, even if it doesn\u2019t end the friendship entirely.",
+        "content": "",
+        "upvotes": 18010,
+        "comments": 3255,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/kYVrT7RHSMxQrMlVdcVpdoIBoZK04kv4_vuQotZy-qk.jpeg?auto=webp&amp;s=1061b3c770e47c529338e39ac0719eaf0be63fcb"
+        },
+        "permalink": "/r/science/comments/1makuhp/friendships_between_americans_who_hold_different/"
+    },
+    {
+        "id": "1mbng8v",
+        "author": "-Mystica-",
+        "title": "One in 11 older Canadians has experienced depression, University of Toronto study finds. A study of 3,500 Canadians 55+ found that childhood abuse\u2014physical, sexual, or exposure to domestic violence\u2014significantly increases lifetime depression risk, with physical abuse tripling the odds.",
+        "content": "",
+        "upvotes": 42,
+        "comments": 4,
+        "media": null,
+        "permalink": "/r/science/comments/1mbng8v/one_in_11_older_canadians_has_experienced/"
+    },
+    {
         "id": "1mbg7tb",
         "author": "calliope_kekule",
         "title": "A study of nearly 14,000 hospitalised patients in Hong Kong found those with a rebound in the virus after treatment faced a higher risk of death and hospitalisation in the months that followed. Rebound may be an early warning sign for long COVID.",
         "content": "",
-        "upvotes": 64,
+        "upvotes": 76,
         "comments": 1,
         "media": {
             "type": "image",
@@ -163,35 +317,38 @@
         "permalink": "/r/science/comments/1mbg7tb/a_study_of_nearly_14000_hospitalised_patients_in/"
     },
     {
-        "id": "1mbkk57",
-        "author": "Science_News",
-        "title": "Visual recognition of someone who looks sick might prime a person\u2019s immune system | Brain imaging showed regions responsible for monitoring personal space reacted differently to sick faces; blood tests showed an increase of innate lymphoid cells in those presented with a sick face",
+        "id": "1mbpfri",
+        "author": "nohup_me",
+        "title": "Researchers created a new RNA-based aging measure that predicts health risks and mortality, called Transcriptomic Mortality-risk Age (TraMA). It uses gene expression data to estimate a person\u2019s biological aging",
         "content": "",
-        "upvotes": 36,
+        "upvotes": 24,
         "comments": 6,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/Jl6gIYTZ7r5LM85pOQoATCgWYqnltNj8Zw_foEAxuPQ.jpeg?auto=webp&amp;s=976bcc2c5ec36d9382582951970485b3223b5c78"
+            "url": "https://external-preview.redd.it/vKQUHf3hA5rlRi7NduqjEcDcuo6O5rze_BDtSjVQzEs.png?auto=webp&amp;s=41b5f7ab54b1e77d04f853dbd33921d898b66e36"
         },
-        "permalink": "/r/science/comments/1mbkk57/visual_recognition_of_someone_who_looks_sick/"
+        "permalink": "/r/science/comments/1mbpfri/researchers_created_a_new_rnabased_aging_measure/"
     },
     {
-        "id": "1mb97si",
-        "author": "wise_karlaz",
-        "title": "As a common rechargeable battery (Li-Ion) is used repeatedly, its internal layers physically bend, crack, and come apart, which is why it gradually loses its ability to hold a charge",
+        "id": "1mbn13z",
+        "author": "CosmicDame",
+        "title": "Large-scale study uncovers 57 genetic hotspots into stuttering origins",
         "content": "",
-        "upvotes": 141,
-        "comments": 13,
-        "media": null,
-        "permalink": "/r/science/comments/1mb97si/as_a_common_rechargeable_battery_liion_is_used/"
+        "upvotes": 30,
+        "comments": 1,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/p7uDDTwIPgmdCsJDcrWlxVFvbGEQcJutSbL_wj6lyRw.jpeg?auto=webp&amp;s=57d89b62412e18455026a71df68db9a303e8fe66"
+        },
+        "permalink": "/r/science/comments/1mbn13z/largescale_study_uncovers_57_genetic_hotspots/"
     },
     {
         "id": "1mbhfhe",
         "author": "IEEESpectrum",
         "title": "Robots That Learn to Fear Like Humans Survive Better Using Snap, Instinctual Judgements for Faster Risk Assessment",
         "content": "",
-        "upvotes": 36,
-        "comments": 8,
+        "upvotes": 46,
+        "comments": 12,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/Z3yM-06rE1MeX5MYlm1N2eJwMxRtqaAmP27smiPBtws.jpeg?auto=webp&amp;s=7c029f366fff7fba4ab59d1246b638922bd1754d"
@@ -199,161 +356,13 @@
         "permalink": "/r/science/comments/1mbhfhe/robots_that_learn_to_fear_like_humans_survive/"
     },
     {
-        "id": "1mavug6",
-        "author": "geoff199",
-        "title": "People who have a lot of friends actually experience greater distress than others when they are socially excluded by strangers, a study found. While research often stresses the benefits of a large friend network, this research shows one possible negative impact.",
-        "content": "",
-        "upvotes": 946,
-        "comments": 28,
-        "media": null,
-        "permalink": "/r/science/comments/1mavug6/people_who_have_a_lot_of_friends_actually/"
-    },
-    {
-        "id": "1maz668",
-        "author": "OneYellowLeaf",
-        "title": "MDMA-assisted therapy as a treatment for major depressive disorder: proof of principle study",
-        "content": "",
-        "upvotes": 601,
-        "comments": 34,
-        "media": null,
-        "permalink": "/r/science/comments/1maz668/mdmaassisted_therapy_as_a_treatment_for_major/"
-    },
-    {
-        "id": "1mbht48",
-        "author": "CTVNEWS",
-        "title": "Humour isn\u2019t genetic, but self-perception may be: study",
-        "content": "",
-        "upvotes": 27,
-        "comments": 5,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/NZnFHzpuN948Ti2mlLVZEt0oy3GgS0IsCKOO_TFtEL8.jpeg?auto=webp&amp;s=7f77745214b036502078167e89560a95e8abf74d"
-        },
-        "permalink": "/r/science/comments/1mbht48/humour_isnt_genetic_but_selfperception_may_be/"
-    },
-    {
-        "id": "1mat494",
-        "author": "Tall_Block_9961",
-        "title": "Even though they believe expert-only voting makes for better and faster decisions, kids still think it is more fair to let everyone vote to decide things.",
-        "content": "",
-        "upvotes": 1194,
-        "comments": 110,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/x2LkJZIv4hvZuvnC4-TTeESTwbnAE_97zHLVYJNwEAg.jpeg?auto=webp&amp;s=270d464967f4fe7ca4ce4257e3916cf3316da252"
-        },
-        "permalink": "/r/science/comments/1mat494/even_though_they_believe_expertonly_voting_makes/"
-    },
-    {
-        "id": "1mbiuhp",
-        "author": "Lord-Julius",
-        "title": "Accelerating lithium-mediated nitrogen reduction through an integrated palladium membrane hydrogenation reactor enables climate-friendly nitrogen production",
-        "content": "",
-        "upvotes": 17,
-        "comments": 1,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/-W1veuwlIjyfHHYcLkHr_uLFTvS2j6kqGXJzQcArWhs.png?auto=webp&amp;s=bec045b9dde9cfe27b8bac1b19795ce98b50afd8"
-        },
-        "permalink": "/r/science/comments/1mbiuhp/accelerating_lithiummediated_nitrogen_reduction/"
-    },
-    {
-        "id": "1mair0j",
-        "author": "mvea",
-        "title": "Beetroot juice lowers blood pressure in older people by changing oral microbiome. New study shows that nitrate-rich foods alter the oral microbiome in a way that could result in less inflammation, as well as a lowering of blood pressure in older people.",
-        "content": "",
-        "upvotes": 3438,
-        "comments": 134,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/XQLK78lGgEm3jSt-q9t3pWQ2GVWlE7SGzwEEK2xG3Yk.jpeg?auto=webp&amp;s=e10b3793b838822867df33b0672f45265a72b985"
-        },
-        "permalink": "/r/science/comments/1mair0j/beetroot_juice_lowers_blood_pressure_in_older/"
-    },
-    {
-        "id": "1mbdxbs",
-        "author": "penicillinpeter",
-        "title": "Methodological concerns about a new cortical biomarker for pain sensitivity (JAMA Neurology)",
-        "content": "",
-        "upvotes": 26,
-        "comments": 3,
-        "media": null,
-        "permalink": "/r/science/comments/1mbdxbs/methodological_concerns_about_a_new_cortical/"
-    },
-    {
-        "id": "1mbit5v",
-        "author": "Lord-Julius",
-        "title": "Efficient and sustained optogenetic control of sensory and cardiac systems enable new treatments for people suffering with hearing loss, cecity, or arrythmia",
-        "content": "",
-        "upvotes": 10,
-        "comments": 1,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/afRaKPfn7uzerMbiqYGeNWk97H6I_IcvgtaIaAjlLBY.png?auto=webp&amp;s=7d047fb95bbee4fd25162989190b4985ca5dca0c"
-        },
-        "permalink": "/r/science/comments/1mbit5v/efficient_and_sustained_optogenetic_control_of/"
-    },
-    {
-        "id": "1mb9cdx",
+        "id": "1mb97si",
         "author": "wise_karlaz",
-        "title": "The main challenge for training computer security systems has shifted from having too little data to having a lot of new data that is often flawed, unknown, or used incorrectly by researchers",
+        "title": "As a common rechargeable battery (Li-Ion) is used repeatedly, its internal layers physically bend, crack, and come apart, which is why it gradually loses its ability to hold a charge",
         "content": "",
-        "upvotes": 48,
-        "comments": 1,
+        "upvotes": 155,
+        "comments": 14,
         "media": null,
-        "permalink": "/r/science/comments/1mb9cdx/the_main_challenge_for_training_computer_security/"
-    },
-    {
-        "id": "1mb933r",
-        "author": "wise_karlaz",
-        "title": "Brno scientists developed a new, super-fast method to grow tiny, organized tantalum metal tubes using a special liquid and a porous mold",
-        "content": "",
-        "upvotes": 48,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1mb933r/brno_scientists_developed_a_new_superfast_method/"
-    },
-    {
-        "id": "1mb94hf",
-        "author": "wise_karlaz",
-        "title": "Researchers built a fully automatic robotic camera called EYRINA that can scan a much larger area of the back of your eye than normal cameras by taking multiple pictures from different angles and then stitching them together into a single, large, detailed image.",
-        "content": "",
-        "upvotes": 41,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1mb94hf/researchers_built_a_fully_automatic_robotic/"
-    },
-    {
-        "id": "1mb1edm",
-        "author": "bluish1997",
-        "title": "Comparative analyses for plant virus-based cancer immunotherapy drug development - Plant virus triggers immune response that targets and destroys cancer cells",
-        "content": "",
-        "upvotes": 97,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1mb1edm/comparative_analyses_for_plant_virusbased_cancer/"
-    },
-    {
-        "id": "1malul1",
-        "author": "chrisdh79",
-        "title": "Surrogates at greater risk of new mental illness than women carrying own babies | Canadian data analysis underscores importance of support during and after pregnancy, researchers say",
-        "content": "",
-        "upvotes": 680,
-        "comments": 79,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/6Vqth3Qx8tzJp7hs2PlcypsLjkOslrFWpKpWL12cJyo.jpeg?auto=webp&amp;s=1ea4902f29a59f90cb2ccabed75892bf143411df"
-        },
-        "permalink": "/r/science/comments/1malul1/surrogates_at_greater_risk_of_new_mental_illness/"
-    },
-    {
-        "id": "1mb6zvv",
-        "author": "GeoGeoGeoGeo",
-        "title": "New study challenges the timing of the Late Ordovician extinction finding peak tropical cooling during the Early Paleozoic Icehouse occurred after the event, based on isotope data from Anticosti Island.",
-        "content": "",
-        "upvotes": 35,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1mb6zvv/new_study_challenges_the_timing_of_the_late/"
+        "permalink": "/r/science/comments/1mb97si/as_a_common_rechargeable_battery_liion_is_used/"
     }
 ]
