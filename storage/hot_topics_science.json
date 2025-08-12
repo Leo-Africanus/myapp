@@ -4,8 +4,8 @@
         "author": "fchung",
         "title": "Diabetic man with gene-edited cells produces his own insulin\u2014No transplant drugs required: \u00ab A proof-of-concept study finds that donated insulin-producing cells can be genetically modified to avoid provoking the recipient's immune system. \u00bb",
         "content": "",
-        "upvotes": 10722,
-        "comments": 207,
+        "upvotes": 10785,
+        "comments": 208,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/dSQCIw2sLqv_gOAtNa7PaorALygYfMN4InIJA9wLSHQ.jpeg?auto=webp&amp;s=e06b119d0b6e438e39b63745ddd45c39dfd444b8"
@@ -17,8 +17,8 @@
         "author": "mvea",
         "title": "People are happier and more satisfied when adopting sustainable lifestyles and resisting the temptations of consumerism. Materialistic approaches to life do not lead to increases in happiness or wellbeing. Nor do they lead to sustainable consumption necessary for planetary health.",
         "content": "",
-        "upvotes": 2324,
-        "comments": 40,
+        "upvotes": 2366,
+        "comments": 42,
         "media": null,
         "permalink": "/r/science/comments/1mnseip/people_are_happier_and_more_satisfied_when/"
     },
@@ -27,7 +27,7 @@
         "author": "sciencealert",
         "title": "Huge array of bones from 75,000 years ago found in the Arne Qvam Cave in Norway fill a \"significant void in our understanding of biodiversity and the environment during a period of dramatic climate change\".",
         "content": "",
-        "upvotes": 625,
+        "upvotes": 632,
         "comments": 5,
         "media": {
             "type": "image",
@@ -36,11 +36,24 @@
         "permalink": "/r/science/comments/1mnuqa4/huge_array_of_bones_from_75000_years_ago_found_in/"
     },
     {
+        "id": "1mo03rf",
+        "author": "shiruken",
+        "title": "New results from the BOHEMIA trial in Kenya show that mass administration of ivermectin significantly reduces malaria transmission. New infections were reduced by 26% in children aged 5-15 with high bed net compliance compared to the control drug albendazole.",
+        "content": "",
+        "upvotes": 133,
+        "comments": 19,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/b2w73DiUbsIIZfyrge3OfhdzdOrPg2K6U8YdSPd1330.jpeg?auto=webp&amp;s=aa45c1a3b08e3b94ad518b1544611ac66aa7a63f"
+        },
+        "permalink": "/r/science/comments/1mo03rf/new_results_from_the_bohemia_trial_in_kenya_show/"
+    },
+    {
         "id": "1mndu2l",
         "author": "chrisdh79",
         "title": "Psychedelic experiences may offer a lasting boost in perceived life meaning | Specifically, the \u201cpresence of meaning\u201d tends to rise, while the \u201csearch for meaning\u201d tends to decline slightly.",
         "content": "",
-        "upvotes": 2072,
+        "upvotes": 2079,
         "comments": 56,
         "media": {
             "type": "image",
@@ -49,24 +62,11 @@
         "permalink": "/r/science/comments/1mndu2l/psychedelic_experiences_may_offer_a_lasting_boost/"
     },
     {
-        "id": "1mo03rf",
-        "author": "shiruken",
-        "title": "New results from the BOHEMIA trial in Kenya show that mass administration of ivermectin significantly reduces malaria transmission. New infections were reduced by 26% in children aged 5-15 with high bed net compliance compared to the control drug albendazole.",
-        "content": "",
-        "upvotes": 115,
-        "comments": 14,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/b2w73DiUbsIIZfyrge3OfhdzdOrPg2K6U8YdSPd1330.jpeg?auto=webp&amp;s=aa45c1a3b08e3b94ad518b1544611ac66aa7a63f"
-        },
-        "permalink": "/r/science/comments/1mo03rf/new_results_from_the_bohemia_trial_in_kenya_show/"
-    },
-    {
         "id": "1mnznty",
         "author": "calliope_kekule",
         "title": "A new study found that rapeseed, wheat, and peas grown in Canada emit far less CO\u2082 than those from major competitors, even after shipping overseas.",
         "content": "",
-        "upvotes": 102,
+        "upvotes": 108,
         "comments": 4,
         "media": {
             "type": "image",
@@ -79,7 +79,7 @@
         "author": "mvea",
         "title": "Cannabis potency is increasing \u2014 The concentration of THC has increased fivefold in the last 20 years in Canada. High-potency and regular cannabis use is linked to increased risk of psychosis. Cannabis-induced psychosis and cannabis use disorder increase the risk of schizophrenia.",
         "content": "",
-        "upvotes": 2125,
+        "upvotes": 2145,
         "comments": 601,
         "media": null,
         "permalink": "/r/science/comments/1mna0g2/cannabis_potency_is_increasing_the_concentration/"
@@ -102,7 +102,7 @@
         "author": "IEEESpectrum",
         "title": "New computer chip in the Large Hadron Collider will allow a observation of 1.5 billion collisions per second",
         "content": "",
-        "upvotes": 579,
+        "upvotes": 583,
         "comments": 16,
         "media": {
             "type": "image",
@@ -111,11 +111,21 @@
         "permalink": "/r/science/comments/1mnh94v/new_computer_chip_in_the_large_hadron_collider/"
     },
     {
+        "id": "1mnzz3l",
+        "author": "calliope_kekule",
+        "title": "Brain cells learn faster than machine learning, new research reveals",
+        "content": "",
+        "upvotes": 48,
+        "comments": 5,
+        "media": null,
+        "permalink": "/r/science/comments/1mnzz3l/brain_cells_learn_faster_than_machine_learning/"
+    },
+    {
         "id": "1mn2f2a",
         "author": "mvea",
         "title": "Ancient practice of blowing through a conch shell could help reduce dangerous symptoms of obstructive sleep apnea (OSA), offering an alternative to medication and machines. Shankh blowers were 34% less sleepy during daytime, reported sleeping better and had higher levels of blood oxygen at night.",
         "content": "",
-        "upvotes": 6087,
+        "upvotes": 6096,
         "comments": 349,
         "media": {
             "type": "image",
@@ -124,21 +134,11 @@
         "permalink": "/r/science/comments/1mn2f2a/ancient_practice_of_blowing_through_a_conch_shell/"
     },
     {
-        "id": "1mnzz3l",
-        "author": "calliope_kekule",
-        "title": "Brain cells learn faster than machine learning, new research reveals",
-        "content": "",
-        "upvotes": 47,
-        "comments": 4,
-        "media": null,
-        "permalink": "/r/science/comments/1mnzz3l/brain_cells_learn_faster_than_machine_learning/"
-    },
-    {
         "id": "1mnmrkb",
         "author": "nohup_me",
         "title": "The human brain ages less than thought and in layers \u2013 at least in the area of the cerebral cortex responsible for the sense of touch",
         "content": "",
-        "upvotes": 232,
+        "upvotes": 230,
         "comments": 5,
         "media": {
             "type": "image",
@@ -151,7 +151,7 @@
         "author": "Hrmbee",
         "title": "Non-mRNA vaccine targeting common mutations in pancreatic and bowel cancers could lower risk of relapse | Lymph node-targeted, mKRAS-specific amphiphile vaccine in pancreatic and colorectal cancer: phase 1 AMPLIFY-201 trial final results",
         "content": "",
-        "upvotes": 243,
+        "upvotes": 248,
         "comments": 4,
         "media": {
             "type": "image",
@@ -164,10 +164,23 @@
         "author": "calliope_kekule",
         "title": "Cats with dementia have brain changes similar to those of people with Alzheimer\u2019s disease, offering a valuable model for studying the condition in humans",
         "content": "",
-        "upvotes": 40,
+        "upvotes": 39,
         "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1mo00qz/cats_with_dementia_have_brain_changes_similar_to/"
+    },
+    {
+        "id": "1mo26hy",
+        "author": "glwrld",
+        "title": "Brain cells follow an internal rhythm during memory formation and recall, researchers find",
+        "content": "",
+        "upvotes": 25,
+        "comments": 1,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/ZjUS5EyJdiloiOkuqtu6iUa0E-zYXEedx_3k387BoPo.png?auto=webp&amp;s=02ab27819a4375eb746e3c13eaaa54bf1040f409"
+        },
+        "permalink": "/r/science/comments/1mo26hy/brain_cells_follow_an_internal_rhythm_during/"
     },
     {
         "id": "1mnbvol",
@@ -175,25 +188,12 @@
         "title": "Pessimistic Dogs Are Better at Smelling Cancer\u2014And Other Keys to Disease-Sniffing Success | New research is revealing how disease-smelling dogs can excel",
         "content": "",
         "upvotes": 621,
-        "comments": 10,
+        "comments": 11,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/mdj3zIk7VK9nWQuo16huOmQTSnmGzda5YoRBuP8Jtp8.jpeg?auto=webp&amp;s=e96703c135befd0c9c6f652af48b226df90987ea"
         },
         "permalink": "/r/science/comments/1mnbvol/pessimistic_dogs_are_better_at_smelling_cancerand/"
-    },
-    {
-        "id": "1mo26hy",
-        "author": "glwrld",
-        "title": "Brain cells follow an internal rhythm during memory formation and recall, researchers find",
-        "content": "",
-        "upvotes": 21,
-        "comments": 1,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/ZjUS5EyJdiloiOkuqtu6iUa0E-zYXEedx_3k387BoPo.png?auto=webp&amp;s=02ab27819a4375eb746e3c13eaaa54bf1040f409"
-        },
-        "permalink": "/r/science/comments/1mo26hy/brain_cells_follow_an_internal_rhythm_during/"
     },
     {
         "id": "1mnhgkh",
@@ -213,7 +213,7 @@
         "author": "drewiepoodle",
         "title": "Leaf-inspired bioplastic - Chemical engineers introduce cellulose nanofibers to design of a starch-derived plastic, improving strength &amp; biodegradability. It has low air or water permeability which helps keep food stable, and has a printable surface which negates need for separate packaging labels.",
         "content": "",
-        "upvotes": 69,
+        "upvotes": 71,
         "comments": 2,
         "media": {
             "type": "image",
@@ -226,26 +226,13 @@
         "author": "mvea",
         "title": "Aging skin rejuvenated by young blood and bone marrow - A new study shows that proteins secreted by bone marrow cells, triggered by young blood, can rejuvenate aging skin in the lab.",
         "content": "",
-        "upvotes": 10401,
+        "upvotes": 10405,
         "comments": 914,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/NSjefqFKzOebXM654vdQFXDWS7trGJAZ-IXrXmAiYi4.jpeg?auto=webp&amp;s=2a2963a40aa5e7a0efc4f26eab2e669271c36208"
         },
         "permalink": "/r/science/comments/1mmr2uv/aging_skin_rejuvenated_by_young_blood_and_bone/"
-    },
-    {
-        "id": "1mna8oh",
-        "author": "whitelightstorm",
-        "title": "MIT physicists snap the first images of \u201cfree-range\u201d atoms",
-        "content": "",
-        "upvotes": 358,
-        "comments": 23,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/PDDinhanuwYRB-TqQOvgU-CJMdWfksLcJWZDA4BDW7s.jpeg?auto=webp&amp;s=2648acb732da23e3ddb6d61e146dda50a22e5e1c"
-        },
-        "permalink": "/r/science/comments/1mna8oh/mit_physicists_snap_the_first_images_of_freerange/"
     },
     {
         "id": "1mo2zgh",
@@ -258,11 +245,24 @@
         "permalink": "/r/science/comments/1mo2zgh/a_human_nk_cell_progenitor_that_originates_in_the/"
     },
     {
+        "id": "1mna8oh",
+        "author": "whitelightstorm",
+        "title": "MIT physicists snap the first images of \u201cfree-range\u201d atoms",
+        "content": "",
+        "upvotes": 361,
+        "comments": 23,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/PDDinhanuwYRB-TqQOvgU-CJMdWfksLcJWZDA4BDW7s.jpeg?auto=webp&amp;s=2648acb732da23e3ddb6d61e146dda50a22e5e1c"
+        },
+        "permalink": "/r/science/comments/1mna8oh/mit_physicists_snap_the_first_images_of_freerange/"
+    },
+    {
         "id": "1mnop02",
         "author": "drewiepoodle",
         "title": "Using computational methods, study demonstrates the extreme morphologies of treehopper insects with features like horns, spines, balls, and tridents, affects the electric field strength around them. This may boost their sensitivity to static electricity and help differentiate friend from foe.",
         "content": "",
-        "upvotes": 46,
+        "upvotes": 44,
         "comments": 2,
         "media": {
             "type": "image",
@@ -285,7 +285,7 @@
         "author": "The_Conversation",
         "title": "Global warming at the Paleocene-Eocene Thermal Maximum 56 million years ago resulted in pollinators spreading northwards, as tropical plants expanded their range and wind-based pollination was reduced",
         "content": "",
-        "upvotes": 87,
+        "upvotes": 82,
         "comments": 2,
         "media": {
             "type": "image",
@@ -304,24 +304,11 @@
         "permalink": "/r/science/comments/1mnh29j/liberalisation_processes_in_oman_lead_to_english/"
     },
     {
-        "id": "1mmro43",
-        "author": "nohup_me",
-        "title": "Researchers used a millimeter-wave radar sensor to collect conversations from the vibrations of smartphones and adapted a speech recognition model to decode the vibrations into recognizable speech transcriptions",
-        "content": "",
-        "upvotes": 1568,
-        "comments": 46,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/PyxYwBBh7o7axpYyXr3fBY7EEenLhlTM13hJgLn_o6o.jpeg?auto=webp&amp;s=72646bfb4e1afd34d99c734fbbdd54f02041fcae"
-        },
-        "permalink": "/r/science/comments/1mmro43/researchers_used_a_millimeterwave_radar_sensor_to/"
-    },
-    {
         "id": "1mo31fg",
         "author": "Lord-Julius",
         "title": "Genetic variation at transcription factor binding sites largely explains phenotypic heritability in maize enabling the growing of new climate resilient plants",
         "content": "",
-        "upvotes": 1,
+        "upvotes": 2,
         "comments": 1,
         "media": {
             "type": "image",
@@ -330,11 +317,24 @@
         "permalink": "/r/science/comments/1mo31fg/genetic_variation_at_transcription_factor_binding/"
     },
     {
+        "id": "1mmro43",
+        "author": "nohup_me",
+        "title": "Researchers used a millimeter-wave radar sensor to collect conversations from the vibrations of smartphones and adapted a speech recognition model to decode the vibrations into recognizable speech transcriptions",
+        "content": "",
+        "upvotes": 1565,
+        "comments": 46,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/PyxYwBBh7o7axpYyXr3fBY7EEenLhlTM13hJgLn_o6o.jpeg?auto=webp&amp;s=72646bfb4e1afd34d99c734fbbdd54f02041fcae"
+        },
+        "permalink": "/r/science/comments/1mmro43/researchers_used_a_millimeterwave_radar_sensor_to/"
+    },
+    {
         "id": "1mmu82o",
         "author": "calliope_kekule",
         "title": "Analysis of 152 countries (1971\u20132021) finds unilateral economic sanctions raise mortality across all ages, with annual deaths comparable to global armed conflict.",
         "content": "",
-        "upvotes": 558,
+        "upvotes": 559,
         "comments": 36,
         "media": null,
         "permalink": "/r/science/comments/1mmu82o/analysis_of_152_countries_19712021_finds/"
@@ -344,7 +344,7 @@
         "author": "sciencealert",
         "title": "A new paper suggests gravitational waves \u2013 rather than hypothetical particles called inflatons \u2013 drove the Universe's early expansion, and the redistribution of matter therein.",
         "content": "",
-        "upvotes": 274,
+        "upvotes": 272,
         "comments": 13,
         "media": {
             "type": "image",
@@ -357,7 +357,7 @@
         "author": "whitelightstorm",
         "title": "Fecal microbiota transplant as treatment for recurrent urinary tract infections: a proof-of-concept study",
         "content": "",
-        "upvotes": 138,
+        "upvotes": 134,
         "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1mn2yqd/fecal_microbiota_transplant_as_treatment_for/"
