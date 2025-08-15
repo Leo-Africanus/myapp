@@ -1,34 +1,11 @@
 [
     {
-        "id": "1mpz6f2",
-        "author": "mvea",
-        "title": "A few dozen people in the world have a rare genetic mutation that gives them the ability to fight off all viruses. An mRNA-based antiviral inspired by this prevents viral replication in hamsters/ mice, and scientists have yet to find a virus that can break through its defenses in cell culture.",
-        "content": "",
-        "upvotes": 21709,
-        "comments": 548,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/Dbyj0wRtvFhxpPjsmyQnyIvVt7mRIlztVYVBR0hEuwY.jpeg?auto=webp&amp;s=3923904ecd024a7814819bb47e00e237c58d7de5"
-        },
-        "permalink": "/r/science/comments/1mpz6f2/a_few_dozen_people_in_the_world_have_a_rare/"
-    },
-    {
-        "id": "1mq2kvk",
-        "author": "smurfyjenkins",
-        "title": "Ordinary people's views on housing are out of step with the economics literature. People do not believe that more housing supply would reduce housing prices. Instead they attribute high housing prices to putative bad actors (landlords, developers) and support price controls and demand subsidies.",
-        "content": "",
-        "upvotes": 8557,
-        "comments": 1544,
-        "media": null,
-        "permalink": "/r/science/comments/1mq2kvk/ordinary_peoples_views_on_housing_are_out_of_step/"
-    },
-    {
         "id": "1mqhf5m",
         "author": "mvea",
         "title": "Toothpaste made from your own hair could help repair and protect damaged teeth. Scientists discovered that keratin found in hair produces a protective coating that mimics the structure and function of natural enamel when it comes into contact with minerals in saliva.",
         "content": "",
-        "upvotes": 802,
-        "comments": 35,
+        "upvotes": 4098,
+        "comments": 114,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/fS535XSEgS0niHzDt7fTnT3dCc5ShdXcF9i-RE0uJoU.jpeg?auto=webp&amp;s=da2f84e79939d4ab66f7e107a63c816c091a0dcd"
@@ -36,22 +13,12 @@
         "permalink": "/r/science/comments/1mqhf5m/toothpaste_made_from_your_own_hair_could_help/"
     },
     {
-        "id": "1mq7vck",
-        "author": "ajukearth",
-        "title": "\u2018Sex reversal\u2019 is surprisingly common in birds, new study suggests",
-        "content": "",
-        "upvotes": 925,
-        "comments": 103,
-        "media": null,
-        "permalink": "/r/science/comments/1mq7vck/sex_reversal_is_surprisingly_common_in_birds_new/"
-    },
-    {
         "id": "1mqj3kv",
         "author": "smurfyjenkins",
         "title": "When individuals move to more walkable cities, they substantially increase their physical activity \u2013 These changes hold across genders, ages and body mass index values.",
         "content": "",
-        "upvotes": 247,
-        "comments": 7,
+        "upvotes": 1658,
+        "comments": 28,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/o6Oy7J5COEmlFz3l6hVKK2H-9tiHqO8Yq1nNNmiwJYI.png?auto=webp&amp;s=021f983068904e9d19672ad8e01243d8f8551a94"
@@ -59,12 +26,45 @@
         "permalink": "/r/science/comments/1mqj3kv/when_individuals_move_to_more_walkable_cities/"
     },
     {
+        "id": "1mq2kvk",
+        "author": "smurfyjenkins",
+        "title": "Ordinary people's views on housing are out of step with the economics literature. People do not believe that more housing supply would reduce housing prices. Instead they attribute high housing prices to putative bad actors (landlords, developers) and support price controls and demand subsidies.",
+        "content": "",
+        "upvotes": 11530,
+        "comments": 1899,
+        "media": null,
+        "permalink": "/r/science/comments/1mq2kvk/ordinary_peoples_views_on_housing_are_out_of_step/"
+    },
+    {
+        "id": "1mpz6f2",
+        "author": "mvea",
+        "title": "A few dozen people in the world have a rare genetic mutation that gives them the ability to fight off all viruses. An mRNA-based antiviral inspired by this prevents viral replication in hamsters/ mice, and scientists have yet to find a virus that can break through its defenses in cell culture.",
+        "content": "",
+        "upvotes": 23820,
+        "comments": 566,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/Dbyj0wRtvFhxpPjsmyQnyIvVt7mRIlztVYVBR0hEuwY.jpeg?auto=webp&amp;s=3923904ecd024a7814819bb47e00e237c58d7de5"
+        },
+        "permalink": "/r/science/comments/1mpz6f2/a_few_dozen_people_in_the_world_have_a_rare/"
+    },
+    {
+        "id": "1mq7vck",
+        "author": "ajukearth",
+        "title": "\u2018Sex reversal\u2019 is surprisingly common in birds, new study suggests",
+        "content": "",
+        "upvotes": 1112,
+        "comments": 116,
+        "media": null,
+        "permalink": "/r/science/comments/1mq7vck/sex_reversal_is_surprisingly_common_in_birds_new/"
+    },
+    {
         "id": "1mpwi4n",
         "author": "mvea",
         "title": "New evidence that use of acetaminophen (Tylenol or paracetamol) during pregnancy may be linked to increased risk of autism and ADHD in offspring, from study of more than 100,000. It is the most common over-the-counter pain and fever medication used by more than half of pregnant women worldwide.",
         "content": "",
-        "upvotes": 3214,
-        "comments": 252,
+        "upvotes": 3803,
+        "comments": 273,
         "media": null,
         "permalink": "/r/science/comments/1mpwi4n/new_evidence_that_use_of_acetaminophen_tylenol_or/"
     },
@@ -73,28 +73,18 @@
         "author": "nohup_me",
         "title": "New study identifies novel neural pathway to treat alcohol use disorder: a dopamine-boosting drug tolcapone increases activity in the prefrontal cortex during self-control tasks. This is associated with better behavioral control and reduced alcohol consumption",
         "content": "",
-        "upvotes": 480,
-        "comments": 45,
+        "upvotes": 580,
+        "comments": 55,
         "media": null,
         "permalink": "/r/science/comments/1mqak9v/new_study_identifies_novel_neural_pathway_to/"
-    },
-    {
-        "id": "1mq17e9",
-        "author": "Ollyfer",
-        "title": "British news media contribute to Normalisation of fringe-right extremist points of view when they leave them unquestioned in interviews",
-        "content": "",
-        "upvotes": 1257,
-        "comments": 37,
-        "media": null,
-        "permalink": "/r/science/comments/1mq17e9/british_news_media_contribute_to_normalisation_of/"
     },
     {
         "id": "1mq3mtj",
         "author": "scientificamerican",
         "title": "A new brain prosthetic allows people to communicate by simply thinking what they want to say. Researchers developed their \u201cinner speech\u201d decoding device and published the results on Thursday in Cell.",
         "content": "",
-        "upvotes": 925,
-        "comments": 147,
+        "upvotes": 1186,
+        "comments": 171,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/w-PMN2Ka67E6qTbqbmrCGRRSnOd-xL6V5P0tWzh5DCI.jpeg?auto=webp&amp;s=d60ef399091b5267cf4414a0b147caa80db74263"
@@ -102,12 +92,22 @@
         "permalink": "/r/science/comments/1mq3mtj/a_new_brain_prosthetic_allows_people_to/"
     },
     {
+        "id": "1mq17e9",
+        "author": "Ollyfer",
+        "title": "British news media contribute to Normalisation of fringe-right extremist points of view when they leave them unquestioned in interviews",
+        "content": "",
+        "upvotes": 1489,
+        "comments": 43,
+        "media": null,
+        "permalink": "/r/science/comments/1mq17e9/british_news_media_contribute_to_normalisation_of/"
+    },
+    {
         "id": "1mq4xj4",
         "author": "TypicalEpistemophile",
         "title": "Long-term study finds widening gap in social isolation between sexual minority and heterosexual adults",
         "content": "",
-        "upvotes": 610,
-        "comments": 137,
+        "upvotes": 854,
+        "comments": 152,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/3AbSJnlNEBJywgVwTPuaZkIoc1-VwmdpmVqYHWKp6qk.jpeg?auto=webp&amp;s=f31fa7c229f0e4e99eb02e428d6f817017ec9696"
@@ -115,34 +115,11 @@
         "permalink": "/r/science/comments/1mq4xj4/longterm_study_finds_widening_gap_in_social/"
     },
     {
-        "id": "1mppy1m",
-        "author": "Aralknight",
-        "title": "A study of 150,000 people with ADHD in Sweden confirms that drugs taken to manage the condition have wider benefits beyond improving immediate symptoms",
-        "content": "",
-        "upvotes": 6122,
-        "comments": 293,
-        "media": null,
-        "permalink": "/r/science/comments/1mppy1m/a_study_of_150000_people_with_adhd_in_sweden/"
-    },
-    {
-        "id": "1mpk81g",
-        "author": "mvea",
-        "title": "Gerrymandering erodes confidence in democracy, finds study of nearly 30,000 US voters. When politicians redraw congressional district maps to favor their party, they may secure short-term victories. But those wins can come at a steep price \u2014 a loss of public faith in elections and democracy itself.",
-        "content": "",
-        "upvotes": 20596,
-        "comments": 849,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/5J5QyTHFz3gXAZ3khloqn6XL5lVOs9kyoBfpqesgXmw.jpeg?auto=webp&amp;s=59e677e68353eddcfea43ab4550065d41ffd1ffc"
-        },
-        "permalink": "/r/science/comments/1mpk81g/gerrymandering_erodes_confidence_in_democracy/"
-    },
-    {
         "id": "1mq8408",
         "author": "nohup_me",
         "title": "Frequent helping others outside the home significantly slows cognitive decline in middle-age and older adults.",
         "content": "",
-        "upvotes": 361,
+        "upvotes": 511,
         "comments": 2,
         "media": {
             "type": "image",
@@ -155,8 +132,8 @@
         "author": "DontTalkAboutBruno1",
         "title": "Human eggs don't accumulate as many mutations with age as we thought",
         "content": "",
-        "upvotes": 588,
-        "comments": 24,
+        "upvotes": 778,
+        "comments": 31,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/LcVRk7MATy7pcclRqon5_v8taXOVlvpx96XfkNlVK9c.jpeg?auto=webp&amp;s=83a90745dbed2c72ba9a5a39686ce6cdd12d782c"
@@ -164,11 +141,47 @@
         "permalink": "/r/science/comments/1mq3ak1/human_eggs_dont_accumulate_as_many_mutations_with/"
     },
     {
+        "id": "1mppy1m",
+        "author": "Aralknight",
+        "title": "A study of 150,000 people with ADHD in Sweden confirms that drugs taken to manage the condition have wider benefits beyond improving immediate symptoms",
+        "content": "",
+        "upvotes": 6478,
+        "comments": 307,
+        "media": null,
+        "permalink": "/r/science/comments/1mppy1m/a_study_of_150000_people_with_adhd_in_sweden/"
+    },
+    {
+        "id": "1mqqwys",
+        "author": "KoalaWide2345",
+        "title": "An arterial disease, recently discovered in cats of the Korat breed, resembles genetic familial hypercholesterolemia (FH), a cholesterol disorder in humans. The discovery may help prevent the incidence of the disease in cats and possibly open new courses for human therapies.",
+        "content": "",
+        "upvotes": 35,
+        "comments": 2,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/UX_BEqoZs24RU3iVzD6U-FEoxmLioxrq1Hq5EcGXkXE.jpeg?auto=webp&amp;s=4781adfa6875372e4b720cd1aad4de4f2f746f4c"
+        },
+        "permalink": "/r/science/comments/1mqqwys/an_arterial_disease_recently_discovered_in_cats/"
+    },
+    {
+        "id": "1mpk81g",
+        "author": "mvea",
+        "title": "Gerrymandering erodes confidence in democracy, finds study of nearly 30,000 US voters. When politicians redraw congressional district maps to favor their party, they may secure short-term victories. But those wins can come at a steep price \u2014 a loss of public faith in elections and democracy itself.",
+        "content": "",
+        "upvotes": 20839,
+        "comments": 852,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/5J5QyTHFz3gXAZ3khloqn6XL5lVOs9kyoBfpqesgXmw.jpeg?auto=webp&amp;s=59e677e68353eddcfea43ab4550065d41ffd1ffc"
+        },
+        "permalink": "/r/science/comments/1mpk81g/gerrymandering_erodes_confidence_in_democracy/"
+    },
+    {
         "id": "1mqbpwb",
         "author": "fchung",
         "title": "Is the \u2018love hormone,\u2019 oxytocin, also the \u2018friendship hormone\u2019: \u00ab A UC Berkeley study found that social prairie voles lacking the receptor for oxytocin are slow to form friendships and less aggressive toward unfamiliar peers. \u00bb",
         "content": "",
-        "upvotes": 136,
+        "upvotes": 188,
         "comments": 5,
         "media": {
             "type": "image",
@@ -177,12 +190,25 @@
         "permalink": "/r/science/comments/1mqbpwb/is_the_love_hormone_oxytocin_also_the_friendship/"
     },
     {
+        "id": "1mq8ra9",
+        "author": "New_Scientist_Mag",
+        "title": "For the first time in 35 years, scientists have analysed a new type of all-carbon molecule at room temperature, without the extreme conditions usually required to stabilise this type of molecule",
+        "content": "",
+        "upvotes": 131,
+        "comments": 5,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/G14cnnVv5hNGOU2RRgNUrU7jl8VkTkHhDJZiojUL554.jpeg?auto=webp&amp;s=dd96a88c57457776e33711550e10d3fccafc7600"
+        },
+        "permalink": "/r/science/comments/1mq8ra9/for_the_first_time_in_35_years_scientists_have/"
+    },
+    {
         "id": "1mpwvbr",
         "author": "Wagamaga",
         "title": "A drought lasting 13 years and several others that each lasted over three years may have contributed to the collapse of the Classic Maya civilisation, chemical fingerprints from a stalagmite in a Mexican cave have revealed.",
         "content": "",
-        "upvotes": 450,
-        "comments": 3,
+        "upvotes": 496,
+        "comments": 4,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/YJwPqxbF6rF5W7utudZORlYXAENz7vOg4fsfgpPxieU.jpeg?auto=webp&amp;s=89ff108fd3ef8c8e41816642078d3f9beb58b26b"
@@ -194,8 +220,8 @@
         "author": "-Mystica-",
         "title": "A comprehensive analysis of health data from over 45,000 Australians found that higher fruit and vegetable intake was associated with lower psychological distress, while consuming seven or more cups of soft drinks a week was linked to nearly five times higher odds of reporting depression.",
         "content": "",
-        "upvotes": 223,
-        "comments": 7,
+        "upvotes": 252,
+        "comments": 8,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/-5zjtcxdnRRgsd3Nr1rovLQeaIM2uaYanTSu6g_C2O4.png?auto=webp&amp;s=4e2429c1540519f3d978a254d7b682e492c27661"
@@ -203,25 +229,22 @@
         "permalink": "/r/science/comments/1mq0f2l/a_comprehensive_analysis_of_health_data_from_over/"
     },
     {
-        "id": "1mq8ra9",
-        "author": "New_Scientist_Mag",
-        "title": "For the first time in 35 years, scientists have analysed a new type of all-carbon molecule at room temperature, without the extreme conditions usually required to stabilise this type of molecule",
+        "id": "1mqqvlp",
+        "author": "BrnoRegion",
+        "title": "Brno researchers confirmed nuclear computer models for aluminum are mostly accurate but found minor flaws in specific energy ranges",
         "content": "",
-        "upvotes": 84,
-        "comments": 4,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/G14cnnVv5hNGOU2RRgNUrU7jl8VkTkHhDJZiojUL554.jpeg?auto=webp&amp;s=dd96a88c57457776e33711550e10d3fccafc7600"
-        },
-        "permalink": "/r/science/comments/1mq8ra9/for_the_first_time_in_35_years_scientists_have/"
+        "upvotes": 8,
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/science/comments/1mqqvlp/brno_researchers_confirmed_nuclear_computer/"
     },
     {
         "id": "1mq3kyc",
         "author": "IEEESpectrum",
         "title": "Generative AI algorithms trained on vast datasets of antibacterial substances dreamed up millions of previously unimagined molecules with predicted microbe-killing power\u2014some of which proved potent in mouse experiments",
         "content": "",
-        "upvotes": 92,
-        "comments": 12,
+        "upvotes": 139,
+        "comments": 13,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/d1huVQA9Xsjgdsu6Kcf4YooRFbd7LIExiIw2ZR6i8v4.jpeg?auto=webp&amp;s=484c43d5aafe9c37f5aad297e212113da21bca05"
@@ -229,24 +252,21 @@
         "permalink": "/r/science/comments/1mq3kyc/generative_ai_algorithms_trained_on_vast_datasets/"
     },
     {
-        "id": "1mqha92",
-        "author": "Trosterman",
-        "title": "Stanford researchers use electrodes and artificial intelligence to help people whose paralysis prevents physical speech",
+        "id": "1mqre16",
+        "author": "BrnoRegion",
+        "title": "An experiment shooting neutrons through Teflon revealed that computer simulations for fluorine, a key nuclear material, are flawed at lower energies and require correction",
         "content": "",
-        "upvotes": 21,
+        "upvotes": 4,
         "comments": 1,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/ryEfWIPu_sAeWGe0ewTuRE6o9fQDjpFQtKjFotXuQbA.jpeg?auto=webp&amp;s=fc7a4adcc9edc0cc60a368f182de3b42b624a545"
-        },
-        "permalink": "/r/science/comments/1mqha92/stanford_researchers_use_electrodes_and/"
+        "media": null,
+        "permalink": "/r/science/comments/1mqre16/an_experiment_shooting_neutrons_through_teflon/"
     },
     {
         "id": "1mpzrzq",
         "author": "KoalaWide2345",
         "title": "The warming climate is transforming moth communities across Finland. According to researchers at the University of Helsinki, northern cold-adapted species are becoming rarer while southern Finland is seeing an influx of warm-adapted species from the mainland Europe.",
         "content": "",
-        "upvotes": 111,
+        "upvotes": 124,
         "comments": 2,
         "media": {
             "type": "image",
@@ -259,8 +279,8 @@
         "author": "ashleysworldxo",
         "title": "study finds common artificial sweetener sucralose may reduce effectiveness of cancer immunotherapy by altering gut bacteria and lowering arginine levels",
         "content": "",
-        "upvotes": 767,
-        "comments": 18,
+        "upvotes": 775,
+        "comments": 19,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/nxvFBXkPCoR_753IB5t4FQkOhfTwrdyiNXuoMb0GdEM.jpeg?auto=webp&amp;s=6e29ff93269ad767bed653cff5ac136c6781dc5e"
@@ -272,8 +292,8 @@
         "author": "mvea",
         "title": "Massive study of nearly 400,000 people has for the first time established a causal link between gut bacteria and insomnia, confirming research that found some bugs help you sleep while others disrupt it. 14 bacterial taxa were found to increase risk of insomnia, while 8 appeared to be protective.",
         "content": "",
-        "upvotes": 10575,
-        "comments": 362,
+        "upvotes": 10699,
+        "comments": 365,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/pZ2WryQR1T6HpUHVH64bBacN1yIfcBATKG02Bq4fEDI.jpeg?auto=webp&amp;s=a1cbcc03445a9072b15b1a6fafc7a3807403ab37"
@@ -285,8 +305,8 @@
         "author": "chrisdh79",
         "title": "First antidote for carbon monoxide poisoning \"cleans\" blood in minutes | An engineered antidote acts like a sponge, soaking up CO attached to red blood cells. In mice, half the CO in the bloodstream was cleared out in less than a minute.",
         "content": "",
-        "upvotes": 16847,
-        "comments": 324,
+        "upvotes": 16923,
+        "comments": 326,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/Oaz61e6t-jytQ0NsuZeAzXnb6ptL-0nSYBe4Dmuco-U.jpeg?auto=webp&amp;s=252d6449fce777423f78f9d4b90fd2c5f36134fd"
@@ -298,8 +318,8 @@
         "author": "ddx-me",
         "title": "After exposure to artificial intelligence, diagnostic colonoscopy polyp detection rates in four Polish medical centers decreased from 28.4% to 22.4%",
         "content": "",
-        "upvotes": 1403,
-        "comments": 55,
+        "upvotes": 1442,
+        "comments": 56,
         "media": null,
         "permalink": "/r/science/comments/1mpgah1/after_exposure_to_artificial_intelligence/"
     },
@@ -308,8 +328,8 @@
         "author": "sciencealert",
         "title": "Fossilized teeth from 2.6 million years ago reveal the existence of an ancient human species that's never been found before",
         "content": "",
-        "upvotes": 3850,
-        "comments": 88,
+        "upvotes": 3953,
+        "comments": 89,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/bfWTht8ttDncipIX1nvB_X1eWdZMSff9nhGhbDKXiuE.jpeg?auto=webp&amp;s=b98cbd012bbdcb2f2a3170f8756d3d6536f601f6"
@@ -321,7 +341,7 @@
         "author": "MassGen-Research",
         "title": "The Use of the Anxiety, Depression and Mood Scale (ADAMS) as a Screening Instrument for Depression and Mental Health Diagnoses in a Down Syndrome Specialty Clinic",
         "content": "",
-        "upvotes": 14,
+        "upvotes": 23,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1mq8lnh/the_use_of_the_anxiety_depression_and_mood_scale/"
@@ -331,32 +351,12 @@
         "author": "-Mystica-",
         "title": "North American monarch butterflies use magnetic fields to migrate to and from their overwintering sites - using cold temperatures to tune how they use magnetic fields - per experimental study, which might be disrupted under climate change.",
         "content": "",
-        "upvotes": 30,
+        "upvotes": 33,
         "comments": 1,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/mRCWR-Ze7S1we9QMPQK7spXC81yDBsCHAuVN1MfLe5M.png?auto=webp&amp;s=ce58361f62255c902e0a1c64396de1741452bbd6"
         },
         "permalink": "/r/science/comments/1mq034p/north_american_monarch_butterflies_use_magnetic/"
-    },
-    {
-        "id": "1mpcxye",
-        "author": "Wagamaga",
-        "title": "Ancient DNA reveals West African ancestry in early medieval England. Results emphasise the cosmopolitan nature of England in the early medieval period, pointing to a diverse population with far-flung connections who were, nonetheless, fully integrated into the fabric of daily life",
-        "content": "",
-        "upvotes": 526,
-        "comments": 243,
-        "media": null,
-        "permalink": "/r/science/comments/1mpcxye/ancient_dna_reveals_west_african_ancestry_in/"
-    },
-    {
-        "id": "1mq14y7",
-        "author": "Kerubiel_Cherub",
-        "title": "Copepods and their microbial passengers reveal ocean currents and climate shifts, offering a powerful new lens to monitor the health of marine ecosystems in a warming world.",
-        "content": "",
-        "upvotes": 12,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1mq14y7/copepods_and_their_microbial_passengers_reveal/"
     }
 ]
