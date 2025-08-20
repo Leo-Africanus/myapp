@@ -4,8 +4,8 @@
         "author": "mvea",
         "title": "Adults 60 years and older adhering to a healthy diet had 40% lower odds of experiencing cognitive dysfunction. Diets like Mediterranean and MIND emphasize fruits, vegetables, whole grains, legumes, nuts, olive oil, moderate fish and poultry, and limit red meat, sweets, pastries, and fried foods.",
         "content": "",
-        "upvotes": 2755,
-        "comments": 100,
+        "upvotes": 2938,
+        "comments": 109,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/TMJWs2wlGcEOZo_TWM26v-5lQW70e9Zo29m4l7SEtzw.jpeg?auto=webp&amp;s=79bd91ee84096d172a915babc6d722a9bb6dd31d"
@@ -13,22 +13,12 @@
         "permalink": "/r/science/comments/1mvdh0g/adults_60_years_and_older_adhering_to_a_healthy/"
     },
     {
-        "id": "1mvd20s",
-        "author": "Wagamaga",
-        "title": "Women with Alzheimer\u2019s have unusually low omega fatty acid levels. An analysis of blood samples from Alzheimer\u2019s patients and healthy individuals, revealed levels of unsaturated fats, such as those containing omega fatty acids, were up to 20% lower in women with the disease.",
-        "content": "",
-        "upvotes": 427,
-        "comments": 3,
-        "media": null,
-        "permalink": "/r/science/comments/1mvd20s/women_with_alzheimers_have_unusually_low_omega/"
-    },
-    {
         "id": "1mvg95f",
         "author": "chrisdh79",
         "title": "Dramatic slowdown in melting of Arctic sea ice surprises scientists | Natural climate variation is most likely reason as global heating due to fossil fuel burning has continued",
         "content": "",
-        "upvotes": 278,
-        "comments": 41,
+        "upvotes": 374,
+        "comments": 53,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/v_LPxV9r_Q0FH-MRM3GbL1iq_YfN8SqT4iWAgS3uEWQ.jpeg?auto=webp&amp;s=8bf91ff8e7a045193ea85981f0fcdb5efb989dac"
@@ -36,11 +26,34 @@
         "permalink": "/r/science/comments/1mvg95f/dramatic_slowdown_in_melting_of_arctic_sea_ice/"
     },
     {
+        "id": "1mvd20s",
+        "author": "Wagamaga",
+        "title": "Women with Alzheimer\u2019s have unusually low omega fatty acid levels. An analysis of blood samples from Alzheimer\u2019s patients and healthy individuals, revealed levels of unsaturated fats, such as those containing omega fatty acids, were up to 20% lower in women with the disease.",
+        "content": "",
+        "upvotes": 449,
+        "comments": 5,
+        "media": null,
+        "permalink": "/r/science/comments/1mvd20s/women_with_alzheimers_have_unusually_low_omega/"
+    },
+    {
+        "id": "1mvg3j4",
+        "author": "chrisdh79",
+        "title": "Scientists uncover dozens of genetic traits that depend on which parent you inherit them from | Study proposes that mothers and fathers may have different evolutionary incentives when it comes to how much biological investment is made in their offspring.",
+        "content": "",
+        "upvotes": 284,
+        "comments": 7,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/fsDXR_ias1WCFRFc2ba1ky62gFn8kLdzC4MVRIX5CFg.jpeg?auto=webp&amp;s=429d3b61520a107c82e29c6dbe8704c3319a961a"
+        },
+        "permalink": "/r/science/comments/1mvg3j4/scientists_uncover_dozens_of_genetic_traits_that/"
+    },
+    {
         "id": "1mvamov",
         "author": "mvea",
         "title": "Young vape users three times as likely to start smoking, study finds - Review warns e-cigarettes could act as gateway to smoking and are also linked to higher asthma and other health risks.",
         "content": "",
-        "upvotes": 602,
+        "upvotes": 613,
         "comments": 108,
         "media": {
             "type": "image",
@@ -49,25 +62,12 @@
         "permalink": "/r/science/comments/1mvamov/young_vape_users_three_times_as_likely_to_start/"
     },
     {
-        "id": "1mvg3j4",
-        "author": "chrisdh79",
-        "title": "Scientists uncover dozens of genetic traits that depend on which parent you inherit them from | Study proposes that mothers and fathers may have different evolutionary incentives when it comes to how much biological investment is made in their offspring.",
-        "content": "",
-        "upvotes": 237,
-        "comments": 6,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/fsDXR_ias1WCFRFc2ba1ky62gFn8kLdzC4MVRIX5CFg.jpeg?auto=webp&amp;s=429d3b61520a107c82e29c6dbe8704c3319a961a"
-        },
-        "permalink": "/r/science/comments/1mvg3j4/scientists_uncover_dozens_of_genetic_traits_that/"
-    },
-    {
         "id": "1muveg7",
         "author": "mvea",
         "title": "Despite the increasing recognition of Long COVID, many patients still face dismissal by medical professionals, misattribution of symptoms to psychological causes, or simply being left to fend for themselves. New study describes this response as \u2018medical gaslighting\u2019, disbelief and dismissiveness.",
         "content": "",
-        "upvotes": 5134,
-        "comments": 293,
+        "upvotes": 5159,
+        "comments": 296,
         "media": null,
         "permalink": "/r/science/comments/1muveg7/despite_the_increasing_recognition_of_long_covid/"
     },
@@ -76,7 +76,7 @@
         "author": "nohup_me",
         "title": "Choking smoke spewed by wildfires is far more dangerous than previously thought, with death tolls from short-term exposure to fine particulates underestimated by 93%.",
         "content": "",
-        "upvotes": 5642,
+        "upvotes": 5653,
         "comments": 89,
         "media": {
             "type": "image",
@@ -85,24 +85,11 @@
         "permalink": "/r/science/comments/1muq1xn/choking_smoke_spewed_by_wildfires_is_far_more/"
     },
     {
-        "id": "1mv8qg8",
-        "author": "BrnoRegion",
-        "title": "New algorithm compares hundreds of 3D faces thousands of times faster than old methods by using a calculated \"average face\" as a clever shortcut, achieving nearly the same accuracy in minutes instead of days",
-        "content": "",
-        "upvotes": 338,
-        "comments": 25,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/JzTL-W75ikRF_VcGUXJb7giP0c1AwgdNryU7K-2GcyE.png?auto=webp&amp;s=831459db018d632add8040319120123dcca7421f"
-        },
-        "permalink": "/r/science/comments/1mv8qg8/new_algorithm_compares_hundreds_of_3d_faces/"
-    },
-    {
         "id": "1mvhlxz",
         "author": "Science_News",
         "title": "A dying star shed most of its layers before exploding, revealing the first-ever glimpse at the innermost shell of a supernova",
         "content": "",
-        "upvotes": 79,
+        "upvotes": 97,
         "comments": 2,
         "media": {
             "type": "image",
@@ -111,11 +98,24 @@
         "permalink": "/r/science/comments/1mvhlxz/a_dying_star_shed_most_of_its_layers_before/"
     },
     {
+        "id": "1mv8qg8",
+        "author": "BrnoRegion",
+        "title": "New algorithm compares hundreds of 3D faces thousands of times faster than old methods by using a calculated \"average face\" as a clever shortcut, achieving nearly the same accuracy in minutes instead of days",
+        "content": "",
+        "upvotes": 345,
+        "comments": 25,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/JzTL-W75ikRF_VcGUXJb7giP0c1AwgdNryU7K-2GcyE.png?auto=webp&amp;s=831459db018d632add8040319120123dcca7421f"
+        },
+        "permalink": "/r/science/comments/1mv8qg8/new_algorithm_compares_hundreds_of_3d_faces/"
+    },
+    {
         "id": "1mvf7fm",
         "author": "-Mystica-",
         "title": "Industry managed forests more likely to fuel megafires. The odds of high-severity wildfire are nearly one-and-a-half times higher on industrial private land than in publicly owned forests. Reducing tree density mitigates megafire risk, even in extreme weather conditions.",
         "content": "",
-        "upvotes": 84,
+        "upvotes": 91,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1mvf7fm/industry_managed_forests_more_likely_to_fuel/"
@@ -125,7 +125,7 @@
         "author": "mvea",
         "title": "Adults diagnosed with ADHD often reduce their use of antidepressants after beginning treatment for ADHD. Properly identifying and addressing ADHD may lessen the need for other psychiatric medications\u2014particularly in adults who had previously been treated for symptoms like depression or anxiety.",
         "content": "",
-        "upvotes": 16247,
+        "upvotes": 16271,
         "comments": 677,
         "media": {
             "type": "image",
@@ -138,7 +138,7 @@
         "author": "calliope_kekule",
         "title": "A study across 36 European nations finds that while higher education boosts well-being up to a point, in the wealthiest countries that advantage fades.",
         "content": "",
-        "upvotes": 316,
+        "upvotes": 320,
         "comments": 3,
         "media": {
             "type": "image",
@@ -147,11 +147,21 @@
         "permalink": "/r/science/comments/1mv5i6r/a_study_across_36_european_nations_finds_that/"
     },
     {
+        "id": "1mvf2ov",
+        "author": "Kerubiel_Cherub",
+        "title": "Arcade game genres evolved like cultural species\u2014some diversified, while others became \"living fossils.\"",
+        "content": "",
+        "upvotes": 41,
+        "comments": 9,
+        "media": null,
+        "permalink": "/r/science/comments/1mvf2ov/arcade_game_genres_evolved_like_cultural/"
+    },
+    {
         "id": "1mv7zsk",
         "author": "Ok-Ice2183",
         "title": "Fibre optics detect the invisible waves that melt Greenland\u2019s ice sheet",
         "content": "",
-        "upvotes": 102,
+        "upvotes": 96,
         "comments": 1,
         "media": {
             "type": "image",
@@ -160,21 +170,11 @@
         "permalink": "/r/science/comments/1mv7zsk/fibre_optics_detect_the_invisible_waves_that_melt/"
     },
     {
-        "id": "1mvf2ov",
-        "author": "Kerubiel_Cherub",
-        "title": "Arcade game genres evolved like cultural species\u2014some diversified, while others became \"living fossils.\"",
-        "content": "",
-        "upvotes": 30,
-        "comments": 6,
-        "media": null,
-        "permalink": "/r/science/comments/1mvf2ov/arcade_game_genres_evolved_like_cultural/"
-    },
-    {
         "id": "1mus9kq",
         "author": "nohup_me",
         "title": "Researchers developed a painless treatment using radio waves to help individuals regain, preserve, or enhance their sense of smell by directly stimulating the signals in the brain's olfactory bulb",
         "content": "",
-        "upvotes": 716,
+        "upvotes": 722,
         "comments": 10,
         "media": {
             "type": "image",
@@ -187,7 +187,7 @@
         "author": "mvea",
         "title": "A significant number of autistic children also have ADHD. These findings underscore the need to thoroughly diagnose children when they are young to ensure they have appropriate care. Researchers found that early childhood autism diagnosis strongly predicts later ADHD diagnosis.",
         "content": "",
-        "upvotes": 2367,
+        "upvotes": 2369,
         "comments": 120,
         "media": {
             "type": "image",
@@ -196,34 +196,34 @@
         "permalink": "/r/science/comments/1mugl79/a_significant_number_of_autistic_children_also/"
     },
     {
-        "id": "1mvgv4m",
-        "author": "chrisdh79",
-        "title": "An artificial heart valve made from a new type of plastic could be a step closer to use in humans, following a successful six-month test in sheep.",
-        "content": "",
-        "upvotes": 18,
-        "comments": 3,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/A2gZctiUURzYwx9fTCPxr53rOpD6xtCe9cLkNAtzVeE.jpeg?auto=webp&amp;s=3c2bcd91faf96505f4097580797aca5be4887bb9"
-        },
-        "permalink": "/r/science/comments/1mvgv4m/an_artificial_heart_valve_made_from_a_new_type_of/"
-    },
-    {
         "id": "1mvd1q0",
         "author": "lipflip",
         "title": "Public Perception of Artificial Intelligence: Expectation, Risk-Benefit Tradeoffs and Value: We found high expectations, higher perceived risks, limited use, and low perc. value. Yet, usefulness outweighs fear in forming value judgments. Survey with N=1100 from Germany. Results shown as visual maps.",
         "content": "",
-        "upvotes": 28,
+        "upvotes": 25,
         "comments": 6,
         "media": null,
         "permalink": "/r/science/comments/1mvd1q0/public_perception_of_artificial_intelligence/"
+    },
+    {
+        "id": "1mvjviw",
+        "author": "Hrmbee",
+        "title": "Ancient teeth reveal that betel nuts have been used as stimulants since the Bronze Age | Earliest direct evidence of bronze age betel nut use: biomolecular analysis of dental calculus from Nong Ratchawat, Thailand",
+        "content": "",
+        "upvotes": 12,
+        "comments": 2,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/3woZj8V1MpAcV89Z9cjBUFnJiyfDbFruawhJ41h-WbA.jpeg?auto=webp&amp;s=3f70fb7547cf29413139a0bcbc57ac5717158382"
+        },
+        "permalink": "/r/science/comments/1mvjviw/ancient_teeth_reveal_that_betel_nuts_have_been/"
     },
     {
         "id": "1mv1wd7",
         "author": "sometimeshiny",
         "title": "Comparative evaluation of certain biomarkers emphasizing abnormal GABA inhibitory effect and glutamate excitotoxicity in autism spectrum disorders",
         "content": "",
-        "upvotes": 129,
+        "upvotes": 131,
         "comments": 3,
         "media": {
             "type": "image",
@@ -236,7 +236,7 @@
         "author": "orcinus__orca",
         "title": "New research shows that humpback whales\u2019 oversized, wing-like flippers provide exceptional agility, enabling them to execute tight, high-speed bubble-net feeding maneuvers that effectively trap prey, a feat unmatched by other baleen whales.",
         "content": "",
-        "upvotes": 432,
+        "upvotes": 433,
         "comments": 3,
         "media": {
             "type": "image",
@@ -249,7 +249,7 @@
         "author": "Lord-Julius",
         "title": "Low Power and High Psychopathy are A Toxic Combination and Lead to Increased Psychological Aggression but also to More Aggressive Behaviour of the Partner",
         "content": "",
-        "upvotes": 48,
+        "upvotes": 44,
         "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1mv7c52/low_power_and_high_psychopathy_are_a_toxic/"
@@ -259,7 +259,7 @@
         "author": "mustaphah",
         "title": "High-intensity exercise boosts spatial memory better than moderate workouts",
         "content": "",
-        "upvotes": 1046,
+        "upvotes": 1045,
         "comments": 15,
         "media": {
             "type": "image",
@@ -272,7 +272,7 @@
         "author": "-Mystica-",
         "title": "Anthropogenic warming is accelerating recent heatwaves in Africa. UIC researchers report that heat waves across Africa are hotter, longer and more frequent today than 40 years ago, mainly due to increased greenhouse gas and black carbon emissions from burning fossil fuels.",
         "content": "",
-        "upvotes": 487,
+        "upvotes": 490,
         "comments": 13,
         "media": {
             "type": "image",
@@ -285,7 +285,7 @@
         "author": "Lord-Julius",
         "title": "Unprecedented expansion of the Namib Desert and cascading desertification processes in the northernmost Succulent Karoo are endangering a biodiversity hotspot",
         "content": "",
-        "upvotes": 27,
+        "upvotes": 26,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1mv7d6a/unprecedented_expansion_of_the_namib_desert_and/"
@@ -295,7 +295,7 @@
         "author": "sometimeshiny",
         "title": "Association between maternal perceived stress during pregnancy and offspring DNA methylation changes in stress-related HPA axis genes at birth in the ECHO Consortium",
         "content": "",
-        "upvotes": 86,
+        "upvotes": 85,
         "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1muwzeg/association_between_maternal_perceived_stress/"
@@ -305,17 +305,27 @@
         "author": "Kerubiel_Cherub",
         "title": "A marine ecological system, such as kelp forests, that has one stressor removed from it by establishing a marine protected area (fishing), is more resilient when faced with another stressor (marine heatwaves).",
         "content": "",
-        "upvotes": 14,
+        "upvotes": 15,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1mv7fqs/a_marine_ecological_system_such_as_kelp_forests/"
+    },
+    {
+        "id": "1mvk3t4",
+        "author": "asbruckman",
+        "title": "In media reports of suicide, left-leaning venues are more likely to report societal factors, and right-leaning venues are more likely to highlight factors that blame the individual",
+        "content": "",
+        "upvotes": 2,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1mvk3t4/in_media_reports_of_suicide_leftleaning_venues/"
     },
     {
         "id": "1mtvaz0",
         "author": "NGNResearch",
         "title": "The US is not ready for its aging population: Visitation patterns reveal service access disparities for aging populations",
         "content": "",
-        "upvotes": 9717,
+        "upvotes": 9718,
         "comments": 593,
         "media": {
             "type": "image",
@@ -328,7 +338,7 @@
         "author": "mvea",
         "title": "Two years ago, FDA approved sale of over-the-counter birth control pill for first time in US without a prescription. This has dramatically improved access to contraception, especially for women who would have had no birth control at all because they lack insurance or routine access to health care.",
         "content": "",
-        "upvotes": 4405,
+        "upvotes": 4402,
         "comments": 34,
         "media": {
             "type": "image",
@@ -341,22 +351,12 @@
         "author": "Lord-Julius",
         "title": "First Image-guided treatment of mouse tumours with radioactive ion beams",
         "content": "",
-        "upvotes": 7,
+        "upvotes": 10,
         "comments": 1,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/7jIIZBNd8egHArydLfEeZxJopywrjk-GkJn8_7uuW4k.png?auto=webp&amp;s=9626052161f82e6f8c07b7367a62dabf37bf365d"
         },
         "permalink": "/r/science/comments/1mv7ajd/first_imageguided_treatment_of_mouse_tumours_with/"
-    },
-    {
-        "id": "1mtplk6",
-        "author": "BrnoRegion",
-        "title": "Playing social video games tends to make adolescent boys feel less lonely and depressed, while for girls, it has the opposite effect",
-        "content": "",
-        "upvotes": 10947,
-        "comments": 548,
-        "media": null,
-        "permalink": "/r/science/comments/1mtplk6/playing_social_video_games_tends_to_make/"
     }
 ]
