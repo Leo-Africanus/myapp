@@ -1,47 +1,44 @@
 [
     {
+        "id": "1n15b53",
+        "author": "False_Feature_8497",
+        "title": "Evolution may have capped human brain size to balance energy costs and survival",
+        "content": "",
+        "upvotes": 1304,
+        "comments": 74,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/3VbsqtKT_aOIapsZmOLJ8-4v3la4zzg9AHob0cNBxpw.jpeg?auto=webp&amp;s=262cd8960dd27e3088f94e8adf813b43679ed7d0"
+        },
+        "permalink": "/r/science/comments/1n15b53/evolution_may_have_capped_human_brain_size_to/"
+    },
+    {
+        "id": "1n106t9",
+        "author": "FunnyGamer97",
+        "title": "Most US neurologists prescribing MS drugs have received pharma industry cash | Nearly 80% of US neurologists prescribing drugs for multiple sclerosis (MS) received at least one pharma industry payment, with higher volume prescribers more likely to be beneficiaries, 5 year study finds",
+        "content": "",
+        "upvotes": 1128,
+        "comments": 106,
+        "media": null,
+        "permalink": "/r/science/comments/1n106t9/most_us_neurologists_prescribing_ms_drugs_have/"
+    },
+    {
         "id": "1n0nkc1",
         "author": "chrisdh79",
         "title": "Mouth to gut bacteria migration explains why smoking is good for inflamed bowels | Study shows that smoking produces metabolites that encourage bacteria from the mouth to grow in the large intestines where they trigger an immune response in mice.",
         "content": "",
-        "upvotes": 2503,
-        "comments": 215,
+        "upvotes": 3047,
+        "comments": 247,
         "media": null,
         "permalink": "/r/science/comments/1n0nkc1/mouth_to_gut_bacteria_migration_explains_why/"
-    },
-    {
-        "id": "1n0caid",
-        "author": "mvea",
-        "title": "Children raised in poverty are less likely to believe in a just world. Belief in a just world refers to the psychological tendency to think that people generally get what they deserve and deserve what they get.",
-        "content": "",
-        "upvotes": 20445,
-        "comments": 629,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/4zWCAeb-UHCEYtZD8wt_hzVhISzHLFrCdd18H58ImmA.jpeg?auto=webp&amp;s=f0f122ccb0e25435ccb35c8551e132b746f11ec3"
-        },
-        "permalink": "/r/science/comments/1n0caid/children_raised_in_poverty_are_less_likely_to/"
-    },
-    {
-        "id": "1n0ht72",
-        "author": "mvea",
-        "title": "Working out doesn't just reshape your body \u2013 it rewires your gut microbiome. During intense training, rowers had more frequent bowel movements, with 92% going within a 24-hour window. Pushing yourself harder in training may be \u201cfeeding\u201d your gut microbes in ways that promote better health.",
-        "content": "",
-        "upvotes": 4334,
-        "comments": 148,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/Sy9DnC1mu3s0ZVWaec0llb-n8DvVkGCrEj4RJMBRq5U.jpeg?auto=webp&amp;s=5f3ec71f9c3811c2cc26917073ebc9e178f105a8"
-        },
-        "permalink": "/r/science/comments/1n0ht72/working_out_doesnt_just_reshape_your_body_it/"
     },
     {
         "id": "1n0xy2f",
         "author": "mvea",
         "title": "Conspiracy theories can significantly influence public support for war. The research provides evidence that believing such theories tends to increase support for military aggression, reduce humanitarian concern for the enemy, and heighten perceptions of threat.",
         "content": "",
-        "upvotes": 530,
-        "comments": 32,
+        "upvotes": 883,
+        "comments": 40,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/UGCl2d5WuWQDeWA6z1vrbPd6InWs8G8sPM6aVB9BGms.jpeg?auto=webp&amp;s=e4e461a70ad590d10b20753484b948cb1b6851a8"
@@ -49,22 +46,58 @@
         "permalink": "/r/science/comments/1n0xy2f/conspiracy_theories_can_significantly_influence/"
     },
     {
-        "id": "1n106t9",
-        "author": "FunnyGamer97",
-        "title": "Most US neurologists prescribing MS drugs have received pharma industry cash | Nearly 80% of US neurologists prescribing drugs for multiple sclerosis (MS) received at least one pharma industry payment, with higher volume prescribers more likely to be beneficiaries, 5 year study finds",
+        "id": "1n0ht72",
+        "author": "mvea",
+        "title": "Working out doesn't just reshape your body \u2013 it rewires your gut microbiome. During intense training, rowers had more frequent bowel movements, with 92% going within a 24-hour window. Pushing yourself harder in training may be \u201cfeeding\u201d your gut microbes in ways that promote better health.",
         "content": "",
-        "upvotes": 378,
-        "comments": 30,
+        "upvotes": 4875,
+        "comments": 158,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/Sy9DnC1mu3s0ZVWaec0llb-n8DvVkGCrEj4RJMBRq5U.jpeg?auto=webp&amp;s=5f3ec71f9c3811c2cc26917073ebc9e178f105a8"
+        },
+        "permalink": "/r/science/comments/1n0ht72/working_out_doesnt_just_reshape_your_body_it/"
+    },
+    {
+        "id": "1n142h2",
+        "author": "sometimeshiny",
+        "title": "Trauma across generations affects stress genes NR3C1 and FKBP5. A review finds DNA methylation changes in descendants of Holocaust, Dutch Hunger Winter, and Rwandan genocide survivors.",
+        "content": "",
+        "upvotes": 273,
+        "comments": 9,
         "media": null,
-        "permalink": "/r/science/comments/1n106t9/most_us_neurologists_prescribing_ms_drugs_have/"
+        "permalink": "/r/science/comments/1n142h2/trauma_across_generations_affects_stress_genes/"
+    },
+    {
+        "id": "1n0caid",
+        "author": "mvea",
+        "title": "Children raised in poverty are less likely to believe in a just world. Belief in a just world refers to the psychological tendency to think that people generally get what they deserve and deserve what they get.",
+        "content": "",
+        "upvotes": 21516,
+        "comments": 644,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/4zWCAeb-UHCEYtZD8wt_hzVhISzHLFrCdd18H58ImmA.jpeg?auto=webp&amp;s=f0f122ccb0e25435ccb35c8551e132b746f11ec3"
+        },
+        "permalink": "/r/science/comments/1n0caid/children_raised_in_poverty_are_less_likely_to/"
+    },
+    {
+        "id": "1n17ywe",
+        "author": "calliope_kekule",
+        "title": "A new 6-year trial finds that a calorie-reduced Mediterranean diet plus physical activity cut type 2 diabetes risk by 31% compared with a standard Mediterranean diet.",
+        "content": "",
+        "upvotes": 107,
+        "comments": 4,
+        "media": null,
+        "permalink": "/r/science/comments/1n17ywe/a_new_6year_trial_finds_that_a_caloriereduced/"
     },
     {
         "id": "1n0v24p",
         "author": "sometimeshiny",
         "title": "Third-generation descendants of Holocaust survivors show DNA methylation differences in HPA-axis (NR3C1, FKBP5) and oxytocin-pathway genes, with greater openness to closeness but no increase in mental health symptoms.",
         "content": "",
-        "upvotes": 391,
-        "comments": 55,
+        "upvotes": 512,
+        "comments": 68,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/eIjboz6Yc3mnUMmCsh2swUWuP6KKspMM5oAxOzKcSdk.png?auto=webp&amp;s=1b2f5a2fa6eae84cf54b0199061701451f5ab162"
@@ -72,12 +105,25 @@
         "permalink": "/r/science/comments/1n0v24p/thirdgeneration_descendants_of_holocaust/"
     },
     {
+        "id": "1n18fwg",
+        "author": "QldBrainInst",
+        "title": "Researchers have discovered a critical link between the brain\u2019s waste-clearing system and early neuron degeneration in Alzheimer\u2019s disease. The study shows that the first neurons to die in Alzheimer\u2019s also regulate fluid flow essential for clearing brain toxins.",
+        "content": "",
+        "upvotes": 76,
+        "comments": 1,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/OodIHG6TulRdE49Dxyhnm9afRgk_NTXDJv4yA3nJuOM.jpeg?auto=webp&amp;s=6fd5e2ba26e0a022ae4d88689751d0e7d384404e"
+        },
+        "permalink": "/r/science/comments/1n18fwg/researchers_have_discovered_a_critical_link/"
+    },
+    {
         "id": "1n0y8va",
         "author": "chrisdh79",
         "title": "Insecurely attached individuals are less likely to go for a compromise in relationship conflicts | On the other hand, they were more likely to react aggressively, try to control their partner, be submissive, or break up the relationship.",
         "content": "",
-        "upvotes": 157,
-        "comments": 8,
+        "upvotes": 308,
+        "comments": 14,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/LJmpFSlrRC__ldG8JVpS5SGKMla--WVlsgv3Oh-QybA.jpeg?auto=webp&amp;s=edd4d7673f3c3c343c3adfd2d60c251603affbc3"
@@ -85,12 +131,38 @@
         "permalink": "/r/science/comments/1n0y8va/insecurely_attached_individuals_are_less_likely/"
     },
     {
+        "id": "1n18axd",
+        "author": "calliope_kekule",
+        "title": "In a survey of 3,389 adults, those who first used cannabis to self-medicate (e.g. for anxiety or depression) later consumed more THC and reported more paranoia, anxiety, and depression.",
+        "content": "",
+        "upvotes": 64,
+        "comments": 24,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/fbVXFHXBDQxVwF-4s5dHicxUiVr7tqMjNMMdniRkuw4.gif?format=png8&amp;s=963a650c2ba40dfffd5632f7f02f9905ae9b7d84"
+        },
+        "permalink": "/r/science/comments/1n18axd/in_a_survey_of_3389_adults_those_who_first_used/"
+    },
+    {
+        "id": "1n16vmf",
+        "author": "burtzev",
+        "title": "Human dexterity and brains evolved hand in hand",
+        "content": "",
+        "upvotes": 48,
+        "comments": 4,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/YBDWyVxOVpKCpj1jS4Qrjawj05sD1iR830gq52FsVoo.png?auto=webp&amp;s=3db38589bd445795876f70917f72d42f1ea31fcf"
+        },
+        "permalink": "/r/science/comments/1n16vmf/human_dexterity_and_brains_evolved_hand_in_hand/"
+    },
+    {
         "id": "1n0ix4r",
         "author": "chrisdh79",
         "title": "Heatwaves are making people age faster, study suggests | Exposure to high temperatures could result in long-lasting damage to health of billions of people, scientists warn",
         "content": "",
-        "upvotes": 790,
-        "comments": 24,
+        "upvotes": 912,
+        "comments": 27,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/xXFuhIjAFjnFQSbWmp-wW-6QuMDX7m2DvYrM2lXNMsg.png?auto=webp&amp;s=5f22ee8280ca83652c9b6ec23e49335229f306cb"
@@ -98,22 +170,22 @@
         "permalink": "/r/science/comments/1n0ix4r/heatwaves_are_making_people_age_faster_study/"
     },
     {
-        "id": "1n02zl7",
-        "author": "SteRoPo",
-        "title": "Researchers interviewed 45 doctors in Europe and the U.S. about their end-of-life preferences. Physicians preferred being at home, loved ones nearby, with pain and symptoms controlled. They also expressed the desire to avoid life-prolonging measures, differing from the general public.",
+        "id": "1n0qozc",
+        "author": "umichnews",
+        "title": "U-Michigan study finds most Americans prioritized preventing child abuse, domestic violence, and deaths linked to economic hardship over preventing additional COVID-19 deaths during lockdowns; researchers say these preferences highlight the need to balance disease prevention with other societal harm",
         "content": "",
-        "upvotes": 9306,
-        "comments": 326,
+        "upvotes": 282,
+        "comments": 46,
         "media": null,
-        "permalink": "/r/science/comments/1n02zl7/researchers_interviewed_45_doctors_in_europe_and/"
+        "permalink": "/r/science/comments/1n0qozc/umichigan_study_finds_most_americans_prioritized/"
     },
     {
         "id": "1n0odci",
         "author": "Wagamaga",
         "title": "Firearm-Related Suicides Increasing Among Senior Women in the U.S . Firearms are the leading method of suicide among seniors 65 and older, especially men, researchers say. In fact, senior men are 13 times more likely to kill themselves with a gun than senior women.",
         "content": "",
-        "upvotes": 288,
-        "comments": 88,
+        "upvotes": 326,
+        "comments": 100,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/9XFN5wULfGkFsLURiE54KTbTT8U-NWDSAcT8CxcT3mw.jpeg?auto=webp&amp;s=4f75978db47a2358841c0c82aa1a97051bdb61f7"
@@ -121,22 +193,22 @@
         "permalink": "/r/science/comments/1n0odci/firearmrelated_suicides_increasing_among_senior/"
     },
     {
-        "id": "1n0qozc",
-        "author": "umichnews",
-        "title": "U-Michigan study finds most Americans prioritized preventing child abuse, domestic violence, and deaths linked to economic hardship over preventing additional COVID-19 deaths during lockdowns; researchers say these preferences highlight the need to balance disease prevention with other societal harm",
+        "id": "1n02zl7",
+        "author": "SteRoPo",
+        "title": "Researchers interviewed 45 doctors in Europe and the U.S. about their end-of-life preferences. Physicians preferred being at home, loved ones nearby, with pain and symptoms controlled. They also expressed the desire to avoid life-prolonging measures, differing from the general public.",
         "content": "",
-        "upvotes": 212,
-        "comments": 41,
+        "upvotes": 9538,
+        "comments": 330,
         "media": null,
-        "permalink": "/r/science/comments/1n0qozc/umichigan_study_finds_most_americans_prioritized/"
+        "permalink": "/r/science/comments/1n02zl7/researchers_interviewed_45_doctors_in_europe_and/"
     },
     {
         "id": "1n0hiw9",
         "author": "universityofturku",
         "title": "Spending time in nature helps people to identify what is meaningful in their lives, shows a new Finnish study. For young people, nature provided an important place for solitude, whereas older adults  felt that it was important to strengthen intergenerational connections by spending time in nature.",
         "content": "",
-        "upvotes": 603,
-        "comments": 6,
+        "upvotes": 668,
+        "comments": 7,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/rtgGlSXI-ZU7E0B2axe5RmfsFktk-mKS45XN4ZQPlTM.jpeg?auto=webp&amp;s=f9e29f868c100656f0013ff7ccb4ea28d9abc780"
@@ -148,8 +220,8 @@
         "author": "Wagamaga",
         "title": "Mindset shift curbs depression after catastrophe. Those who received the intervention showed lower levels of depression three months later compared to a control group. Blood tests also revealed lower levels of C-reactive protein, an inflammatory marker linked to chronic stress and disease",
         "content": "",
-        "upvotes": 203,
-        "comments": 6,
+        "upvotes": 231,
+        "comments": 8,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/W31NsUpeVEQmEHZsAuSlZL1RIoG2J6KaGckbmipWf5A.jpeg?auto=webp&amp;s=d7a9f7dcc4cc4ce46497397600956e787ce7ea5f"
@@ -157,64 +229,113 @@
         "permalink": "/r/science/comments/1n0o1pa/mindset_shift_curbs_depression_after_catastrophe/"
     },
     {
+        "id": "1n1av65",
+        "author": "Lord-Julius",
+        "title": "Prevalence and predictors of medical information avoidance: Around a third of the people tend not to go to medical check-ups to avoid negative information. The key reasons were cognitive information overload, perceived stigma, self-efficacy, and trust in the medical system",
+        "content": "",
+        "upvotes": 9,
+        "comments": 3,
+        "media": null,
+        "permalink": "/r/science/comments/1n1av65/prevalence_and_predictors_of_medical_information/"
+    },
+    {
         "id": "1n0zqga",
         "author": "No-Zucchini3759",
         "title": "mRNA-based technology for engineered regenerative medicine",
         "content": "",
-        "upvotes": 24,
+        "upvotes": 35,
         "comments": 3,
         "media": null,
         "permalink": "/r/science/comments/1n0zqga/mrnabased_technology_for_engineered_regenerative/"
+    },
+    {
+        "id": "1n150t3",
+        "author": "False_Feature_8497",
+        "title": "Altered Visual Attention at 12 Months Predicts Joint Attention Ability and Socio-Communicative Development at 24 Months: A Single-Center Eye-Tracking Study on Infants at Elevated Likelihood to Develop Autism",
+        "content": "",
+        "upvotes": 14,
+        "comments": 2,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/T7BeN3NMQ2vV7b3si6nPteaWzasmlK_tfM6rXyGmnwc.png?auto=webp&amp;s=085032fb814cc75c16abdcba952c13e4b2090c69"
+        },
+        "permalink": "/r/science/comments/1n150t3/altered_visual_attention_at_12_months_predicts/"
+    },
+    {
+        "id": "1n1ayeg",
+        "author": "Lord-Julius",
+        "title": "The NMDAR/TRPM4 death complex is a major promoter of disease progression in the 5xFAD mouse model of Alzheimer\u2019s disease",
+        "content": "",
+        "upvotes": 4,
+        "comments": 1,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/Nqlp2JO1hu4asvPbmw1guD2e2pfFejicgvogomuSIFY.png?auto=webp&amp;s=95a7d540507698cb52db47ab0b5dd8be72b61c8d"
+        },
+        "permalink": "/r/science/comments/1n1ayeg/the_nmdartrpm4_death_complex_is_a_major_promoter/"
     },
     {
         "id": "1n0g43i",
         "author": "calliope_kekule",
         "title": "A new study finds ChatGPT, Claude, and Gemini align with clinicians only at the extremes of suicide risk. They struggle with intermediate-risk queries.",
         "content": "",
-        "upvotes": 226,
+        "upvotes": 256,
         "comments": 10,
         "media": null,
         "permalink": "/r/science/comments/1n0g43i/a_new_study_finds_chatgpt_claude_and_gemini_align/"
     },
     {
-        "id": "1n13o4e",
-        "author": "False_Feature_8497",
-        "title": "Uranus Has a Tiny New Moon and it\u2019s Only Six Miles Wide.",
+        "id": "1n18e2q",
+        "author": "QldBrainInst",
+        "title": "Unlocking the nanoscale\u2014a new era in protein tracking",
         "content": "",
-        "upvotes": 6,
-        "comments": 4,
+        "upvotes": 3,
+        "comments": 1,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/kkhNQlOyHJsss-4KMpa-lE4KguUVveXvSzATbCZgOr0.jpeg?auto=webp&amp;s=ce4cad3d339aff426e38519b14fcf7526127d2f8"
+            "url": "https://external-preview.redd.it/uwMn879nCv-9kTmRAHBrj5c7ilM1BLiKuIm_2Fwsv_Y.jpeg?auto=webp&amp;s=fa8306660ae4f996569b732bcd3f0328587f3d85"
         },
-        "permalink": "/r/science/comments/1n13o4e/uranus_has_a_tiny_new_moon_and_its_only_six_miles/"
-    },
-    {
-        "id": "1n142h2",
-        "author": "sometimeshiny",
-        "title": "Trauma across generations affects stress genes NR3C1 and FKBP5. A review finds DNA methylation changes in descendants of Holocaust, Dutch Hunger Winter, and Rwandan genocide survivors.",
-        "content": "",
-        "upvotes": 5,
-        "comments": 3,
-        "media": null,
-        "permalink": "/r/science/comments/1n142h2/trauma_across_generations_affects_stress_genes/"
+        "permalink": "/r/science/comments/1n18e2q/unlocking_the_nanoscalea_new_era_in_protein/"
     },
     {
         "id": "1mzyjrl",
         "author": "Wagamaga",
         "title": "In the U.S  children residing in \"very low-opportunity\" neighborhoods are up to 20 times more likely to be hospitalized for gun injuries than those living in the most advantaged areas. High-opportunity\u2019 kids are far less likely to be shot, but twice as likely to die when it happens",
         "content": "",
-        "upvotes": 1524,
-        "comments": 50,
+        "upvotes": 1565,
+        "comments": 52,
         "media": null,
         "permalink": "/r/science/comments/1mzyjrl/in_the_us_children_residing_in_very/"
+    },
+    {
+        "id": "1n177qu",
+        "author": "AJMP_01",
+        "title": "Gamified eHealth interventions for health promotion and disease prevention in children and adolescents",
+        "content": "",
+        "upvotes": 3,
+        "comments": 1,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/wKqRMnJT4SwW_XptV_g08FLV0lkaLngKBSsBCeKGzE8.png?auto=webp&amp;s=33e6cd9b25b313a86c58afcff72326ae1a476cb7"
+        },
+        "permalink": "/r/science/comments/1n177qu/gamified_ehealth_interventions_for_health/"
+    },
+    {
+        "id": "1n0p4uj",
+        "author": "Hrmbee",
+        "title": "Dissolved Oxygen Variability on the Canadian Pacific Shelf: Trends, Drivers, and Projections in the Context of Emerging Hypoxia in Queen Charlotte Sound",
+        "content": "",
+        "upvotes": 25,
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/science/comments/1n0p4uj/dissolved_oxygen_variability_on_the_canadian/"
     },
     {
         "id": "1mzmd8a",
         "author": "mvea",
         "title": "Standard routine to protect hair from heat damage may create dangerous emissions \u2013 just 10-20 minutes of styling with common products results in some 10 billion ultrafine particles being inhaled straight to the lungs \u2013 akin to standing next to a busy road in peak hour or smoking several cigarettes.",
         "content": "",
-        "upvotes": 5339,
+        "upvotes": 5371,
         "comments": 211,
         "media": {
             "type": "image",
@@ -223,128 +344,13 @@
         "permalink": "/r/science/comments/1mzmd8a/standard_routine_to_protect_hair_from_heat_damage/"
     },
     {
-        "id": "1n0p4uj",
-        "author": "Hrmbee",
-        "title": "Dissolved Oxygen Variability on the Canadian Pacific Shelf: Trends, Drivers, and Projections in the Context of Emerging Hypoxia in Queen Charlotte Sound",
-        "content": "",
-        "upvotes": 21,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/science/comments/1n0p4uj/dissolved_oxygen_variability_on_the_canadian/"
-    },
-    {
         "id": "1n0fjmc",
         "author": "Lord-Julius",
         "title": "Linguistic patterns obscure responsibility in newspaper coverage of traffic crashes in German-speaking countries with the use of metonymy, passive constructions, and reflexive verb forms",
         "content": "",
-        "upvotes": 84,
+        "upvotes": 87,
         "comments": 10,
         "media": null,
         "permalink": "/r/science/comments/1n0fjmc/linguistic_patterns_obscure_responsibility_in/"
-    },
-    {
-        "id": "1n0j8i6",
-        "author": "SpeckleSoup",
-        "title": "Discovery of the first ring-shaping embedded planet in a multi-ringed disk",
-        "content": "",
-        "upvotes": 32,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/science/comments/1n0j8i6/discovery_of_the_first_ringshaping_embedded/"
-    },
-    {
-        "id": "1n0mozc",
-        "author": "Kerubiel_Cherub",
-        "title": "Models suggested that there was a large Neoproterozoic dissolved organic carbon (DOC) reservoir in the ocean that could have triggered the end of Snowball Earth and the proliferation of metazoan life, but a new proxy-based reconstruction shows that oceanic DOC remained low until the Phanerozoic",
-        "content": "",
-        "upvotes": 20,
-        "comments": 1,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/BlaRJTDBAOfPxxIZO1Zyr4KocsLL0b-IJGbWz817vBg.png?auto=webp&amp;s=c28fdea86bd880ee24fe032195a8d56342833075"
-        },
-        "permalink": "/r/science/comments/1n0mozc/models_suggested_that_there_was_a_large/"
-    },
-    {
-        "id": "1mzxjuc",
-        "author": "Science_News",
-        "title": "Scientists perform the first pig-to-human lung transplant | The lung tissue remained alive for nine days after the transplant despite early signs of inflammation",
-        "content": "",
-        "upvotes": 780,
-        "comments": 75,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/fouXAySk0uVVm71HP9MOvehdJ5hU4Az16DTlh8vDCTg.jpeg?auto=webp&amp;s=66c8b5ab29b0a55583a3adaab1ccf4af86efe852"
-        },
-        "permalink": "/r/science/comments/1mzxjuc/scientists_perform_the_first_pigtohuman_lung/"
-    },
-    {
-        "id": "1mzw7ob",
-        "author": "scientificamerican",
-        "title": "The way people search the internet can fuel echo chambers, according to a new study. But a simple tweak to search algorithms, the researchers propose, could help deliver a broader range of perspectives.",
-        "content": "",
-        "upvotes": 854,
-        "comments": 60,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/evXiY-0qcD2_p_HLoY9kUiX9W13lEoQTrVy34BuRb70.jpeg?auto=webp&amp;s=1d2fa1e89fe24f955bdfd41e04b4aa19975598fb"
-        },
-        "permalink": "/r/science/comments/1mzw7ob/the_way_people_search_the_internet_can_fuel_echo/"
-    },
-    {
-        "id": "1n0gtpz",
-        "author": "thebelsnickle1991",
-        "title": "Research reveals how political crises cause a shift in the force behind viral online content \u2018from outgroup hate to ingroup love\u2019",
-        "content": "",
-        "upvotes": 38,
-        "comments": 4,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/QxbQRnE5Yw71xw29L9XeXyVZYBqjhbTRD-SwQr-DS-Q.jpeg?auto=webp&amp;s=9cbfbef4cbbb2a61c18eba35e6cfcd37c798baac"
-        },
-        "permalink": "/r/science/comments/1n0gtpz/research_reveals_how_political_crises_cause_a/"
-    },
-    {
-        "id": "1n0qw3o",
-        "author": "Inquiring_minds42",
-        "title": "Study of 100,000+ treatment episodes in Chile finds ambulatory treatment may be more effective than residential programs. Women face higher risk of readmission after substance use disorder treatment, partly due to caregiving pressures.",
-        "content": "",
-        "upvotes": 8,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1n0qw3o/study_of_100000_treatment_episodes_in_chile_finds/"
-    },
-    {
-        "id": "1n0f5t0",
-        "author": "JadeLuxe",
-        "title": "Thousands of climbing catfish filmed scaling waterfalls",
-        "content": "",
-        "upvotes": 30,
-        "comments": 9,
-        "media": null,
-        "permalink": "/r/science/comments/1n0f5t0/thousands_of_climbing_catfish_filmed_scaling/"
-    },
-    {
-        "id": "1n060q5",
-        "author": "drewiepoodle",
-        "title": "High pathogenicity avian influenza (HPAI) H5N1 virus detected in brown Skua using portable laboratory while at sea in Antarctica. (Skua are a large seabird that breeds in the subantarctic and Antarctic zones and moves farther north when not breeding.)",
-        "content": "",
-        "upvotes": 126,
-        "comments": 4,
-        "media": null,
-        "permalink": "/r/science/comments/1n060q5/high_pathogenicity_avian_influenza_hpai_h5n1/"
-    },
-    {
-        "id": "1mzg4mw",
-        "author": "unsw",
-        "title": "90% of Australian teachers experience severe levels of stress and 70% describe their workload as largely or completely unmanageable",
-        "content": "",
-        "upvotes": 4616,
-        "comments": 116,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/iTSYdRPLEg0rwq7B-tzFmWmnsN9NHafSjcDgkyO106s.jpeg?auto=webp&amp;s=090d80cbd52037380d6c67831f8ac5d86b21041e"
-        },
-        "permalink": "/r/science/comments/1mzg4mw/90_of_australian_teachers_experience_severe/"
     }
 ]
