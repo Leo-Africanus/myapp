@@ -4,8 +4,8 @@
         "author": "ExpectedSurprisal",
         "title": "Exclusive: RFK Jr. and the White House buried a major study on alcohol and cancer. Here\u2019s what it shows.",
         "content": "",
-        "upvotes": 2949,
-        "comments": 107,
+        "upvotes": 4096,
+        "comments": 139,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/J4rvGeNcgXQq8fBadPRtADW2q-ajFxlR_lEtFQkIp4Q.jpeg?auto=webp&amp;s=63f8e68bc2b4a7ea8cbe5201c0c76cf910f9214b"
@@ -17,8 +17,8 @@
         "author": "mvea",
         "title": "Smartphone scrolling on toilet linked to higher hemorrhoid risk, raising risk of hemorrhoids by nearly 50%, from extra minutes spent sitting. 66% reported using phone on toilet. 37% stayed on toilet for more than 5 minutes. Most common reasons were to read news (54%) and use social media (44%).",
         "content": "",
-        "upvotes": 2551,
-        "comments": 199,
+        "upvotes": 2580,
+        "comments": 203,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/xmIFp37VWD8E7a_nN_tSug3mmNOK3Xw3GWh9-ljAJ1A.jpeg?auto=webp&amp;s=4cf587fc05b12bc196b3e870d6d72011daa21b90"
@@ -30,7 +30,7 @@
         "author": "mvea",
         "title": "Cannabis use linked to stronger emotional responses but also better recovery in people with anxiety. Cannabis users with anxiety show more pronounced emotional responses to negative experiences but also bounce back more effectively.",
         "content": "",
-        "upvotes": 929,
+        "upvotes": 953,
         "comments": 32,
         "media": {
             "type": "image",
@@ -43,7 +43,7 @@
         "author": "chrisdh79",
         "title": "Ice makes electricity when bent or stretched, physicists report new discovery | Findings could pave the way for advanced cold-climate electronics",
         "content": "",
-        "upvotes": 677,
+        "upvotes": 700,
         "comments": 25,
         "media": {
             "type": "image",
@@ -56,8 +56,8 @@
         "author": "chrisdh79",
         "title": "Depressive individuals show decreased cognitive functioning | However, participants who were physically active, maintained an optimal sleep duration, and reported an overall healthy lifestyle showed better cognitive performance\u2014regardless of whether they experienced depressive symptoms.",
         "content": "",
-        "upvotes": 309,
-        "comments": 21,
+        "upvotes": 314,
+        "comments": 23,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/l72JanRbYWqVkYZ4YhFRRugUgElqg3VLanmCws9w4RY.jpeg?auto=webp&amp;s=fb3ae7bc0ea2472330344f9659f4224d541b7549"
@@ -65,12 +65,25 @@
         "permalink": "/r/science/comments/1n8bn7w/depressive_individuals_show_decreased_cognitive/"
     },
     {
+        "id": "1n8ek01",
+        "author": "New_Scientist_Mag",
+        "title": "A single dose of LSD seems to reduce anxiety",
+        "content": "",
+        "upvotes": 193,
+        "comments": 39,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/AkfaXfk1M_hF8DwK-ul_Cb5CSe_iY0en-sL3d-EXM7E.jpeg?auto=webp&amp;s=12e5f4d7d9a9e31c7053743929ef51df88b7649f"
+        },
+        "permalink": "/r/science/comments/1n8ek01/a_single_dose_of_lsd_seems_to_reduce_anxiety/"
+    },
+    {
         "id": "1n7r2xd",
         "author": "mvea",
         "title": "People who consumed higher amounts of artificial sweeteners (aspartame, saccharin, erythritol, xylitol, sorbitol) showed steeper drops in verbal fluency, memory, and cognitive function over 8 years. This link was stronger in people with diabetes but also observed with people without it.",
         "content": "",
-        "upvotes": 5503,
-        "comments": 300,
+        "upvotes": 5513,
+        "comments": 303,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/Q-h2WMn7c6cH7cBpUDLLclO3rjMjKrK2e_X7NGkFhuI.jpeg?auto=webp&amp;s=2e97fd9a571128989ab68441e9a9b057ac95a691"
@@ -82,30 +95,17 @@
         "author": "Pomme-M",
         "title": "Study of the drug Semiglutide (sold as Wegovy, Ozempic) shows it significantly lowers cocaine seeking behavior in rats, suggesting it may be a candidate for development as a treatment for cocaine dependency.",
         "content": "",
-        "upvotes": 2203,
+        "upvotes": 2210,
         "comments": 89,
         "media": null,
         "permalink": "/r/science/comments/1n7wfe9/study_of_the_drug_semiglutide_sold_as_wegovy/"
-    },
-    {
-        "id": "1n8ek01",
-        "author": "New_Scientist_Mag",
-        "title": "A single dose of LSD seems to reduce anxiety",
-        "content": "",
-        "upvotes": 126,
-        "comments": 23,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/AkfaXfk1M_hF8DwK-ul_Cb5CSe_iY0en-sL3d-EXM7E.jpeg?auto=webp&amp;s=12e5f4d7d9a9e31c7053743929ef51df88b7649f"
-        },
-        "permalink": "/r/science/comments/1n8ek01/a_single_dose_of_lsd_seems_to_reduce_anxiety/"
     },
     {
         "id": "1n7aw71",
         "author": "mvea",
         "title": "American small business owners are more likely to identify with and vote for right-wing parties. People who inherited a business are more right-leaning. People without college degrees but who earn higher-than-median incomes are more likely to identify with the Republican Party and vote for Trump.",
         "content": "",
-        "upvotes": 7753,
+        "upvotes": 7760,
         "comments": 744,
         "media": null,
         "permalink": "/r/science/comments/1n7aw71/american_small_business_owners_are_more_likely_to/"
@@ -115,7 +115,7 @@
         "author": "NGNResearch",
         "title": "Aerobic fitness and lower body fat are associated with better mental health outcomes in children, research finds",
         "content": "",
-        "upvotes": 724,
+        "upvotes": 727,
         "comments": 26,
         "media": {
             "type": "image",
@@ -129,7 +129,7 @@
         "title": "Study on young people 11-19 from 11 countries found that they want more support from adults in their digital lives: adults are not sufficiently involved or do not understand what children and adolescents do online, and that many adults do not reflect on their own digital everyday lives",
         "content": "",
         "upvotes": 847,
-        "comments": 48,
+        "comments": 49,
         "media": null,
         "permalink": "/r/science/comments/1n7oc29/study_on_young_people_1119_from_11_countries/"
     },
@@ -138,7 +138,7 @@
         "author": "IEEESpectrum",
         "title": "New Quantum Sensor Can Identify Molecules Through Vibrations",
         "content": "",
-        "upvotes": 27,
+        "upvotes": 26,
         "comments": 4,
         "media": {
             "type": "image",
@@ -147,11 +147,24 @@
         "permalink": "/r/science/comments/1n8b4du/new_quantum_sensor_can_identify_molecules_through/"
     },
     {
+        "id": "1n8epyy",
+        "author": "CUAnschutzMed",
+        "title": "Intense light therapy after surgery can increase a critical protein that protects heart tissue while lowering levels of troponin, a protein indicating heart damage that\u2019s linked to higher mortality in patients undergoing non-cardiac surgery, according to a new study",
+        "content": "",
+        "upvotes": 16,
+        "comments": 2,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/tq4BAU4v3xu9jzBjXKDb6le2cgTgH03OVYLove1oc4Q.png?auto=webp&amp;s=b75fd83d979d5a8225a3415093a0118188c70d2d"
+        },
+        "permalink": "/r/science/comments/1n8epyy/intense_light_therapy_after_surgery_can_increase/"
+    },
+    {
         "id": "1n813dc",
         "author": "calliope_kekule",
         "title": "Researchers show the 2022 heatwave dried plants, dead fuel, and soils all at once, creating wildfire conditions rarely seen in the UK. Future heatwaves could trigger even greater risks.",
         "content": "",
-        "upvotes": 127,
+        "upvotes": 129,
         "comments": 3,
         "media": {
             "type": "image",
@@ -177,7 +190,7 @@
         "author": "New_Scientist_Mag",
         "title": "Scientists have mapped the activity that takes place across a mouse's entire brain as it decides how to complete a task - and may have shown intuition in action",
         "content": "",
-        "upvotes": 1124,
+        "upvotes": 1121,
         "comments": 58,
         "media": {
             "type": "image",
@@ -190,7 +203,7 @@
         "author": "False_Feature_8497",
         "title": "What Teddy Bears Reveal About Comfort and Care: Uncovering the Deep Emotional Connections, Psychological Comfort, and Lifelong Sense of Security They Provide Across Childhood, Adulthood, and Cultural Contexts",
         "content": "",
-        "upvotes": 129,
+        "upvotes": 131,
         "comments": 6,
         "media": {
             "type": "image",
@@ -203,7 +216,7 @@
         "author": "Wagamaga",
         "title": "Research on children with autism using a prepared vitamin D3-loaded nanoemulsion has led to a reduction in the severity of autism and a rise in the social IQ, especially fine motor performance and language abilities of the children with ASD, without adverse effects",
         "content": "",
-        "upvotes": 3263,
+        "upvotes": 3259,
         "comments": 191,
         "media": null,
         "permalink": "/r/science/comments/1n79mdx/research_on_children_with_autism_using_a_prepared/"
@@ -213,8 +226,8 @@
         "author": "shamblesusable",
         "title": "Climate change is making rollercoaster harvests the new normal | Once-in-century crop failures could strike every decade by 2100, according to new global research.",
         "content": "",
-        "upvotes": 243,
-        "comments": 14,
+        "upvotes": 242,
+        "comments": 15,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/aKMRwyesDQcTHRHQV8Ay3TxZK7ivH-HioZcr_K_my6E.png?auto=webp&amp;s=913242fc81c376888773376aba5d62b9ad4f6043"
@@ -226,7 +239,7 @@
         "author": "False_Feature_8497",
         "title": "Individuals Experiencing Accelerated Biological Aging Are at an Increased Risk of Developing Dementia: Insights Into the Interplay Between Cellular Senescence, Cognitive Decline, and Age-Related Neurodegenerative Processes",
         "content": "",
-        "upvotes": 108,
+        "upvotes": 110,
         "comments": 2,
         "media": {
             "type": "image",
@@ -235,11 +248,21 @@
         "permalink": "/r/science/comments/1n7yddo/individuals_experiencing_accelerated_biological/"
     },
     {
+        "id": "1n8e9nm",
+        "author": "ERUDIGIT",
+        "title": "New Dutch study finds expectations regarding direct-to-consumer genetic testing (DTC-GT) among Dutch citizens to be significant, with several recurring misconceptions such as ability to detect disease and usability of results for medical- and/or reproductive decision-making",
+        "content": "",
+        "upvotes": 8,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1n8e9nm/new_dutch_study_finds_expectations_regarding/"
+    },
+    {
         "id": "1n7rg44",
         "author": "nohup_me",
         "title": "Study found that joyful music alleviated carsickness the most, reducing it by 57.3%, very closely followed by soft music, at 56.7%. Passionate music reduced motion sickness by 48.3%, while playing sad music turned out to be slightly less effective than doing nothing",
         "content": "",
-        "upvotes": 248,
+        "upvotes": 243,
         "comments": 4,
         "media": {
             "type": "image",
@@ -248,34 +271,11 @@
         "permalink": "/r/science/comments/1n7rg44/study_found_that_joyful_music_alleviated/"
     },
     {
-        "id": "1n8epyy",
-        "author": "CUAnschutzMed",
-        "title": "Intense light therapy after surgery can increase a critical protein that protects heart tissue while lowering levels of troponin, a protein indicating heart damage that\u2019s linked to higher mortality in patients undergoing non-cardiac surgery, according to a new study",
-        "content": "",
-        "upvotes": 7,
-        "comments": 2,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/tq4BAU4v3xu9jzBjXKDb6le2cgTgH03OVYLove1oc4Q.png?auto=webp&amp;s=b75fd83d979d5a8225a3415093a0118188c70d2d"
-        },
-        "permalink": "/r/science/comments/1n8epyy/intense_light_therapy_after_surgery_can_increase/"
-    },
-    {
-        "id": "1n8e9nm",
-        "author": "ERUDIGIT",
-        "title": "New Dutch study finds expectations regarding direct-to-consumer genetic testing (DTC-GT) among Dutch citizens to be significant, with several recurring misconceptions such as ability to detect disease and usability of results for medical- and/or reproductive decision-making",
-        "content": "",
-        "upvotes": 7,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1n8e9nm/new_dutch_study_finds_expectations_regarding/"
-    },
-    {
         "id": "1n7d525",
         "author": "chrisdh79",
         "title": "OTC nasal spray reduces the risk of COVID-19 infection by 70% | Azelastine nasal spray could provide an additional easily accessible prophylactic to complement existing protective measures.",
         "content": "",
-        "upvotes": 1127,
+        "upvotes": 1134,
         "comments": 69,
         "media": {
             "type": "image",
@@ -288,7 +288,7 @@
         "author": "Skoltech_",
         "title": "Researchers have clarified the aerodynamic role of featherlike wings in the tiniest insects. The findings reveal how wing bristles reduce drag and may inform the engineering of insect-scale drones.",
         "content": "",
-        "upvotes": 28,
+        "upvotes": 30,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1n838fp/researchers_have_clarified_the_aerodynamic_role/"
@@ -298,7 +298,7 @@
         "author": "Lord-Julius",
         "title": "The aging factor EPS8 induces disease-related protein aggregation through RAC signaling hyperactivation",
         "content": "",
-        "upvotes": 22,
+        "upvotes": 21,
         "comments": 1,
         "media": {
             "type": "image",
@@ -311,7 +311,7 @@
         "author": "Unlikely_Passion9168",
         "title": "Electrical stimulation can reprogram the immune system to heal the body faster.",
         "content": "",
-        "upvotes": 53,
+        "upvotes": 49,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1n7yxs3/electrical_stimulation_can_reprogram_the_immune/"
@@ -321,7 +321,7 @@
         "author": "AgingUS",
         "title": "Age-related diseases as a testbed for anti-aging therapeutics: the case of idiopathic pulmonary fibrosis",
         "content": "",
-        "upvotes": 7,
+        "upvotes": 5,
         "comments": 1,
         "media": {
             "type": "image",
@@ -330,11 +330,21 @@
         "permalink": "/r/science/comments/1n8ar4w/agerelated_diseases_as_a_testbed_for_antiaging/"
     },
     {
+        "id": "1n8enrl",
+        "author": "PlentyOfRoom_news",
+        "title": "Engineering DNA Origami Captors for TGF\u03b21 Sequestration to Enhance Tumor Immune Modulation and Therapy",
+        "content": "",
+        "upvotes": 3,
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/science/comments/1n8enrl/engineering_dna_origami_captors_for_tgf\u03b21/"
+    },
+    {
         "id": "1n7hqmu",
         "author": "IEEESpectrum",
         "title": "Researchers in China have developed deep-space communications processing algorithms that will allow scientists to pinpoint probes with remarkable, meter-level precision as far as 180 million kilometers from Earth",
         "content": "",
-        "upvotes": 272,
+        "upvotes": 274,
         "comments": 19,
         "media": {
             "type": "image",
@@ -354,15 +364,5 @@
             "url": "https://external-preview.redd.it/CRIX_zylVspjFDuyqKszLNNHobZU3ny3wyEt2oL1TRk.png?auto=webp&amp;s=ba8af815fd507e57a229e8d4ea643cd2c132128c"
         },
         "permalink": "/r/science/comments/1n8dvdc/signs_and_symptoms_of_internalizing_and/"
-    },
-    {
-        "id": "1n6vxqh",
-        "author": "mvea",
-        "title": "Donald Trump's criminal prosecution in 2024 had strikingly limited effects on public opinion. It did caused sharp backlash against the prosecutor among Trump supporters. When citizens hold strong prior beliefs about an accused leader, prosecutions have strikingly limited effects on public opinion.",
-        "content": "",
-        "upvotes": 7650,
-        "comments": 402,
-        "media": null,
-        "permalink": "/r/science/comments/1n6vxqh/donald_trumps_criminal_prosecution_in_2024_had/"
     }
 ]
