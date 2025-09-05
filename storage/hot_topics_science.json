@@ -4,8 +4,8 @@
         "author": "New_Scientist_Mag",
         "title": "A single dose of LSD seems to reduce anxiety",
         "content": "",
-        "upvotes": 7701,
-        "comments": 608,
+        "upvotes": 7779,
+        "comments": 612,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/AkfaXfk1M_hF8DwK-ul_Cb5CSe_iY0en-sL3d-EXM7E.jpeg?auto=webp&amp;s=12e5f4d7d9a9e31c7053743929ef51df88b7649f"
@@ -17,7 +17,7 @@
         "author": "unsw",
         "title": "When melanoma cancer cells are forced through channels narrower than 10 micrometres, they begin to behave more like stem cells, gaining traits that could help them survive, spread, and form new tumours",
         "content": "",
-        "upvotes": 193,
+        "upvotes": 223,
         "comments": 6,
         "media": {
             "type": "image",
@@ -26,11 +26,24 @@
         "permalink": "/r/science/comments/1n8y1yo/when_melanoma_cancer_cells_are_forced_through/"
     },
     {
+        "id": "1n8yi9x",
+        "author": "Wagamaga",
+        "title": "Adults over 65 whose weight decreases by more than 5% may experience faster cognitive decline. People whose weight varied the least demonstrated the lowest amount of cognitive decline, while people whose weight varied the most demonstrated between two and four times as much cognitive decline",
+        "content": "",
+        "upvotes": 165,
+        "comments": 15,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/ZVKfWaVL4I2B99CQcOFQIM7ww122jetJcQx-atuxom8.jpeg?auto=webp&amp;s=b14cdaa38083112ad321d54d4e356bb8f1ed94a6"
+        },
+        "permalink": "/r/science/comments/1n8yi9x/adults_over_65_whose_weight_decreases_by_more/"
+    },
+    {
         "id": "1n8onqm",
         "author": "mvea",
         "title": "Researchers transformed real sperm cells into tiny, magnetically controlled microrobots. Once inside, they can potentially deliver drugs to hard-to-reach places. The medication is loaded directly into the sperm cell bodies, turning nature\u2019s own cell delivery systems into programmable microrobots.",
         "content": "",
-        "upvotes": 706,
+        "upvotes": 715,
         "comments": 64,
         "media": {
             "type": "image",
@@ -39,24 +52,11 @@
         "permalink": "/r/science/comments/1n8onqm/researchers_transformed_real_sperm_cells_into/"
     },
     {
-        "id": "1n8yi9x",
-        "author": "Wagamaga",
-        "title": "Adults over 65 whose weight decreases by more than 5% may experience faster cognitive decline. People whose weight varied the least demonstrated the lowest amount of cognitive decline, while people whose weight varied the most demonstrated between two and four times as much cognitive decline",
-        "content": "",
-        "upvotes": 136,
-        "comments": 14,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/ZVKfWaVL4I2B99CQcOFQIM7ww122jetJcQx-atuxom8.jpeg?auto=webp&amp;s=b14cdaa38083112ad321d54d4e356bb8f1ed94a6"
-        },
-        "permalink": "/r/science/comments/1n8yi9x/adults_over_65_whose_weight_decreases_by_more/"
-    },
-    {
         "id": "1n8hskw",
         "author": "Pomme-M",
         "title": "Johns Hopkins finds possible link between air pollution (such as wildfires, vehicular exhaust) and the creation of the abnormal buildup of a protein, alpha-synuclein, in the brain. These clumps, known as Lewy bodies, are a hallmark of the conditions Parkinson\u2019s disease and Lewy body dementia.",
         "content": "",
-        "upvotes": 1087,
+        "upvotes": 1098,
         "comments": 13,
         "media": null,
         "permalink": "/r/science/comments/1n8hskw/johns_hopkins_finds_possible_link_between_air/"
@@ -66,7 +66,7 @@
         "author": "chrisdh79",
         "title": "Ice makes electricity when bent or stretched, physicists report new discovery | Findings could pave the way for advanced cold-climate electronics",
         "content": "",
-        "upvotes": 2159,
+        "upvotes": 2175,
         "comments": 49,
         "media": {
             "type": "image",
@@ -79,7 +79,7 @@
         "author": "mvea",
         "title": "Smartphone scrolling on toilet linked to higher hemorrhoid risk, raising risk of hemorrhoids by nearly 50%, from extra minutes spent sitting. 66% reported using phone on toilet. 37% stayed on toilet for more than 5 minutes. Most common reasons were to read news (54%) and use social media (44%).",
         "content": "",
-        "upvotes": 4586,
+        "upvotes": 4611,
         "comments": 322,
         "media": {
             "type": "image",
@@ -92,7 +92,7 @@
         "author": "calliope_kekule",
         "title": "Despite expectations that warmer seas would absorb more CO2, the global ocean took up 10% less than predicted in 2023.",
         "content": "",
-        "upvotes": 112,
+        "upvotes": 115,
         "comments": 5,
         "media": {
             "type": "image",
@@ -105,7 +105,7 @@
         "author": "mvea",
         "title": "Cannabis use linked to stronger emotional responses but also better recovery in people with anxiety. Cannabis users with anxiety show more pronounced emotional responses to negative experiences but also bounce back more effectively.",
         "content": "",
-        "upvotes": 1742,
+        "upvotes": 1749,
         "comments": 73,
         "media": {
             "type": "image",
@@ -118,7 +118,7 @@
         "author": "chrisdh79",
         "title": "Depressive individuals show decreased cognitive functioning | However, participants who were physically active, maintained an optimal sleep duration, and reported an overall healthy lifestyle showed better cognitive performance\u2014regardless of whether they experienced depressive symptoms.",
         "content": "",
-        "upvotes": 919,
+        "upvotes": 921,
         "comments": 42,
         "media": {
             "type": "image",
@@ -131,7 +131,7 @@
         "author": "nohup_me",
         "title": "Scientists engineered E. coli bacteria to produce PDCA, a biodegradable material with physical properties matching or exceeding PET, at unprecedented levels",
         "content": "",
-        "upvotes": 279,
+        "upvotes": 284,
         "comments": 12,
         "media": {
             "type": "image",
@@ -144,7 +144,7 @@
         "author": "False_Feature_8497",
         "title": "Dengue disease severity in humans is augmented by waning Japanese encephalitis virus immunity. Research suggests that declining immunity from prior exposure may contribute to more severe dengue outcomes.",
         "content": "",
-        "upvotes": 33,
+        "upvotes": 31,
         "comments": 3,
         "media": null,
         "permalink": "/r/science/comments/1n8vcmh/dengue_disease_severity_in_humans_is_augmented_by/"
@@ -154,7 +154,7 @@
         "author": "thebelsnickle1991",
         "title": "Weight loss drugs protect heart patients, according to a study out of Harvard-affiliated Mass General Brigham",
         "content": "",
-        "upvotes": 13,
+        "upvotes": 17,
         "comments": 4,
         "media": {
             "type": "image",
@@ -167,7 +167,7 @@
         "author": "CUAnschutzMed",
         "title": "Intense light therapy after surgery can increase a critical protein that protects heart tissue while lowering levels of troponin, a protein indicating heart damage that\u2019s linked to higher mortality in patients undergoing non-cardiac surgery, according to a new study",
         "content": "",
-        "upvotes": 199,
+        "upvotes": 207,
         "comments": 6,
         "media": {
             "type": "image",
@@ -180,7 +180,7 @@
         "author": "Pomme-M",
         "title": "Study of the drug Semiglutide (sold as Wegovy, Ozempic) shows it significantly lowers cocaine seeking behavior in rats, suggesting it may be a candidate for development as a treatment for cocaine dependency.",
         "content": "",
-        "upvotes": 2829,
+        "upvotes": 2828,
         "comments": 122,
         "media": null,
         "permalink": "/r/science/comments/1n7wfe9/study_of_the_drug_semiglutide_sold_as_wegovy/"
@@ -200,7 +200,7 @@
         "author": "mvea",
         "title": "People who consumed higher amounts of artificial sweeteners (aspartame, saccharin, erythritol, xylitol, sorbitol) showed steeper drops in verbal fluency, memory, and cognitive function over 8 years. This link was stronger in people with diabetes but also observed with people without it.",
         "content": "",
-        "upvotes": 6037,
+        "upvotes": 6047,
         "comments": 341,
         "media": {
             "type": "image",
@@ -213,7 +213,7 @@
         "author": "False_Feature_8497",
         "title": "An allele-agnostic mutant-KRAS inhibitor not only suppresses the signaling pathways that maintain tumor growth but also reprograms the immune environment of pancreatic cancer, offering potential new therapeutic strategies.",
         "content": "",
-        "upvotes": 15,
+        "upvotes": 16,
         "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1n8vha8/an_alleleagnostic_mutantkras_inhibitor_not_only/"
@@ -223,7 +223,7 @@
         "author": "memorialmonorail",
         "title": "Adding an electrical jolt to fermentation of industrial food waste speeds up the process and increases the yield of platform chemicals, a new study shows. Researchers also found combining 2 bacterial species in the electro-fermentation mix allowed for more targeted chemical production.",
         "content": "",
-        "upvotes": 92,
+        "upvotes": 90,
         "comments": 5,
         "media": {
             "type": "image",
@@ -236,13 +236,39 @@
         "author": "CityToCityPlus",
         "title": "Babies Pay Attention Longest When Parents Combine Words and Gestures, UC Davis Study Suggests",
         "content": "",
-        "upvotes": 81,
+        "upvotes": 78,
         "comments": 1,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/6j-zCU89cwASPwtqc0vL8Lue-cgp1rutX26GOsnrTWk.png?auto=webp&amp;s=c821b8ae62ba6ad3365edc848a1482e5fedf22f7"
         },
         "permalink": "/r/science/comments/1n8h3e3/babies_pay_attention_longest_when_parents_combine/"
+    },
+    {
+        "id": "1n903z0",
+        "author": "Wagamaga",
+        "title": "Researchers describe for the first time brain signals associated with forgetting unpleasant memories. These extinction memories were found to be highly context-specific, explaining why fear often returns once therapy ends. The findings open new avenues for therapies targeting fear-related disorders",
+        "content": "",
+        "upvotes": 3,
+        "comments": 2,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/LkbES6VEwEdIHjHJq8528tDHDpe-5EaPogvGvGhTnMo.jpeg?auto=webp&amp;s=90c07516c65026412ae00687b50454899ea2bdaa"
+        },
+        "permalink": "/r/science/comments/1n903z0/researchers_describe_for_the_first_time_brain/"
+    },
+    {
+        "id": "1n8ztkb",
+        "author": "uniofwarwick",
+        "title": "Observational social learning of \u201cknow-how\u201d and \u201cknow-what\u201d in wild orangutans: evidence from nest-building skill acquisition",
+        "content": "",
+        "upvotes": 2,
+        "comments": 1,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/m5wGqU2X3d9Ylkb5hPGZhxt2W6kt26gNQzP-VarylyQ.png?auto=webp&amp;s=c9920f48b56008beb2c6f8778f0321fcf2ebfdcd"
+        },
+        "permalink": "/r/science/comments/1n8ztkb/observational_social_learning_of_knowhow_and/"
     },
     {
         "id": "1n8necb",
@@ -262,7 +288,7 @@
         "author": "MassGen-Research",
         "title": "Research Finds Meal Timing in Later Life May Matter for Health and Longevity",
         "content": "",
-        "upvotes": 22,
+        "upvotes": 20,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1n8irdr/research_finds_meal_timing_in_later_life_may/"
@@ -272,7 +298,7 @@
         "author": "IEEESpectrum",
         "title": "New Quantum Sensor Can Identify Molecules Through Vibrations",
         "content": "",
-        "upvotes": 48,
+        "upvotes": 46,
         "comments": 6,
         "media": {
             "type": "image",
@@ -285,17 +311,30 @@
         "author": "mvea",
         "title": "American small business owners are more likely to identify with and vote for right-wing parties. People who inherited a business are more right-leaning. People without college degrees but who earn higher-than-median incomes are more likely to identify with the Republican Party and vote for Trump.",
         "content": "",
-        "upvotes": 7937,
+        "upvotes": 7942,
         "comments": 765,
         "media": null,
         "permalink": "/r/science/comments/1n7aw71/american_small_business_owners_are_more_likely_to/"
+    },
+    {
+        "id": "1n90ij8",
+        "author": "mvea",
+        "title": "Gossip within romantic couples is associated with greater happiness and better relationships. Gossiping among romantic partners may serve as a form of emotional bonding. People spent about 38 minutes per day gossiping, with about 29 of those minutes gossiping with their romantic partners.",
+        "content": "",
+        "upvotes": 1,
+        "comments": 3,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/pf4YM1I3YhjYA89y64p4-RKHfpfHU_piYN0cbVN4ozo.jpeg?auto=webp&amp;s=3a57d33937c0f207d9deee4924864d634a7094f5"
+        },
+        "permalink": "/r/science/comments/1n90ij8/gossip_within_romantic_couples_is_associated_with/"
     },
     {
         "id": "1n88sm4",
         "author": "universityofga",
         "title": "Healthy \u2014 or unhealthy \u2014 childhood habits could shape adult habits",
         "content": "",
-        "upvotes": 43,
+        "upvotes": 48,
         "comments": 13,
         "media": {
             "type": "image",
@@ -304,62 +343,26 @@
         "permalink": "/r/science/comments/1n88sm4/healthy_or_unhealthy_childhood_habits_could_shape/"
     },
     {
-        "id": "1n903z0",
-        "author": "Wagamaga",
-        "title": "Researchers describe for the first time brain signals associated with forgetting unpleasant memories. These extinction memories were found to be highly context-specific, explaining why fear often returns once therapy ends. The findings open new avenues for therapies targeting fear-related disorders",
+        "id": "1n8e9nm",
+        "author": "ERUDIGIT",
+        "title": "New Dutch study finds expectations regarding direct-to-consumer genetic testing (DTC-GT) among Dutch citizens to be significant, with several recurring misconceptions such as ability to detect disease and usability of results for medical- and/or reproductive decision-making",
         "content": "",
-        "upvotes": 1,
+        "upvotes": 23,
         "comments": 1,
         "media": null,
-        "permalink": "/r/science/comments/1n903z0/researchers_describe_for_the_first_time_brain/"
+        "permalink": "/r/science/comments/1n8e9nm/new_dutch_study_finds_expectations_regarding/"
     },
     {
         "id": "1n7qbzv",
         "author": "NGNResearch",
         "title": "Aerobic fitness and lower body fat are associated with better mental health outcomes in children, research finds",
         "content": "",
-        "upvotes": 782,
-        "comments": 27,
+        "upvotes": 785,
+        "comments": 28,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/gFOKoxclTea6i0j7kw8wHbrYSwio_ic11TnhQlLm-yE.jpeg?auto=webp&amp;s=3c30838d58accd449141122fde60c95fe94f9df4"
         },
         "permalink": "/r/science/comments/1n7qbzv/aerobic_fitness_and_lower_body_fat_are_associated/"
-    },
-    {
-        "id": "1n8ztkb",
-        "author": "uniofwarwick",
-        "title": "Observational social learning of \u201cknow-how\u201d and \u201cknow-what\u201d in wild orangutans: evidence from nest-building skill acquisition",
-        "content": "",
-        "upvotes": 1,
-        "comments": 1,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/m5wGqU2X3d9Ylkb5hPGZhxt2W6kt26gNQzP-VarylyQ.png?auto=webp&amp;s=c9920f48b56008beb2c6f8778f0321fcf2ebfdcd"
-        },
-        "permalink": "/r/science/comments/1n8ztkb/observational_social_learning_of_knowhow_and/"
-    },
-    {
-        "id": "1n8dvdc",
-        "author": "dpn-journal",
-        "title": "Signs and symptoms of internalizing and externalizing disorders and opportunities for clinical translation",
-        "content": "",
-        "upvotes": 20,
-        "comments": 2,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/CRIX_zylVspjFDuyqKszLNNHobZU3ny3wyEt2oL1TRk.png?auto=webp&amp;s=ba8af815fd507e57a229e8d4ea643cd2c132128c"
-        },
-        "permalink": "/r/science/comments/1n8dvdc/signs_and_symptoms_of_internalizing_and/"
-    },
-    {
-        "id": "1n8e9nm",
-        "author": "ERUDIGIT",
-        "title": "New Dutch study finds expectations regarding direct-to-consumer genetic testing (DTC-GT) among Dutch citizens to be significant, with several recurring misconceptions such as ability to detect disease and usability of results for medical- and/or reproductive decision-making",
-        "content": "",
-        "upvotes": 20,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1n8e9nm/new_dutch_study_finds_expectations_regarding/"
     }
 ]
