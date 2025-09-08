@@ -4,8 +4,8 @@
         "author": "mvea",
         "title": "Researchers watched 150 episodes of Bluey \u2013 they found it can teach kids about resilience for real life. Resilience isn\u2019t just about \u201ctoughing it out\u201d. It\u2019s the ability to cope with challenges, adapt to setbacks and recover from difficulties.",
         "content": "",
-        "upvotes": 4514,
-        "comments": 69,
+        "upvotes": 12181,
+        "comments": 203,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/SMerH5-uwtgGZ84kEL-sAjWbTwNFY1ESRQQr04dy4To.jpeg?auto=webp&amp;s=bdce49ce45cfabb02fee73bd72e0626ca587b7cd"
@@ -17,8 +17,8 @@
         "author": "mvea",
         "title": "Experimental new sunscreen forgoes minerals, replacing them with plant pollen. When applied to animal skin in lab tests, it rated SPF 30, blocking 97% UV rays. It had no effect on corals, even after 60 days. By contrast, corals died of bleaching within 6 days of exposure to commercial sunscreens.",
         "content": "",
-        "upvotes": 15316,
-        "comments": 250,
+        "upvotes": 16376,
+        "comments": 254,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/6iOVpzdjbwrFNmG4u6URkQvhL0UUGGP0z1mc87ura1Y.jpeg?auto=webp&amp;s=e17e7d42761c899a0b2c73900fbf1be3c439d947"
@@ -30,18 +30,31 @@
         "author": "Wagamaga",
         "title": "The 12000 Year Old Skeleton That Reveals Humanity\u2019s First Known Act of Violence in Southeast Asia. Research found the individual did not die immediately in the attack, but weeks or perhaps months later after suffering an agonizing infection caused by his wounds",
         "content": "",
-        "upvotes": 390,
-        "comments": 18,
+        "upvotes": 710,
+        "comments": 22,
         "media": null,
         "permalink": "/r/science/comments/1nb5gh3/the_12000_year_old_skeleton_that_reveals/"
+    },
+    {
+        "id": "1nbdd1r",
+        "author": "FocusingEndeavor",
+        "title": "Glucose, in addition to powering our cells, also helps immune cells called T cells communicate and organize their attack on tumors. By turning sugar into special building blocks called glycosphingolipids, T cells strengthen their internal signals and become far more effective cancer killers.",
+        "content": "",
+        "upvotes": 131,
+        "comments": 6,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/DpkgJKKnikODoM0K9hml9NfbkxaxJrtSdMOkHLfPEv8.png?auto=webp&amp;s=6f1a7b902cda021fbd59457a8188bbe3eab5cafc"
+        },
+        "permalink": "/r/science/comments/1nbdd1r/glucose_in_addition_to_powering_our_cells_also/"
     },
     {
         "id": "1nasua1",
         "author": "mvea",
         "title": "In the largest study of its kind, scientists accurately documented the massive change in animal morphology over the last 1,000 years, with domesticated animals growing larger across the board and their wild relatives becoming smaller. It underlines the true impact of one species in particular \u2013 us.",
         "content": "",
-        "upvotes": 1326,
-        "comments": 11,
+        "upvotes": 1522,
+        "comments": 14,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/PCf9GswtqaYwg7yOR-4_VPuQdNLWLFhw-lc4lAWiX1U.jpeg?auto=webp&amp;s=5842cc594a1e960b5be9ee0df7a1b5b3783d497f"
@@ -49,24 +62,11 @@
         "permalink": "/r/science/comments/1nasua1/in_the_largest_study_of_its_kind_scientists/"
     },
     {
-        "id": "1nav9rw",
-        "author": "chrisdh79",
-        "title": "People interpret long eyelashes as a signal of openness to casual relationships | However, participants also interpreted longer-than-optimal eyelashes as a signal of sexual receptivity.",
-        "content": "",
-        "upvotes": 794,
-        "comments": 108,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/xvp5AmONI1dZbpGN7pscTDGb5ruR5DJfqM2HJ1h1XZc.jpeg?auto=webp&amp;s=e910ea8a5b49afae7bd6da75b7612a5e372e9fb7"
-        },
-        "permalink": "/r/science/comments/1nav9rw/people_interpret_long_eyelashes_as_a_signal_of/"
-    },
-    {
         "id": "1nb3ef1",
         "author": "Numinous_Noise",
         "title": "Invisible invaders: unveiling the carcinogenic threat of microplastics and nanoplastics in colorectal cancer-a systematic review.",
         "content": "",
-        "upvotes": 193,
+        "upvotes": 367,
         "comments": 5,
         "media": {
             "type": "image",
@@ -75,12 +75,38 @@
         "permalink": "/r/science/comments/1nb3ef1/invisible_invaders_unveiling_the_carcinogenic/"
     },
     {
+        "id": "1nav9rw",
+        "author": "chrisdh79",
+        "title": "People interpret long eyelashes as a signal of openness to casual relationships | However, participants also interpreted longer-than-optimal eyelashes as a signal of sexual receptivity.",
+        "content": "",
+        "upvotes": 966,
+        "comments": 114,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/xvp5AmONI1dZbpGN7pscTDGb5ruR5DJfqM2HJ1h1XZc.jpeg?auto=webp&amp;s=e910ea8a5b49afae7bd6da75b7612a5e372e9fb7"
+        },
+        "permalink": "/r/science/comments/1nav9rw/people_interpret_long_eyelashes_as_a_signal_of/"
+    },
+    {
+        "id": "1nbgkma",
+        "author": "Lord-Julius",
+        "title": "Meta-analysis finds Mediterranean coastal ecosystems face very high climate risk once warming exceeds 0.8 \u00b0C",
+        "content": "",
+        "upvotes": 44,
+        "comments": 2,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/woDoT7Eb4G_Y-7xcLlkC-t9VW3atloSdyvAFPeiYWeQ.png?auto=webp&amp;s=88de6dacb8007e7c2888ac1897ffa6db54bb00fe"
+        },
+        "permalink": "/r/science/comments/1nbgkma/metaanalysis_finds_mediterranean_coastal/"
+    },
+    {
         "id": "1nb74ze",
         "author": "nohup_me",
         "title": "Gut-brain communication is central to a range of eating behavior disorders and non-biological stressors \u2014 such as discrimination or past illness \u2014 can significantly shape physiological responses",
         "content": "",
-        "upvotes": 111,
-        "comments": 3,
+        "upvotes": 167,
+        "comments": 5,
         "media": null,
         "permalink": "/r/science/comments/1nb74ze/gutbrain_communication_is_central_to_a_range_of/"
     },
@@ -89,18 +115,31 @@
         "author": "Wagamaga",
         "title": "In North America, most groups of young people are seeing stable suicide rates or even declining rates, except for Canadian teenage girls, who  show increases. In South Korea, however, suicide rates among both young men and women have sharply increased in recent years, especially among young women",
         "content": "",
-        "upvotes": 410,
-        "comments": 33,
+        "upvotes": 542,
+        "comments": 36,
         "media": null,
         "permalink": "/r/science/comments/1nat87q/in_north_america_most_groups_of_young_people_are/"
+    },
+    {
+        "id": "1nbgjxn",
+        "author": "Lord-Julius",
+        "title": "A label-free method for measuring the composition of multicomponent biomolecular condensates",
+        "content": "",
+        "upvotes": 9,
+        "comments": 1,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/R0PCm54zL2PjQBJl6AZrnmsAN6fiV4ibFhE1HmOc5M8.png?auto=webp&amp;s=103abe05e561c40e440c12068a59b4a2f750171f"
+        },
+        "permalink": "/r/science/comments/1nbgjxn/a_labelfree_method_for_measuring_the_composition/"
     },
     {
         "id": "1na8tge",
         "author": "False_Feature_8497",
         "title": "Heterosexual men rate partners less favorably after pornography exposure, and research suggests this effect may be linked to altered perceptions of attractiveness and relationship satisfaction",
         "content": "",
-        "upvotes": 4718,
-        "comments": 337,
+        "upvotes": 4929,
+        "comments": 344,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/l72JanRbYWqVkYZ4YhFRRugUgElqg3VLanmCws9w4RY.jpeg?auto=webp&amp;s=fb3ae7bc0ea2472330344f9659f4224d541b7549"
@@ -108,12 +147,35 @@
         "permalink": "/r/science/comments/1na8tge/heterosexual_men_rate_partners_less_favorably/"
     },
     {
+        "id": "1nb46iw",
+        "author": "FunnyGamer97",
+        "title": "Higher blood pressure (BP) at age 7 is associated with greater risk of premature cardiovascular disease (CVD) mortality, large sample study of U.S. children born between 1959 and 1966 finds",
+        "content": "",
+        "upvotes": 45,
+        "comments": 4,
+        "media": null,
+        "permalink": "/r/science/comments/1nb46iw/higher_blood_pressure_bp_at_age_7_is_associated/"
+    },
+    {
+        "id": "1nbgjaq",
+        "author": "Lord-Julius",
+        "title": "Neutrophil-specific targeting of STAT3 impairs tumor progression via the expansion of cytotoxic CD8+ T cells",
+        "content": "",
+        "upvotes": 5,
+        "comments": 1,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/SIUjat0YGGtgNtce9mvNkrLdEpB_Sx9Y3wtIbsm_9-U.png?auto=webp&amp;s=cae761dba98acaef0a8f0225da20838cdd628290"
+        },
+        "permalink": "/r/science/comments/1nbgjaq/neutrophilspecific_targeting_of_stat3_impairs/"
+    },
+    {
         "id": "1na8z6r",
         "author": "False_Feature_8497",
         "title": "Study shows the lack of \u2018me time\u2019 for new mothers, and research suggests that insufficient personal time may contribute to higher stress levels, lower mental well-being, and increased risk of postpartum burnout",
         "content": "",
-        "upvotes": 3480,
-        "comments": 134,
+        "upvotes": 3646,
+        "comments": 138,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/Jf_fP740F4xVzFKqn_9rkv6L8hSOyDVBrEtLs1svpi4.png?auto=webp&amp;s=567b94b0cbdf8b164ddbd1dd1ab68f1431ad4f82"
@@ -121,21 +183,11 @@
         "permalink": "/r/science/comments/1na8z6r/study_shows_the_lack_of_me_time_for_new_mothers/"
     },
     {
-        "id": "1nb46iw",
-        "author": "FunnyGamer97",
-        "title": "Higher blood pressure (BP) at age 7 is associated with greater risk of premature cardiovascular disease (CVD) mortality, large sample study of U.S. children born between 1959 and 1966 finds",
-        "content": "",
-        "upvotes": 30,
-        "comments": 3,
-        "media": null,
-        "permalink": "/r/science/comments/1nb46iw/higher_blood_pressure_bp_at_age_7_is_associated/"
-    },
-    {
         "id": "1nakdgy",
         "author": "calliope_kekule",
         "title": "Zebrafish with an autism-linked mutation acted less social in a stressful Styrofoam tank but less so in clear Plexiglass. This shows how environment can shape social behaviour in genetically predisposed animals.",
         "content": "",
-        "upvotes": 380,
+        "upvotes": 423,
         "comments": 21,
         "media": {
             "type": "image",
@@ -148,8 +200,8 @@
         "author": "ILikeNeurons",
         "title": "Climate models reveal how human activity may be locking the Southwest into permanent drought",
         "content": "",
-        "upvotes": 1324,
-        "comments": 37,
+        "upvotes": 1407,
+        "comments": 39,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/4Yg1x3Doh7Zx5jWL5KyX32ipUd363P8HH2J3FvGpQWU.jpeg?auto=webp&amp;s=66c255f3ad1e2113751eb6335b10cfc374972a97"
@@ -161,8 +213,8 @@
         "author": "mvea",
         "title": "The way babies are soothed may be more important than how quickly mothers respond. UK mothers responded more quickly, but Ugandan infants recovered faster.\u202fUK mothers used more verbal reassurance and less tactile contact. Ugandan mothers used more tactile strategies, particularly breastfeeding.",
         "content": "",
-        "upvotes": 6674,
-        "comments": 268,
+        "upvotes": 6752,
+        "comments": 271,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/L-2dmwyI69VYbLJpctOlKiQDIgjZ7BhJXPcDDDXp0Zw.png?auto=webp&amp;s=d9f845859a4d91def745b109fcb1f3a11d23fdf6"
@@ -174,8 +226,8 @@
         "author": "nohup_me",
         "title": "Scientists have developed a method to convert plastic waste into a climate solution for efficient and sustainable CO2 capture",
         "content": "",
-        "upvotes": 712,
-        "comments": 35,
+        "upvotes": 739,
+        "comments": 38,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/mXY3KzJlKl7H2Qm_ctxHLXe39_Id-g6NVy3CtLFrAJ0.png?auto=webp&amp;s=9e2bb5b2057c382a3531dc35088a90808c5f2f92"
@@ -187,8 +239,8 @@
         "author": "James_Fortis",
         "title": "Children following a vegan diet were the most active during leisure time, most active across the week, and most consistently ate fruits compared to vegetarians and omnivores, study of 8799 pupils finds",
         "content": "",
-        "upvotes": 1939,
-        "comments": 398,
+        "upvotes": 1966,
+        "comments": 402,
         "media": null,
         "permalink": "/r/science/comments/1n9xabr/children_following_a_vegan_diet_were_the_most/"
     },
@@ -197,7 +249,7 @@
         "author": "donutloop",
         "title": "Single-shot readout of the nuclear spin of an on-surface atom",
         "content": "",
-        "upvotes": 36,
+        "upvotes": 43,
         "comments": 2,
         "media": {
             "type": "image",
@@ -210,7 +262,7 @@
         "author": "smurfyjenkins",
         "title": "The passage of the 1965 Voting Rights Act (VRA), which secured voting rights for black people in the South, led to a counter-mobilization by Southern Whites. The VRA led to a surge in white voter registrations in counties where black voters were competitive.",
         "content": "",
-        "upvotes": 755,
+        "upvotes": 774,
         "comments": 22,
         "media": null,
         "permalink": "/r/science/comments/1n9zdu1/the_passage_of_the_1965_voting_rights_act_vra/"
@@ -220,7 +272,7 @@
         "author": "nohup_me",
         "title": "Human impact on the ocean will double by 2050: the tropics and the poles will experience the fastest changes in impacts, and the coastal areas will feel the brunt of the increased impacts",
         "content": "",
-        "upvotes": 216,
+        "upvotes": 232,
         "comments": 20,
         "media": {
             "type": "image",
@@ -233,7 +285,7 @@
         "author": "AnuBis6525",
         "title": "Evaluating Technology Attributes of Grid-Size Electricity Energy Storage for Palawan: A Multi-Criteria Analysis Study",
         "content": "",
-        "upvotes": 12,
+        "upvotes": 10,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1nap139/evaluating_technology_attributes_of_gridsize/"
@@ -243,7 +295,7 @@
         "author": "False_Feature_8497",
         "title": "Scientists map the stress response system in plants, and research suggests that this understanding could help develop crops more resilient to drought, disease, and other stresses, strengthening food security and sustainable farming",
         "content": "",
-        "upvotes": 75,
+        "upvotes": 89,
         "comments": 3,
         "media": {
             "type": "image",
@@ -256,7 +308,7 @@
         "author": "mustaphah",
         "title": "A new study has found that people with ADHD traits experience boredom more often and more intensely than peers, linked to poor attention control and working memory",
         "content": "",
-        "upvotes": 11889,
+        "upvotes": 11929,
         "comments": 798,
         "media": {
             "type": "image",
@@ -269,7 +321,7 @@
         "author": "Lord-Julius",
         "title": "Mirror-image monoterpene emissions from Amazon trees reveal drought stress during El Ni\u00f1o events",
         "content": "",
-        "upvotes": 52,
+        "upvotes": 55,
         "comments": 1,
         "media": {
             "type": "image",
@@ -278,11 +330,24 @@
         "permalink": "/r/science/comments/1na77p5/mirrorimage_monoterpene_emissions_from_amazon/"
     },
     {
+        "id": "1nbhwcb",
+        "author": "Old-Question-8976",
+        "title": "Why is sandstone hard like how does it have the properties of a rock but be made out of sand",
+        "content": "",
+        "upvotes": 0,
+        "comments": 4,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/oZbJS1OT0h_1Wk3lWCKIvnd_L5J0srJnUq67HY2NEGA.png?auto=webp&amp;s=91f362fb1c14500806fbef99a6ccf6c4166a79cf"
+        },
+        "permalink": "/r/science/comments/1nbhwcb/why_is_sandstone_hard_like_how_does_it_have_the/"
+    },
+    {
         "id": "1n9qr7p",
         "author": "calliope_kekule",
         "title": "A 54-year study shows that beavers reshape boreal landscapes, boosting habitat quality and connectivity nearly tenfold. Their ponds and floods support lasting biodiversity gains.",
         "content": "",
-        "upvotes": 542,
+        "upvotes": 552,
         "comments": 7,
         "media": null,
         "permalink": "/r/science/comments/1n9qr7p/a_54year_study_shows_that_beavers_reshape_boreal/"
@@ -292,71 +357,12 @@
         "author": "mvea",
         "title": "Army basic training appears to reshape how the brain processes reward. The stress experienced during basic combat training may dampen the brain\u2019s ability to respond to rewarding outcomes.",
         "content": "",
-        "upvotes": 7315,
+        "upvotes": 7341,
         "comments": 370,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/dZkkr9glIqtJzT5tJVjXvYei2wsvrPMGaluDZma927Q.jpeg?auto=webp&amp;s=98008e1794d100a4d92083f34d68fbc0d5a0aad9"
         },
         "permalink": "/r/science/comments/1n93di4/army_basic_training_appears_to_reshape_how_the/"
-    },
-    {
-        "id": "1na744a",
-        "author": "Lord-Julius",
-        "title": "Electron accumulation across the perovskite layer enhances tandem solar cells with textured silicon",
-        "content": "",
-        "upvotes": 23,
-        "comments": 4,
-        "media": null,
-        "permalink": "/r/science/comments/1na744a/electron_accumulation_across_the_perovskite_layer/"
-    },
-    {
-        "id": "1na75ys",
-        "author": "Lord-Julius",
-        "title": "Crystal structures reveal how clusterin\u2019s flexible tails prevent protein aggregation and facilitate clearance in the extracellular space",
-        "content": "",
-        "upvotes": 16,
-        "comments": 1,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/Kov-D2d8ET6mKqsUEeRw5HvQ6LG4oGy_PzrLeuEky8Y.png?auto=webp&amp;s=d4265937b94cd1052e4e6d522334d313621efe59"
-        },
-        "permalink": "/r/science/comments/1na75ys/crystal_structures_reveal_how_clusterins_flexible/"
-    },
-    {
-        "id": "1n9yb74",
-        "author": "Inquiring_minds42",
-        "title": "Study finds COVID-19 stressors did not increase dropout from buprenorphine treatment for opioid use disorder",
-        "content": "",
-        "upvotes": 43,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1n9yb74/study_finds_covid19_stressors_did_not_increase/"
-    },
-    {
-        "id": "1n9eev9",
-        "author": "nohup_me",
-        "title": "A study has found that adolescents become highly motivated to seek rewards after just a few hours of social isolation, making some people more prone to seek out rewards such as alcohol or recreational drugs",
-        "content": "",
-        "upvotes": 817,
-        "comments": 38,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/cl07UddpmR6xyPUWAi765tRcxYRmB5fgzTrhb5gIsJU.jpeg?auto=webp&amp;s=ad929f7c794ee77ce0cdc4c7e3f65fcf4a32777a"
-        },
-        "permalink": "/r/science/comments/1n9eev9/a_study_has_found_that_adolescents_become_highly/"
-    },
-    {
-        "id": "1n90us9",
-        "author": "mvea",
-        "title": "The activity level of parents affects the activity level of their kids: When parents sit too much, their kids tend to follow suit. But if parents keep active, children don\u2019t mirror the same sedentary habits. It highlights the power of parents as role models for healthier lifestyles.",
-        "content": "",
-        "upvotes": 4627,
-        "comments": 79,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/jk9wcpMqxIbCsIqUJxDL-_BV4bBOaJsNdjekynQQHF4.jpeg?auto=webp&amp;s=ecfb598d242a199b40f0c7971c217d4580a14936"
-        },
-        "permalink": "/r/science/comments/1n90us9/the_activity_level_of_parents_affects_the/"
     }
 ]
