@@ -1,11 +1,34 @@
 [
     {
+        "id": "1ncojzt",
+        "author": "Wagamaga",
+        "title": "Post-mortem tissue from people with Alzheimer's Disease revealed that those who lived in areas with higher concentrations of fine particulate matter in the air even just one year had more severe accumulation of amyloid plaques -hallmarks of Alzheimer's pathology compared to those with less exposure",
+        "content": "",
+        "upvotes": 3127,
+        "comments": 126,
+        "media": null,
+        "permalink": "/r/science/comments/1ncojzt/postmortem_tissue_from_people_with_alzheimers/"
+    },
+    {
+        "id": "1ncv0j0",
+        "author": "NGNResearch",
+        "title": "Sites contaminated by toxic \u2018forever chemicals\u2019 are much more widespread than previously thought, researchers find",
+        "content": "",
+        "upvotes": 1062,
+        "comments": 15,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/jScR2AMYAYZXhsVO9a-t_B7bW2yqGzLchIuTKd230Mw.jpeg?auto=webp&amp;s=8a6d702d612ef7425415229b9527554c736c0373"
+        },
+        "permalink": "/r/science/comments/1ncv0j0/sites_contaminated_by_toxic_forever_chemicals_are/"
+    },
+    {
         "id": "1ncejaw",
         "author": "mvea",
         "title": "Human Evolution May Explain High Autism Rates: genetic changes that made our brain unique also made us more neurodiverse. Special neurons underwent fast evolution in humans - this rapid shift coincided with alterations in genes linked to autism, likely shaped by natural selection unique to humans.",
         "content": "",
-        "upvotes": 5175,
-        "comments": 362,
+        "upvotes": 8884,
+        "comments": 541,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/EwndwFeptahLyWl8U6FvSffYomTw6EsZR5Knxmb5Ivo.jpeg?auto=webp&amp;s=1b61f1727c37642e4d75a1cea5cfc045e0a2dd46"
@@ -13,12 +36,74 @@
         "permalink": "/r/science/comments/1ncejaw/human_evolution_may_explain_high_autism_rates/"
     },
     {
+        "id": "1ncv57o",
+        "author": "mvea",
+        "title": "Many autistic adults feel torn about revealing their diagnosis. Disclosure can serve meaningful purposes, such as accessing support, fostering self-acceptance, and engaging in activism, but also exposes people to disbelief, stereotyping, and emotional vulnerability.",
+        "content": "",
+        "upvotes": 782,
+        "comments": 91,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/QrizLIsT5FPFIO5YkulhRyQru8os2WFxJqbm0cItXlg.jpeg?auto=webp&amp;s=cb0e9dbdc904ccecd400a50b15360c69cc73fc97"
+        },
+        "permalink": "/r/science/comments/1ncv57o/many_autistic_adults_feel_torn_about_revealing/"
+    },
+    {
+        "id": "1nczzd8",
+        "author": "memorialmonorail",
+        "title": "A new study shows an association between 10-12 weeks of following a well-formulated ketogenic diet and a roughly 70% decrease in depression symptoms among a small group of college students. Participants\u2019 global well-being increased nearly 3-fold and performance improved on several cognitive tasks.",
+        "content": "",
+        "upvotes": 176,
+        "comments": 43,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/PJCSBdX0JNlLDtGLs2cIVi3yDkGdte55tAKs9vNCDTE.jpeg?auto=webp&amp;s=dc8daa0c0c73e065d76a165432fe8e136b8dad2f"
+        },
+        "permalink": "/r/science/comments/1nczzd8/a_new_study_shows_an_association_between_1012/"
+    },
+    {
+        "id": "1ncu3cl",
+        "author": "Wagamaga",
+        "title": "Archaeologists Discovered the Skull of a Bear Once Used in Roman Gladiator Fights. The bear suffered a fracture to its frontal bone, and there were marks on its teeth from chewing at the bars of a cage.",
+        "content": "",
+        "upvotes": 347,
+        "comments": 22,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/_sKUgyePc6popyKywHeCK3uBCgEXTtGK1C55rvg1bVs.jpeg?auto=webp&amp;s=498af8818cd9bc08da2a0eb78f76c829fd8f85e9"
+        },
+        "permalink": "/r/science/comments/1ncu3cl/archaeologists_discovered_the_skull_of_a_bear/"
+    },
+    {
+        "id": "1ncsi9a",
+        "author": "nohup_me",
+        "title": "During sleep, the brain produces growth hormone to help build muscle and bone and reduce fat, a research in mice reveals the brain circuits that regulate growth hormone release and a brainstem feedback mechanism that promotes wakefulness after a good night\u2019s sleep",
+        "content": "",
+        "upvotes": 324,
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/science/comments/1ncsi9a/during_sleep_the_brain_produces_growth_hormone_to/"
+    },
+    {
+        "id": "1nclolg",
+        "author": "Science_News",
+        "title": "Chemicals in marijuana may affect women\u2019s fertility | THC may push eggs to become ready for fertilization, but a new study found that when artificially matured eggs were exposed to the chemical, they often had the wrong number of chromosomes",
+        "content": "",
+        "upvotes": 573,
+        "comments": 50,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/QFZtrKf_kBOKwWbjqn-y-ccAV6qtGlDhZY_hRn6s5LE.jpeg?auto=webp&amp;s=043d9c1bfa6ea853e469de05a480fc3368d29544"
+        },
+        "permalink": "/r/science/comments/1nclolg/chemicals_in_marijuana_may_affect_womens/"
+    },
+    {
         "id": "1nc2oxu",
         "author": "chrisdh79",
         "title": "ADHD brains really are built differently \u2013 we've just been blinded by the noise | Scientists eliminate the gray area when it comes to gray matter in ADHD brains",
         "content": "",
-        "upvotes": 11316,
-        "comments": 404,
+        "upvotes": 13517,
+        "comments": 472,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/Bovug8egEncdlsEWtYA-dhSKjUFU41rcq0_KWphFCNc.jpeg?auto=webp&amp;s=7f5009b6288341c9dc6862f577d7cf304d61dbb7"
@@ -26,12 +111,25 @@
         "permalink": "/r/science/comments/1nc2oxu/adhd_brains_really_are_built_differently_weve/"
     },
     {
+        "id": "1nctcz0",
+        "author": "Hrmbee",
+        "title": "Geoengineering Won\u2019t Save Us From Global Warming New Study Says | Safeguarding the polar regions from dangerous geoengineering: a critical assessment of proposed concepts and future prospects",
+        "content": "",
+        "upvotes": 142,
+        "comments": 9,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/WhwV6gUErLBy2ikhquAH6bt-pQST3ZcIUJiFK27l6Eo.jpeg?auto=webp&amp;s=397b9a82727dba9db4b323545694d6cbafde439c"
+        },
+        "permalink": "/r/science/comments/1nctcz0/geoengineering_wont_save_us_from_global_warming/"
+    },
+    {
         "id": "1ncfkz3",
         "author": "Wagamaga",
         "title": "New research found the benefits of weight loss extend well beyond the scales with nearly 90 per cent of people who lost over 15kg reporting improved health, wellbeing and energy levels. Those who achieved greater weight loss reported greater improvements to their quality of life.",
         "content": "",
-        "upvotes": 488,
-        "comments": 18,
+        "upvotes": 651,
+        "comments": 31,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/MZVhRZgS7zT8jw_IYv22rkRC_JoonX2EyH2SMMNKWSY.png?auto=webp&amp;s=7532ea31c811d82634010ccb90801cb7362e9e3e"
@@ -43,8 +141,8 @@
         "author": "chrisdh79",
         "title": "\u2018Artificial cartilage\u2019 could improve arthritis treatment | Researchers have developed a material that can sense tiny changes within the body, such as during an arthritis flare-up, and release drugs exactly where and when they are needed.",
         "content": "",
-        "upvotes": 325,
-        "comments": 7,
+        "upvotes": 556,
+        "comments": 8,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/JF56kIWuNIW0bEoWTB1bCc_jvuM0KZYSU_84t-n9nPQ.jpeg?auto=webp&amp;s=a43057b980e0fa803aedc088e68ee04a364e7e71"
@@ -52,25 +150,38 @@
         "permalink": "/r/science/comments/1ncg1tv/artificial_cartilage_could_improve_arthritis/"
     },
     {
-        "id": "1nch15q",
-        "author": "mvea",
-        "title": "The older we get, the fewer favorite songs we have: 15 years of listening data shows that musical taste becomes more refined with age. In transition from adolescence to adulthood, music habits broaden. With age, this narrows, while music becomesmore personal and influenced by previous experiences.",
+        "id": "1ncop90",
+        "author": "ezgimantocu",
+        "title": "Canadian scientists discover kidney-protective microRNA",
         "content": "",
-        "upvotes": 265,
-        "comments": 41,
+        "upvotes": 171,
+        "comments": 3,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/NAcY-eCJ6LQxyPLy_8_JuWPYvViZS1ysDyuzKMONTQA.jpeg?auto=webp&amp;s=5ab040c88ded828b56ce65416b8359ed8f46afb9"
+            "url": "https://external-preview.redd.it/G8BygyhlqmPHLldw0JZ8wIJQRTuHM7VPVi1-l9T-m14.jpeg?auto=webp&amp;s=9e9551dfd6aa563e513c2c7c8453c105622d0e34"
         },
-        "permalink": "/r/science/comments/1nch15q/the_older_we_get_the_fewer_favorite_songs_we_have/"
+        "permalink": "/r/science/comments/1ncop90/canadian_scientists_discover_kidneyprotective/"
+    },
+    {
+        "id": "1ncupbd",
+        "author": "scientificamerican",
+        "title": "Using JWST, for the first time, astronomers have managed to find tentative evidence for an atmosphere on a rocky planet in a clement orbit around another star some 40 light-years from Earth. The two papers were published in the Astrophysical Journal Letters.",
+        "content": "",
+        "upvotes": 82,
+        "comments": 12,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/M_fKWxtEZ-GU7CL9wgwAZTygtqd_ZLwFSi7g-o6feho.jpeg?auto=webp&amp;s=cf8c259763c9001b93886bb941b49257c284d63c"
+        },
+        "permalink": "/r/science/comments/1ncupbd/using_jwst_for_the_first_time_astronomers_have/"
     },
     {
         "id": "1nc000l",
         "author": "mvea",
         "title": "My blue is your blue: different people\u2019s brains process colours in the same way. Neuroscientists can predict what colour a person is looking at using a machine-learning tool trained on the brain activity of others.",
         "content": "",
-        "upvotes": 4011,
-        "comments": 243,
+        "upvotes": 4346,
+        "comments": 261,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/B9TBFC8U1iuA0aUy_iM7tKlSB-EvO4Rp7oenEF5kA4s.jpeg?auto=webp&amp;s=8cba586e4ab90daada5ec909476094160ee06871"
@@ -82,8 +193,8 @@
         "author": "sciencealert",
         "title": "For the first time, physicists have created a time crystal that can be directly seen by human eyes (video)",
         "content": "",
-        "upvotes": 2643,
-        "comments": 155,
+        "upvotes": 3005,
+        "comments": 171,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/Bzwsz687y2RwEkidnH1XXx9LrD_dZpB_HAbje4N73Us.jpeg?auto=webp&amp;s=c40db7503c002e015177cead3385efa9db1a181b"
@@ -91,24 +202,11 @@
         "permalink": "/r/science/comments/1nc2afc/for_the_first_time_physicists_have_created_a_time/"
     },
     {
-        "id": "1nclolg",
-        "author": "Science_News",
-        "title": "Chemicals in marijuana may affect women\u2019s fertility | THC may push eggs to become ready for fertilization, but a new study found that when artificially matured eggs were exposed to the chemical, they often had the wrong number of chromosomes",
-        "content": "",
-        "upvotes": 96,
-        "comments": 13,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/QFZtrKf_kBOKwWbjqn-y-ccAV6qtGlDhZY_hRn6s5LE.jpeg?auto=webp&amp;s=043d9c1bfa6ea853e469de05a480fc3368d29544"
-        },
-        "permalink": "/r/science/comments/1nclolg/chemicals_in_marijuana_may_affect_womens/"
-    },
-    {
         "id": "1ncb30n",
         "author": "False_Feature_8497",
         "title": "Glue Gun\u2019 prints bone grafts directly onto fractures during surgery. Research shows this technology can enable precise, on-site reconstruction of damaged bones, potentially improving surgical outcome.",
         "content": "",
-        "upvotes": 402,
+        "upvotes": 507,
         "comments": 4,
         "media": {
             "type": "image",
@@ -117,11 +215,21 @@
         "permalink": "/r/science/comments/1ncb30n/glue_gun_prints_bone_grafts_directly_onto/"
     },
     {
+        "id": "1ncjsav",
+        "author": "amesydragon",
+        "title": "Changes to 18 genes suggest differences in subcortical brain regions between modern humans, Neanderthals, and Denisovans. These areas (including the brainstem and cerebellum) hint that Homo sapiens may have developed quicker, more efficient attentional relay.",
+        "content": "",
+        "upvotes": 48,
+        "comments": 3,
+        "media": null,
+        "permalink": "/r/science/comments/1ncjsav/changes_to_18_genes_suggest_differences_in/"
+    },
+    {
         "id": "1nblv67",
         "author": "mvea",
         "title": "Attraction goes beyond looks: Study shows voices, scents, and motion all matter. Physical attraction is not simply about being objectively good-looking. Instead, attraction seems to arise from a mix of shared traits, personal preferences, and subtle non-verbal signals that go beyond facial features.",
         "content": "",
-        "upvotes": 5682,
+        "upvotes": 5886,
         "comments": 181,
         "media": {
             "type": "image",
@@ -134,8 +242,8 @@
         "author": "mvea",
         "title": "A single fecal microbiota transplant in obese teens delivered long-lasting metabolic benefits, shrinking waistlines, reducing body fat and inflammation, and lowering heart disease risk markers, which were still visible four years later.",
         "content": "",
-        "upvotes": 11756,
-        "comments": 525,
+        "upvotes": 11858,
+        "comments": 527,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/x_u_M3Rewjggr1K19tV68_Hub0FbSUyoyJ2pdEZqjGo.jpeg?auto=webp&amp;s=7cb1159fbe141682bf902d3c9e64233647c177e2"
@@ -147,8 +255,8 @@
         "author": "chrisdh79",
         "title": "Single dose of psilocybin linked to lasting symptom relief in treatment-resistant depression",
         "content": "",
-        "upvotes": 2730,
-        "comments": 178,
+        "upvotes": 2857,
+        "comments": 184,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/t7nrcTxmN4MC6sDlBk__JCFY6F1Gyn216ycFu0SgOO0.jpeg?auto=webp&amp;s=52c6e2c6a5fc920c6b2c258558db9fd7f200ce89"
@@ -156,21 +264,11 @@
         "permalink": "/r/science/comments/1nbojsi/single_dose_of_psilocybin_linked_to_lasting/"
     },
     {
-        "id": "1ncjsav",
-        "author": "amesydragon",
-        "title": "Changes to 18 genes suggest differences in subcortical brain regions between modern humans, Neanderthals, and Denisovans. These areas (including the brainstem and cerebellum) hint that Homo sapiens may have developed quicker, more efficient attentional relay.",
-        "content": "",
-        "upvotes": 26,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/science/comments/1ncjsav/changes_to_18_genes_suggest_differences_in/"
-    },
-    {
         "id": "1nc2cus",
         "author": "thinkB4WeSpeak",
         "title": "Deforestation accounts for 74% of rainfall reduction and 16% of temperature increase in the Amazon during the dry season, study says",
         "content": "",
-        "upvotes": 346,
+        "upvotes": 371,
         "comments": 4,
         "media": {
             "type": "image",
@@ -183,8 +281,8 @@
         "author": "Wagamaga",
         "title": "Stepping Into a Game Helped Older Adults Reclaim Their Memory. Research found not only did memory scores improve, but MRI scans showed the hippocampus and thalamus\u2014brain regions usually shrinking with dementia\u2014actually grew in volume.",
         "content": "",
-        "upvotes": 1072,
-        "comments": 21,
+        "upvotes": 1117,
+        "comments": 22,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/RWhPBRNMm4ZHscecawgrbmYjAPQ-Rb4-msxs98pB2p4.jpeg?auto=webp&amp;s=844fbd830815f84b53e74337073f1d8176e3306a"
@@ -196,8 +294,8 @@
         "author": "Wagamaga",
         "title": "Space Travel Accelerates Cellular Aging. After being in space for 32 to 45 days, the blood stem cells showed several hallmarks of aging. They became overactive, burning through their reserves and losing their ability to rest and regenerate, a key function of stem cells.",
         "content": "",
-        "upvotes": 807,
-        "comments": 47,
+        "upvotes": 896,
+        "comments": 50,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/0MMCNO0l5myY-sWT1hW8VW-VMFrffAF4gonbahAxGH0.jpeg?auto=webp&amp;s=2e1ee896bdc7deba0fa130270f85adc1ee8c87b5"
@@ -209,8 +307,8 @@
         "author": "calliope_kekule",
         "title": "A US study found warmer days lead to more sugary drinks and desserts, especially in lower-income groups. Warming could raise daily sugar intake nationwide by 2095.",
         "content": "",
-        "upvotes": 351,
-        "comments": 22,
+        "upvotes": 357,
+        "comments": 24,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/3gZ7QVAslWjPs1P8vF50Xgm_qjT1dUPPzc5Hr2a5kg4.png?auto=webp&amp;s=0cfcc7b17722e9824c46f7d3e7222cf808f24f41"
@@ -218,12 +316,22 @@
         "permalink": "/r/science/comments/1nbyed9/a_us_study_found_warmer_days_lead_to_more_sugary/"
     },
     {
+        "id": "1ncgbs6",
+        "author": "Historical_Psych",
+        "title": "Gambling in the Shadow of War: Evidence of Increased Problem Gambling for Men with Difficulties in Emotional Regulation During a Mass Trauma",
+        "content": "",
+        "upvotes": 18,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1ncgbs6/gambling_in_the_shadow_of_war_evidence_of/"
+    },
+    {
         "id": "1nbofwe",
         "author": "-Mystica-",
         "title": "Even untouched ecosystems are losing insects at alarming rates, a new study shows. In a Colorado subalpine meadow with 38 years of weather data and little human disturbance, researchers found insect abundance dropping 6.6% annually\u2014an alarming 72.4% decline in just 20 years.",
         "content": "",
-        "upvotes": 731,
-        "comments": 32,
+        "upvotes": 803,
+        "comments": 38,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/76IKaw30_T8df06TStkpgu-hjZ4OX5kuBnim756awJM.jpeg?auto=webp&amp;s=2dbed5f1b852503c6641d88bdbcd6b3599f59b86"
@@ -231,22 +339,12 @@
         "permalink": "/r/science/comments/1nbofwe/even_untouched_ecosystems_are_losing_insects_at/"
     },
     {
-        "id": "1ncgbs6",
-        "author": "Historical_Psych",
-        "title": "Gambling in the Shadow of War: Evidence of Increased Problem Gambling for Men with Difficulties in Emotional Regulation During a Mass Trauma",
-        "content": "",
-        "upvotes": 12,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1ncgbs6/gambling_in_the_shadow_of_war_evidence_of/"
-    },
-    {
         "id": "1nc9z7c",
         "author": "calliope_kekule",
         "title": "Female spiders from two close species both prefer males with red markings. Even painting brown males red boosted their success. This hidden preference for red may shape how new spider species form and interact.",
         "content": "",
-        "upvotes": 37,
-        "comments": 3,
+        "upvotes": 46,
+        "comments": 4,
         "media": null,
         "permalink": "/r/science/comments/1nc9z7c/female_spiders_from_two_close_species_both_prefer/"
     },
@@ -255,8 +353,8 @@
         "author": "mvea",
         "title": "Researchers watched 150 episodes of Bluey \u2013 they found it can teach kids about resilience for real life. Resilience isn\u2019t just about \u201ctoughing it out\u201d. It\u2019s the ability to cope with challenges, adapt to setbacks and recover from difficulties.",
         "content": "",
-        "upvotes": 16497,
-        "comments": 252,
+        "upvotes": 16617,
+        "comments": 254,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/SMerH5-uwtgGZ84kEL-sAjWbTwNFY1ESRQQr04dy4To.jpeg?auto=webp&amp;s=bdce49ce45cfabb02fee73bd72e0626ca587b7cd"
@@ -268,110 +366,12 @@
         "author": "nohup_me",
         "title": "Researchers demonstrate Pulse-Fi, a technology that uses WiFi signals from low cost device to measure a person's heart rate",
         "content": "",
-        "upvotes": 158,
+        "upvotes": 167,
         "comments": 16,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/7fFZ2x-W58OYRY6OlkIIYt5mnNcs2rCj5eoBb--ArGM.jpeg?auto=webp&amp;s=2f079d29bf20d8c55d5666321a428799126bf4c4"
         },
         "permalink": "/r/science/comments/1nbx6iv/researchers_demonstrate_pulsefi_a_technology_that/"
-    },
-    {
-        "id": "1nbik19",
-        "author": "Tasty-Aspect-6936",
-        "title": "Mothers of daughters face larger post-birth earnings and employment penalties than mothers of sons, according to new study",
-        "content": "",
-        "upvotes": 1082,
-        "comments": 129,
-        "media": null,
-        "permalink": "/r/science/comments/1nbik19/mothers_of_daughters_face_larger_postbirth/"
-    },
-    {
-        "id": "1nbxvt8",
-        "author": "fchung",
-        "title": "Blue-throated macaws learn by imitating others: \u00ab First evidence of imitation from a third-party perspective outside of humans. \u00bb",
-        "content": "",
-        "upvotes": 110,
-        "comments": 9,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/1nCDNwjXv5JK6qkBOuF7DHMfZuVoRtxWJqFTlaVxl7I.jpeg?auto=webp&amp;s=0316e2b47e18ac5e3a613496b47f9020c3e983a2"
-        },
-        "permalink": "/r/science/comments/1nbxvt8/bluethroated_macaws_learn_by_imitating_others/"
-    },
-    {
-        "id": "1nc2i60",
-        "author": "AIBNatUQ",
-        "title": "Sponge-like gold nanoparticles for improved ovarian cancer detection",
-        "content": "",
-        "upvotes": 43,
-        "comments": 2,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/Y0cuPWIUwfwd1hOEgXZ4Fpt5XCJejsQD2we1CIqumxs.jpeg?auto=webp&amp;s=e901ed3ca355c897016e8ed332b84c912e027696"
-        },
-        "permalink": "/r/science/comments/1nc2i60/spongelike_gold_nanoparticles_for_improved/"
-    },
-    {
-        "id": "1nc2z05",
-        "author": "SlothSpeedRunning",
-        "title": "Study reexamines the coprostane biomarker found in the Ediacaran fossil Dickinsonia, leading to a novel insight about how these organisms fed",
-        "content": "",
-        "upvotes": 29,
-        "comments": 4,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/dFvPb9pS9QUau3i7F2RNrjZY3F0Yl8vEcCNtx3QKUao.jpeg?auto=webp&amp;s=b1ce98163b31d22879ccd97db60c626bb2f961e8"
-        },
-        "permalink": "/r/science/comments/1nc2z05/study_reexamines_the_coprostane_biomarker_found/"
-    },
-    {
-        "id": "1ncc4c4",
-        "author": "Lord-Julius",
-        "title": "Optical sieve for nanoplastic detection, sizing and counting",
-        "content": "",
-        "upvotes": 7,
-        "comments": 1,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/sDJVBcHOjgDGGFoORRo36Za5fvr3K7cAMFEeLL92Swk.png?auto=webp&amp;s=5ee600330cfdb930423cf85c00a1d5cc6e751c89"
-        },
-        "permalink": "/r/science/comments/1ncc4c4/optical_sieve_for_nanoplastic_detection_sizing/"
-    },
-    {
-        "id": "1ncc3qj",
-        "author": "Lord-Julius",
-        "title": "Curcumin Induces Transgenerational and Sex\u2010Specific Effects on Lifespan, Gene Expression, and Metabolism in the Fruit Fly Drosophila melanogaster",
-        "content": "",
-        "upvotes": 4,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1ncc3qj/curcumin_induces_transgenerational_and/"
-    },
-    {
-        "id": "1nbtidp",
-        "author": "AgingUS",
-        "title": "Causal relationships between gut microbiome and hundreds of age-related traits: evidence of a replicable effect on ApoM protein levels",
-        "content": "",
-        "upvotes": 57,
-        "comments": 1,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/lZKp7eW-tcIvdMhns7YuRlx8G-hrJiBW07Xd2uH8x4o.png?auto=webp&amp;s=281c4e17d52b8dd4fb47f6fb6e86227173067289"
-        },
-        "permalink": "/r/science/comments/1nbtidp/causal_relationships_between_gut_microbiome_and/"
-    },
-    {
-        "id": "1ncc405",
-        "author": "Lord-Julius",
-        "title": "Many plants naturalized as aliens abroad have also become more common within their native regions",
-        "content": "",
-        "upvotes": 3,
-        "comments": 1,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/j_ksumml4p68p1wAOBknIwxRxjyC_HONmjWmW_QSZTs.png?auto=webp&amp;s=02bc37d6491b16995b17c6bb3461d21064e7aeaa"
-        },
-        "permalink": "/r/science/comments/1ncc405/many_plants_naturalized_as_aliens_abroad_have/"
     }
 ]
