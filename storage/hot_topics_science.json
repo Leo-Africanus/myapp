@@ -4,8 +4,8 @@
         "author": "Aggravating_Money992",
         "title": "Trump\u2019s frequent claims of victimhood were more than rhetorical flair. A new study shows that this type of strategic victimhood is used to justify retaliation and puts to work anti-democratic, coercive, and illiberal governance and policies once an authoritarian populist is granted executive power",
         "content": "",
-        "upvotes": 7664,
-        "comments": 225,
+        "upvotes": 8326,
+        "comments": 255,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/kxrVpJ1g9VfedZLhaoZo5q29GhGAT2gHUZ0chK9BkcU.jpeg?auto=webp&amp;s=71a9c61727518ee2f4519f0ab4674dacb83c8164"
@@ -17,8 +17,8 @@
         "author": "mvea",
         "title": "Most Americans would be healthier without daylight saving. Study compared permanent standard, permanent daylight saving and biannual shifting, and found we currently have \"worst choice\". Permanent standard time is better than permanent daylight time, with both better than current biannual shift.",
         "content": "",
-        "upvotes": 19588,
-        "comments": 1086,
+        "upvotes": 19725,
+        "comments": 1094,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/9iIqOtdjHkiJl4vMPnyIeetFhYAqjBGTztmcDU5T0b8.jpeg?auto=webp&amp;s=a513a0362f51063f9b84ba7a885d5ef8d6e3bb73"
@@ -30,7 +30,7 @@
         "author": "nohup_me",
         "title": "Intake of processed red meat may have an adverse effect on neurodegenerative diseases",
         "content": "",
-        "upvotes": 659,
+        "upvotes": 665,
         "comments": 87,
         "media": null,
         "permalink": "/r/science/comments/1nhzcco/intake_of_processed_red_meat_may_have_an_adverse/"
@@ -40,7 +40,7 @@
         "author": "mvea",
         "title": "Cannabis compounds THC and cannabidiol (CBD) have opposing effects on brain function\u2014and combining the two produces more muted changes than THC alone, finds new neuroimaging study in rats to compare how these cannabis-derived compounds alter patterns of communication and blood flow in the brain.",
         "content": "",
-        "upvotes": 4196,
+        "upvotes": 4201,
         "comments": 254,
         "media": {
             "type": "image",
@@ -53,7 +53,7 @@
         "author": "mvea",
         "title": "Cognitive ability becomes increasingly stable after age 3, study finds. Cognitive ability refers to a person\u2019s capacity to acquire knowledge, think, reason, solve problems, and adapt to new situations.",
         "content": "",
-        "upvotes": 2475,
+        "upvotes": 2492,
         "comments": 58,
         "media": {
             "type": "image",
@@ -66,7 +66,7 @@
         "author": "sciencealert",
         "title": "The world's oldest known mummies date back to 12,000 years ago in Southeast Asia, new research shows",
         "content": "",
-        "upvotes": 502,
+        "upvotes": 511,
         "comments": 11,
         "media": {
             "type": "image",
@@ -79,7 +79,7 @@
         "author": "CUAnschutzMed",
         "title": "New research published in Nutrients and Frontiers in Nutrition finds that feeding blueberries to infants as one of their first solid foods may help strengthen their immune systems, reduce allergy symptoms and support healthy gut development.",
         "content": "",
-        "upvotes": 762,
+        "upvotes": 767,
         "comments": 22,
         "media": {
             "type": "image",
@@ -88,24 +88,11 @@
         "permalink": "/r/science/comments/1nhpv98/new_research_published_in_nutrients_and_frontiers/"
     },
     {
-        "id": "1nhrnfw",
-        "author": "Wagamaga",
-        "title": "Research found that a digital, 11-minute iPad test (BioCog) identified cognitive impairment with 85\u201390% accuracy in primary care patients. When paired with the PrecivityAD2 blood test, accuracy for Alzheimer\u2019s diagnosis rose to 90%.",
-        "content": "",
-        "upvotes": 519,
-        "comments": 9,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/zbeMVyQZUbBFsi4IQibo3by17MhLV4RXqTdV5NFUCMQ.png?auto=webp&amp;s=32efd4a28afc0a6e2ffc6143543f08ee2b975653"
-        },
-        "permalink": "/r/science/comments/1nhrnfw/research_found_that_a_digital_11minute_ipad_test/"
-    },
-    {
         "id": "1ni1ex0",
         "author": "chrisdh79",
         "title": "242-million-year-old reptile the oldest ancestor of lizards, snakes and tuatara | The tuatara Sphenodon punctatus from New Zealand is the sole surviving member of Rhynchocephalia order, once a diverse branch of lepidosaurs",
         "content": "",
-        "upvotes": 167,
+        "upvotes": 169,
         "comments": 3,
         "media": {
             "type": "image",
@@ -114,11 +101,24 @@
         "permalink": "/r/science/comments/1ni1ex0/242millionyearold_reptile_the_oldest_ancestor_of/"
     },
     {
+        "id": "1nhrnfw",
+        "author": "Wagamaga",
+        "title": "Research found that a digital, 11-minute iPad test (BioCog) identified cognitive impairment with 85\u201390% accuracy in primary care patients. When paired with the PrecivityAD2 blood test, accuracy for Alzheimer\u2019s diagnosis rose to 90%.",
+        "content": "",
+        "upvotes": 515,
+        "comments": 10,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/zbeMVyQZUbBFsi4IQibo3by17MhLV4RXqTdV5NFUCMQ.png?auto=webp&amp;s=32efd4a28afc0a6e2ffc6143543f08ee2b975653"
+        },
+        "permalink": "/r/science/comments/1nhrnfw/research_found_that_a_digital_11minute_ipad_test/"
+    },
+    {
         "id": "1nhqqxm",
         "author": "Wagamaga",
         "title": "New study links cognitive style to health misinformation detection. In recent years, social media platforms have enabled widespread exposure to disinformation, including dangerous claims about vaccines, alternative cures, and public health guidance.",
         "content": "",
-        "upvotes": 404,
+        "upvotes": 405,
         "comments": 35,
         "media": {
             "type": "image",
@@ -131,8 +131,8 @@
         "author": "calliope_kekule",
         "title": "A new study shows we often think adding eco-friendly items lowers our total footprint, but it actually raises it. This 'negative footprint illusion' can mislead shoppers, businesses and even policies.",
         "content": "",
-        "upvotes": 24,
-        "comments": 9,
+        "upvotes": 34,
+        "comments": 10,
         "media": null,
         "permalink": "/r/science/comments/1ni8avq/a_new_study_shows_we_often_think_adding/"
     },
@@ -141,7 +141,7 @@
         "author": "calliope_kekule",
         "title": "A US study finds that even modest reductions in access to PrEP could lead to 8,600+ extra HIV infections in 10 years, adding $3.6B in lifetime medical costs.",
         "content": "",
-        "upvotes": 1483,
+        "upvotes": 1478,
         "comments": 22,
         "media": null,
         "permalink": "/r/science/comments/1nhcqym/a_us_study_finds_that_even_modest_reductions_in/"
@@ -151,7 +151,7 @@
         "author": "NGNResearch",
         "title": "For the first time, researchers trace the genetic and molecular path that Canadian moonseed took to be able to perform a chemical reaction that was previously thought impossible for a plant to do naturally: adding a chlorine atom to a molecule.",
         "content": "",
-        "upvotes": 83,
+        "upvotes": 88,
         "comments": 2,
         "media": {
             "type": "image",
@@ -164,7 +164,7 @@
         "author": "-Mystica-",
         "title": "Island ant communities show signs of \u2018insect apocalypse\u2019. 79% of endemic species show signs of decline, over a timescale which correlates with the arrival of humans to the islands, highlighting the vulnerability of island biodiversity to ecosystem changes.",
         "content": "",
-        "upvotes": 291,
+        "upvotes": 294,
         "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1nhkiwy/island_ant_communities_show_signs_of_insect/"
@@ -174,7 +174,7 @@
         "author": "bluish1997",
         "title": "Vientovirus capsid protein mimics autoantigens and contributes to autoimmunity in Sj\u00f6gren\u2019s disease",
         "content": "",
-        "upvotes": 37,
+        "upvotes": 36,
         "comments": 2,
         "media": {
             "type": "image",
@@ -187,7 +187,7 @@
         "author": "enterpriseF-love",
         "title": "Researchers have found the longest known case of COVID-19 in a person living with HIV. Lasting 776 days, multiple viral populations were present displaying hallmarks of Omicron months before its global emergence. These often heavily mutated genomes are thought to be the source of variants of concern",
         "content": "",
-        "upvotes": 4442,
+        "upvotes": 4446,
         "comments": 52,
         "media": null,
         "permalink": "/r/science/comments/1nh1im5/researchers_have_found_the_longest_known_case_of/"
@@ -197,7 +197,7 @@
         "author": "Pomme-M",
         "title": "Forests on Indigenous lands across 8 Amazon countries have been shown to reduce spread of 27 diseases from respiratory ailments to illnesses spread by insects and animals",
         "content": "",
-        "upvotes": 130,
+        "upvotes": 131,
         "comments": 1,
         "media": {
             "type": "image",
@@ -210,7 +210,7 @@
         "author": "AgingUS",
         "title": "Age-related trends in amyloid positivity in Parkinson\u2019s disease without dementia",
         "content": "",
-        "upvotes": 83,
+        "upvotes": 86,
         "comments": 2,
         "media": {
             "type": "image",
@@ -223,7 +223,7 @@
         "author": "nohup_me",
         "title": "Coral shows increased heat tolerance: research reveals widespread heritable genetic variation for heat tolerance in Platygyra daedalea corals, suggesting adaptation to ocean warming",
         "content": "",
-        "upvotes": 45,
+        "upvotes": 49,
         "comments": 3,
         "media": null,
         "permalink": "/r/science/comments/1nhv0an/coral_shows_increased_heat_tolerance_research/"
@@ -256,7 +256,7 @@
         "author": "AK-Java",
         "title": "Ancient DNA reveals a two-clanned matrilineal community in Neolithic China",
         "content": "",
-        "upvotes": 108,
+        "upvotes": 105,
         "comments": 3,
         "media": {
             "type": "image",
@@ -269,7 +269,7 @@
         "author": "mvea",
         "title": "\u201cLove doesn\u2019t thrive on ledgers\u201d: Keeping score in relationships foreshadows decline, study finds. A long-term study of couples in Germany found that when partners expected something in return for favors or sacrifices, their satisfaction tended to decline over time.",
         "content": "",
-        "upvotes": 10858,
+        "upvotes": 10856,
         "comments": 252,
         "media": {
             "type": "image",
@@ -282,7 +282,7 @@
         "author": "nohup_me",
         "title": "New technique uses focused sound waves &amp; holograms to control brain circuits in living animals",
         "content": "",
-        "upvotes": 358,
+        "upvotes": 359,
         "comments": 17,
         "media": {
             "type": "image",
@@ -295,7 +295,7 @@
         "author": "nightsky541",
         "title": "Exploring the Relationship Between Medicine Related Beliefs and Side-Effect Experience Among White Oral Contraceptive Users in the UK",
         "content": "",
-        "upvotes": 11,
+        "upvotes": 9,
         "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1nhmci7/exploring_the_relationship_between_medicine/"
@@ -305,7 +305,7 @@
         "author": "fchung",
         "title": "Genetic study suggests ways to catch blood cancer earlier: \u00ab New understanding of how mutations interact could pave way for early detection, prevention strategies. \u00bb",
         "content": "",
-        "upvotes": 787,
+        "upvotes": 790,
         "comments": 10,
         "media": {
             "type": "image",
@@ -318,7 +318,7 @@
         "author": "BICEPS_NUS",
         "title": "Investigating the Metabolic Benefits of Magnetic Mitohormesis in Patients with Type 2 Diabetes Mellitus",
         "content": "",
-        "upvotes": 31,
+        "upvotes": 28,
         "comments": 2,
         "media": {
             "type": "image",
@@ -331,7 +331,7 @@
         "author": "Aralknight",
         "title": "Study finds unionization among hospital healthcare workers led to significantly higher raises, no overtime work pressure, access to insurance, experiencing less workplace harassment and higher mental well-being",
         "content": "",
-        "upvotes": 15992,
+        "upvotes": 15999,
         "comments": 144,
         "media": null,
         "permalink": "/r/science/comments/1ng414p/study_finds_unionization_among_hospital/"
@@ -341,7 +341,7 @@
         "author": "thevishal365",
         "title": "Myeloid progenitor dysregulation fuels immunosuppressive macrophages in tumours",
         "content": "",
-        "upvotes": 105,
+        "upvotes": 108,
         "comments": 2,
         "media": {
             "type": "image",
@@ -354,7 +354,7 @@
         "author": "mvea",
         "title": "Researchers have uncovered a gut-diet link to postpartum depression, finding that eating a diet of soy, fermented foods, and seaweed may nurture beneficial gut bacteria and protect mothers\u2019 mental health. The new study is  by Kyoto University on diet and postpartum depression in Japanese mothers.",
         "content": "",
-        "upvotes": 3145,
+        "upvotes": 3142,
         "comments": 40,
         "media": {
             "type": "image",
