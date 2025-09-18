@@ -1,50 +1,11 @@
 [
     {
-        "id": "1njkr29",
-        "author": "CBSnews",
-        "title": "Wild chimpanzees consume the equivalent of 2 cocktails a day in the form of boozy fruit, research finds",
-        "content": "",
-        "upvotes": 3189,
-        "comments": 100,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/PP2dcVOFYoo8mRajhxsaCYBpFJJC6EvuB1to04OCtL0.jpeg?auto=webp&amp;s=c46b762f10fc87a271b5bdb449c306cc77d4d4b5"
-        },
-        "permalink": "/r/science/comments/1njkr29/wild_chimpanzees_consume_the_equivalent_of_2/"
-    },
-    {
-        "id": "1njsv2l",
-        "author": "mvea",
-        "title": "Study notes decrease in popularity of circumcision in United States",
-        "content": "",
-        "upvotes": 651,
-        "comments": 136,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/oNsFSiptV2EvocIZD5xavfVo_LCEkA6X9e8wDN7QIKU.jpeg?auto=webp&amp;s=10e30cfe7a668226f1c3ae406c38c375ae9b10bd"
-        },
-        "permalink": "/r/science/comments/1njsv2l/study_notes_decrease_in_popularity_of/"
-    },
-    {
-        "id": "1njozex",
-        "author": "jetery",
-        "title": "Utah researchers find decreased risk of skin cancer in those with tattoos",
-        "content": "",
-        "upvotes": 810,
-        "comments": 77,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/7RAh3KR6PsGKcTMGCRyuHbTk70v3ubOGt1xnipM7Fag.png?auto=webp&amp;s=e1e377cee6206c88c5fe15ec81d51f91cbba0e65"
-        },
-        "permalink": "/r/science/comments/1njozex/utah_researchers_find_decreased_risk_of_skin/"
-    },
-    {
         "id": "1njuqmb",
         "author": "rezwenn",
         "title": "Top Scientists Find Growing Evidence That Greenhouse Gases Are, in Fact, a Danger",
         "content": "",
-        "upvotes": 296,
-        "comments": 15,
+        "upvotes": 4324,
+        "comments": 122,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/cEBOlKwt0FfEWELL-j1ZEifMbPPaw7WViTRiE4LOzPc.jpeg?auto=webp&amp;s=853e2682c4bf6da6fe1a0d2db4b5fdef76ebf304"
@@ -52,12 +13,38 @@
         "permalink": "/r/science/comments/1njuqmb/top_scientists_find_growing_evidence_that/"
     },
     {
+        "id": "1njsv2l",
+        "author": "mvea",
+        "title": "Study notes decrease in popularity of circumcision in United States",
+        "content": "",
+        "upvotes": 2362,
+        "comments": 311,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/oNsFSiptV2EvocIZD5xavfVo_LCEkA6X9e8wDN7QIKU.jpeg?auto=webp&amp;s=10e30cfe7a668226f1c3ae406c38c375ae9b10bd"
+        },
+        "permalink": "/r/science/comments/1njsv2l/study_notes_decrease_in_popularity_of/"
+    },
+    {
+        "id": "1njkr29",
+        "author": "CBSnews",
+        "title": "Wild chimpanzees consume the equivalent of 2 cocktails a day in the form of boozy fruit, research finds",
+        "content": "",
+        "upvotes": 4437,
+        "comments": 115,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/PP2dcVOFYoo8mRajhxsaCYBpFJJC6EvuB1to04OCtL0.jpeg?auto=webp&amp;s=c46b762f10fc87a271b5bdb449c306cc77d4d4b5"
+        },
+        "permalink": "/r/science/comments/1njkr29/wild_chimpanzees_consume_the_equivalent_of_2/"
+    },
+    {
         "id": "1njr0sv",
         "author": "unsw",
         "title": "The language chosen by judges in family courts reinforces gender biases, with mothers seen mainly as caregivers and fathers judged on their ability to provide financially. Fathers were also praised for even a limited involvement in childcare, whereas mothers\u2019 efforts were expected",
         "content": "",
-        "upvotes": 382,
-        "comments": 10,
+        "upvotes": 778,
+        "comments": 19,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/GpVq1HN_dHVvKCeRmtVYFndPE1291KY50wMRKkt2L0o.jpeg?auto=webp&amp;s=9ef9456a3d6f11de40a56dd028ebb4f50f8656ef"
@@ -65,12 +52,25 @@
         "permalink": "/r/science/comments/1njr0sv/the_language_chosen_by_judges_in_family_courts/"
     },
     {
+        "id": "1njozex",
+        "author": "jetery",
+        "title": "Utah researchers find decreased risk of skin cancer in those with tattoos",
+        "content": "",
+        "upvotes": 927,
+        "comments": 81,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/7RAh3KR6PsGKcTMGCRyuHbTk70v3ubOGt1xnipM7Fag.png?auto=webp&amp;s=e1e377cee6206c88c5fe15ec81d51f91cbba0e65"
+        },
+        "permalink": "/r/science/comments/1njozex/utah_researchers_find_decreased_risk_of_skin/"
+    },
+    {
         "id": "1njg9cq",
         "author": "Wagamaga",
         "title": "Scientists have developed a new artificial intelligence tool that can predict your personal risk of more than 1,000 diseases, and forecast changes in health a decade in advance.",
         "content": "",
-        "upvotes": 906,
-        "comments": 64,
+        "upvotes": 1086,
+        "comments": 71,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/hEqiirbw6HIjBHUkCww4giR5DO_VFS2BPnSIi26_QRM.jpeg?auto=webp&amp;s=8c4bc13567e0ffb3d836e5d8b93ae230a2213a52"
@@ -78,25 +78,12 @@
         "permalink": "/r/science/comments/1njg9cq/scientists_have_developed_a_new_artificial/"
     },
     {
-        "id": "1niyo1j",
-        "author": "sciencealert",
-        "title": "NASA scientists say our Sun's activity is on an escalating trajectory, outside the boundaries of the 11-year solar cycle. A new analysis suggests that the activity of the Sun has been gradually rising since 2008, for reasons we don't yet understand.",
-        "content": "",
-        "upvotes": 18579,
-        "comments": 1254,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/dO989XS6SCUz-YaO5OxSlYao6kjFbOn-ik-u4MBKBnc.jpeg?auto=webp&amp;s=88577b7b8fd98a3b5aaa8305cf3543ede835447a"
-        },
-        "permalink": "/r/science/comments/1niyo1j/nasa_scientists_say_our_suns_activity_is_on_an/"
-    },
-    {
         "id": "1njbegx",
         "author": "mvea",
         "title": "Empathy may operate quite differently in individuals with autism spectrum condition compared to those with social anxiety. Both groups tended to report elevated levels of emotional distress in social situations, but only individuals with autism showed lower levels of emotional concern for others.",
         "content": "",
-        "upvotes": 1311,
-        "comments": 121,
+        "upvotes": 1551,
+        "comments": 138,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/kNUbIW5hU4G7QNDCJ9KDOmMHH4MBE0oFwOK2eBYSh9M.jpeg?auto=webp&amp;s=6e6a9119ce487528a7729da8a4d56a8ca6da635d"
@@ -104,22 +91,12 @@
         "permalink": "/r/science/comments/1njbegx/empathy_may_operate_quite_differently_in/"
     },
     {
-        "id": "1nj3vol",
-        "author": "SoybeanCola1933",
-        "title": "Sexlessness is associated with higher IQ, increased educational attainment, lower BMI and lower ADHD rates",
-        "content": "",
-        "upvotes": 4872,
-        "comments": 409,
-        "media": null,
-        "permalink": "/r/science/comments/1nj3vol/sexlessness_is_associated_with_higher_iq/"
-    },
-    {
         "id": "1njl8tt",
         "author": "NGNResearch",
         "title": "At the height of the pandemic, Americans of all political stripes were on guard against COVID, new research finds",
         "content": "",
-        "upvotes": 348,
-        "comments": 13,
+        "upvotes": 463,
+        "comments": 20,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/hwlUngAHqk5fGy9RfJ72EaBm0rPwIqdLmaoIdFPeIgU.jpeg?auto=webp&amp;s=bb253d6bf60d86411c98227c743d589bbf0f2bd0"
@@ -127,12 +104,35 @@
         "permalink": "/r/science/comments/1njl8tt/at_the_height_of_the_pandemic_americans_of_all/"
     },
     {
+        "id": "1niyo1j",
+        "author": "sciencealert",
+        "title": "NASA scientists say our Sun's activity is on an escalating trajectory, outside the boundaries of the 11-year solar cycle. A new analysis suggests that the activity of the Sun has been gradually rising since 2008, for reasons we don't yet understand.",
+        "content": "",
+        "upvotes": 18871,
+        "comments": 1265,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/dO989XS6SCUz-YaO5OxSlYao6kjFbOn-ik-u4MBKBnc.jpeg?auto=webp&amp;s=88577b7b8fd98a3b5aaa8305cf3543ede835447a"
+        },
+        "permalink": "/r/science/comments/1niyo1j/nasa_scientists_say_our_suns_activity_is_on_an/"
+    },
+    {
+        "id": "1nj3vol",
+        "author": "SoybeanCola1933",
+        "title": "Sexlessness is associated with higher IQ, increased educational attainment, lower BMI and lower ADHD rates",
+        "content": "",
+        "upvotes": 5197,
+        "comments": 422,
+        "media": null,
+        "permalink": "/r/science/comments/1nj3vol/sexlessness_is_associated_with_higher_iq/"
+    },
+    {
         "id": "1njk5ts",
         "author": "Sea_Dot8299",
         "title": "Repeated head trauma causes neuron loss and inflammation in young athletes",
         "content": "",
-        "upvotes": 279,
-        "comments": 23,
+        "upvotes": 327,
+        "comments": 24,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/OU04FueeVS7d3RydVHdLAV3sBBEIDNBhmBBecaOh7UY.png?auto=webp&amp;s=42c0cb0062f658b48ae3e9191510bee4b8d2ecbf"
@@ -144,8 +144,8 @@
         "author": "-Mystica-",
         "title": "Most coral reefs will soon stop growing and may begin to erode \u2013 and almost all will do so if global warming hits 2\u00b0C, according to a new study in the western Atlantic. By 2040, over 70% of reefs will stop growing, rising to 99% by 2100 if warming exceeds 2\u00b0C.",
         "content": "",
-        "upvotes": 290,
-        "comments": 14,
+        "upvotes": 358,
+        "comments": 15,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/gVda9SHXhhoJrCTKDLR-fs3qlZGYh4jS6PRW74EtYH8.png?auto=webp&amp;s=4c220c2e9c5a06bb04b38263c1e676d8875951ed"
@@ -153,12 +153,25 @@
         "permalink": "/r/science/comments/1njglob/most_coral_reefs_will_soon_stop_growing_and_may/"
     },
     {
+        "id": "1njz0p2",
+        "author": "AIBNatUQ",
+        "title": "New fluorinated block copolymer for dendrite-free all-solid-state sodium batteries",
+        "content": "",
+        "upvotes": 25,
+        "comments": 4,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/blPN1vMoeJZuudcaPqAQxcTz7I8JhTJwH3C_KsUJ9cQ.jpeg?auto=webp&amp;s=3664780891838a6189d5314cff489e06c68ab44b"
+        },
+        "permalink": "/r/science/comments/1njz0p2/new_fluorinated_block_copolymer_for_dendritefree/"
+    },
+    {
         "id": "1nje3ae",
         "author": "Wagamaga",
         "title": "Study reveals unequal burden of the fentanyl epidemic across the United States. The nationwide toll in 2022 was at least 2 million years of life lost, corresponding to an economic loss on the order of $57 billion to $67 billion.",
         "content": "",
-        "upvotes": 315,
-        "comments": 57,
+        "upvotes": 359,
+        "comments": 60,
         "media": null,
         "permalink": "/r/science/comments/1nje3ae/study_reveals_unequal_burden_of_the_fentanyl/"
     },
@@ -167,7 +180,7 @@
         "author": "sciencealert",
         "title": "Stunning dome-headed dinosaur fossil discovered in Mongolia is the oldest of its kind ever found",
         "content": "",
-        "upvotes": 220,
+        "upvotes": 259,
         "comments": 7,
         "media": {
             "type": "image",
@@ -180,17 +193,30 @@
         "author": "MassGen-Research",
         "title": "Study Finds Cocoa Extract Supplement Reduced Key Marker of Inflammation and Aging",
         "content": "",
-        "upvotes": 70,
-        "comments": 5,
+        "upvotes": 96,
+        "comments": 12,
         "media": null,
         "permalink": "/r/science/comments/1njodus/study_finds_cocoa_extract_supplement_reduced_key/"
+    },
+    {
+        "id": "1njz8lx",
+        "author": "calliope_kekule",
+        "title": "A new study shows that introduced large herbivores cause more frequent and severe harms than benefits to native biodiversity.",
+        "content": "",
+        "upvotes": 18,
+        "comments": 1,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/7iZPcnce8YlvnTIFQNeMUYp_Qov_4mTFAPnMMC7RLBI.png?auto=webp&amp;s=cc9c1df3f5e345e20c3e75620a238c61ef923b26"
+        },
+        "permalink": "/r/science/comments/1njz8lx/a_new_study_shows_that_introduced_large/"
     },
     {
         "id": "1njgzzn",
         "author": "NGNResearch",
         "title": "Researchers are developing a skill-based assessment that predicts a worker\u2019s likelihood of being replaced by AI",
         "content": "",
-        "upvotes": 144,
+        "upvotes": 169,
         "comments": 22,
         "media": {
             "type": "image",
@@ -199,11 +225,24 @@
         "permalink": "/r/science/comments/1njgzzn/researchers_are_developing_a_skillbased/"
     },
     {
+        "id": "1njn3of",
+        "author": "nohup_me",
+        "title": "Research reveals schizophrenia alters neuronal scaffolding and disrupts neural communication, reinforcing the hypothesis that the disorder is linked to neurodevelopment",
+        "content": "",
+        "upvotes": 75,
+        "comments": 4,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/jkjRNP0MZGbujQf4f8HVX_LgVtZMNVDCToM5eY59guQ.jpeg?auto=webp&amp;s=c94201a4c211bf325a6a4bae06b5c78bbe2fa105"
+        },
+        "permalink": "/r/science/comments/1njn3of/research_reveals_schizophrenia_alters_neuronal/"
+    },
+    {
         "id": "1nja54h",
         "author": "chrisdh79",
         "title": "Easy test identifies high stress levels in kids living with chronic illness | By testing for the stress hormone cortisol in hair, researchers can identify kids with chronic illness who face the greatest risk of anxiety, depression, or behavioral struggles.",
         "content": "",
-        "upvotes": 309,
+        "upvotes": 353,
         "comments": 12,
         "media": {
             "type": "image",
@@ -216,8 +255,8 @@
         "author": "mvea",
         "title": "New study finds strong links between prejudice and support for political violence in the United States. Racist beliefs were strongly endorsed by 19.5% of 9,385 Americans surveyed, 16.9% for transphobia, 9.8% for xenophobia, 7.7% for hostile sexist views, and 5% for strong Islamophobic attitudes.",
         "content": "",
-        "upvotes": 2930,
-        "comments": 203,
+        "upvotes": 3006,
+        "comments": 206,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/Svrj5ZmeqSePCyRDPJaGxxK3iJNEfBCrwQTiheBr0yM.jpeg?auto=webp&amp;s=0d826fddfe17cb923628456ca0cff1d475363d3d"
@@ -225,25 +264,12 @@
         "permalink": "/r/science/comments/1niwcl1/new_study_finds_strong_links_between_prejudice/"
     },
     {
-        "id": "1njn3of",
-        "author": "nohup_me",
-        "title": "Research reveals schizophrenia alters neuronal scaffolding and disrupts neural communication, reinforcing the hypothesis that the disorder is linked to neurodevelopment",
-        "content": "",
-        "upvotes": 41,
-        "comments": 4,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/jkjRNP0MZGbujQf4f8HVX_LgVtZMNVDCToM5eY59guQ.jpeg?auto=webp&amp;s=c94201a4c211bf325a6a4bae06b5c78bbe2fa105"
-        },
-        "permalink": "/r/science/comments/1njn3of/research_reveals_schizophrenia_alters_neuronal/"
-    },
-    {
         "id": "1nixx2j",
         "author": "chrisdh79",
         "title": "A new study shows that a personalized, precise form of brain stimulation, HD-tDCS, can rapidly ease depression symptoms \u2013 and even reduce anxiety \u2013 offering a promising drug-free alternative with only mild side effects.",
         "content": "",
-        "upvotes": 1576,
-        "comments": 84,
+        "upvotes": 1635,
+        "comments": 87,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/CXrsqIAHxjcPMk17fqwuKYWJ4NBTv8Y0Ke2YdFYYjSQ.jpeg?auto=webp&amp;s=1dc1bd99d886cdd9b39a01bc4fd4ade28541f80f"
@@ -251,25 +277,38 @@
         "permalink": "/r/science/comments/1nixx2j/a_new_study_shows_that_a_personalized_precise/"
     },
     {
-        "id": "1nji6hv",
-        "author": "hety0p",
-        "title": "New study sheds light on how sexual self-disclosure relates to relationship quality",
+        "id": "1njrpbu",
+        "author": "drewiepoodle",
+        "title": "Using genetically engineered mice, 3D tumor organoids, and the largest-available dataset of human SCLC tumors (at 944 samples), researchers trace small\u2011cell lung cancer back to basal stem cells, offering clues to how the disease starts, as well as informing potential early intervention therapies.",
         "content": "",
-        "upvotes": 56,
-        "comments": 4,
+        "upvotes": 19,
+        "comments": 3,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/Y6cYLqhMvVCajFBf998pCIKACjQ_WEeB0XoqOimoT1c.jpeg?auto=webp&amp;s=b8d8877309d96f12cafd37a4150b553d52d42b7b"
+            "url": "https://external-preview.redd.it/YWEoa_2NgXlSiMlxJaWM5y7ssSXyU5CjfqulfeEeAXo.jpeg?auto=webp&amp;s=12e503202f024dd531dcbab80099e8d94f5d3906"
         },
-        "permalink": "/r/science/comments/1nji6hv/new_study_sheds_light_on_how_sexual/"
+        "permalink": "/r/science/comments/1njrpbu/using_genetically_engineered_mice_3d_tumor/"
+    },
+    {
+        "id": "1nk0k7y",
+        "author": "mightx",
+        "title": "A new type of molecular switch can be flipped by light from a normal, non-magnetic state into a stable, magnetic one, creating a new method for storing information that is read magnetically and erased with electricity",
+        "content": "",
+        "upvotes": 4,
+        "comments": 2,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/hMpbw2_NLwZYSOOzue8KdtxCZ8kU6siUOThPzTJdD6w.gif?format=png8&amp;s=ef34d6901c292b6ad5d5166b6de5f694c349f5c5"
+        },
+        "permalink": "/r/science/comments/1nk0k7y/a_new_type_of_molecular_switch_can_be_flipped_by/"
     },
     {
         "id": "1nj82bh",
         "author": "brainquantum",
         "title": "Illusions of AI consciousness: The belief that AI is conscious is not without risk",
         "content": "",
-        "upvotes": 205,
-        "comments": 132,
+        "upvotes": 224,
+        "comments": 134,
         "media": null,
         "permalink": "/r/science/comments/1nj82bh/illusions_of_ai_consciousness_the_belief_that_ai/"
     },
@@ -278,7 +317,7 @@
         "author": "nohup_me",
         "title": "Meta-analysis of 35 studies with 1,292,052 participants links \u22654 hours of TV daily to higher cognitive impairment risk and \u22656 hours to lower cognitive scores",
         "content": "",
-        "upvotes": 33,
+        "upvotes": 34,
         "comments": 1,
         "media": {
             "type": "image",
@@ -291,7 +330,7 @@
         "author": "-Mystica-",
         "title": "Estimated 16,500 climate change deaths during Europe summer, study finds. Focusing on 854 European cities, this study found climate change was responsible for 68% of the 24,400 estimated heat deaths this summer by increasing temperatures by up to 3.6\u00b0C.",
         "content": "",
-        "upvotes": 40,
+        "upvotes": 55,
         "comments": 5,
         "media": {
             "type": "image",
@@ -300,12 +339,25 @@
         "permalink": "/r/science/comments/1nji5lb/estimated_16500_climate_change_deaths_during/"
     },
     {
+        "id": "1nk0op2",
+        "author": "mightx",
+        "title": "Scandium compound, previously believed to only be a helper in chemical reactions, can surprisingly act as the main catalyst on its own to drive chemical changes using just visible light",
+        "content": "",
+        "upvotes": 4,
+        "comments": 1,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/82THaAlVatYuXOqlSxoo5oTc3NPg_kova1jirIGm5Dc.png?auto=webp&amp;s=e44f01312797827b4b9f57dbaeaaa5dc0d53cce7"
+        },
+        "permalink": "/r/science/comments/1nk0op2/scandium_compound_previously_believed_to_only_be/"
+    },
+    {
         "id": "1nijr86",
         "author": "techno-peasant",
         "title": "A new study on SSRI antidepressants finds no support for the theorized subgroup of patients who get substantially more benefit from SSRIs than from placebo.",
         "content": "",
-        "upvotes": 4187,
-        "comments": 558,
+        "upvotes": 4218,
+        "comments": 559,
         "media": null,
         "permalink": "/r/science/comments/1nijr86/a_new_study_on_ssri_antidepressants_finds_no/"
     },
@@ -314,61 +366,12 @@
         "author": "USCDornsifeNews",
         "title": "A multi-university twin study finds that accelerated biological aging, amplified by early-life disadvantage, is linked to cognitive decline later in life.",
         "content": "",
-        "upvotes": 695,
+        "upvotes": 733,
         "comments": 12,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/L_PA6_T4h1fYjwp7myvafmJi7t1zCY_wJNtUSVw8FLA.jpeg?auto=webp&amp;s=a6796a921ccfa6f5478ae6a00024ecabf4c93e26"
         },
         "permalink": "/r/science/comments/1niy6uq/a_multiuniversity_twin_study_finds_that/"
-    },
-    {
-        "id": "1njrpbu",
-        "author": "drewiepoodle",
-        "title": "Using genetically engineered mice, 3D tumor organoids, and the largest-available dataset of human SCLC tumors (at 944 samples), researchers trace small\u2011cell lung cancer back to basal stem cells, offering clues to how the disease starts, as well as informing potential early intervention therapies.",
-        "content": "",
-        "upvotes": 10,
-        "comments": 2,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/YWEoa_2NgXlSiMlxJaWM5y7ssSXyU5CjfqulfeEeAXo.jpeg?auto=webp&amp;s=12e503202f024dd531dcbab80099e8d94f5d3906"
-        },
-        "permalink": "/r/science/comments/1njrpbu/using_genetically_engineered_mice_3d_tumor/"
-    },
-    {
-        "id": "1njoi6l",
-        "author": "amesydragon",
-        "title": "Researchers have imaged the wave states of a prominent type of defect in silicon. Adding atoms of another material to silicon (creating a defect) could transform it into an invaluable resource, because the defects can house stable systems with quantum properties, potentially for quantum computing.",
-        "content": "",
-        "upvotes": 11,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1njoi6l/researchers_have_imaged_the_wave_states_of_a/"
-    },
-    {
-        "id": "1nihhan",
-        "author": "mvea",
-        "title": "People on a Mediterranean diet were found to have 65% lower odds of developing severe gum disease than those who adhered to it the least. Also, those who ate the most amount of red meat had nearly three times the risk of severe gum disease than those who ate the least.",
-        "content": "",
-        "upvotes": 2483,
-        "comments": 131,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/TTLrkGzOGkBfi2GLb03sHU_HGO48GwRBX9CqsRYexFo.jpeg?auto=webp&amp;s=9eb15dce1bb67ac70d747312db9200721d728263"
-        },
-        "permalink": "/r/science/comments/1nihhan/people_on_a_mediterranean_diet_were_found_to_have/"
-    },
-    {
-        "id": "1njowo4",
-        "author": "dpn-journal",
-        "title": "Smartphone language features may help identify adverse post-traumatic neuropsychiatric sequelae and their trajectories",
-        "content": "",
-        "upvotes": 6,
-        "comments": 2,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/WTGZPl9BikiG-q6JfEq_U4dbQzj-tLKDi4MtoYxUofg.png?auto=webp&amp;s=23296a16d9018700dfcbd92c305b764cb1711d79"
-        },
-        "permalink": "/r/science/comments/1njowo4/smartphone_language_features_may_help_identify/"
     }
 ]

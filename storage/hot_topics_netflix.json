@@ -4,7 +4,7 @@
         "author": "anonRedd",
         "title": "Netflix Biannual Engagement Report: Viewing Data for January through June 2025 for over 16,000 titles",
         "content": "",
-        "upvotes": 11,
+        "upvotes": 10,
         "comments": 12,
         "media": null,
         "permalink": "/r/netflix/comments/1m2ohav/netflix_biannual_engagement_report_viewing_data/"
@@ -15,7 +15,7 @@
         "title": "UNKNOWN NUMBER: THE HIGH SCHOOL CATFISH Discussion Megathread",
         "content": "Vulgar, taunting texts blow up the phones of a teen and her boyfriend. Who's sending them \u2014 and why? This twisty documentary reveals the shocking answer.",
         "upvotes": 652,
-        "comments": 4958,
+        "comments": 4963,
         "media": null,
         "permalink": "/r/netflix/comments/1n5c3tq/unknown_number_the_high_school_catfish_discussion/"
     },
@@ -24,50 +24,90 @@
         "author": "ZaphodBeeb69",
         "title": "Does Netflix Just Not Care?",
         "content": "Netflix has some GREAT original series. Stranger Things, Ginnie and Georgia, F Is For Family, etc, but they take sooooo long to come out. The girl from Stranger things is a married woman with a child and still playing a teenager in the show. It's been on for over 10 years. WTF? It's become a meme at this point. There's no way the higher ups at Netflix aren't hearing the jokes. They're not course correcting or trying to give us more consistency. By the time any new season of anything comes out, I've forgotten what's already happened. I think they just straight up don't give a shit about their customer base. ",
-        "upvotes": 112,
-        "comments": 91,
+        "upvotes": 190,
+        "comments": 111,
         "media": null,
         "permalink": "/r/netflix/comments/1njlc22/does_netflix_just_not_care/"
+    },
+    {
+        "id": "1njze7s",
+        "author": "CourseSpare7641",
+        "title": "Here's every single vocab word from casa de papel s1 e1-2 ranked by frequency with translations so you can learn some Spanish",
+        "content": "So the folks in r/languagelearning liked [my post where I pulled every word you need to understand season 1 episode 1 of Casa De Papel.](https://www.reddit.com/r/Spanish/comments/1nbk3nr/i_went_psycho_and_pulled_every_single_word_from/)\n\nSo I went ahead and pulled every single word used in Casa de Papel Episode 2 as well and ranked by frequency.\n\nOne note was that the formatting sucked.   \nSo this time it's formatted in a downloadable googlesheet for yall.  \nThis is basically the\u00a0full vocab map\u00a0for the episode.\n\nSo here you are 2,318words in all:  \n[**Casa De Papel S1 episode 1 &amp; 2 Vocab**](https://docs.google.com/spreadsheets/d/1rDu99z2WTp7okCns1bSa53IO93nzZzewKCuPpqOfX64/edit?usp=sharing)\n\n\n\n  \nBonus: I also found this interview with the cast + crew in Spanish, and ran it through my little site and turned the interview into interactive flashcards. [Here's a link to the interactive flashcard deck made with an interview with the cast.](https://vocablii.com/VideoDetails?videoId=68c290eed578bcae6990ce3b&amp;shareId=68ca52afc6706fe112657519)\n\n",
+        "upvotes": 66,
+        "comments": 0,
+        "media": null,
+        "permalink": "/r/netflix/comments/1njze7s/heres_every_single_vocab_word_from_casa_de_papel/"
     },
     {
         "id": "1njhdex",
         "author": "Longjumping_Land_977",
         "title": "The Tinder Swindler has been arrested again \u2013 so here\u2019s what\u2019s actually going on",
         "content": "",
-        "upvotes": 121,
-        "comments": 20,
+        "upvotes": 167,
+        "comments": 25,
         "media": null,
         "permalink": "/r/netflix/comments/1njhdex/the_tinder_swindler_has_been_arrested_again_so/"
     },
     {
-        "id": "1niy2gn",
-        "author": "SunnySouthDetroit",
-        "title": "Monsters: The Ed Gein Story = Mind Blown",
-        "content": "Just watched the trailer for this show and I am Stupid excited. I was trying to figure out who the lead actor was and had to look it up. Charlie Human omgawd! I'm a rabid SoA fan, and CH fan. \n\nI'm also a huge fan of the movie and watch it a few times a year. I did not have my hopes up for this but if it's half as good as the trailer, I can't wait. Come on October 2! ",
-        "upvotes": 233,
-        "comments": 139,
+        "id": "1nk2e9j",
+        "author": "pika133",
+        "title": "Is the Old Guard 1 in regular HD or can I watch it in Dolby Vision and right now the title is bugged on the application?",
+        "content": "Hello,\n\nI tried last night to watch The Old Guard 1 but it was in regular HD.  \nTried on 2 TVs, both of which are Dolby Vision compatible (a LG G4 and a LG C9).  \nI also checked and have the Premium Netflix subscription (for example Wednesday in DV worked just fine).  \nTested the issue on both an Apple TV and on the internal Netflix app on the TV.\n\nThe title's description says its in Dolby Vision.\n\nIs this another error on Netflix's part or is The Old Guard 1 just in HD and the description is wrong?\n\nHad issues last week trying to watch Wednesday S2E6 in DV -&gt; I could only watch it in HDR.",
+        "upvotes": 1,
+        "comments": 0,
         "media": null,
-        "permalink": "/r/netflix/comments/1niy2gn/monsters_the_ed_gein_story_mind_blown/"
+        "permalink": "/r/netflix/comments/1nk2e9j/is_the_old_guard_1_in_regular_hd_or_can_i_watch/"
+    },
+    {
+        "id": "1nk196t",
+        "author": "dayto_aus",
+        "title": "Widevine works fine for 4k HDR, PlayReady doesn't",
+        "content": "So I'm experiencing the opposite of what I've been able to gather about recommended specs from Netflix. I have a G81SF (gen 4 QD-OLED panel), and everything is compliant down the whole chain from my GPU, cable, to the monitor and drivers. Edge reports HDCP 2.2 is good, PlayReady flag set. However, Netflix streams 1920x1080 and no HDR to Edge and the Netflix App on my Windows 10 PC. \n\n  \nThat said, oddly Chrome works verifiably in 4k HDR. \n\n  \nI spoke to a tier 2 tech and they had no idea and wanted me to video record my screen, which I didn't end up doing because it was late. Really odd experience, took me over an hour testing everything to get it to work.",
+        "upvotes": 1,
+        "comments": 0,
+        "media": null,
+        "permalink": "/r/netflix/comments/1nk196t/widevine_works_fine_for_4k_hdr_playready_doesnt/"
     },
     {
         "id": "1njo07x",
         "author": "MamaMia1325",
         "title": "Next Gen Chef",
         "content": "It just came out and I just started watching but I'm already annoyed because KBC (Kelsey Barnard Clark) is one of the judges? (not a fan of hers AT ALL) \ud83e\udd26\ud83d\ude43 Who else is watching??",
-        "upvotes": 5,
-        "comments": 15,
+        "upvotes": 7,
+        "comments": 16,
         "media": null,
         "permalink": "/r/netflix/comments/1njo07x/next_gen_chef/"
+    },
+    {
+        "id": "1niy2gn",
+        "author": "SunnySouthDetroit",
+        "title": "Monsters: The Ed Gein Story = Mind Blown",
+        "content": "Just watched the trailer for this show and I am Stupid excited. I was trying to figure out who the lead actor was and had to look it up. Charlie Human omgawd! I'm a rabid SoA fan, and CH fan. \n\nI'm also a huge fan of the movie and watch it a few times a year. I did not have my hopes up for this but if it's half as good as the trailer, I can't wait. Come on October 2! ",
+        "upvotes": 239,
+        "comments": 141,
+        "media": null,
+        "permalink": "/r/netflix/comments/1niy2gn/monsters_the_ed_gein_story_mind_blown/"
     },
     {
         "id": "1nj6nwr",
         "author": "Need_Some_Sukoon",
         "title": "Need Netflix series suggestions!",
         "content": "Hey everyone \ud83d\udc4b\nI\u2019m looking for some good Netflix series to start watching. Open to any genre \u2014 thriller, comedy, drama, sci-fi, or even underrated gems that most people don\u2019t talk about.\n\nSome I\u2019ve already watched and enjoyed:- \n[ Stranger Things, Money Heist, Dark, YOU, Cobra Kai, Mind Hunter, etc.]\n\nWould love to hear your recommendations \u2014 what\u2019s a must-watch on Netflix right now?\n\nThanks in advance!!",
-        "upvotes": 46,
-        "comments": 268,
+        "upvotes": 60,
+        "comments": 300,
         "media": null,
         "permalink": "/r/netflix/comments/1nj6nwr/need_netflix_series_suggestions/"
+    },
+    {
+        "id": "1njxwqh",
+        "author": "AlarianDarkWind11",
+        "title": "Netflix causes 1 of my monitors to \"reboot\"",
+        "content": "When I watch Netflix and I pause the movie/show im watching long enough for my monitors to turn off (I have 3 monitors) one of my monitors (an LG if it matters) will start to \"reboot\" over and over.  It doesn't matter what monitor I'm watching Netflix on, as soon as I resume the show Im watching the LG monitor will start \"rebooting\".  It will go black for a few seconds and then come back on and randomly within 5 to 30 seconds it will reboot again over and over until I log out of my account and log back in (I don't have to reboot, I just have to logout and log back in).  Does anyone have any idea/fixes for this?  I've tried reinstalling drivers several times and it makes no difference.  I've tried changing ports on the video card to see if this makes a differences and it doesn't.  It's always the LG monitor that this happens to.",
+        "upvotes": 0,
+        "comments": 0,
+        "media": null,
+        "permalink": "/r/netflix/comments/1njxwqh/netflix_causes_1_of_my_monitors_to_reboot/"
     },
     {
         "id": "1njulrf",
@@ -90,14 +130,14 @@
         "permalink": "/r/netflix/comments/1njuiwk/is_anyone_else_experiencing_problems_today/"
     },
     {
-        "id": "1njue07",
-        "author": "Basic_Pay_4798",
-        "title": "Netflix stuck at loading screen",
-        "content": "My internet is fine it works on every other device but when i try to watch something on my phone it's stuck on loading.Sometimes ill hear sound for a little and see the subtitles but with a black screen and then it just goes back to loading screen again,do you guys know how to fix this I tried uninstalling and reinstalling, clearing the cache and app data, force stopping it, restarting my device and nothing is working ",
-        "upvotes": 1,
-        "comments": 0,
+        "id": "1njxu5m",
+        "author": "Automatic-Ad-8206",
+        "title": "Does Netflix not care that they default to the wrong language?",
+        "content": "I am really tired of Netflix defaulting to Spanish when I watch movies.  I start watching an English show and the dubbing comes in in Spanish. And yes, not a total idiot, I did check the default language on all profiles was English. \n\nNetflix tried to tell me the problem was only with Korean movies I watched.  \n\nBut, the problem occurs between two episodes of the same English show (the new episode is in Spanish!), and with multiple native English shows. ",
+        "upvotes": 0,
+        "comments": 3,
         "media": null,
-        "permalink": "/r/netflix/comments/1njue07/netflix_stuck_at_loading_screen/"
+        "permalink": "/r/netflix/comments/1njxu5m/does_netflix_not_care_that_they_default_to_the/"
     },
     {
         "id": "1njf7uj",
@@ -105,9 +145,19 @@
         "title": "Adult cartoon recommendations?",
         "content": "Looking for something thats not too lame but basically can be  on in the background that you can dip in and out of? What's the best on offer? Not impressed with most so far.",
         "upvotes": 5,
-        "comments": 14,
+        "comments": 20,
         "media": null,
         "permalink": "/r/netflix/comments/1njf7uj/adult_cartoon_recommendations/"
+    },
+    {
+        "id": "1njzpo2",
+        "author": "dpidy6666",
+        "title": "Cost effective Netflix plans",
+        "content": "I'm trying to save sum money, if you want to enjoy cost effective Netflix lmk, we can figure something out i mean its no point paying full if we can share, idk if its a good idea but worth a shot. ",
+        "upvotes": 0,
+        "comments": 9,
+        "media": null,
+        "permalink": "/r/netflix/comments/1njzpo2/cost_effective_netflix_plans/"
     },
     {
         "id": "1njeogm",
@@ -118,16 +168,6 @@
         "comments": 0,
         "media": null,
         "permalink": "/r/netflix/comments/1njeogm/one_piece_season_2_sneak_peek_netflix/"
-    },
-    {
-        "id": "1nj840r",
-        "author": "Oregano-Town",
-        "title": "Is The Chilling Adventures of Sabrina worth watching?",
-        "content": "I personally don\u2019t like Riverdale as I don\u2019t enjoy the intense deviation from the original source material. No hate, I don\u2019t mind when shows give a new take on an old story, but I really like the 1950s vibe of the original Archie comics and the show just wasn\u2019t for me.\n\nI was kind of put off by the knowledge that The Chilling Adventures of Sabrina takes place in the same universe and worry that it\u2019ll fall into the same problem I have with Riverdale. Did anyone here not like Riverdale but found themselves enjoying Sabrina? Or vice versa! I\u2019m interested in hearing what people think!",
-        "upvotes": 9,
-        "comments": 30,
-        "media": null,
-        "permalink": "/r/netflix/comments/1nj840r/is_the_chilling_adventures_of_sabrina_worth/"
     },
     {
         "id": "1njpf33",
@@ -144,8 +184,8 @@
         "author": "Less-Pen-5705",
         "title": "Yall remember back in the day when Netflix basic no ad plan was like 7/8.99???",
         "content": "Good times\u2026.now you have to pay like 20+ bucks to enjoy content without commercials\u2026not only that, they\u2019re piping down on password sharing and making it hard for people to use their family members/friends accounts\u2026.not only that, also the very limited new content that they have and the old content that they keep removing\u2026.in some ways Tubi is better than Netflix LMFAOOO. Yes tubi may have ads but atleast tubi is free!!! No way I\u2019m paying 10/15+ bucks a month to still watch fucking commercials.",
-        "upvotes": 228,
-        "comments": 85,
+        "upvotes": 238,
+        "comments": 87,
         "media": null,
         "permalink": "/r/netflix/comments/1nikksv/yall_remember_back_in_the_day_when_netflix_basic/"
     },
@@ -195,7 +235,7 @@
         "title": "recommendations",
         "content": "Need Netflix series suggestions!\n\nHey everyone \ud83d\udc4b\nI\u2019m looking for some good Netflix series to start watching. Open to any genre \u2014 thriller, comedy, drama, sci-fi, or even underrated gems that most people don\u2019t talk about.\n\nSome I\u2019ve already watched and enjoyed:- \n[ Stranger Things, Money Heist\n\nWould love to hear your recommendations \u2014 what\u2019s a must-watch on Netflix right now?\n\nThanks in advance!!",
         "upvotes": 2,
-        "comments": 3,
+        "comments": 7,
         "media": null,
         "permalink": "/r/netflix/comments/1nj7ges/recommendations/"
     },
@@ -205,7 +245,7 @@
         "title": "Is there any good comedy shows on Netflix (Australia)?",
         "content": "I feel like I've seen all the good comedy shows on Netflix now. The last couple of nights I've been trying to find a new comedy show to get stuck into, but nothing sticks. If anyone could recommend something it would be appreciated. Maybe not the obvious ones as I've probably seen it. Thank you!",
         "upvotes": 1,
-        "comments": 6,
+        "comments": 10,
         "media": null,
         "permalink": "/r/netflix/comments/1nj8pb1/is_there_any_good_comedy_shows_on_netflix/"
     },
@@ -214,20 +254,10 @@
         "author": "SnooRevelations7068",
         "title": "Netflix cancelled after 10 years. Are you feeling Netflix has gone downhill too?",
         "content": "Hit me yesterday, we haven\u2019t checked out Netflix in awhile. Popped in, layouts completely different and nonsensical, and there really wasn\u2019t anything good or new. Cancelled Netflix after 10 years, but the lack of content and cancelling of interesting shows after a season was ruining Netflix for us anyways. Wife and I both agreed, we don\u2019t give af about the last season of Stranger Things anyways. Anyone else feeling the same way?",
-        "upvotes": 873,
-        "comments": 580,
+        "upvotes": 886,
+        "comments": 586,
         "media": null,
         "permalink": "/r/netflix/comments/1nhxelr/netflix_cancelled_after_10_years_are_you_feeling/"
-    },
-    {
-        "id": "1niyop4",
-        "author": "FloatingCow-",
-        "title": "Travel locked.",
-        "content": "Half of my family is currently with me at the hospital while my son is recovering from heart surgery. Around 1-2 months we will be staying here which is 4 hours away from home. Netflix was working fine until it locked me out entirely unless I change home location. When I go home or my family goes home they also use the Netflix account there. Same family same account I pay for the account fully yet I can\u2019t use it anymore. It\u2019s frustrating that they don\u2019t have an option for this situation where I\u2019m temporarily living somewhere else. I called support and they said to just keep switching back and forth the main household. If that\u2019s the case what even is the point of locking you out if you can just keep going back and forth. Problem that shouldn\u2019t exist. I just want to watch some breaking bad while waiting for my son to fully heal. I know nothing can be done and it is what it is but just wanted to rant. Now I\u2019m just watching king of the hill on Hulu until we go home. ",
-        "upvotes": 5,
-        "comments": 8,
-        "media": null,
-        "permalink": "/r/netflix/comments/1niyop4/travel_locked/"
     },
     {
         "id": "1nj82ws",
@@ -235,9 +265,19 @@
         "title": "Best netflix documentaries?",
         "content": "No child death please.\n\nI like scams, hustles, light hearted stuff. Bombings where its about hunting them down, i like seeing well done police investigative work.\n I can handle murder but I prefer it to have crazy twists and stuff to helps me stay detached. \n\nI've watched all the trainwrecks, kings of tupelo (my favourite), all the bitcoin ones, all American manhunts. ",
         "upvotes": 1,
-        "comments": 9,
+        "comments": 13,
         "media": null,
         "permalink": "/r/netflix/comments/1nj82ws/best_netflix_documentaries/"
+    },
+    {
+        "id": "1niyop4",
+        "author": "FloatingCow-",
+        "title": "Travel locked.",
+        "content": "Half of my family is currently with me at the hospital while my son is recovering from heart surgery. Around 1-2 months we will be staying here which is 4 hours away from home. Netflix was working fine until it locked me out entirely unless I change home location. When I go home or my family goes home they also use the Netflix account there. Same family same account I pay for the account fully yet I can\u2019t use it anymore. It\u2019s frustrating that they don\u2019t have an option for this situation where I\u2019m temporarily living somewhere else. I called support and they said to just keep switching back and forth the main household. If that\u2019s the case what even is the point of locking you out if you can just keep going back and forth. Problem that shouldn\u2019t exist. I just want to watch some breaking bad while waiting for my son to fully heal. I know nothing can be done and it is what it is but just wanted to rant. Now I\u2019m just watching king of the hill on Hulu until we go home. ",
+        "upvotes": 3,
+        "comments": 8,
+        "media": null,
+        "permalink": "/r/netflix/comments/1niyop4/travel_locked/"
     },
     {
         "id": "1niqki7",
@@ -260,6 +300,16 @@
         "permalink": "/r/netflix/comments/1nj5vlb/should_netflix_have_a_tier_of_only_their/"
     },
     {
+        "id": "1nilndj",
+        "author": "darth_vader39",
+        "title": "Tom Clancy's Splinter Cell: Deathwatch | Official Trailer | Netflix",
+        "content": "",
+        "upvotes": 11,
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/netflix/comments/1nilndj/tom_clancys_splinter_cell_deathwatch_official/"
+    },
+    {
         "id": "1nj7nfj",
         "author": "gladeplugin26",
         "title": "Shows on Netflix",
@@ -268,55 +318,5 @@
         "comments": 2,
         "media": null,
         "permalink": "/r/netflix/comments/1nj7nfj/shows_on_netflix/"
-    },
-    {
-        "id": "1nilndj",
-        "author": "darth_vader39",
-        "title": "Tom Clancy's Splinter Cell: Deathwatch | Official Trailer | Netflix",
-        "content": "",
-        "upvotes": 9,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/netflix/comments/1nilndj/tom_clancys_splinter_cell_deathwatch_official/"
-    },
-    {
-        "id": "1njfhrv",
-        "author": "OCapalot14",
-        "title": "Is Stranger Things or Dark better?",
-        "content": "I wanna have this debate to be honest they\u2019re both great shows I feel like you can pick your poison with either one. I\u2019ll start with saying I have Stranger Things by a little bit.",
-        "upvotes": 0,
-        "comments": 41,
-        "media": null,
-        "permalink": "/r/netflix/comments/1njfhrv/is_stranger_things_or_dark_better/"
-    },
-    {
-        "id": "1ni7h51",
-        "author": "Fabulous-Question173",
-        "title": "Adolescence",
-        "content": "So I started this today and I can't stop watching it. I can definitely understand why it won some awards. The show touches on a lot things that some of us just don't think about. I can't imagine what kids go through with social media nowadays. I was a freshman in HS in 2002. We were right on that beginning of it. We were right at that age where everyone still got outside and did everything. Like drag main street. Later on it was bon fire parties. I can't even begin to imagine the photos and videos that could be out there. ",
-        "upvotes": 60,
-        "comments": 31,
-        "media": null,
-        "permalink": "/r/netflix/comments/1ni7h51/adolescence/"
-    },
-    {
-        "id": "1njaiuc",
-        "author": "EboLad",
-        "title": "Brooklyn 99",
-        "content": "What do I do?\n\nBrooklyn 99 is gone. \n\nIt\u2019s my top show for Netflix. It\u2019s been taken away. Can I protest this? I watch it a lot. A lot a lot. I\u2019m empty. Disney doesn\u2019t do this to me. Did I not watch it enough? I watched it a lot. I feel empty. Can I download it? How do I get it all on my iPhone? What do I do? How can I get it all on my iPhone? \n\nPlease help me. It\u2019s my favourite show. I can\u2019t sleep. ",
-        "upvotes": 0,
-        "comments": 8,
-        "media": null,
-        "permalink": "/r/netflix/comments/1njaiuc/brooklyn_99/"
-    },
-    {
-        "id": "1nisopl",
-        "author": "ZoinMihailo",
-        "title": "King (2019) - Best Netflix film or just overhyped?",
-        "content": "WillShakespeare1564 \u2022 2h ago:\nMarry, good sir, thou dost pose a question most vexing to mine authorial heart!\nVerily, young Chalamet doth bear the crown's weight with such gravity as would make mine own Hal weep with recognition. Yet where, prithee, are the \"gilded monuments\" of verse that should accompany such kingly transformation?\nMethinks this film captures well the \"uneasy lies the head that wears a crown\" - the political machinations ring most true to mine intent. But alack! The poetry hath been murdered most foul, replaced by prose as plain as a Puritan's doublet.\nThe French scenes? Chef's kiss - though I confess 'tis strange to see mine Dauphin speak with such... how say you... \"realistic\" dialogue rather than mine flowery conceits.\nTL;DR: 'Tis a worthy adaptation that honors the substance of mine work whilst abandoning its soul. Netflix hath created a fine historical drama, but murdered a poetic tragedy.\nVerdict: Netflix hath honored the plot, but buried the Bard.\nP.S. - Still better than that Mel Gibson Hamlet nonsense, by my troth!",
-        "upvotes": 3,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/netflix/comments/1nisopl/king_2019_best_netflix_film_or_just_overhyped/"
     }
 ]
