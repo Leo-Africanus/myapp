@@ -1,11 +1,24 @@
 [
     {
+        "id": "1nn63k3",
+        "author": "mvea",
+        "title": "Children with autism face more frequent and persistent digestive problems. These stomach and digestive issues are linked to greater challenges with sleep, communication, sensory processing, and behavior.",
+        "content": "",
+        "upvotes": 1887,
+        "comments": 49,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/F9Um9i5zbLoKPQXyTthdNUzwj4OAJ8PuDBI2T4fgrq4.jpeg?auto=webp&amp;s=381625de7f3738cbf11c428e874776c83add5e13"
+        },
+        "permalink": "/r/science/comments/1nn63k3/children_with_autism_face_more_frequent_and/"
+    },
+    {
         "id": "1nmq6su",
         "author": "mvea",
         "title": "Retirement can boost mental health, but not for everyone. People with low-income group showed an initial improvement, but then a decline after about 2.5 years, the fading honeymoon effect. In the high-income group, mental health didn\u2019t change before and after retirement.",
         "content": "",
-        "upvotes": 3815,
-        "comments": 196,
+        "upvotes": 5975,
+        "comments": 271,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/MpZPSTRi_uAwhrNKnOsGquLvDKHUSnUm_Nv6YLkd8FE.jpeg?auto=webp&amp;s=deecc5bb272f53c2428ce1d265b66e23157625f5"
@@ -13,12 +26,22 @@
         "permalink": "/r/science/comments/1nmq6su/retirement_can_boost_mental_health_but_not_for/"
     },
     {
+        "id": "1nmzz9m",
+        "author": "nohup_me",
+        "title": "Adverse social exposome (low education, food insecurity, financial stress, etc) linked to poorer cognition and mental health, reduced functional ability, and alterations in brain structure and function, with long-lasting impact impacting",
+        "content": "",
+        "upvotes": 510,
+        "comments": 5,
+        "media": null,
+        "permalink": "/r/science/comments/1nmzz9m/adverse_social_exposome_low_education_food/"
+    },
+    {
         "id": "1nmoge7",
         "author": "mvea",
         "title": "New clinical trial suggests magnesium supplements boost gut bacteria that help block the development of colon cancer \u2013 for some people, depending on genes and sex. Magnesium supplements increase gut microbes that synthesize vitamin D in the gut without sunlight and locally inhibit colorectal cancer.",
         "content": "",
-        "upvotes": 1331,
-        "comments": 44,
+        "upvotes": 2293,
+        "comments": 72,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/u0f_52nIRZfE4PKvm__LuZbOhx0Ft1xJAY7cqdGOGmI.jpeg?auto=webp&amp;s=b2c565eb35da62ff6d5a7849859efada5cd7b7ce"
@@ -30,8 +53,8 @@
         "author": "mvea",
         "title": "Many Americans reject the scientific theory of evolution, with biblical literalism a key factor driving this rejection. Reframing biblical interpretation helps religious students accept evolution, without any apparent loss in religiosity.",
         "content": "",
-        "upvotes": 12199,
-        "comments": 1065,
+        "upvotes": 14018,
+        "comments": 1188,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/YWVZNJ472JyAcEl87SNWpAxc8KnxRXbvQIYFM13YPH4.jpeg?auto=webp&amp;s=a59d259b1e3e52dfbe6e38d4f121f0d2c7e69643"
@@ -39,22 +62,12 @@
         "permalink": "/r/science/comments/1nmbck8/many_americans_reject_the_scientific_theory_of/"
     },
     {
-        "id": "1nmplyn",
-        "author": "James_Fortis",
-        "title": "A low-fat vegan diet supplemented with soybeans reduced the frequency of severe hot flashes by 92% in postmenopausal women, randomized controlled trial finds. The main independent predictor was increased consumption of the isoflavone daidzein.",
-        "content": "",
-        "upvotes": 334,
-        "comments": 10,
-        "media": null,
-        "permalink": "/r/science/comments/1nmplyn/a_lowfat_vegan_diet_supplemented_with_soybeans/"
-    },
-    {
         "id": "1nmrled",
         "author": "Cad_Lin",
         "title": "On the U.S.\u2013Mexico border, everyday speech mixes English and Spanish in creative ways\u2014words like troca for \u201ctruck\u201d or parquear for \u201cto park.\u201d Now, hundreds of these voices are safely recorded and preserved online for future study.",
         "content": "",
-        "upvotes": 189,
-        "comments": 24,
+        "upvotes": 468,
+        "comments": 37,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/lCLSivv_oK6pyB3kckjiPYNVTN32LYoyPfHI67FJEHw.png?auto=webp&amp;s=314a76a1604c9c9f357d1d87edd75e3e05d5ecdc"
@@ -62,32 +75,62 @@
         "permalink": "/r/science/comments/1nmrled/on_the_usmexico_border_everyday_speech_mixes/"
     },
     {
+        "id": "1nmplyn",
+        "author": "James_Fortis",
+        "title": "A low-fat vegan diet supplemented with soybeans reduced the frequency of severe hot flashes by 92% in postmenopausal women, randomized controlled trial finds. The main independent predictor was increased consumption of the isoflavone daidzein.",
+        "content": "",
+        "upvotes": 614,
+        "comments": 19,
+        "media": null,
+        "permalink": "/r/science/comments/1nmplyn/a_lowfat_vegan_diet_supplemented_with_soybeans/"
+    },
+    {
         "id": "1nmiztd",
         "author": "calliope_kekule",
         "title": "A new review finds microplastics can accumulate in bone tissue, altering cells, weakening structure, and potentially linking to diseases like osteoporosis.",
         "content": "",
-        "upvotes": 404,
+        "upvotes": 502,
         "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1nmiztd/a_new_review_finds_microplastics_can_accumulate/"
+    },
+    {
+        "id": "1nn6cw8",
+        "author": "acidgoat_15",
+        "title": "Analytic calculation of nuclear Fukui functions with auxiliary density perturbation theory (Beltr\u00e1n-Orta et al, 2025)",
+        "content": "",
+        "upvotes": 17,
+        "comments": 4,
+        "media": null,
+        "permalink": "/r/science/comments/1nn6cw8/analytic_calculation_of_nuclear_fukui_functions/"
     },
     {
         "id": "1nm547f",
         "author": "sometimeshiny",
         "title": "Alzheimer\u2019s and Parkinson\u2019s are tied to dysregulation of mGluR5, a metabotropic glutamate receptor controlling astrocyte calcium signaling and neuroinflammation",
         "content": "",
-        "upvotes": 1798,
-        "comments": 61,
+        "upvotes": 1996,
+        "comments": 66,
         "media": null,
         "permalink": "/r/science/comments/1nm547f/alzheimers_and_parkinsons_are_tied_to/"
+    },
+    {
+        "id": "1nmtaba",
+        "author": "Complete-Secret-431",
+        "title": "GlymphoVasomotor Field (GVF) theory: a non-neuronal scaffolding for brain rhythms and consciousness",
+        "content": "",
+        "upvotes": 39,
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/science/comments/1nmtaba/glymphovasomotor_field_gvf_theory_a_nonneuronal/"
     },
     {
         "id": "1nlwf0t",
         "author": "mvea",
         "title": "Sugary drinks may increase risk of metastasis in advanced colorectal cancer. Preclinical study provides first direct evidence linking colorectal cancer metastasis to glucose-fructose blend found in sugar-sweetened beverages. Cutting back on sugary drinks may slow progression of colorectal cancer.",
         "content": "",
-        "upvotes": 2273,
-        "comments": 94,
+        "upvotes": 2413,
+        "comments": 99,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/8_RnDeMLhyo9_HamAIeVwo4Ne0-lboT6_F9-g82HfGA.jpeg?auto=webp&amp;s=cee447d12232b881191cf6d4171c62824ea7a73e"
@@ -95,21 +138,21 @@
         "permalink": "/r/science/comments/1nlwf0t/sugary_drinks_may_increase_risk_of_metastasis_in/"
     },
     {
-        "id": "1nmtaba",
-        "author": "Complete-Secret-431",
-        "title": "GlymphoVasomotor Field (GVF) theory: a non-neuronal scaffolding for brain rhythms and consciousness",
+        "id": "1nmpgix",
+        "author": "gy0ker",
+        "title": "Shadow of the wind: Saharan dust and solar energy in the Mediterranean",
         "content": "",
-        "upvotes": 14,
+        "upvotes": 17,
         "comments": 1,
         "media": null,
-        "permalink": "/r/science/comments/1nmtaba/glymphovasomotor_field_gvf_theory_a_nonneuronal/"
+        "permalink": "/r/science/comments/1nmpgix/shadow_of_the_wind_saharan_dust_and_solar_energy/"
     },
     {
         "id": "1nm4yaj",
         "author": "greenishleaf",
         "title": "Huge crater under North Sea was created by asteroid impact, scientists say",
         "content": "",
-        "upvotes": 281,
+        "upvotes": 312,
         "comments": 5,
         "media": {
             "type": "image",
@@ -122,8 +165,8 @@
         "author": "Nekronean",
         "title": "Artificial Intelligence promotes dishonesty: When people delegated tasks to machine agents\u2013whether voluntarily or in a forced manner\u2013they were more likely to cheat",
         "content": "",
-        "upvotes": 586,
-        "comments": 12,
+        "upvotes": 634,
+        "comments": 14,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/i0ckwHa40IqgWoEwUWkro2W64Z-PQRbq1ns5Ln-T58s.jpeg?auto=webp&amp;s=9ea22b32441d7dd4a7a5f41611dc771758afd8e0"
@@ -135,8 +178,8 @@
         "author": "Wagamaga",
         "title": "Research has found in older adults later breakfast time was consistently associated with having physical and mental health conditions such as depression. As adults age, they tend to eat breakfast and dinner at later times, while also narrowing the overall time window in which they eat each day.",
         "content": "",
-        "upvotes": 1060,
-        "comments": 97,
+        "upvotes": 1145,
+        "comments": 101,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/66pwDk125KbZQ2x_-LRSxSWClPecE_NoIAz4LZRQVM0.jpeg?auto=webp&amp;s=75c64038c8502386bb501a410133bd20d08a1a4a"
@@ -144,21 +187,11 @@
         "permalink": "/r/science/comments/1nltaf6/research_has_found_in_older_adults_later/"
     },
     {
-        "id": "1nmpgix",
-        "author": "gy0ker",
-        "title": "Shadow of the wind: Saharan dust and solar energy in the Mediterranean",
-        "content": "",
-        "upvotes": 7,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1nmpgix/shadow_of_the_wind_saharan_dust_and_solar_energy/"
-    },
-    {
         "id": "1nltnr4",
         "author": "Wagamaga",
         "title": "Poverty may be linked to lower fertility. Researchers have found that about half of couples on low incomes had fertility problems compared to about a third of couples on high incomes. Lifestyle factors, such as BMI, smoking, and drinking, did not fully explain this difference",
         "content": "",
-        "upvotes": 728,
+        "upvotes": 766,
         "comments": 99,
         "media": null,
         "permalink": "/r/science/comments/1nltnr4/poverty_may_be_linked_to_lower_fertility/"
@@ -168,7 +201,7 @@
         "author": "nohup_me",
         "title": "Researchers have measured subjects' memory by tracking their eye movements as they watched animation videos, demonstrating that people actually remember more than they report. This method can be used to measure memory in subjects who cannot speak",
         "content": "",
-        "upvotes": 120,
+        "upvotes": 133,
         "comments": 6,
         "media": {
             "type": "image",
@@ -181,7 +214,7 @@
         "author": "sometimeshiny",
         "title": "Fever protects against memory decline. In rats, moderate fevers strengthen glutamate receptor synapses and activate heat-shock proteins, preserving learning ability even under accelerated aging.",
         "content": "",
-        "upvotes": 90,
+        "upvotes": 112,
         "comments": 3,
         "media": null,
         "permalink": "/r/science/comments/1nm6b1b/fever_protects_against_memory_decline_in_rats/"
@@ -191,8 +224,8 @@
         "author": "Science_News",
         "title": "Mice fed on the keto diet had trouble processing sugar, showed signs of liver and cardiovascular disease | Long-term adherence to the low-carb, high-fat diet caused buildups of fat in the bloodstream",
         "content": "",
-        "upvotes": 4570,
-        "comments": 225,
+        "upvotes": 4621,
+        "comments": 240,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/NZV-l_LDI-hwE9_DwR6UAUbhwqEpMqvdQk1f7ZjbH88.jpeg?auto=webp&amp;s=d313bd1cf6961cd8aae36561ed22a228a4379a8f"
@@ -204,8 +237,8 @@
         "author": "nohup_me",
         "title": "Both mothers and fathers significantly shape their children\u2019s social anxiety: warmth, affection and acceptance from either parent reduce anxiety, while rejection, coldness, and controlling behaviors heighten it",
         "content": "",
-        "upvotes": 6417,
-        "comments": 84,
+        "upvotes": 6543,
+        "comments": 87,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/UznshhU3ph0CUvFlXmBu6-t4MUDAvCGQviYAAfwV6mg.jpeg?auto=webp&amp;s=83ea4070d03083c2616388e59970e0efcf3c55b8"
@@ -217,8 +250,8 @@
         "author": "mvea",
         "title": "Consuming more legumes and less red and processed meat may have a surprisingly positive impact on men\u2019s health. Replacing red and processed meat with pea- and faba bean\u2013based foods resulted in reduced total and \u2018bad\u2019 LDL cholesterol levels in men, along with weight loss.",
         "content": "",
-        "upvotes": 3118,
-        "comments": 338,
+        "upvotes": 3174,
+        "comments": 349,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/CkDQOsPalbCG1dwiwanmODLCIhmLSgHeYaIiy4l3AdM.jpeg?auto=webp&amp;s=cf5a9142bd82e910f91c34724459d88b1e5d9433"
@@ -230,7 +263,7 @@
         "author": "MistWeaver80",
         "title": "The IceCube experiment at the South Pole has detected several cosmic neutrinos with energies above 1 PeV, &amp; the KM3NeT experiment spotted a neutrino with a record-breaking energy of 220 PeV. These ultrahigh-energy particles could have been produced in the explosive deaths of primordial black holes.",
         "content": "",
-        "upvotes": 445,
+        "upvotes": 473,
         "comments": 37,
         "media": {
             "type": "image",
@@ -243,8 +276,8 @@
         "author": "mvea",
         "title": "Daily vitamin B3 dose cuts skin cancer risk by up to 54%: A common, over-the-counter form of vitamin B3 has emerged as an inexpensive ally in protecting us from skin cancer, lowering the risk by an average of 14% and increasing to a massive 54% for anyone who has previously had a positive diagnosis.",
         "content": "",
-        "upvotes": 5890,
-        "comments": 146,
+        "upvotes": 5927,
+        "comments": 149,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/zQSTVQaMAViLMZp-iBZuKUDK7fJ_zRINM7h0tHpUrs0.jpeg?auto=webp&amp;s=83fbe9428bab85964d058924dfe5a33aeafdf245"
@@ -252,21 +285,11 @@
         "permalink": "/r/science/comments/1nkzwk7/daily_vitamin_b3_dose_cuts_skin_cancer_risk_by_up/"
     },
     {
-        "id": "1nlp3v9",
-        "author": "calliope_kekule",
-        "title": "A case series reports H5N1 (avian flu) infections in four domestic cats near a California dairy farm. With early care and oseltamivir, survival was possible and antibodies persisted for months.",
-        "content": "",
-        "upvotes": 127,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/science/comments/1nlp3v9/a_case_series_reports_h5n1_avian_flu_infections/"
-    },
-    {
         "id": "1nlygmv",
         "author": "bluish1997",
         "title": "Phages with a broad host range are common across ecosystems",
         "content": "",
-        "upvotes": 23,
+        "upvotes": 33,
         "comments": 2,
         "media": {
             "type": "image",
@@ -275,11 +298,21 @@
         "permalink": "/r/science/comments/1nlygmv/phages_with_a_broad_host_range_are_common_across/"
     },
     {
+        "id": "1nlp3v9",
+        "author": "calliope_kekule",
+        "title": "A case series reports H5N1 (avian flu) infections in four domestic cats near a California dairy farm. With early care and oseltamivir, survival was possible and antibodies persisted for months.",
+        "content": "",
+        "upvotes": 139,
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/science/comments/1nlp3v9/a_case_series_reports_h5n1_avian_flu_infections/"
+    },
+    {
         "id": "1nlewbu",
         "author": "pubpophealth",
         "title": "Younger adults with symptomatic COVID reported depression more often than older adults, and women more than men, in an outpatient cohort",
         "content": "",
-        "upvotes": 281,
+        "upvotes": 296,
         "comments": 7,
         "media": null,
         "permalink": "/r/science/comments/1nlewbu/younger_adults_with_symptomatic_covid_reported/"
@@ -289,30 +322,17 @@
         "author": "smurfyjenkins",
         "title": "During the brief period in which TikTok was banned in the US, Meta (Facebook) substantially benefitted from increased traffic and ad spending. Meta ad volume, spend and prices rose by 6.3%, 22.4% and 12.1% respectively.",
         "content": "",
-        "upvotes": 105,
-        "comments": 4,
+        "upvotes": 110,
+        "comments": 5,
         "media": null,
         "permalink": "/r/science/comments/1nlkmrp/during_the_brief_period_in_which_tiktok_was/"
-    },
-    {
-        "id": "1nkmcc9",
-        "author": "mvea",
-        "title": "1 in 3 young adults skip the dentist, putting young adults at greater risk for future health problems. Dental care in the United States is still excluded from medical health insurance coverage and usually not integrated with public health initiatives that promote preventative care.",
-        "content": "",
-        "upvotes": 18096,
-        "comments": 667,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/WnW5b56R80vgfoZRFtCYVnayYPzbOWbjtLjB6YFPQ9c.jpeg?auto=webp&amp;s=50b8195241dcf385139a23269bcf81a8d0b61456"
-        },
-        "permalink": "/r/science/comments/1nkmcc9/1_in_3_young_adults_skip_the_dentist_putting/"
     },
     {
         "id": "1nleyxb",
         "author": "calliope_kekule",
         "title": "ChatGPT conversations only slightly reduce climate scepticism, and the effects fade over time",
         "content": "",
-        "upvotes": 199,
+        "upvotes": 207,
         "comments": 39,
         "media": {
             "type": "image",
@@ -321,36 +341,16 @@
         "permalink": "/r/science/comments/1nleyxb/chatgpt_conversations_only_slightly_reduce/"
     },
     {
-        "id": "1nlef9b",
-        "author": "UCBerkeley",
-        "title": "The first-ever measurements of the ethanol content of fruits available to chimpanzees in their native African habitat show that the animals could easily consume the equivalent of more than two standard alcoholic drinks each day",
+        "id": "1nkmcc9",
+        "author": "mvea",
+        "title": "1 in 3 young adults skip the dentist, putting young adults at greater risk for future health problems. Dental care in the United States is still excluded from medical health insurance coverage and usually not integrated with public health initiatives that promote preventative care.",
         "content": "",
-        "upvotes": 197,
-        "comments": 7,
+        "upvotes": 18173,
+        "comments": 672,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/ISsVBjSlUfqTDJY2MYIuG019-uKgnsyraMm_LQkCEI8.jpeg?auto=webp&amp;s=c0eeddbf12b7fe3453b5c75fb95848da7628eb34"
+            "url": "https://external-preview.redd.it/WnW5b56R80vgfoZRFtCYVnayYPzbOWbjtLjB6YFPQ9c.jpeg?auto=webp&amp;s=50b8195241dcf385139a23269bcf81a8d0b61456"
         },
-        "permalink": "/r/science/comments/1nlef9b/the_firstever_measurements_of_the_ethanol_content/"
-    },
-    {
-        "id": "1nm1jo1",
-        "author": "IndependentLinguist",
-        "title": "Iconicity should be hard to proces for plain large language models (no access to sound, no embodyment, weird tokenization...). But they are good at modeling important things and iconicity is quite important in language, so they somehow learned it.  672 human participants, many more artificial ones.",
-        "content": "",
-        "upvotes": 2,
-        "comments": 3,
-        "media": null,
-        "permalink": "/r/science/comments/1nm1jo1/iconicity_should_be_hard_to_proces_for_plain/"
-    },
-    {
-        "id": "1nlfrur",
-        "author": "bluish1997",
-        "title": "Efficacy and safety of low- versus high-dose-LSD-assisted therapy in patients with major depression: A randomized trial",
-        "content": "",
-        "upvotes": 104,
-        "comments": 9,
-        "media": null,
-        "permalink": "/r/science/comments/1nlfrur/efficacy_and_safety_of_low_versus/"
+        "permalink": "/r/science/comments/1nkmcc9/1_in_3_young_adults_skip_the_dentist_putting/"
     }
 ]
