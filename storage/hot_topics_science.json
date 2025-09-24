@@ -1,11 +1,37 @@
 [
     {
+        "id": "1nordoy",
+        "author": "mvea",
+        "title": "A new study provides evidence that caffeine can increase how long people persist in trying to complete difficult or unsolvable tasks. The findings suggest that caffeine may promote a more active coping style in humans.",
+        "content": "",
+        "upvotes": 1982,
+        "comments": 64,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/ZH6ArVUDsrdlii7Y3Z2ylmI9n0oB_dU6vnZvTiZ7fmA.jpeg?auto=webp&amp;s=7f03951dc3e7b3d1c14e9d84d731d026873da4ba"
+        },
+        "permalink": "/r/science/comments/1nordoy/a_new_study_provides_evidence_that_caffeine_can/"
+    },
+    {
+        "id": "1nopsy7",
+        "author": "chrisdh79",
+        "title": "Scientists catch a shark threesome on camera | \"It was over quickly for both males, one after the other. The first took 63 seconds, the other 47.\"",
+        "content": "",
+        "upvotes": 1929,
+        "comments": 123,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/NOrZKV172FCR-bHNxQlv-qE0p7KqF0cs7zmWjwkip0s.jpeg?auto=webp&amp;s=42efec637a9ba66211557ffde82751156932753c"
+        },
+        "permalink": "/r/science/comments/1nopsy7/scientists_catch_a_shark_threesome_on_camera_it/"
+    },
+    {
         "id": "1noev9s",
         "author": "mvea",
         "title": "Scientists have engineered Salmonella bacteria to self-destruct inside tumors, releasing signals that spark powerful immune hubs and shrink colon cancer in mice, opening the door to \u201cliving medicines\u201d against deadly cancers.",
         "content": "",
-        "upvotes": 2801,
-        "comments": 36,
+        "upvotes": 4902,
+        "comments": 75,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/TS2QrOoiAqkei-vlmHdXD5oikzfJ2CzYgu4jQFQZ6jU.jpeg?auto=webp&amp;s=436326d20f5efb38491538b7b5be726c4de11285"
@@ -13,25 +39,12 @@
         "permalink": "/r/science/comments/1noev9s/scientists_have_engineered_salmonella_bacteria_to/"
     },
     {
-        "id": "1no43s3",
-        "author": "mvea",
-        "title": "Patient deaths increased in emergency departments of hospitals acquired by private equity firms. Researchers linked increase in mortality to cuts in salary and staffing levels. Findings amplify concerns about growth of this for-profit ownership model in health care delivery.",
-        "content": "",
-        "upvotes": 21832,
-        "comments": 387,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/bnUbkfQhxLZiuqbG575FmP1gemKnYibNncz4X_NpMiw.png?auto=webp&amp;s=98fac7021d5ea7f91d258470aad6f3d5cacf633d"
-        },
-        "permalink": "/r/science/comments/1no43s3/patient_deaths_increased_in_emergency_departments/"
-    },
-    {
         "id": "1nok5wn",
         "author": "sciencealert",
         "title": "Giant megaraptor dinosaur species discovered in Argentina, with evidence of an ancient crocodile in its mouth",
         "content": "",
-        "upvotes": 261,
-        "comments": 6,
+        "upvotes": 1214,
+        "comments": 46,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/1g5eadr3-JH5ahmfygLDb9AVR6r0H4q1W8YreCG6fVY.jpeg?auto=webp&amp;s=fd1080338b5f8b412bd39c25666a3b4166d4e6e1"
@@ -39,12 +52,25 @@
         "permalink": "/r/science/comments/1nok5wn/giant_megaraptor_dinosaur_species_discovered_in/"
     },
     {
+        "id": "1no43s3",
+        "author": "mvea",
+        "title": "Patient deaths increased in emergency departments of hospitals acquired by private equity firms. Researchers linked increase in mortality to cuts in salary and staffing levels. Findings amplify concerns about growth of this for-profit ownership model in health care delivery.",
+        "content": "",
+        "upvotes": 25147,
+        "comments": 420,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/bnUbkfQhxLZiuqbG575FmP1gemKnYibNncz4X_NpMiw.png?auto=webp&amp;s=98fac7021d5ea7f91d258470aad6f3d5cacf633d"
+        },
+        "permalink": "/r/science/comments/1no43s3/patient_deaths_increased_in_emergency_departments/"
+    },
+    {
         "id": "1nojpdk",
         "author": "IEEESpectrum",
         "title": "Scientists have found a simple way for any conventional smartphone camera to serve as a hyperspectral sensor, sending what molecules are in its photo",
         "content": "",
-        "upvotes": 201,
-        "comments": 16,
+        "upvotes": 656,
+        "comments": 38,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/3rK8H5BiuwPh73khs4op3tcUvhL-tdhXZwEL-_rgEe8.jpeg?auto=webp&amp;s=710e01740e85c20cf5fe36e1778065f3b6bc64b7"
@@ -52,31 +78,67 @@
         "permalink": "/r/science/comments/1nojpdk/scientists_have_found_a_simple_way_for_any/"
     },
     {
+        "id": "1nopnom",
+        "author": "smurfyjenkins",
+        "title": "Immigration in early 20th century America improved the life outcomes for the US-born: they were more likely to marry, have children, and set up their own household. The evidence suggests that immigration increased native men\u2019s employment, thereby raising the supply of native \u201cmarriageable men.\u201d",
+        "content": "",
+        "upvotes": 282,
+        "comments": 21,
+        "media": null,
+        "permalink": "/r/science/comments/1nopnom/immigration_in_early_20th_century_america/"
+    },
+    {
+        "id": "1noqixn",
+        "author": "smurfyjenkins",
+        "title": "Black WWI veterans played a pioneering role in the early civil rights movement. Black men randomly drafted into the National Army (where they toiled primarily as menial laborers in segregated units) were significantly more likely to join the nascent NAACP and become community leaders.",
+        "content": "",
+        "upvotes": 155,
+        "comments": 3,
+        "media": null,
+        "permalink": "/r/science/comments/1noqixn/black_wwi_veterans_played_a_pioneering_role_in/"
+    },
+    {
+        "id": "1notssq",
+        "author": "Wagamaga",
+        "title": "Analysis of data from nearly 1,500 sites in the contiguous United States between 1980 and 2022 revealed that heatwaves in rivers are accelerating faster than and lasting nearly twice as long air heatwaves",
+        "content": "",
+        "upvotes": 100,
+        "comments": 4,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/FJ3MVwV7Ra5yMlaTIuPNscwZLmtU9nrFXEj5VMLqdj0.jpeg?auto=webp&amp;s=1157655a494c65f51a9093191167e93bcd6420fd"
+        },
+        "permalink": "/r/science/comments/1notssq/analysis_of_data_from_nearly_1500_sites_in_the/"
+    },
+    {
+        "id": "1norj8o",
+        "author": "calliope_kekule",
+        "title": "Climate simulations suggest parts of the Mediterranean, southern Africa, and North America could face unprecedented water scarcity as early as the 2020s\u20132030s.",
+        "content": "",
+        "upvotes": 101,
+        "comments": 10,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/rNqC_9Z6cnoBDhIHpsckeuukM24vJvaGJHbnKUs_dnw.png?auto=webp&amp;s=6ef9dc6ed473b9c89831615e694136494fddef67"
+        },
+        "permalink": "/r/science/comments/1norj8o/climate_simulations_suggest_parts_of_the/"
+    },
+    {
         "id": "1nohqw2",
         "author": "rancid_lamington",
         "title": "Because men and women share most genes, selection that favors a trait in one sex often pulls the other along (even if fitness costly). Shared traits across sexes can reflect selection in one sex and a correlated response in the other; e.g., human paternal care may reflect selection on maternal care.",
         "content": "",
-        "upvotes": 113,
-        "comments": 22,
+        "upvotes": 264,
+        "comments": 45,
         "media": null,
         "permalink": "/r/science/comments/1nohqw2/because_men_and_women_share_most_genes_selection/"
-    },
-    {
-        "id": "1nnssc7",
-        "author": "Wagamaga",
-        "title": "Our actions are dictated by \u201cautopilot\u201d, not choice. Research found that 88% of behaviors were executed habitually once initiated \u2013 meaning people performed actions smoothly and efficiently without much mental effort. It\u2019s like your brain has developed a sophisticated filing system for routine tasks",
-        "content": "",
-        "upvotes": 4038,
-        "comments": 295,
-        "media": null,
-        "permalink": "/r/science/comments/1nnssc7/our_actions_are_dictated_by_autopilot_not_choice/"
     },
     {
         "id": "1nocgla",
         "author": "Wagamaga",
         "title": "Effects of probiotics on cognitive function: Probiotic supplements primarily improve overall cognitive function, information processing speed, memory, and spatial ability in older adults, with the best results observed after 12 weeks of daily intake of   approximately 2\u2009\u00d7\u200910\u00b9\u2070 CFU",
         "content": "",
-        "upvotes": 218,
+        "upvotes": 282,
         "comments": 13,
         "media": {
             "type": "image",
@@ -85,12 +147,32 @@
         "permalink": "/r/science/comments/1nocgla/effects_of_probiotics_on_cognitive_function/"
     },
     {
+        "id": "1noehrh",
+        "author": "James_Fortis",
+        "title": "A 10-week, Whole-Food, Plant-Based diet community intervention significantly decreased weight, BMI, HbA1c and cholesterol. The intervention produced a weight loss of 5 kg post-treatment, with 3 kg weight loss sustained at 36 months.",
+        "content": "",
+        "upvotes": 174,
+        "comments": 33,
+        "media": null,
+        "permalink": "/r/science/comments/1noehrh/a_10week_wholefood_plantbased_diet_community/"
+    },
+    {
+        "id": "1nnssc7",
+        "author": "Wagamaga",
+        "title": "Our actions are dictated by \u201cautopilot\u201d, not choice. Research found that 88% of behaviors were executed habitually once initiated \u2013 meaning people performed actions smoothly and efficiently without much mental effort. It\u2019s like your brain has developed a sophisticated filing system for routine tasks",
+        "content": "",
+        "upvotes": 4427,
+        "comments": 311,
+        "media": null,
+        "permalink": "/r/science/comments/1nnssc7/our_actions_are_dictated_by_autopilot_not_choice/"
+    },
+    {
         "id": "1nnvrty",
         "author": "chrisdh79",
         "title": "Marriage provides little additional life satisfaction boost beyond that of partnership and cohabitation",
         "content": "",
-        "upvotes": 2265,
-        "comments": 313,
+        "upvotes": 2559,
+        "comments": 342,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/2dG98W9CxgKTS2zXOglRX_FFOaPRYv2v3VxTItmGWYI.jpeg?auto=webp&amp;s=add4104fe2fa2f3b5ad6cb1a0c0582ce1eee6140"
@@ -98,57 +180,11 @@
         "permalink": "/r/science/comments/1nnvrty/marriage_provides_little_additional_life/"
     },
     {
-        "id": "1noehrh",
-        "author": "James_Fortis",
-        "title": "A 10-week, Whole-Food, Plant-Based diet community intervention significantly decreased weight, BMI, HbA1c and cholesterol. The intervention produced a weight loss of 5 kg post-treatment, with 3 kg weight loss sustained at 36 months.",
-        "content": "",
-        "upvotes": 114,
-        "comments": 29,
-        "media": null,
-        "permalink": "/r/science/comments/1noehrh/a_10week_wholefood_plantbased_diet_community/"
-    },
-    {
-        "id": "1noijwd",
-        "author": "chrisdh79",
-        "title": "Inconsistent charging stations hinder EV adoption | Participants with a negative view of public charging were far less likely to choose an EV than those with a moderate view.",
-        "content": "",
-        "upvotes": 60,
-        "comments": 17,
-        "media": null,
-        "permalink": "/r/science/comments/1noijwd/inconsistent_charging_stations_hinder_ev_adoption/"
-    },
-    {
-        "id": "1nok38g",
-        "author": "chrisdh79",
-        "title": "Neuroscience study shows how praise, criticism, and facial attractiveness interact to influence likability | The findings suggest that verbal negativity can blunt the effect of physical attractiveness on social evaluations.",
-        "content": "",
-        "upvotes": 53,
-        "comments": 4,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/k_vcK-rWbJYtHGK59u8-lbGPb-vkaZziWykDXtSGz4A.jpeg?auto=webp&amp;s=554c3fc5fccde1ea6d570f9711445c9986295941"
-        },
-        "permalink": "/r/science/comments/1nok38g/neuroscience_study_shows_how_praise_criticism_and/"
-    },
-    {
-        "id": "1nnl5ez",
-        "author": "mvea",
-        "title": "Scientists found that we can use passive, generally safe UV light to quickly inactivate airborne allergens. After just 30 minutes, airborne allergen levels effectively decreased by about 20% to 25% on average. After 40 minutes of UV light exposure, cat allergen decreased by 61%.",
-        "content": "",
-        "upvotes": 6424,
-        "comments": 185,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/DLjCFpQWuZAU9pzrMC1VjaCSU8L4OdsZKYnhZEv_9Mg.jpeg?auto=webp&amp;s=8c61424dbeee0d0288e7ed22d40c18ac59d287f8"
-        },
-        "permalink": "/r/science/comments/1nnl5ez/scientists_found_that_we_can_use_passive/"
-    },
-    {
         "id": "1no8um5",
         "author": "Aralknight",
         "title": "Repetitive negative thinking is associated with cognitive function decline in older adults",
         "content": "",
-        "upvotes": 210,
+        "upvotes": 284,
         "comments": 5,
         "media": {
             "type": "image",
@@ -157,12 +193,25 @@
         "permalink": "/r/science/comments/1no8um5/repetitive_negative_thinking_is_associated_with/"
     },
     {
+        "id": "1nnl5ez",
+        "author": "mvea",
+        "title": "Scientists found that we can use passive, generally safe UV light to quickly inactivate airborne allergens. After just 30 minutes, airborne allergen levels effectively decreased by about 20% to 25% on average. After 40 minutes of UV light exposure, cat allergen decreased by 61%.",
+        "content": "",
+        "upvotes": 6596,
+        "comments": 189,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/DLjCFpQWuZAU9pzrMC1VjaCSU8L4OdsZKYnhZEv_9Mg.jpeg?auto=webp&amp;s=8c61424dbeee0d0288e7ed22d40c18ac59d287f8"
+        },
+        "permalink": "/r/science/comments/1nnl5ez/scientists_found_that_we_can_use_passive/"
+    },
+    {
         "id": "1nod6j3",
         "author": "thinkB4WeSpeak",
         "title": "UConn Researchers Uncover a Major Shift in U.S. Landscape: \u2018Wild\u2019 Disturbances Are Overtaking Human-directed Changes",
         "content": "",
-        "upvotes": 79,
-        "comments": 1,
+        "upvotes": 101,
+        "comments": 3,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/EiL3KhYB7h-un7vpFOZwIxoskFikPoKMm-YIm3qMczc.jpeg?auto=webp&amp;s=f115749ec7f3fce7dfb0ef2bdd57eb3ee565b678"
@@ -174,7 +223,7 @@
         "author": "calliope_kekule",
         "title": "A new study shows Swedish diets designed for future food scenarios reduce environmental impacts by ~30% while improving health.",
         "content": "",
-        "upvotes": 201,
+        "upvotes": 229,
         "comments": 14,
         "media": {
             "type": "image",
@@ -187,8 +236,8 @@
         "author": "scientificamerican",
         "title": "A pair of diamonds that formed deep in Earth\u2019s malleable mantle both contain specks of materials that form in completely opposing chemical environments\u2014a combination so unusual that researchers thought their coexistence was \u201calmost impossible.\u201d The study was published in Nature Geoscience.",
         "content": "",
-        "upvotes": 1155,
-        "comments": 12,
+        "upvotes": 1211,
+        "comments": 13,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/tc9cXL_c3M4X3DNDbiTM6btRht_d-iTkN60KqwAHS7Q.jpeg?auto=webp&amp;s=f1ddeb1b2e7b2132b7a774332f76a9e26266cf6a"
@@ -196,21 +245,11 @@
         "permalink": "/r/science/comments/1nntv65/a_pair_of_diamonds_that_formed_deep_in_earths/"
     },
     {
-        "id": "1nodvei",
-        "author": "Wagamaga",
-        "title": "Analysis of data from nearly 1,500 sites in the contiguous United States between 1980 and 2022 revealed that heatwaves in rivers are accelerating faster than and lasting nearly twice as long air heatwaves",
-        "content": "",
-        "upvotes": 52,
-        "comments": 3,
-        "media": null,
-        "permalink": "/r/science/comments/1nodvei/analysis_of_data_from_nearly_1500_sites_in_the/"
-    },
-    {
         "id": "1no7gsj",
         "author": "Hrmbee",
         "title": "Dementia-linked protein lower in people reporting vigorous exercise study finds | Physical activity and blood-based biomarkers of neurodegeneration in community dwelling Australians from ISLAND (Island Study Linking Ageing and Neurodegenerative Disease)",
         "content": "",
-        "upvotes": 103,
+        "upvotes": 126,
         "comments": 2,
         "media": {
             "type": "image",
@@ -219,11 +258,31 @@
         "permalink": "/r/science/comments/1no7gsj/dementialinked_protein_lower_in_people_reporting/"
     },
     {
+        "id": "1nozm3z",
+        "author": "Pomme-M",
+        "title": "New study shows plants and animals emit a visible light that expires at death.",
+        "content": "",
+        "upvotes": 2,
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/science/comments/1nozm3z/new_study_shows_plants_and_animals_emit_a_visible/"
+    },
+    {
+        "id": "1nomdo1",
+        "author": "Super_Letterhead381",
+        "title": "Estimating the predictability of questionable open-access journals",
+        "content": "",
+        "upvotes": 9,
+        "comments": 3,
+        "media": null,
+        "permalink": "/r/science/comments/1nomdo1/estimating_the_predictability_of_questionable/"
+    },
+    {
         "id": "1no1h7c",
         "author": "drewiepoodle",
         "title": "Nineteen children (from newborns to teens) with heart conditions receive partial heart transplants using live donor heart valves. The valves grow with the children, work across many congenital heart conditions, may cut down need for future operations and immunosuppressants.",
         "content": "",
-        "upvotes": 226,
+        "upvotes": 242,
         "comments": 2,
         "media": {
             "type": "image",
@@ -236,8 +295,8 @@
         "author": "mvea",
         "title": "There's new evidence that cruciferous vegetables (broccoli, cabbage, cauliflower and kale) blunt spikes in blood sugar levels, which could be particularly important for those with type 2 diabetes or who are at risk, finds small randomized controlled trial of 4 serves a day over 2 weeks.",
         "content": "",
-        "upvotes": 1579,
-        "comments": 51,
+        "upvotes": 1677,
+        "comments": 55,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/vH0tPMdMKlnmtSpcUHohSSBGMyy0P6piX8Boeg3rnDU.jpeg?auto=webp&amp;s=d95c1df5119553524cc826749d281e7652aa670c"
@@ -249,8 +308,8 @@
         "author": "chrisdh79",
         "title": "Individuals perceiving their social status as higher tend to be worse at perceiving emotions of others | The study also reported evidence that self-assessed increases in social status over one\u2019s lifespan were associated with worse emotion perception as well.",
         "content": "",
-        "upvotes": 773,
-        "comments": 36,
+        "upvotes": 789,
+        "comments": 37,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/ifq2oIWOUenYHTkPGaNGyoiZDaR1WcQ0frD_hqhUw1Q.jpeg?auto=webp&amp;s=5777de46b0dfa22dba7e449025169c33d23a2628"
@@ -258,24 +317,11 @@
         "permalink": "/r/science/comments/1nnntju/individuals_perceiving_their_social_status_as/"
     },
     {
-        "id": "1nnkj9v",
-        "author": "chrisdh79",
-        "title": "Common cinnamon metabolite shows potential for Alzheimer\u2019s treatment by reducing amyloid in blood",
-        "content": "",
-        "upvotes": 1139,
-        "comments": 29,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/o8HhdwqK7VWEnUTn7h857F_47XcNo3yT7yukTOm7tV4.jpeg?auto=webp&amp;s=a0cee91bb63f1e2da84e4240da792cf33d5f3424"
-        },
-        "permalink": "/r/science/comments/1nnkj9v/common_cinnamon_metabolite_shows_potential_for/"
-    },
-    {
         "id": "1no81oi",
         "author": "Super_Letterhead381",
         "title": "Paleontologists Discover New Species of Iguanodontian Dinosaur",
         "content": "",
-        "upvotes": 50,
+        "upvotes": 58,
         "comments": 3,
         "media": {
             "type": "image",
@@ -284,85 +330,39 @@
         "permalink": "/r/science/comments/1no81oi/paleontologists_discover_new_species_of/"
     },
     {
-        "id": "1nn63k3",
-        "author": "mvea",
-        "title": "Children with autism face more frequent and persistent digestive problems. These stomach and digestive issues are linked to greater challenges with sleep, communication, sensory processing, and behavior.",
+        "id": "1nnkj9v",
+        "author": "chrisdh79",
+        "title": "Common cinnamon metabolite shows potential for Alzheimer\u2019s treatment by reducing amyloid in blood",
         "content": "",
-        "upvotes": 7932,
-        "comments": 243,
+        "upvotes": 1163,
+        "comments": 30,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/F9Um9i5zbLoKPQXyTthdNUzwj4OAJ8PuDBI2T4fgrq4.jpeg?auto=webp&amp;s=381625de7f3738cbf11c428e874776c83add5e13"
+            "url": "https://external-preview.redd.it/o8HhdwqK7VWEnUTn7h857F_47XcNo3yT7yukTOm7tV4.jpeg?auto=webp&amp;s=a0cee91bb63f1e2da84e4240da792cf33d5f3424"
         },
-        "permalink": "/r/science/comments/1nn63k3/children_with_autism_face_more_frequent_and/"
+        "permalink": "/r/science/comments/1nnkj9v/common_cinnamon_metabolite_shows_potential_for/"
     },
     {
         "id": "1nofvum",
         "author": "CESRA_highlights",
         "title": "Solar flare accelerated electrons that escape into heliosphere; Type III solar radio bursts are tracing these electrons using data from four spacecraft, revealing insights into electron beam deceleration in the heliosphere.",
         "content": "",
-        "upvotes": 7,
+        "upvotes": 11,
         "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1nofvum/solar_flare_accelerated_electrons_that_escape/"
-    },
-    {
-        "id": "1nomdo1",
-        "author": "Super_Letterhead381",
-        "title": "Estimating the predictability of questionable open-access journals",
-        "content": "",
-        "upvotes": 3,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1nomdo1/estimating_the_predictability_of_questionable/"
-    },
-    {
-        "id": "1nndeea",
-        "author": "calliope_kekule",
-        "title": "A study of 379,000 US adults found daily cannabis smoking linked to higher odds of asthma and COPD, even in people who never smoked tobacco.",
-        "content": "",
-        "upvotes": 2177,
-        "comments": 269,
-        "media": null,
-        "permalink": "/r/science/comments/1nndeea/a_study_of_379000_us_adults_found_daily_cannabis/"
     },
     {
         "id": "1nofc81",
         "author": "mightx",
         "title": "The formation of damaging slow electrons in water is a race between the process that creates them and a faster jump of a proton between neighboring molecules",
         "content": "",
-        "upvotes": 7,
+        "upvotes": 10,
         "comments": 1,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/8oiKgoGcJB33iz2GLn9KdwcxC3lkFicJHANbwqbnDP4.png?auto=webp&amp;s=5ab2813953f8e408101c8d01159a62f9b964f4ec"
         },
         "permalink": "/r/science/comments/1nofc81/the_formation_of_damaging_slow_electrons_in_water/"
-    },
-    {
-        "id": "1nnra14",
-        "author": "PHealthy",
-        "title": "Intranasal COVID-19 vaccine combining adenovirus and trimeric protein protects mice and prevents transmission in hamsters, while early human trial shows it\u2019s safe and boosts mucosal and neutralizing antibodies",
-        "content": "",
-        "upvotes": 175,
-        "comments": 2,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/ic1mzJhSDSwtiIXQCBHN93N0hATsGIPGET26NejUquA.png?auto=webp&amp;s=8fa48a91cfa473777f5cb026df36f96fe129b6bd"
-        },
-        "permalink": "/r/science/comments/1nnra14/intranasal_covid19_vaccine_combining_adenovirus/"
-    },
-    {
-        "id": "1nnvt8h",
-        "author": "calliope_kekule",
-        "title": "Researchers estimate nearly 63,000 people died from heat in Europe in 2024. A new early warning system could predict health emergencies a week ahead, helping save lives.",
-        "content": "",
-        "upvotes": 72,
-        "comments": 9,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/X7AEenW3hmuj0TyYnvYe3jtcTJOtN2wInYnV41uKzt0.png?auto=webp&amp;s=8fcadbe25969c3bebb1bc5faa94c1bee71621c7d"
-        },
-        "permalink": "/r/science/comments/1nnvt8h/researchers_estimate_nearly_63000_people_died/"
     }
 ]
