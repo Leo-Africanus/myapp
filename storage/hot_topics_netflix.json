@@ -14,7 +14,7 @@
         "author": "AutoModerator",
         "title": "UNKNOWN NUMBER: THE HIGH SCHOOL CATFISH Discussion Megathread",
         "content": "Vulgar, taunting texts blow up the phones of a teen and her boyfriend. Who's sending them \u2014 and why? This twisty documentary reveals the shocking answer.",
-        "upvotes": 682,
+        "upvotes": 679,
         "comments": 5051,
         "media": null,
         "permalink": "/r/netflix/comments/1n5c3tq/unknown_number_the_high_school_catfish_discussion/"
@@ -24,48 +24,108 @@
         "author": "Practical_Captain_58",
         "title": "Netflix code for horror is 8711",
         "content": "Type this in the search bar and you will see all the horror they have available without the algorithm .\n\nYou will see one or two odd suggestions as well.\n\n**Happy Haunted Season!!!**",
-        "upvotes": 44,
-        "comments": 12,
+        "upvotes": 212,
+        "comments": 26,
         "media": null,
         "permalink": "/r/netflix/comments/1npwqh3/netflix_code_for_horror_is_8711/"
     },
     {
-        "id": "1npazk0",
-        "author": "Sweaty-Toe-6211",
-        "title": "Netflix is reportedly fast tracking their 'DEMON SLAYER' live-action adaptation after the massive success of the 'Demon Slayer: Infinity Castle' movie",
+        "id": "1nqaixh",
+        "author": "Sudden_Pop_2279",
+        "title": "Wednesday Season 2 OTT Verdict: With 100M+ Views, The Jenna Ortega-Led Show Enters Netflix\u2019s All-Time Top 10!",
         "content": "",
-        "upvotes": 178,
-        "comments": 51,
+        "upvotes": 5,
+        "comments": 1,
         "media": null,
-        "permalink": "/r/netflix/comments/1npazk0/netflix_is_reportedly_fast_tracking_their_demon/"
+        "permalink": "/r/netflix/comments/1nqaixh/wednesday_season_2_ott_verdict_with_100m_views/"
+    },
+    {
+        "id": "1nq8vuu",
+        "author": "ChallengeAdept8759",
+        "title": "A beer historian tells the real story behind Netflix\u2019s beer-soaked family drama \u2018House of Guinness\u2019",
+        "content": "",
+        "upvotes": 3,
+        "comments": 0,
+        "media": null,
+        "permalink": "/r/netflix/comments/1nq8vuu/a_beer_historian_tells_the_real_story_behind/"
     },
     {
         "id": "1nq0fth",
         "author": "DownWitTheBitness",
         "title": "Next Gen Chef seems highly problematic",
         "content": "I just watched the finale of Next Gen Chef and I found it to be seriously suspect.  \n\nThe show already had some questionable moments.   The episode where they did the brigade service and expected the restaurant to have a different kind of fish substitution, and a substitution for a roaster ingredient to be ready in the normal time frame seemed pretty unfair and unrealistic. Who is going to ask for a different kind of fish? That\u2019s like saying I don\u2019t like beef, do you have lamb (when lamb isn\u2019t on the menu). \n\nA restaurant that\u2019s stocking proteins that aren\u2019t even on the menu is probably going to have food cost issues pretty quickly out the gate. But that\u2019s not even the real problem with the show.  \n\nThe winner was an employee of two of the judges. He was the former employee of one of them, and the current employee of a highly influential finale judge.  In general, I liked the guy and by all accounts he was very confident. Aside from an extremely weird moment where he screamed at London for singing, he was a likable contestant. It\u2019s just when you\u2019re facing people who admired your cooking enough to hire you - TWICE - the question of authenticity really starts to seep in. \n\nBy the end, it just felt weird when he won, and it could have been avoided if they\u2019d just done some homework in booking the judges, or\nbuilt the games blind where they couldn\u2019t know who they were judging. \n\n",
-        "upvotes": 4,
-        "comments": 7,
+        "upvotes": 12,
+        "comments": 12,
         "media": null,
         "permalink": "/r/netflix/comments/1nq0fth/next_gen_chef_seems_highly_problematic/"
+    },
+    {
+        "id": "1nq9nzy",
+        "author": "WidgetWarrior",
+        "title": "Question about recommendations",
+        "content": "So I've had Netflix for a good 10 years now, and sometimes when I travel to my friend's place out of town, we watch shows on their Netflix that aren't necessarily something that would come up in my account. But if I like it, will just thumbs upping it on my account recommend more of that to me, even though I hadn't watched it on my specific account?",
+        "upvotes": 2,
+        "comments": 0,
+        "media": null,
+        "permalink": "/r/netflix/comments/1nq9nzy/question_about_recommendations/"
+    },
+    {
+        "id": "1npazk0",
+        "author": "Sweaty-Toe-6211",
+        "title": "Netflix is reportedly fast tracking their 'DEMON SLAYER' live-action adaptation after the massive success of the 'Demon Slayer: Infinity Castle' movie",
+        "content": "",
+        "upvotes": 193,
+        "comments": 52,
+        "media": null,
+        "permalink": "/r/netflix/comments/1npazk0/netflix_is_reportedly_fast_tracking_their_demon/"
+    },
+    {
+        "id": "1nq6jg6",
+        "author": "maceman121",
+        "title": "Netflix Household on ethernet",
+        "content": "Morning everyone,\n\n  \nI just finished a chat with Netflix support but wasn\u2019t able to get any real help, so I thought I\u2019d ask here to see if anyone else has run into this or found a solution.\n\nI use multiple devices at home on the same network to watch Netflix\u2014mostly TVs, but also phones and computers. Until this morning, everything worked fine. Suddenly, my desktop (which is connected via Ethernet) started giving me a message that it\u2019s \u201cnot part of the same Netflix Household.\u201d Yesterday it worked without issue.\n\nFrom what I\u2019ve read, the household restriction was mainly intended for TVs, and you\u2019re only able to confirm/update your household through a TV\u2014not a computer. When I asked Netflix chat about it, their answer was basically: *\u201cGrant your 14-day permissions every two weeks to watch, or use Wi-Fi on your computer.\u201d* That wasn't helpful, especially since my desktop is not a wireless compatible device.\n\nA bit more context:\n\n* My Ethernet and Wi-Fi connections appear to use different public IP addresses, though they are on the same Class C network.  It is only IPv4, not IPv6.\n* My Wi-Fi runs through a mesh system wired into my modem/router.\n* My desktop is directly plugged into the same modem/router.\n* It seems my ISP might be assigning more than one IP, which is interesting but might be the issue.\n\nHas anyone else run into this, and if so, how did you resolve it? It\u2019s frustrating since everything was working fine up until today, and now Netflix suddenly thinks my desktop isn\u2019t part of my household and the only help I am given is to connect it to the same Wi-Fi as my other devices are using.\n\nThanks in advance for any advice!",
+        "upvotes": 3,
+        "comments": 3,
+        "media": null,
+        "permalink": "/r/netflix/comments/1nq6jg6/netflix_household_on_ethernet/"
+    },
+    {
+        "id": "1nq8ofv",
+        "author": "Eclipse8301",
+        "title": "Profile transfer questions",
+        "content": "If I do a profile transfer, does the owner have to do anything once my profile is on their account or will Netfilx \"see\" this and automatically charge the 8.99?\n\n  \nAlso on the premium plan do we still all just share the 2 devices at one time or does this bring over another device for a total of 3?",
+        "upvotes": 1,
+        "comments": 0,
+        "media": null,
+        "permalink": "/r/netflix/comments/1nq8ofv/profile_transfer_questions/"
     },
     {
         "id": "1npthej",
         "author": "fizzyjuices",
         "title": "Just finished Adolescence",
         "content": "Wow, I just sobbed at the very last scene of the Dad sobbing in Jamie\u2019s room and tucking the teddy bear in. Facing what\u2019s probably been his biggest fear since the day he found out what Jamie did - that he, as his father, should\u2019ve done more. \n\nThere were so many emotions to hold while watching this show and I especially felt it during this episode. I wanted to be angry with his family, because that\u2019s the easiest thing to do when a 13 year old boy does something like this. Assume his family/home life is terrible. But there was this mixture of love, shame, anger, and grief they were experiencing. I\u2019ve seen other comments on here say that the dad was emotionally abusive. This may be my own blind spot coming out as the daughter of a man with anger issues, but I can\u2019t tell whether that\u2019s what the series was trying to depict or not. What I saw was a man with temper issues but that those issues were extremely exacerbated by trying to keep it together and being in denial about his son\u2019s actions. Not that people are merely \u201cgood\u201d or \u201cbad,\u201d but seeing his family be \u201cgood\u201d people made it a more emotional watch for me. And it makes me wonder how it is Jamie became the way he did. \n\nI felt gutted by the last scene and I thought it did an excellent job of demonstrating the grief they are going through. They are grieving the son they once knew and who they thought he was. They were trying to make sense of how this happened even though they had the best of intentions and were, by all means, a pretty \u201cnormal\u201d family. But as I felt gutted for his family, I had to remind myself what her family must be going through. And how what happened was tragic and Jamie\u2019s actions wreaked havoc upon everyone around him - no one in his family did what Jamie did but they are paying for his actions. But at the end of the day his main victim, above all, is the girl whose life he felt entitled to take, and nothing can ever change that. It\u2019s something his family will have to accept and her family will have to grieve forever. ",
-        "upvotes": 7,
-        "comments": 1,
+        "upvotes": 10,
+        "comments": 2,
         "media": null,
         "permalink": "/r/netflix/comments/1npthej/just_finished_adolescence/"
+    },
+    {
+        "id": "1nq65ca",
+        "author": "ToonAdventure",
+        "title": "In Your Dreams | Official Trailer | Netflix",
+        "content": "",
+        "upvotes": 1,
+        "comments": 0,
+        "media": null,
+        "permalink": "/r/netflix/comments/1nq65ca/in_your_dreams_official_trailer_netflix/"
     },
     {
         "id": "1npcu0x",
         "author": "RandomTurkey247",
         "title": "Jason Bateman in Black Rabbit",
         "content": "When he first comes on the screen, I was like \"OMG, he's the Duderino!\"\n\nRon Howard's voice: \"he would quickly learn Vince was, in fact, not the Duderino.\"",
-        "upvotes": 47,
-        "comments": 34,
+        "upvotes": 60,
+        "comments": 44,
         "media": null,
         "permalink": "/r/netflix/comments/1npcu0x/jason_bateman_in_black_rabbit/"
     },
@@ -80,6 +140,26 @@
         "permalink": "/r/netflix/comments/1npwvzl/billionaires_bunker/"
     },
     {
+        "id": "1nq3pza",
+        "author": "Tankion94",
+        "title": "Netflix PS5 app problems",
+        "content": "My Netflix app on the PS5 is not working correctly. It is missing content (different profile icons, continue watching and a whole load of shows). However my iPhone app is completely fine, I\u2019ve tried uninstalling and logging out but still not working. Any suggestions?\n\nUpdate: The shows are showing up on my partners profile, I\u2019ve checked age restrictions etc.",
+        "upvotes": 0,
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/netflix/comments/1nq3pza/netflix_ps5_app_problems/"
+    },
+    {
+        "id": "1nq3fbp",
+        "author": "bethan1821",
+        "title": "Title not available in my area -22004",
+        "content": "Hi,\n\nSince yesterday evening I can't watch Schitt's Creek on Netflix, on any of my devices. Lots of other shows are the same too.\n\nI get the error \"this title is not available to watch in your area 22004\", but my friend who lives a few doors away can watch it still.\n\nI'm in the UK, haven't left the country in over a year either so not sure why this is happening?\n\nHoping someone can help! Thank you!",
+        "upvotes": 0,
+        "comments": 0,
+        "media": null,
+        "permalink": "/r/netflix/comments/1nq3fbp/title_not_available_in_my_area_22004/"
+    },
+    {
         "id": "1npzdlt",
         "author": "No_House_637",
         "title": "looking for forensic theme series/movie",
@@ -88,16 +168,6 @@
         "comments": 0,
         "media": null,
         "permalink": "/r/netflix/comments/1npzdlt/looking_for_forensic_theme_seriesmovie/"
-    },
-    {
-        "id": "1npz4jp",
-        "author": "uncommon-mark1",
-        "title": "The reality of the b***ds of bollywood",
-        "content": "",
-        "upvotes": 0,
-        "comments": 0,
-        "media": null,
-        "permalink": "/r/netflix/comments/1npz4jp/the_reality_of_the_bds_of_bollywood/"
     },
     {
         "id": "1npy2tw",
@@ -110,21 +180,11 @@
         "permalink": "/r/netflix/comments/1npy2tw/black_rabbit_two_brothers_one_chaotic_journey/"
     },
     {
-        "id": "1npxf72",
-        "author": "KatarraMetal",
-        "title": "Billionaires' Bunker / \"Haiku\" character",
-        "content": "The only reason I\u2019ve considered watching the show is that Emika Kamieda is in it, but I don\u2019t know how many scenes she has or how important her role is. Can anyone tell me if her character has enough screen time to make it worth watching?",
-        "upvotes": 0,
-        "comments": 0,
-        "media": null,
-        "permalink": "/r/netflix/comments/1npxf72/billionaires_bunker_haiku_character/"
-    },
-    {
         "id": "1npece3",
         "author": "orionstarseed",
         "title": "What are some wild thriller series like Untamed, Fringe, Blacklist, Luther, True Detective and Hannibal?",
         "content": "Looking for some good suspenseful series like the ones I listed in the title. Grotesquerie was pretty good as well. I want too watch some more really dark thriller series with suspense, creative kills, fast paced and not slow burn, weird puzzles that the police have too folow in order too catch the killer.  Untamed, Fringe, Blacklist, Luther, True Detective and Hannibal all had perfect pilot episodes in my opinion that got me invested knto watching the shows fully. If the pilot, second or third episode doesn't hook me i'm out. Not going too waste my time waching a slow burn series with mostly talking and literally nothing happening for the whole episode(s)",
-        "upvotes": 10,
+        "upvotes": 12,
         "comments": 36,
         "media": null,
         "permalink": "/r/netflix/comments/1npece3/what_are_some_wild_thriller_series_like_untamed/"
@@ -134,10 +194,20 @@
         "author": "borderlineactivity",
         "title": "DARK",
         "content": "I can\u2019t believe I slept in this absolute piece of art for SO long. Best show I have seen in a loooong time. If you haven\u2019t watched it yet; you are definitely missing out! \n\n\n",
-        "upvotes": 392,
-        "comments": 66,
+        "upvotes": 398,
+        "comments": 67,
         "media": null,
         "permalink": "/r/netflix/comments/1noosxn/dark/"
+    },
+    {
+        "id": "1npz4jp",
+        "author": "uncommon-mark1",
+        "title": "The reality of the b***ds of bollywood",
+        "content": "",
+        "upvotes": 0,
+        "comments": 0,
+        "media": null,
+        "permalink": "/r/netflix/comments/1npz4jp/the_reality_of_the_bds_of_bollywood/"
     },
     {
         "id": "1npu5e4",
@@ -160,6 +230,16 @@
         "permalink": "/r/netflix/comments/1npszw0/sound_issues/"
     },
     {
+        "id": "1npxf72",
+        "author": "KatarraMetal",
+        "title": "Billionaires' Bunker / \"Haiku\" character",
+        "content": "The only reason I\u2019ve considered watching the show is that Emika Kamieda is in it, but I don\u2019t know how many scenes she has or how important her role is. Can anyone tell me if her character has enough screen time to make it worth watching?",
+        "upvotes": 0,
+        "comments": 0,
+        "media": null,
+        "permalink": "/r/netflix/comments/1npxf72/billionaires_bunker_haiku_character/"
+    },
+    {
         "id": "1nps9ki",
         "author": "NicDelMit",
         "title": "\ud83e\udd79help appreciated please",
@@ -180,21 +260,11 @@
         "permalink": "/r/netflix/comments/1npm7g8/adolescence_episode_3/"
     },
     {
-        "id": "1nppylo",
-        "author": "BRAK3NN",
-        "title": "My Netflix has a problem, in the top right corner there are some strange laughs, how can I fix it without uninstalling the app?",
-        "content": "My Netflix has a problem, in the top right corner there are some strange laughs, how can I fix it without uninstalling the app? I use Android and this problem has been bothering me a lot lately because every time I watch something, including downloaded episodes, I get these scratches, I don't know what else to do",
-        "upvotes": 0,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/netflix/comments/1nppylo/my_netflix_has_a_problem_in_the_top_right_corner/"
-    },
-    {
         "id": "1npk2i6",
         "author": "ssssss1218",
         "title": "Need shows recs!",
         "content": "Hi! I need some binge-worthy show recommendations, either on Netflix, Hulu or HBO Max. I do have Animal Kingdom and Black Rabbit in my queue, so not those, please! Thank you\n\nSome of my favorites I've watched and would like to watch something similar to:\n\n\\-Sopranos, Breaking Bad, Better Call Saul, Dexter, Ozarks, Six Feet Under, The Walking Dead, Stranger Things, Snowfall, Prison Break, Sex Education, Vampire Diaries, Oz, Shameless",
-        "upvotes": 1,
+        "upvotes": 2,
         "comments": 6,
         "media": null,
         "permalink": "/r/netflix/comments/1npk2i6/need_shows_recs/"
@@ -204,8 +274,8 @@
         "author": "Sea-Procedure-7988",
         "title": "True crime psychological thriller",
         "content": "Hello, I\u2019m looking for a tv series to get into, something that will hook me and keep me wanting more. I enjoy shows where it\u2019s not obvious who committed the crime, etc. also please nothing tooo old or outdated :)\n\nHere\u2019s a list of some of my favorite tv series: the sinner \nPresumed innocent \nUnbelievable \nAnimal kingdom \nOzark \nBlood lines \nHunting wives \nThe keeper \nKaren read trial \nMind hunter \nHeist \nThe program \nHe\u2019ll camp \nMr robot \nUntamed \nBehind her eyes \nDexter \nBreaking bad \nYour honor \nSeven seconds \nThe infiltrator \nThe night of \nAmerican nightmare \nAccused \nWorst roommate ever \nLincoln lawyer \nYou \nMaid \nTell me lies \nPainkiller \nMaking a murder \nGinny &amp; Georgia \nSurviving black hawk down",
-        "upvotes": 70,
-        "comments": 148,
+        "upvotes": 69,
+        "comments": 150,
         "media": null,
         "permalink": "/r/netflix/comments/1noqv2x/true_crime_psychological_thriller/"
     },
@@ -214,8 +284,8 @@
         "author": "WeideMilch",
         "title": "Which film can I watch with my girlfriend?",
         "content": "I need quick help, we want to watch a movie in the next 30 min. We always have the problem to find something that we both like, maybe some of you can help. I want action, it need to be exciting, but I also want a depp Story not just explosions. My girlfriend hates blood, dont like sad movies and needs some \"girlie\" stuff in it. We both liked Bullet Train for example or the Panem Movies. And somehow she really likes horror, so that would be fine too. ",
-        "upvotes": 2,
-        "comments": 18,
+        "upvotes": 0,
+        "comments": 19,
         "media": null,
         "permalink": "/r/netflix/comments/1npjz64/which_film_can_i_watch_with_my_girlfriend/"
     },
@@ -224,99 +294,9 @@
         "author": "SimilarSprinkles9588",
         "title": "Frontier, American Primeval reviews",
         "content": "has anyone watched the show frontier on netflix , i recently watched it and personally think it was a good watch . not the best but not bad either. I will probably watch american primeval next. thoughts on both of these shows",
-        "upvotes": 0,
+        "upvotes": 1,
         "comments": 2,
         "media": null,
         "permalink": "/r/netflix/comments/1npin2j/frontier_american_primeval_reviews/"
-    },
-    {
-        "id": "1npihrz",
-        "author": "kppk_-",
-        "title": "holy family series",
-        "content": "my question would be what is your opinion on this series? I think sometimes it was mindblowing but sometimes it was like a bad spanish soap opera. I am interested in anything you could tell about this series, characters etc.",
-        "upvotes": 0,
-        "comments": 0,
-        "media": null,
-        "permalink": "/r/netflix/comments/1npihrz/holy_family_series/"
-    },
-    {
-        "id": "1npgqfd",
-        "author": "Mary_Ellen_Katz",
-        "title": "Netflix lowers movie/show quality while playing games in other monitor.",
-        "content": "I have a PC with two PC's, and find when I'm playing a movie (netflix) on one monitor with a game on the other, Netflix will force the quality to downwards of 480p. I have a very good computer with fiber internet. It's not a bandwidth issue on my end, and suspect Netflix is giving me less quality because it recognizes I am not focused on it primarily. Other platforms do this as well.\n\nI want to know how to *force* Netflix to maintain its quality even while I am playing a game, tabbed onto a different tab, or even if I have the window minimized. ",
-        "upvotes": 0,
-        "comments": 5,
-        "media": null,
-        "permalink": "/r/netflix/comments/1npgqfd/netflix_lowers_movieshow_quality_while_playing/"
-    },
-    {
-        "id": "1npg779",
-        "author": "Affectionate_Bee_1",
-        "title": "Do you have recommendations for comedy shows that aren\u2019t too silly/dumb?",
-        "content": "Shows I loved:\n\t\u2022\tModern Family\n\t\u2022\tYoung Sheldon\n\t\u2022\tSuperstore\n\t\u2022\tResident Alien\n\t\u2022\tGhosts\n\t\u2022\tHaunted Hotel\n\nThese shows are light-hearted, about family, friends, and bonding in general, and they have a heartwarming story.\n\nShows I didn\u2019t like:\n\t\u2022\tShameless\n\t\u2022\tBrooklyn 99\n\nThey were too bold, vulgar, and had a kind of trailer-park humor that I didn\u2019t enjoy.\n",
-        "upvotes": 0,
-        "comments": 34,
-        "media": null,
-        "permalink": "/r/netflix/comments/1npg779/do_you_have_recommendations_for_comedy_shows_that/"
-    },
-    {
-        "id": "1npel6j",
-        "author": "South-Tone-1370",
-        "title": "Uglies a Netflix movie",
-        "content": "I want to talk about this movie because I have read the book many years ago and I rooted for its live action. But, I was sad about how they used characters that are already beautiful, they just made them haggard, because in the book they were very asymmetrical, and you can clearly imagine the difference between being ugly and pretty, in the movie they just gave the characters make up and wigs as an after surgery outcome. There was a highlight with the eyes being golden, but the book wasn't about that, the book emphasized the height, the symmetry, and how everybody(Pretties) looked the same. Also the plot twist Shay was her original best friend from the very beginning, not Peris. ",
-        "upvotes": 1,
-        "comments": 4,
-        "media": null,
-        "permalink": "/r/netflix/comments/1npel6j/uglies_a_netflix_movie/"
-    },
-    {
-        "id": "1npebin",
-        "author": "EquivalentCivilian",
-        "title": "No HDR on Windows 11 App",
-        "content": "I've downloaded the HEVC extension on microsoft store, and enabled HDR even if HDR is off in settings, but the videos still won't play in HDR. How do I fix this?",
-        "upvotes": 0,
-        "comments": 0,
-        "media": null,
-        "permalink": "/r/netflix/comments/1npebin/no_hdr_on_windows_11_app/"
-    },
-    {
-        "id": "1np0yk9",
-        "author": "bruhwhatshappenin",
-        "title": "Ed Gein",
-        "content": "After watching the full trailer that was released I think this is going to be much harder to watch than the Dahmer series \ud83d\ude33 I watch a lot of true crime shows and can stomach a lot but Dahmer literally gave me anxiety and it took me WEEEKS to finish. With any other series I\u2019m a binge watcher and finish it relatively quickly. Just the trailer alone was hard to get through. Anyone else feel that it will be \u201cbetter\u201d for lack of a better term than Dahmer? Trailer below for anyone who hasn\u2019t seen yet \n\nhttps://m.youtube.com/watch?v=EDBmpfbnLGk&amp;pp=ygUPZWQgZ2VpbiBuZXRmbGl4",
-        "upvotes": 9,
-        "comments": 4,
-        "media": null,
-        "permalink": "/r/netflix/comments/1np0yk9/ed_gein/"
-    },
-    {
-        "id": "1npdf0r",
-        "author": "ElliotWilhelm",
-        "title": "Help with these beer tap handles",
-        "content": "I need some help, identifying which shows these beer handles belong to. They are all Netflix show, but some of them I can\u2019t nail down. Specifically the 1st two handles. ",
-        "upvotes": 0,
-        "comments": 6,
-        "media": null,
-        "permalink": "/r/netflix/comments/1npdf0r/help_with_these_beer_tap_handles/"
-    },
-    {
-        "id": "1notdw9",
-        "author": "SerialSeriesQueen",
-        "title": "Black Rabbit and the restaurant business",
-        "content": "Black Rabbit did a phenomenal job at portraying life in a big city restaurant, especially its seedy underbelly. I grew up in Philadelphia with a step dad who owned multiple successful restaurants in the city and Jake reminded me so much of him as he was in the early 2000s. Charming, charismatic, ambitious but underneath, stressed out, under pressure, and constantly worrying about money trying to keep up appearances. Even the staff brought back early memories of my life as a hostess/bartender at some of those restaurants/nightclubs. Very close, very tight knit, but riddled with drug use and drama, and overlooking major red flags. I really appreciated the effort they went through in giving the viewer a realistic representation of that world. ",
-        "upvotes": 24,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/netflix/comments/1notdw9/black_rabbit_and_the_restaurant_business/"
-    },
-    {
-        "id": "1npcmdc",
-        "author": "nowthatssuspish",
-        "title": "Good time travel movies/shows?!",
-        "content": "I was reading a post on here asking for recs for time travel movies, but most of the responses are over a decade old with so must watch shows that don't exist on Netflix anymore. \n\nJust finished the Lazarus project, and I want some other shows to watch in this genre on Netflix! ",
-        "upvotes": 1,
-        "comments": 3,
-        "media": null,
-        "permalink": "/r/netflix/comments/1npcmdc/good_time_travel_moviesshows/"
     }
 ]
