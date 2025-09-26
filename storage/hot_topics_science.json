@@ -1,23 +1,10 @@
 [
     {
-        "id": "1nqez5e",
-        "author": "Wagamaga",
-        "title": "A million-year-old human skull suggests that the origins of modern humans may reach back far deeper in time than previously thought and raises the possibility that Homo sapiens first emerged outside of Africa.",
-        "content": "",
-        "upvotes": 3774,
-        "comments": 237,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/uGECcO6fPP2l8bk4zIoiwztvZy0JYBeaCYljpLOFXHI.jpeg?auto=webp&amp;s=b05759ec3c73fea00a437af754c253b73419608f"
-        },
-        "permalink": "/r/science/comments/1nqez5e/a_millionyearold_human_skull_suggests_that_the/"
-    },
-    {
         "id": "1nqrbnt",
         "author": "mvea",
         "title": "Scientists developed novel tool that can boost energy production in brain cells and reverse memory loss in mouse models of dementia. The study suggests low mitochondrial activity may be a direct cause of cognitive decline in neurodegenerative diseases such as Alzheimer\u2019s and frontotemporal dementia.",
         "content": "",
-        "upvotes": 686,
+        "upvotes": 719,
         "comments": 27,
         "media": {
             "type": "image",
@@ -26,32 +13,45 @@
         "permalink": "/r/science/comments/1nqrbnt/scientists_developed_novel_tool_that_can_boost/"
     },
     {
-        "id": "1nqh6uq",
-        "author": "MassGen-Research",
-        "title": "Exposure to Gun Violence Is Associated with Insufficient Sleep in Teens",
+        "id": "1nqez5e",
+        "author": "Wagamaga",
+        "title": "A million-year-old human skull suggests that the origins of modern humans may reach back far deeper in time than previously thought and raises the possibility that Homo sapiens first emerged outside of Africa.",
         "content": "",
-        "upvotes": 1546,
-        "comments": 95,
-        "media": null,
-        "permalink": "/r/science/comments/1nqh6uq/exposure_to_gun_violence_is_associated_with/"
+        "upvotes": 3809,
+        "comments": 244,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/uGECcO6fPP2l8bk4zIoiwztvZy0JYBeaCYljpLOFXHI.jpeg?auto=webp&amp;s=b05759ec3c73fea00a437af754c253b73419608f"
+        },
+        "permalink": "/r/science/comments/1nqez5e/a_millionyearold_human_skull_suggests_that_the/"
     },
     {
         "id": "1nqrxfe",
         "author": "calliope_kekule",
         "title": "A new study found women\u2019s menstrual cycles used to align more closely with the lunar cycle. Today, synchrony is weaker but still detectable when gravitational pull peaks in January.",
         "content": "",
-        "upvotes": 303,
-        "comments": 62,
+        "upvotes": 343,
+        "comments": 65,
         "media": null,
         "permalink": "/r/science/comments/1nqrxfe/a_new_study_found_womens_menstrual_cycles_used_to/"
+    },
+    {
+        "id": "1nqh6uq",
+        "author": "MassGen-Research",
+        "title": "Exposure to Gun Violence Is Associated with Insufficient Sleep in Teens",
+        "content": "",
+        "upvotes": 1549,
+        "comments": 97,
+        "media": null,
+        "permalink": "/r/science/comments/1nqh6uq/exposure_to_gun_violence_is_associated_with/"
     },
     {
         "id": "1nq9jq9",
         "author": "CUAnschutzMed",
         "title": "A groundbreaking study reveals that rheumatoid arthritis doesn't begin when symptoms appear. Instead, it starts silently, years earlier. The study offers the most detailed view yet of how RA develops, mapping immune changes in people at long risk before joint pain begins.",
         "content": "",
-        "upvotes": 3061,
-        "comments": 75,
+        "upvotes": 3081,
+        "comments": 74,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/Xx2vT-yurwcDboWvLso07MC6Xeq8uoLiZfceA2GSwu4.png?auto=webp&amp;s=d0b8996577051baca7697c159e690eec619df2e8"
@@ -63,7 +63,7 @@
         "author": "mvea",
         "title": "Caring for a baby makes the world seem more dangerous: In a potentially threatening situation, the world looks more dangerous when caring for a baby, finds first-of-its-kind psychology research using virtual environments to explore parenting dynamics.",
         "content": "",
-        "upvotes": 473,
+        "upvotes": 482,
         "comments": 16,
         "media": null,
         "permalink": "/r/science/comments/1nqkymo/caring_for_a_baby_makes_the_world_seem_more/"
@@ -73,7 +73,7 @@
         "author": "Wagamaga",
         "title": "Infections caused by bacteria that no longer respond to many antibiotics are climbing at an alarming pace in the U.S., new federal data shows. Between 2019 and 2023, these hard-to-treat infections rose nearly 70%, fueled largely by strains carrying the NDM gene",
         "content": "",
-        "upvotes": 4215,
+        "upvotes": 4218,
         "comments": 183,
         "media": {
             "type": "image",
@@ -86,7 +86,7 @@
         "author": "mvea",
         "title": "Many autistic women are thriving - many completing higher education and were employed or in relationships - but mental health concerns remain. Those diagnosed in adulthood reported more psychiatric conditions, and higher rates of suicidal thoughts and self-harm, and fewer self-perceived strengths.",
         "content": "",
-        "upvotes": 2541,
+        "upvotes": 2543,
         "comments": 223,
         "media": {
             "type": "image",
@@ -99,7 +99,7 @@
         "author": "RegenReport",
         "title": "New Research Dubs Umbilical Stem Cells \u201cHoly Grail\u201d in Bioengineering and Reconstructive Medicine",
         "content": "",
-        "upvotes": 539,
+        "upvotes": 542,
         "comments": 19,
         "media": {
             "type": "image",
@@ -112,7 +112,7 @@
         "author": "Pomme-M",
         "title": "A new, highly potent class of immunotherapeutics with unique Velcro-like binding properties can kill diverse cancer types without harming healthy tissue, University of California, Irvine cancer researchers have demonstrated.",
         "content": "",
-        "upvotes": 332,
+        "upvotes": 333,
         "comments": 5,
         "media": null,
         "permalink": "/r/science/comments/1nqk1s3/a_new_highly_potent_class_of_immunotherapeutics/"
@@ -122,7 +122,7 @@
         "author": "fchung",
         "title": "Spirals in the umbilical cord help to keep babies cool before birth, new research finds: \u00ab The spiral design of the blood vessels in the cord appears to affect the exchange of oxygen and heat, minimising the risk of heat and oxygen being lost. \u00bb",
         "content": "",
-        "upvotes": 390,
+        "upvotes": 395,
         "comments": 15,
         "media": {
             "type": "image",
@@ -135,8 +135,8 @@
         "author": "Pomme-M",
         "title": "New study finds musicians experience pain differently than non musicians, as motor maps of musicians, which were already smaller in pain-free conditions (day 1) compared to nonmusicians (P = 0.021), remained nonsignificantly different across days.",
         "content": "",
-        "upvotes": 82,
-        "comments": 9,
+        "upvotes": 83,
+        "comments": 11,
         "media": null,
         "permalink": "/r/science/comments/1nqnizj/new_study_finds_musicians_experience_pain/"
     },
@@ -145,7 +145,7 @@
         "author": "mvea",
         "title": "\u201cHigh-markup\u201d hospitals are overwhelmingly for-profit, located in large metropolitan areas and have the worst patient outcomes. Some investor-owned institutions charge up to 17 times the actual cost of care. In other words: the most expensive hospitals were frequently the lowest-value hospitals.",
         "content": "",
-        "upvotes": 16068,
+        "upvotes": 16073,
         "comments": 284,
         "media": {
             "type": "image",
@@ -158,7 +158,7 @@
         "author": "drewiepoodle",
         "title": "Simple resistance training may help counteract age-related nerve deterioration that puts seniors at risk of injuries from falls and other accidents, according to new research",
         "content": "",
-        "upvotes": 174,
+        "upvotes": 176,
         "comments": 6,
         "media": {
             "type": "image",
@@ -171,7 +171,7 @@
         "author": "nbcnews",
         "title": "Lasers, fiber optics and tiny vibrations tease a way to warn about earthquakes",
         "content": "",
-        "upvotes": 141,
+        "upvotes": 137,
         "comments": 2,
         "media": {
             "type": "image",
@@ -184,7 +184,7 @@
         "author": "sciencealert",
         "title": "Traditionally, most heart attacks have been blamed on clogged arteries causing atherothrombosis \u2013 where blood clots block flow to the heart. But new research suggests we may be underestimating the role of other causes, particularly in younger adults.",
         "content": "",
-        "upvotes": 647,
+        "upvotes": 652,
         "comments": 16,
         "media": {
             "type": "image",
@@ -197,7 +197,7 @@
         "author": "Challenge_Every",
         "title": "New Study Finds Trans Folks Are 18.5x More Likely To Be Diagnosed With a Connective Tissue Disorder called Ehlers-Danlos Syndrome",
         "content": "",
-        "upvotes": 9317,
+        "upvotes": 9327,
         "comments": 1021,
         "media": null,
         "permalink": "/r/science/comments/1nppoll/new_study_finds_trans_folks_are_185x_more_likely/"
@@ -207,7 +207,7 @@
         "author": "thevishal365",
         "title": "Common air pollutant has a secret weapon: bacterial toxins",
         "content": "",
-        "upvotes": 21,
+        "upvotes": 22,
         "comments": 1,
         "media": {
             "type": "image",
@@ -233,7 +233,7 @@
         "author": "Science_News",
         "title": "A global study comparing defensive coloration in insects reveals that camouflage and warning colors each excel under certain environmental conditions",
         "content": "",
-        "upvotes": 114,
+        "upvotes": 110,
         "comments": 2,
         "media": {
             "type": "image",
@@ -246,7 +246,7 @@
         "author": "sciencealert",
         "title": "Exceptionally long-lived 117-year-old woman possessed rare 'young' genome, study finds",
         "content": "",
-        "upvotes": 10130,
+        "upvotes": 10137,
         "comments": 323,
         "media": {
             "type": "image",
@@ -272,7 +272,7 @@
         "author": "calliope_kekule",
         "title": "A study of nearly 30,000 children found lower air pollution is linked to better eyesight, especially in younger students with early-stage myopia.",
         "content": "",
-        "upvotes": 393,
+        "upvotes": 400,
         "comments": 3,
         "media": null,
         "permalink": "/r/science/comments/1npy0of/a_study_of_nearly_30000_children_found_lower_air/"
@@ -308,7 +308,7 @@
         "author": "mvea",
         "title": "6 in 10 US music fans say they have been sexually harassed/assaulted at a live gig. Women are more than twice as likely as men to have been affected. The most common barrier to reporting the incident expressed by both 1 in 4 men and women was the feeling that nothing would be done about it anyway.",
         "content": "",
-        "upvotes": 3838,
+        "upvotes": 3840,
         "comments": 282,
         "media": {
             "type": "image",
@@ -321,7 +321,7 @@
         "author": "nohup_me",
         "title": "Reducing risk of eating disorders: specific environmental factors including peer pressure and conflict with parents can increase the risk of sometimes dangerous disordered eating behaviours \u2013 particularly among those with higher genetic risk",
         "content": "",
-        "upvotes": 18,
+        "upvotes": 19,
         "comments": 3,
         "media": {
             "type": "image",
@@ -330,11 +330,24 @@
         "permalink": "/r/science/comments/1nqf2qf/reducing_risk_of_eating_disorders_specific/"
     },
     {
+        "id": "1nqw2ht",
+        "author": "RunDNA",
+        "title": "Scientists sidestep Heisenberg uncertainty principle in precision sensing experiment",
+        "content": "",
+        "upvotes": 0,
+        "comments": 3,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/vXl8HZLkHmb-VCu_BBr4rkKdf9JJQxCRjoJJnm09Unw.jpeg?auto=webp&amp;s=2d61715980c6250658c408c189107544c54f149e"
+        },
+        "permalink": "/r/science/comments/1nqw2ht/scientists_sidestep_heisenberg_uncertainty/"
+    },
+    {
         "id": "1np76cz",
         "author": "mvea",
         "title": "Even light alcohol drinking raises dementia risk, according to largest genetic study to date. The study showed a steady increase in dementia risk as alcohol intake increased, without any sign of benefit at lower levels.",
         "content": "",
-        "upvotes": 5296,
+        "upvotes": 5299,
         "comments": 266,
         "media": {
             "type": "image",
@@ -347,22 +360,12 @@
         "author": "adotmatrix",
         "title": "People with schizophrenia were hit hard by B.C.\u2019s deadly 2021 heat dome",
         "content": "",
-        "upvotes": 412,
+        "upvotes": 409,
         "comments": 10,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/hlE6VGDjRMoGfVTNw-2L9NfE1hIFCUhD2ffM9e-UQI0.jpeg?auto=webp&amp;s=1ada213052ee24d7b642b87f339c0dda78b87554"
         },
         "permalink": "/r/science/comments/1nppq2o/people_with_schizophrenia_were_hit_hard_by_bcs/"
-    },
-    {
-        "id": "1npv8th",
-        "author": "ZeroEqualsOne",
-        "title": "Awe promotes strong feelings of unity and oneness with groups",
-        "content": "",
-        "upvotes": 92,
-        "comments": 17,
-        "media": null,
-        "permalink": "/r/science/comments/1npv8th/awe_promotes_strong_feelings_of_unity_and_oneness/"
     }
 ]
