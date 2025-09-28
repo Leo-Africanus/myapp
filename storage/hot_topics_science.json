@@ -1,24 +1,57 @@
 [
     {
-        "id": "1nrti1x",
+        "id": "1nsklh3",
         "author": "mvea",
-        "title": "A new study suggests that scientists are leaving X (formerly known as Twitter) in significant numbers due to its declining professional value. Many now find Bluesky to be a more effective platform for networking, outreach, and staying updated on research.",
+        "title": "Medicaid billed for 52% of U.S. hospital costs from gun injuries: Gun-injury care cost U.S. hospitals $7.7 billion from 2016 to 2021, with Medicaid covering 52% of costs. The study authors warn that recent Medicaid funding cuts adopted by Congress could further strain these hospitals.",
         "content": "",
-        "upvotes": 33062,
-        "comments": 1046,
+        "upvotes": 1480,
+        "comments": 70,
+        "media": null,
+        "permalink": "/r/science/comments/1nsklh3/medicaid_billed_for_52_of_us_hospital_costs_from/"
+    },
+    {
+        "id": "1nsn7be",
+        "author": "-Mystica-",
+        "title": "Parents want to act on climate change but struggle to model low-carbon lifestyles. A new study shows many struggle to live low-carbon lives. Time pressures, lack of affordable options and structural barriers mean concern rarely translates into action.",
+        "content": "",
+        "upvotes": 717,
+        "comments": 124,
+        "media": null,
+        "permalink": "/r/science/comments/1nsn7be/parents_want_to_act_on_climate_change_but/"
+    },
+    {
+        "id": "1nsmnys",
+        "author": "mvea",
+        "title": "An existing transplant drug slows progression of type 1 diabetes in newly diagnosed young people, paving way for the first therapy that modifies disease after diagnosis. ATG, even at a relatively low dose, can slow loss of insulin-producing cells in young people newly diagnosed with type 1 diabetes.",
+        "content": "",
+        "upvotes": 235,
+        "comments": 6,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/5WdLmzX6jqDhqW2WSCZWarCoqxI3d2QcjDVOk3Ud1Zg.jpeg?auto=webp&amp;s=3d5582aeb06398b71d487ade0b4c832a7930d7ff"
+            "url": "https://external-preview.redd.it/YkGC8X1jAfWSl3ljFAYH1hqmKYQSKJetIX4sYeBuxtw.jpeg?auto=webp&amp;s=1efbcf043156c55c59b0154952a7f81b4ee599ff"
         },
-        "permalink": "/r/science/comments/1nrti1x/a_new_study_suggests_that_scientists_are_leaving/"
+        "permalink": "/r/science/comments/1nsmnys/an_existing_transplant_drug_slows_progression_of/"
+    },
+    {
+        "id": "1nss2tl",
+        "author": "chrisdh79",
+        "title": "Study suggests that when people feel ignored by their partners because of phone use, a behavior known as \u201cphubbing\u201d, can lead to a deeper sense of emotional disconnection | Individuals who perceive their partner as being distracted by their phone tend to feel more deprived of affection.",
+        "content": "",
+        "upvotes": 77,
+        "comments": 6,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/e6ZXXnBhjnRRxIUNv-DClwqNoRVhisut7oMH_rg--tY.jpeg?auto=webp&amp;s=58932836219b786f9e386d932b6735f0002043e5"
+        },
+        "permalink": "/r/science/comments/1nss2tl/study_suggests_that_when_people_feel_ignored_by/"
     },
     {
         "id": "1ns7tdu",
         "author": "mvea",
         "title": "Liberals trust experts more than conservatives, but expert labels still matter, suggests US study. While liberals tend to trust experts more than conservatives, conservatives may still respond more positively when claims come from experts whose research is in production and economic growth.",
         "content": "",
-        "upvotes": 1609,
-        "comments": 185,
+        "upvotes": 2051,
+        "comments": 215,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/B6A5J1WlRYzEoo5lyDS62x-v1BWshO8OSPfc34AUh7E.jpeg?auto=webp&amp;s=5b75db0f46740f492507c8468954f1d1e650612f"
@@ -26,12 +59,38 @@
         "permalink": "/r/science/comments/1ns7tdu/liberals_trust_experts_more_than_conservatives/"
     },
     {
+        "id": "1nsqpaq",
+        "author": "Hrmbee",
+        "title": "Living in a city makes the common wall lizard (Podarcis muralis) more social, revealing an effect of urbanization on animal behavior | City lizards are more social",
+        "content": "",
+        "upvotes": 91,
+        "comments": 2,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/gnuWDkkzhBk9qzA7GNgJyjds4scYJC2NLItoqmFaKoM.jpeg?auto=webp&amp;s=2b39ff8d177db7bb235173340015d5fe3b9c100e"
+        },
+        "permalink": "/r/science/comments/1nsqpaq/living_in_a_city_makes_the_common_wall_lizard/"
+    },
+    {
+        "id": "1nrti1x",
+        "author": "mvea",
+        "title": "A new study suggests that scientists are leaving X (formerly known as Twitter) in significant numbers due to its declining professional value. Many now find Bluesky to be a more effective platform for networking, outreach, and staying updated on research.",
+        "content": "",
+        "upvotes": 34132,
+        "comments": 1073,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/5WdLmzX6jqDhqW2WSCZWarCoqxI3d2QcjDVOk3Ud1Zg.jpeg?auto=webp&amp;s=3d5582aeb06398b71d487ade0b4c832a7930d7ff"
+        },
+        "permalink": "/r/science/comments/1nrti1x/a_new_study_suggests_that_scientists_are_leaving/"
+    },
+    {
         "id": "1ns35i8",
         "author": "calliope_kekule",
         "title": "A new study found that during geomagnetic disturbances from solar activity, women in Brazil were nearly three times more likely to have heart attacks.",
         "content": "",
-        "upvotes": 1395,
-        "comments": 34,
+        "upvotes": 1749,
+        "comments": 38,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/QbWrZm1ubHoIytNvpmckMGh4yEw1ZqvVWtmUk6XLc4I.png?auto=webp&amp;s=866513c44f79cd2ba8feaba8f404bc0c48da5b2f"
@@ -39,12 +98,35 @@
         "permalink": "/r/science/comments/1ns35i8/a_new_study_found_that_during_geomagnetic/"
     },
     {
+        "id": "1nsmdtk",
+        "author": "James_Fortis",
+        "title": "Higher healthy Plant-based Diet Index (hPDI) scores at baseline were associated with lower systolic and diastolic blood pressure, fasting glucose, triglycerides and total:HDL cholesterol ratio and with higher HDL cholesterol; similar associations were observed for the overall PDI, study finds",
+        "content": "",
+        "upvotes": 56,
+        "comments": 5,
+        "media": null,
+        "permalink": "/r/science/comments/1nsmdtk/higher_healthy_plantbased_diet_index_hpdi_scores/"
+    },
+    {
+        "id": "1nspqgr",
+        "author": "Inevitable-Middle681",
+        "title": "Longer baleen whale mothers produce more female offspring",
+        "content": "",
+        "upvotes": 19,
+        "comments": 4,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/jrRbHdxnOYJC8BH9c8otDiyEL8iaZQGiYVO952a6c7s.jpeg?auto=webp&amp;s=5cf08a9627862152908e9f9c79d033d2af22cf7d"
+        },
+        "permalink": "/r/science/comments/1nspqgr/longer_baleen_whale_mothers_produce_more_female/"
+    },
+    {
         "id": "1nrrexj",
         "author": "mvea",
         "title": "People who experience problematic pornography use tend to also engage in repetitive negative thinking patterns known as rumination. Over time, this relationship appears to be two-way, especially among women.",
         "content": "",
-        "upvotes": 3260,
-        "comments": 146,
+        "upvotes": 3596,
+        "comments": 158,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/a9yE6zoDMt8iZQrEuGGRdRH-Xmu45QeBbiVQe1Et4Mw.jpeg?auto=webp&amp;s=e5636703e1be7312a66228411e1f3eb15f4863c5"
@@ -56,7 +138,7 @@
         "author": "nohup_me",
         "title": "Social support, from childhood warmth to adult community involvement, may slow biological aging, setting back the \u201cepigenetic clocks\u201d and making you younger than your years, according to DNA studies.",
         "content": "",
-        "upvotes": 520,
+        "upvotes": 639,
         "comments": 5,
         "media": {
             "type": "image",
@@ -69,18 +151,48 @@
         "author": "BrnoRegion",
         "title": "Research introduces a comprehensive, ranked catalog of over 100 code quality defects in introductory programming, validated by an educator survey and analyzed for prevalence using a novel automated tool",
         "content": "",
-        "upvotes": 18,
-        "comments": 3,
+        "upvotes": 55,
+        "comments": 5,
         "media": null,
         "permalink": "/r/science/comments/1nshzw0/research_introduces_a_comprehensive_ranked/"
+    },
+    {
+        "id": "1nsr5mg",
+        "author": "Top_Following8658",
+        "title": "The pan-cancer proteome atlas, a mass spectrometry-based landscape for discovering tumor biology, biomarkers, and therapeutic targets",
+        "content": "",
+        "upvotes": 12,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1nsr5mg/the_pancancer_proteome_atlas_a_mass/"
+    },
+    {
+        "id": "1nsj9ap",
+        "author": "thevishal365",
+        "title": "Development of a feature vector for accurate breast cancer detection in mammographic images",
+        "content": "",
+        "upvotes": 30,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1nsj9ap/development_of_a_feature_vector_for_accurate/"
+    },
+    {
+        "id": "1nsonih",
+        "author": "thevishal365",
+        "title": "GC-MS Analysis and Antioxidant Activity of the Essential Oil Constituents from the Dried Leaves of Gossypium arboreum LINN",
+        "content": "",
+        "upvotes": 10,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1nsonih/gcms_analysis_and_antioxidant_activity_of_the/"
     },
     {
         "id": "1nr8sn6",
         "author": "Science_News",
         "title": "Pasteurization completely inactivates the H5N1 bird flu virus in milk \u2014 even if viral proteins linger",
         "content": "",
-        "upvotes": 11726,
-        "comments": 261,
+        "upvotes": 11885,
+        "comments": 262,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/BIWvIYW_s1BiBELFoUnNISu_yMCMJYXZ8oXNdapYwwE.jpeg?auto=webp&amp;s=b653382d7fa4847c78d24ab822a0054fd10867cb"
@@ -88,22 +200,12 @@
         "permalink": "/r/science/comments/1nr8sn6/pasteurization_completely_inactivates_the_h5n1/"
     },
     {
-        "id": "1nrmg76",
-        "author": "calliope_kekule",
-        "title": "A study of 2.2M Danes found sleep issues increased from 34% to 49% among 15\u201345 year olds (2010\u20132021). Childhood adversities were linked to later insomnia and nightmares.",
-        "content": "",
-        "upvotes": 387,
-        "comments": 13,
-        "media": null,
-        "permalink": "/r/science/comments/1nrmg76/a_study_of_22m_danes_found_sleep_issues_increased/"
-    },
-    {
         "id": "1nra49p",
         "author": "nohup_me",
         "title": "A study shows that antidepressant fluoxetine does more than boost serotonin levels: it changes how brain cells manage their energy and rebuild their connections, potentially helping the brain \u201cloosen up\u201d and adapt during depression treatment",
         "content": "",
-        "upvotes": 2281,
-        "comments": 103,
+        "upvotes": 2438,
+        "comments": 109,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/tK2xILi9EhoaMykFoADeg_O3I7KDOXgD1WZmfSxUtrc.jpeg?auto=webp&amp;s=9fd28c94fb9de7dbb68d5753e15da2229606992c"
@@ -111,22 +213,22 @@
         "permalink": "/r/science/comments/1nra49p/a_study_shows_that_antidepressant_fluoxetine_does/"
     },
     {
-        "id": "1nsj9ap",
-        "author": "thevishal365",
-        "title": "Development of a feature vector for accurate breast cancer detection in mammographic images",
+        "id": "1nrmg76",
+        "author": "calliope_kekule",
+        "title": "A study of 2.2M Danes found sleep issues increased from 34% to 49% among 15\u201345 year olds (2010\u20132021). Childhood adversities were linked to later insomnia and nightmares.",
         "content": "",
-        "upvotes": 2,
-        "comments": 1,
+        "upvotes": 395,
+        "comments": 13,
         "media": null,
-        "permalink": "/r/science/comments/1nsj9ap/development_of_a_feature_vector_for_accurate/"
+        "permalink": "/r/science/comments/1nrmg76/a_study_of_22m_danes_found_sleep_issues_increased/"
     },
     {
         "id": "1nqziju",
         "author": "mvea",
         "title": "New study suggests a woman\u2019s political views are linked to qualities she seeks in romantic partner. Right-leaning women prefer partners who fit more traditional mold, while women at both political extremes place high value on someone who shares their political beliefs.",
         "content": "",
-        "upvotes": 6830,
-        "comments": 830,
+        "upvotes": 6874,
+        "comments": 840,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/l72JanRbYWqVkYZ4YhFRRugUgElqg3VLanmCws9w4RY.jpeg?auto=webp&amp;s=fb3ae7bc0ea2472330344f9659f4224d541b7549"
@@ -138,8 +240,8 @@
         "author": "soalone34",
         "title": "Civilian injuries in Gaza similar to those of soldiers in war zones, study finds - Wounds such as burns or leg injuries more common in Gaza than among US soldiers who fought in Iraq and Afghanistan",
         "content": "",
-        "upvotes": 1094,
-        "comments": 199,
+        "upvotes": 1130,
+        "comments": 207,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/anIZoe_kw-97NCJ1edC4F7UbcwJqJBDTmphx9kvwgCM.jpeg?auto=webp&amp;s=1b64842ca482f2fe7ac96542734315a16e0f7fce"
@@ -151,7 +253,7 @@
         "author": "Super_Presentation14",
         "title": "Our economic outlook is a classic case of \"bad news hits harder.\" A study shows we react much more strongly to negative financial shocks than positive ones.",
         "content": "",
-        "upvotes": 106,
+        "upvotes": 110,
         "comments": 17,
         "media": null,
         "permalink": "/r/science/comments/1nrp00l/our_economic_outlook_is_a_classic_case_of_bad/"
@@ -161,8 +263,8 @@
         "author": "HeinieKaboobler",
         "title": "Antisemitism\u2014but not criticism of Israel\u2014associated with support for political violence",
         "content": "",
-        "upvotes": 2429,
-        "comments": 641,
+        "upvotes": 2472,
+        "comments": 643,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/xpN0wlaHUYQ4DyuMvrfv7-TKwPXmwdyNiSEpfRmWljs.jpeg?auto=webp&amp;s=62de14c301d7754d49913c412be19d86ea07470a"
@@ -174,7 +276,7 @@
         "author": "shinybrighthings",
         "title": "Teen opioid addictions often untreated as youth overdose deaths rapidly rise in US \u2013 study",
         "content": "",
-        "upvotes": 1090,
+        "upvotes": 1120,
         "comments": 44,
         "media": {
             "type": "image",
@@ -187,8 +289,8 @@
         "author": "chrisdh79",
         "title": "Cannabis use linked to short-term relief of PTSD symptoms in veterans | On days when veterans reported being high from cannabis for longer periods, they tended to report fewer PTSD symptoms and lower levels of negative affect.",
         "content": "",
-        "upvotes": 1227,
-        "comments": 103,
+        "upvotes": 1256,
+        "comments": 105,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/xKR6PHLKKgYnwquB_ild5pjoY6Pk9GKZzl-BmqtWEPE.jpeg?auto=webp&amp;s=16da6942c14cd39e7e2b9cc35418f7c148295d99"
@@ -196,24 +298,11 @@
         "permalink": "/r/science/comments/1nr2j17/cannabis_use_linked_to_shortterm_relief_of_ptsd/"
     },
     {
-        "id": "1nr7nrf",
-        "author": "scientificamerican",
-        "title": "Nearly 100 years ago dozens of ships were abandoned in a shallow bay in the Potomac River. Today, the skeletons of 147 vessels\u2014known as the \u201cGhost Fleet of Mallows Bay\u201d\u2014have turned into an ecological oasis, drone images published in Scientific Data reveal.",
-        "content": "",
-        "upvotes": 518,
-        "comments": 8,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/Yk4H7bCamaeelelXN4HaoPz7wsJ0kpo70sut1MCIla4.jpeg?auto=webp&amp;s=a5b6f2bf28ec4ceaeaa7adbba397777d7b048529"
-        },
-        "permalink": "/r/science/comments/1nr7nrf/nearly_100_years_ago_dozens_of_ships_were/"
-    },
-    {
         "id": "1nr3m1l",
         "author": "NGNResearch",
         "title": "The \u201cgreenest\u201d drinking straw is made out of methane, researchers conclude",
         "content": "",
-        "upvotes": 813,
+        "upvotes": 867,
         "comments": 188,
         "media": {
             "type": "image",
@@ -222,12 +311,25 @@
         "permalink": "/r/science/comments/1nr3m1l/the_greenest_drinking_straw_is_made_out_of/"
     },
     {
+        "id": "1nr7nrf",
+        "author": "scientificamerican",
+        "title": "Nearly 100 years ago dozens of ships were abandoned in a shallow bay in the Potomac River. Today, the skeletons of 147 vessels\u2014known as the \u201cGhost Fleet of Mallows Bay\u201d\u2014have turned into an ecological oasis, drone images published in Scientific Data reveal.",
+        "content": "",
+        "upvotes": 539,
+        "comments": 8,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/Yk4H7bCamaeelelXN4HaoPz7wsJ0kpo70sut1MCIla4.jpeg?auto=webp&amp;s=a5b6f2bf28ec4ceaeaa7adbba397777d7b048529"
+        },
+        "permalink": "/r/science/comments/1nr7nrf/nearly_100_years_ago_dozens_of_ships_were/"
+    },
+    {
         "id": "1nr9d8n",
         "author": "nohup_me",
         "title": "Healthy habits like sleep, social support, and not smoking are linked to an 8-year reduction in brain aging, while stressful factors like chronic pain, low income, less education, and other social risks are associated with older-looking brains",
         "content": "",
-        "upvotes": 398,
-        "comments": 7,
+        "upvotes": 425,
+        "comments": 8,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/9-Mu36KBy8XN7wXdgY5YNNx4FuINXb0wMb0eNhui7L0.jpeg?auto=webp&amp;s=646527cc7d8d598562c8a8ae318a78bf8b83a9a1"
@@ -239,133 +341,19 @@
         "author": "calliope_kekule",
         "title": "A new study found women\u2019s menstrual cycles used to align more closely with the lunar cycle. Today, synchrony is weaker but still detectable when gravitational pull peaks in January.",
         "content": "",
-        "upvotes": 3798,
-        "comments": 197,
+        "upvotes": 3856,
+        "comments": 199,
         "media": null,
         "permalink": "/r/science/comments/1nqrxfe/a_new_study_found_womens_menstrual_cycles_used_to/"
-    },
-    {
-        "id": "1nqxr59",
-        "author": "Wagamaga",
-        "title": "Most U.S. adults have a \u201cheart age\u201d several years older than their chronological age \u2014 sometimes by more than a decade. And that gap is wider among men and among those with lower incomes or education or who identify as Black or Hispanic",
-        "content": "",
-        "upvotes": 852,
-        "comments": 52,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/p2M1oif8u5nNP-8AyWNdLZ7fwy5AuHhF4QAy2GUjTpE.jpeg?auto=webp&amp;s=a448be18e8c70e7bd2bbfabcfc74a8623899c291"
-        },
-        "permalink": "/r/science/comments/1nqxr59/most_us_adults_have_a_heart_age_several_years/"
     },
     {
         "id": "1nrp9sb",
         "author": "Kerubiel_Cherub",
         "title": "In the warm Miocene, the low latitudes were not that much hotter than they are today -  most of the warming occurred at mid-to-high latitudes",
         "content": "",
-        "upvotes": 16,
+        "upvotes": 21,
         "comments": 3,
         "media": null,
         "permalink": "/r/science/comments/1nrp9sb/in_the_warm_miocene_the_low_latitudes_were_not/"
-    },
-    {
-        "id": "1nqrbnt",
-        "author": "mvea",
-        "title": "Scientists developed novel tool that can boost energy production in brain cells and reverse memory loss in mouse models of dementia. The study suggests low mitochondrial activity may be a direct cause of cognitive decline in neurodegenerative diseases such as Alzheimer\u2019s and frontotemporal dementia.",
-        "content": "",
-        "upvotes": 2533,
-        "comments": 57,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/OmyMPgDyfPXzHANBsIxq3jess63KVmNW_Jci5k1gE0g.jpeg?auto=webp&amp;s=9be147cd01cd0e8554fe0873b03174ce60b28507"
-        },
-        "permalink": "/r/science/comments/1nqrbnt/scientists_developed_novel_tool_that_can_boost/"
-    },
-    {
-        "id": "1nra8yx",
-        "author": "fchung",
-        "title": "Sunken World War II debris has become surprisingly useful for sea creatures: \u00ab A new study has found evidence to suggest that warheads tossed into the sea can serve as viable habitat for several species of marine life, but that doesn't mean we should leave them at the bottom of the ocean. \u00bb",
-        "content": "",
-        "upvotes": 132,
-        "comments": 6,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/o8_g4qw4XRJzD_A1RJNUq78JlTXROboMqWifwD1Obsw.jpeg?auto=webp&amp;s=08ecb30669963874aeb853743629df3ada8d0077"
-        },
-        "permalink": "/r/science/comments/1nra8yx/sunken_world_war_ii_debris_has_become/"
-    },
-    {
-        "id": "1nr7lqd",
-        "author": "iamphilosofie",
-        "title": "Study of nearly 5,000 early-career family physicians found that both long work hours and high educational debt are independently associated with burnout symptoms.",
-        "content": "",
-        "upvotes": 72,
-        "comments": 1,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/kQ3yUYigZ5AY6MBnVKMMQr57x_HTwMp2DjRD8NwXgRg.jpeg?auto=webp&amp;s=929f1e5f2837ceb8f1bc0349a7efb0001a297fb0"
-        },
-        "permalink": "/r/science/comments/1nr7lqd/study_of_nearly_5000_earlycareer_family/"
-    },
-    {
-        "id": "1nqez5e",
-        "author": "Wagamaga",
-        "title": "A million-year-old human skull suggests that the origins of modern humans may reach back far deeper in time than previously thought and raises the possibility that Homo sapiens first emerged outside of Africa.",
-        "content": "",
-        "upvotes": 4962,
-        "comments": 303,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/uGECcO6fPP2l8bk4zIoiwztvZy0JYBeaCYljpLOFXHI.jpeg?auto=webp&amp;s=b05759ec3c73fea00a437af754c253b73419608f"
-        },
-        "permalink": "/r/science/comments/1nqez5e/a_millionyearold_human_skull_suggests_that_the/"
-    },
-    {
-        "id": "1nqyoll",
-        "author": "chrisdh79",
-        "title": "How federal research support has helped create life-changing medicines | A new study finds over half the drugs approved this century cite government-funded research in their patents.",
-        "content": "",
-        "upvotes": 193,
-        "comments": 18,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/tboGEbga_qmQpWTAQjaJ-QowPcgtpSHa4zELepX4L_E.jpeg?auto=webp&amp;s=0ea8dd0ee61d2b8c2d46b0a555e77156db1dc624"
-        },
-        "permalink": "/r/science/comments/1nqyoll/how_federal_research_support_has_helped_create/"
-    },
-    {
-        "id": "1nqw2ht",
-        "author": "RunDNA",
-        "title": "Scientists sidestep Heisenberg uncertainty principle in precision sensing experiment",
-        "content": "",
-        "upvotes": 285,
-        "comments": 52,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/vXl8HZLkHmb-VCu_BBr4rkKdf9JJQxCRjoJJnm09Unw.jpeg?auto=webp&amp;s=2d61715980c6250658c408c189107544c54f149e"
-        },
-        "permalink": "/r/science/comments/1nqw2ht/scientists_sidestep_heisenberg_uncertainty/"
-    },
-    {
-        "id": "1nrp9ae",
-        "author": "thevishal365",
-        "title": "Leveraging Sparse Autoencoders to Reveal Interpretable Features in Geophysical Models",
-        "content": "",
-        "upvotes": 4,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1nrp9ae/leveraging_sparse_autoencoders_to_reveal/"
-    },
-    {
-        "id": "1nr17zc",
-        "author": "universityofga",
-        "title": "Countries with higher disease risk think more positively about the future of humanity",
-        "content": "",
-        "upvotes": 100,
-        "comments": 9,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/-fccvV3n2DwG1xHU4ULuIRj0tUzYdZusvPuP8RwmjwI.jpeg?auto=webp&amp;s=516b41eda1e80425c44fa79004cf4c0643a8e91d"
-        },
-        "permalink": "/r/science/comments/1nr17zc/countries_with_higher_disease_risk_think_more/"
     }
 ]
