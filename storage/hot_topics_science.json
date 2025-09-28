@@ -4,8 +4,8 @@
         "author": "mvea",
         "title": "A new study suggests that scientists are leaving X (formerly known as Twitter) in significant numbers due to its declining professional value. Many now find Bluesky to be a more effective platform for networking, outreach, and staying updated on research.",
         "content": "",
-        "upvotes": 32858,
-        "comments": 1042,
+        "upvotes": 32919,
+        "comments": 1043,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/5WdLmzX6jqDhqW2WSCZWarCoqxI3d2QcjDVOk3Ud1Zg.jpeg?auto=webp&amp;s=3d5582aeb06398b71d487ade0b4c832a7930d7ff"
@@ -17,8 +17,8 @@
         "author": "mvea",
         "title": "Liberals trust experts more than conservatives, but expert labels still matter, suggests US study. While liberals tend to trust experts more than conservatives, conservatives may still respond more positively when claims come from experts whose research is in production and economic growth.",
         "content": "",
-        "upvotes": 1571,
-        "comments": 182,
+        "upvotes": 1585,
+        "comments": 184,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/B6A5J1WlRYzEoo5lyDS62x-v1BWshO8OSPfc34AUh7E.jpeg?auto=webp&amp;s=5b75db0f46740f492507c8468954f1d1e650612f"
@@ -30,7 +30,7 @@
         "author": "calliope_kekule",
         "title": "A new study found that during geomagnetic disturbances from solar activity, women in Brazil were nearly three times more likely to have heart attacks.",
         "content": "",
-        "upvotes": 1345,
+        "upvotes": 1361,
         "comments": 33,
         "media": {
             "type": "image",
@@ -43,7 +43,7 @@
         "author": "mvea",
         "title": "People who experience problematic pornography use tend to also engage in repetitive negative thinking patterns known as rumination. Over time, this relationship appears to be two-way, especially among women.",
         "content": "",
-        "upvotes": 3212,
+        "upvotes": 3216,
         "comments": 146,
         "media": {
             "type": "image",
@@ -56,7 +56,7 @@
         "author": "nohup_me",
         "title": "Social support, from childhood warmth to adult community involvement, may slow biological aging, setting back the \u201cepigenetic clocks\u201d and making you younger than your years, according to DNA studies.",
         "content": "",
-        "upvotes": 487,
+        "upvotes": 498,
         "comments": 5,
         "media": {
             "type": "image",
@@ -69,7 +69,7 @@
         "author": "BrnoRegion",
         "title": "Research introduces a comprehensive, ranked catalog of over 100 code quality defects in introductory programming, validated by an educator survey and analyzed for prevalence using a novel automated tool",
         "content": "",
-        "upvotes": 12,
+        "upvotes": 14,
         "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1nshzw0/research_introduces_a_comprehensive_ranked/"
@@ -88,11 +88,21 @@
         "permalink": "/r/science/comments/1nr8sn6/pasteurization_completely_inactivates_the_h5n1/"
     },
     {
+        "id": "1nrmg76",
+        "author": "calliope_kekule",
+        "title": "A study of 2.2M Danes found sleep issues increased from 34% to 49% among 15\u201345 year olds (2010\u20132021). Childhood adversities were linked to later insomnia and nightmares.",
+        "content": "",
+        "upvotes": 381,
+        "comments": 12,
+        "media": null,
+        "permalink": "/r/science/comments/1nrmg76/a_study_of_22m_danes_found_sleep_issues_increased/"
+    },
+    {
         "id": "1nra49p",
         "author": "nohup_me",
         "title": "A study shows that antidepressant fluoxetine does more than boost serotonin levels: it changes how brain cells manage their energy and rebuild their connections, potentially helping the brain \u201cloosen up\u201d and adapt during depression treatment",
         "content": "",
-        "upvotes": 2261,
+        "upvotes": 2260,
         "comments": 103,
         "media": {
             "type": "image",
@@ -101,21 +111,11 @@
         "permalink": "/r/science/comments/1nra49p/a_study_shows_that_antidepressant_fluoxetine_does/"
     },
     {
-        "id": "1nrmg76",
-        "author": "calliope_kekule",
-        "title": "A study of 2.2M Danes found sleep issues increased from 34% to 49% among 15\u201345 year olds (2010\u20132021). Childhood adversities were linked to later insomnia and nightmares.",
-        "content": "",
-        "upvotes": 377,
-        "comments": 12,
-        "media": null,
-        "permalink": "/r/science/comments/1nrmg76/a_study_of_22m_danes_found_sleep_issues_increased/"
-    },
-    {
         "id": "1nqziju",
         "author": "mvea",
         "title": "New study suggests a woman\u2019s political views are linked to qualities she seeks in romantic partner. Right-leaning women prefer partners who fit more traditional mold, while women at both political extremes place high value on someone who shares their political beliefs.",
         "content": "",
-        "upvotes": 6825,
+        "upvotes": 6828,
         "comments": 831,
         "media": {
             "type": "image",
@@ -128,7 +128,7 @@
         "author": "soalone34",
         "title": "Civilian injuries in Gaza similar to those of soldiers in war zones, study finds - Wounds such as burns or leg injuries more common in Gaza than among US soldiers who fought in Iraq and Afghanistan",
         "content": "",
-        "upvotes": 1087,
+        "upvotes": 1083,
         "comments": 198,
         "media": {
             "type": "image",
@@ -141,17 +141,27 @@
         "author": "Super_Presentation14",
         "title": "Our economic outlook is a classic case of \"bad news hits harder.\" A study shows we react much more strongly to negative financial shocks than positive ones.",
         "content": "",
-        "upvotes": 108,
+        "upvotes": 105,
         "comments": 17,
         "media": null,
         "permalink": "/r/science/comments/1nrp00l/our_economic_outlook_is_a_classic_case_of_bad/"
+    },
+    {
+        "id": "1nsj9ap",
+        "author": "thevishal365",
+        "title": "Development of a feature vector for accurate breast cancer detection in mammographic images",
+        "content": "",
+        "upvotes": 1,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1nsj9ap/development_of_a_feature_vector_for_accurate/"
     },
     {
         "id": "1nr2ea7",
         "author": "HeinieKaboobler",
         "title": "Antisemitism\u2014but not criticism of Israel\u2014associated with support for political violence",
         "content": "",
-        "upvotes": 2421,
+        "upvotes": 2431,
         "comments": 643,
         "media": {
             "type": "image",
@@ -164,7 +174,7 @@
         "author": "shinybrighthings",
         "title": "Teen opioid addictions often untreated as youth overdose deaths rapidly rise in US \u2013 study",
         "content": "",
-        "upvotes": 1082,
+        "upvotes": 1086,
         "comments": 44,
         "media": {
             "type": "image",
@@ -177,7 +187,7 @@
         "author": "chrisdh79",
         "title": "Cannabis use linked to short-term relief of PTSD symptoms in veterans | On days when veterans reported being high from cannabis for longer periods, they tended to report fewer PTSD symptoms and lower levels of negative affect.",
         "content": "",
-        "upvotes": 1224,
+        "upvotes": 1223,
         "comments": 103,
         "media": {
             "type": "image",
@@ -190,7 +200,7 @@
         "author": "scientificamerican",
         "title": "Nearly 100 years ago dozens of ships were abandoned in a shallow bay in the Potomac River. Today, the skeletons of 147 vessels\u2014known as the \u201cGhost Fleet of Mallows Bay\u201d\u2014have turned into an ecological oasis, drone images published in Scientific Data reveal.",
         "content": "",
-        "upvotes": 510,
+        "upvotes": 508,
         "comments": 8,
         "media": {
             "type": "image",
@@ -203,7 +213,7 @@
         "author": "NGNResearch",
         "title": "The \u201cgreenest\u201d drinking straw is made out of methane, researchers conclude",
         "content": "",
-        "upvotes": 821,
+        "upvotes": 813,
         "comments": 188,
         "media": {
             "type": "image",
@@ -216,7 +226,7 @@
         "author": "nohup_me",
         "title": "Healthy habits like sleep, social support, and not smoking are linked to an 8-year reduction in brain aging, while stressful factors like chronic pain, low income, less education, and other social risks are associated with older-looking brains",
         "content": "",
-        "upvotes": 399,
+        "upvotes": 398,
         "comments": 7,
         "media": {
             "type": "image",
@@ -229,8 +239,8 @@
         "author": "calliope_kekule",
         "title": "A new study found women\u2019s menstrual cycles used to align more closely with the lunar cycle. Today, synchrony is weaker but still detectable when gravitational pull peaks in January.",
         "content": "",
-        "upvotes": 3794,
-        "comments": 194,
+        "upvotes": 3798,
+        "comments": 193,
         "media": null,
         "permalink": "/r/science/comments/1nqrxfe/a_new_study_found_womens_menstrual_cycles_used_to/"
     },
@@ -239,7 +249,7 @@
         "author": "Wagamaga",
         "title": "Most U.S. adults have a \u201cheart age\u201d several years older than their chronological age \u2014 sometimes by more than a decade. And that gap is wider among men and among those with lower incomes or education or who identify as Black or Hispanic",
         "content": "",
-        "upvotes": 850,
+        "upvotes": 854,
         "comments": 52,
         "media": {
             "type": "image",
@@ -252,7 +262,7 @@
         "author": "Kerubiel_Cherub",
         "title": "In the warm Miocene, the low latitudes were not that much hotter than they are today -  most of the warming occurred at mid-to-high latitudes",
         "content": "",
-        "upvotes": 17,
+        "upvotes": 16,
         "comments": 3,
         "media": null,
         "permalink": "/r/science/comments/1nrp9sb/in_the_warm_miocene_the_low_latitudes_were_not/"
@@ -275,7 +285,7 @@
         "author": "fchung",
         "title": "Sunken World War II debris has become surprisingly useful for sea creatures: \u00ab A new study has found evidence to suggest that warheads tossed into the sea can serve as viable habitat for several species of marine life, but that doesn't mean we should leave them at the bottom of the ocean. \u00bb",
         "content": "",
-        "upvotes": 130,
+        "upvotes": 126,
         "comments": 6,
         "media": {
             "type": "image",
@@ -289,7 +299,7 @@
         "title": "Explore a microbial world in Cellscape - a game by Kate Solbakk",
         "content": "",
         "upvotes": 0,
-        "comments": 2,
+        "comments": 4,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/iamYGD5NFNf0eiSPtUhDa2wj-h-NQ92XtQjWj0YATpU.jpeg?auto=webp&amp;s=25afb8043d14041576ece366b03975142f898f27"
@@ -301,7 +311,7 @@
         "author": "iamphilosofie",
         "title": "Study of nearly 5,000 early-career family physicians found that both long work hours and high educational debt are independently associated with burnout symptoms.",
         "content": "",
-        "upvotes": 72,
+        "upvotes": 75,
         "comments": 1,
         "media": {
             "type": "image",
@@ -314,7 +324,7 @@
         "author": "Wagamaga",
         "title": "A million-year-old human skull suggests that the origins of modern humans may reach back far deeper in time than previously thought and raises the possibility that Homo sapiens first emerged outside of Africa.",
         "content": "",
-        "upvotes": 4963,
+        "upvotes": 4959,
         "comments": 303,
         "media": {
             "type": "image",
@@ -327,7 +337,7 @@
         "author": "chrisdh79",
         "title": "How federal research support has helped create life-changing medicines | A new study finds over half the drugs approved this century cite government-funded research in their patents.",
         "content": "",
-        "upvotes": 187,
+        "upvotes": 188,
         "comments": 18,
         "media": {
             "type": "image",
@@ -357,18 +367,5 @@
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1nrp9ae/leveraging_sparse_autoencoders_to_reveal/"
-    },
-    {
-        "id": "1nr17zc",
-        "author": "universityofga",
-        "title": "Countries with higher disease risk think more positively about the future of humanity",
-        "content": "",
-        "upvotes": 102,
-        "comments": 9,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/-fccvV3n2DwG1xHU4ULuIRj0tUzYdZusvPuP8RwmjwI.jpeg?auto=webp&amp;s=516b41eda1e80425c44fa79004cf4c0643a8e91d"
-        },
-        "permalink": "/r/science/comments/1nr17zc/countries_with_higher_disease_risk_think_more/"
     }
 ]
