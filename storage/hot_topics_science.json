@@ -4,7 +4,7 @@
         "author": "shiruken",
         "title": "RETRACTED: Pre-infection 25-hydroxyvitamin D3 levels and association with severity of COVID-19 illness",
         "content": "We wish to inform the [**r/science**](https://www.reddit.com/r/science/) community of an article submitted to the subreddit that has since been retracted by the journal. The submission garnered broad exposure on [**r/science**](https://www.reddit.com/r/science/) and significant media coverage. Per [our rules](https://www.reddit.com/r/science/wiki/rules/#wiki_retractions), the flair on this submission has been updated with \"RETRACTED\". The submission has also been added to our [wiki of retracted submissions](https://www.reddit.com/r/science/wiki/retractions/#wiki_retractions).\n\n\\--\n\nReddit Submission: [Pre-infection deficiency of vitamin D is associated with increased disease severity and mortality among hospitalized COVID-19 patients](https://www.reddit.com/r/science/comments/sk1owo/preinfection_deficiency_of_vitamin_d_is/)\n\nThe article [\"Pre-infection 25-hydroxyvitamin D3 levels and association with severity of COVID-19 illness\"](https://doi.org/10.1371/journal.pone.0263069) has [been retracted](https://doi.org/10.1371/journal.pone.0331693) from *PLOS One* as of September 8, 2025. After methodological concerns were raised shortly after publication in 2022, the article was recently reassessed by an independent member of the *PLOS One* Editorial Board. They determined that the analyses were inadequate to test the association between 25-hydroxyvitamin D3 levels at the time of infection and severity of COVID-19 illness.\n\nSince this flaw prevents testing of the hypothesis and calls into question the reported conclusions, the *PLOS One* Editors issued the retraction. Fifteen of the study's eighteen authors disputed the retraction.\n\n* Retraction Watch: [Authors defend retracted paper on vitamin D and COVID-19 called \u2018deeply bizarre\u2019 by critic](https://retractionwatch.com/2025/09/25/authors-defend-retracted-paper-on-vitamin-d-and-covid-19-critic-called-deeply-bizarre/)\n\n\\--\n\nShould you encounter a submission on [r/science](https://www.reddit.com/r/science/) that has been retracted, please notify the moderators [via Modmail](https://www.reddit.com/message/compose?to=%2Fr%2Fscience&amp;subject=Retraction).",
-        "upvotes": 789,
+        "upvotes": 806,
         "comments": 38,
         "media": {
             "type": "image",
@@ -17,7 +17,7 @@
         "author": "ScienceModerator",
         "title": "Primatologist Jane Goodall dies at 91",
         "content": "We regret to hear that [Jane Goodall died today at the age of 91](https://www.instagram.com/p/DPRn2HTCFYt/).\n\nThis post will serve as our megathread for discussion on this topic. The typical r/science comment rules will not apply and we will allow mature, open discussion. This post will be updated as needed.\n\nMedia Coverage:\n\n* [BBC](https://www.bbc.com/news/live/c9qyw2ewl2nt)\n* [The New York Times](https://www.nytimes.com/2025/10/01/obituaries/jane-goodall-dead.html)\n* [The Washington Post](https://www.washingtonpost.com/obituaries/2025/10/01/jane-goodall-dead/)\n\nIf you would like to make a donation in her memory, please visit the [Jane Goodall Institute](https://janegoodall.org/).",
-        "upvotes": 5798,
+        "upvotes": 5812,
         "comments": 111,
         "media": {
             "type": "image",
@@ -26,32 +26,84 @@
         "permalink": "/r/science/comments/1nvhqbg/primatologist_jane_goodall_dies_at_91/"
     },
     {
-        "id": "1nxdgub",
+        "id": "1nxqgiy",
         "author": "mvea",
-        "title": "Early medical abortion at home up to 12 weeks of pregnancy is safe, effective, and comparable to hospital care, finds a 5 year review of cases in Scotland, where this timeframe is legally permitted.",
+        "title": "Men who entered and stayed in a romantic relationship reported larger increases in life satisfaction and relationship status satisfaction than women who did the same.",
         "content": "",
-        "upvotes": 3632,
-        "comments": 38,
-        "media": null,
-        "permalink": "/r/science/comments/1nxdgub/early_medical_abortion_at_home_up_to_12_weeks_of/"
+        "upvotes": 1378,
+        "comments": 136,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/tfWFiEWf3lT-lU2IjX224i50x2WP1mRxJgBwgTcbq8s.jpeg?auto=webp&amp;s=07929f1da40675e2f15d6bfc2ea98ffc9ed7f855"
+        },
+        "permalink": "/r/science/comments/1nxqgiy/men_who_entered_and_stayed_in_a_romantic/"
     },
     {
         "id": "1nxk5hp",
         "author": "calliope_kekule",
         "title": "New evidence shows that glaciers in California\u2019s Sierra Nevada disappearance would be the first in recorded geological time.",
         "content": "",
-        "upvotes": 1050,
-        "comments": 24,
+        "upvotes": 2267,
+        "comments": 35,
         "media": null,
         "permalink": "/r/science/comments/1nxk5hp/new_evidence_shows_that_glaciers_in_californias/"
+    },
+    {
+        "id": "1nxdgub",
+        "author": "mvea",
+        "title": "Early medical abortion at home up to 12 weeks of pregnancy is safe, effective, and comparable to hospital care, finds a 5 year review of cases in Scotland, where this timeframe is legally permitted.",
+        "content": "",
+        "upvotes": 5199,
+        "comments": 55,
+        "media": null,
+        "permalink": "/r/science/comments/1nxdgub/early_medical_abortion_at_home_up_to_12_weeks_of/"
+    },
+    {
+        "id": "1nxqpd6",
+        "author": "noah2623",
+        "title": "First human transplant of kidney modified to have \u2018universal\u2019 blood type",
+        "content": "",
+        "upvotes": 427,
+        "comments": 9,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/CNbuZ2OPyKwbL0cUMqBU1iHZExRSsIgJqkEZ9nJOnas.jpeg?auto=webp&amp;s=d934e5f7dd7140c913de76d0775e80f08cfaa7b5"
+        },
+        "permalink": "/r/science/comments/1nxqpd6/first_human_transplant_of_kidney_modified_to_have/"
+    },
+    {
+        "id": "1nxutho",
+        "author": "FunnyGamer97",
+        "title": "Tiny sugars in the brain disrupt emotional circuits, fueling depression, study on mice finds: IBS researchers identify molecular pathway in the mice's brain that directly links abnormal sugar modifications on proteins to depressive behaviors",
+        "content": "",
+        "upvotes": 130,
+        "comments": 1,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/CDsfUYVDI3K9GNGYQOuU3SQhDl9qYLzCfow3BFfWJDw.jpeg?auto=webp&amp;s=51378693242c8c37d1743342aaa7b9c5775702b8"
+        },
+        "permalink": "/r/science/comments/1nxutho/tiny_sugars_in_the_brain_disrupt_emotional/"
+    },
+    {
+        "id": "1nxr9pe",
+        "author": "James_Fortis",
+        "title": "Plant-based diets are associated with favorable reductions in systemic inflammatory biomarkers in adults, supporting their potential as a non-pharmacological strategy for reducing inflammation, systematic review finds",
+        "content": "",
+        "upvotes": 191,
+        "comments": 18,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/ikhayVdNXvM1ZND-k1MBVrEfb_zOUXkLDsUL5s4bOUs.png?auto=webp&amp;s=fe65ea08ec9c8422cdf1f4f268567d3883364702"
+        },
+        "permalink": "/r/science/comments/1nxr9pe/plantbased_diets_are_associated_with_favorable/"
     },
     {
         "id": "1nwx7sr",
         "author": "mvea",
         "title": "Simplistic thinking and rejecting democracy have a \u201cstrikingly\u201d strong link. People who lacked \u201cactively open-minded thinking\u201d \u2014 a tendency to consider opposing viewpoints and revise beliefs based on evidence \u2014 were more likely to oppose core democratic principles, especially free elections.",
         "content": "",
-        "upvotes": 12557,
-        "comments": 597,
+        "upvotes": 13125,
+        "comments": 609,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/6GhbLn17OABGMLUCAgiJKS6osHNMktjHrrnBI30RkfM.jpeg?auto=webp&amp;s=36dbbc388f43e1a8e22db99f68e5735008485479"
@@ -59,22 +111,22 @@
         "permalink": "/r/science/comments/1nwx7sr/simplistic_thinking_and_rejecting_democracy_have/"
     },
     {
-        "id": "1nxb9vj",
-        "author": "SandNo2865",
-        "title": "APSR study: Analysis of nearly 100,000 corporate heads at nearly 10,000 US companies shows that the \"average observed ideology for directors and executives has shifted meaningfully to the left over time, changing from modestly conservative in 2001 to roughly centrist by 2022.\"",
+        "id": "1nxuu20",
+        "author": "sometimeshiny",
+        "title": "Prenatal stress from natural disasters has lifelong negative effects on development, increasing fetal cortisol exposure, altering cortisol sensitivity, and glucocorticoid receptors (NR3C1)",
         "content": "",
-        "upvotes": 613,
-        "comments": 42,
+        "upvotes": 48,
+        "comments": 2,
         "media": null,
-        "permalink": "/r/science/comments/1nxb9vj/apsr_study_analysis_of_nearly_100000_corporate/"
+        "permalink": "/r/science/comments/1nxuu20/prenatal_stress_from_natural_disasters_has/"
     },
     {
         "id": "1nx53zm",
         "author": "nohup_me",
         "title": "Feeling in control helps beat daily stress: People are 62% more likely to act if they feel more in control over stressors than usual, such as calling a plumber or having tough talks, and this effect grows with age",
         "content": "",
-        "upvotes": 1172,
-        "comments": 14,
+        "upvotes": 1424,
+        "comments": 15,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/u9MpP4CRTrZGUYPr0I3Rz8nXpevq2BjTtDL6QdSAmfk.png?auto=webp&amp;s=80cd960420d5d8c49bdcd92df4054daf45631958"
@@ -82,12 +134,22 @@
         "permalink": "/r/science/comments/1nx53zm/feeling_in_control_helps_beat_daily_stress_people/"
     },
     {
+        "id": "1nxb9vj",
+        "author": "SandNo2865",
+        "title": "APSR study: Analysis of nearly 100,000 corporate heads at nearly 10,000 US companies shows that the \"average observed ideology for directors and executives has shifted meaningfully to the left over time, changing from modestly conservative in 2001 to roughly centrist by 2022.\"",
+        "content": "",
+        "upvotes": 678,
+        "comments": 45,
+        "media": null,
+        "permalink": "/r/science/comments/1nxb9vj/apsr_study_analysis_of_nearly_100000_corporate/"
+    },
+    {
         "id": "1nx2mo6",
         "author": "SlothSpeedRunning",
         "title": "Psilocybin during the postpartum period induces long-lasting adverse effects in both mouse mothers their and offspring",
         "content": "",
-        "upvotes": 1451,
-        "comments": 107,
+        "upvotes": 1616,
+        "comments": 113,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/9dYDWmyEADAkYWfdfiMzaK1N3VDlsqhC7xI70lOVFx0.jpeg?auto=webp&amp;s=50454832747ee7797a7d6143223c163d7e770632"
@@ -95,11 +157,21 @@
         "permalink": "/r/science/comments/1nx2mo6/psilocybin_during_the_postpartum_period_induces/"
     },
     {
+        "id": "1nxgcrb",
+        "author": "sometimeshiny",
+        "title": "Parental heat stress was passed to offspring as heightened fear, elevated baseline cortisol, and exaggerated stress responses in ducks. Feeding parents antioxidant rich orange corn prevented these effects.",
+        "content": "",
+        "upvotes": 176,
+        "comments": 3,
+        "media": null,
+        "permalink": "/r/science/comments/1nxgcrb/parental_heat_stress_was_passed_to_offspring_as/"
+    },
+    {
         "id": "1nxh1ng",
         "author": "FunnyGamer97",
         "title": "Mini-organs reveal how the cervix defends itself | Using lab-grown mini-organs, researchers have uncovered how cells in the cervix actively detect and combat infections, opening new paths for treatments against sexually transmitted infections (STIs) and infection-related infertility.",
         "content": "",
-        "upvotes": 137,
+        "upvotes": 152,
         "comments": 1,
         "media": {
             "type": "image",
@@ -108,21 +180,31 @@
         "permalink": "/r/science/comments/1nxh1ng/miniorgans_reveal_how_the_cervix_defends_itself/"
     },
     {
-        "id": "1nxgcrb",
-        "author": "sometimeshiny",
-        "title": "Parental heat stress was passed to offspring as heightened fear, elevated baseline cortisol, and exaggerated stress responses in ducks. Feeding parents antioxidant rich orange corn prevented these effects.",
+        "id": "1nxs7rm",
+        "author": "thevishal365",
+        "title": "Enhancing breast cancer detection: Integrating deep learning with evolutionary algorithms",
         "content": "",
-        "upvotes": 138,
-        "comments": 3,
+        "upvotes": 15,
+        "comments": 2,
         "media": null,
-        "permalink": "/r/science/comments/1nxgcrb/parental_heat_stress_was_passed_to_offspring_as/"
+        "permalink": "/r/science/comments/1nxs7rm/enhancing_breast_cancer_detection_integrating/"
+    },
+    {
+        "id": "1nxx9j9",
+        "author": "GongTzu",
+        "title": "New Antibiotic for IBD - AI predicted how it would work before scientists could prove it",
+        "content": "",
+        "upvotes": 8,
+        "comments": 8,
+        "media": null,
+        "permalink": "/r/science/comments/1nxx9j9/new_antibiotic_for_ibd_ai_predicted_how_it_would/"
     },
     {
         "id": "1nxh0y6",
         "author": "FunnyGamer97",
         "title": "Study finds restoring order to dividing cancer cells may prevent metastasis | Researchers have discovered that an enzyme called EZH2 drives TNBC cells to divide abnormally, which enables them to relocate to distant organs.",
         "content": "",
-        "upvotes": 91,
+        "upvotes": 108,
         "comments": 1,
         "media": {
             "type": "image",
@@ -131,11 +213,31 @@
         "permalink": "/r/science/comments/1nxh0y6/study_finds_restoring_order_to_dividing_cancer/"
     },
     {
+        "id": "1nxouox",
+        "author": "h4l",
+        "title": "The Bearded Vulture as an accumulator of historical remains: Insights for future ecological and biocultural studies",
+        "content": "",
+        "upvotes": 19,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1nxouox/the_bearded_vulture_as_an_accumulator_of/"
+    },
+    {
+        "id": "1nxexjs",
+        "author": "sometimeshiny",
+        "title": "Stress triggers inflammation through molecular \u201cswitches\u201d (GR, MR, FKBP5, SKA2). After trauma or stress, these pathways determine stress sensitivity by setting how the brain adapts.",
+        "content": "",
+        "upvotes": 85,
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/science/comments/1nxexjs/stress_triggers_inflammation_through_molecular/"
+    },
+    {
         "id": "1nx0061",
         "author": "chrisdh79",
         "title": "Your perception of loudness bends to what you know, according to new psychology research | The findings suggest that familiarity with language can shape basic aspects of auditory perception, such as loudness.",
         "content": "",
-        "upvotes": 450,
+        "upvotes": 493,
         "comments": 15,
         "media": {
             "type": "image",
@@ -144,22 +246,12 @@
         "permalink": "/r/science/comments/1nx0061/your_perception_of_loudness_bends_to_what_you/"
     },
     {
-        "id": "1nxexjs",
-        "author": "sometimeshiny",
-        "title": "Stress triggers inflammation through molecular \u201cswitches\u201d (GR, MR, FKBP5, SKA2). After trauma or stress, these pathways determine stress sensitivity by setting how the brain adapts.",
-        "content": "",
-        "upvotes": 68,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/science/comments/1nxexjs/stress_triggers_inflammation_through_molecular/"
-    },
-    {
         "id": "1nwc7nk",
         "author": "ghanima",
         "title": "Silicone bakeware as a source of human exposure to cyclic siloxanes via inhalation and baked food consumption",
         "content": "",
-        "upvotes": 10849,
-        "comments": 1022,
+        "upvotes": 10976,
+        "comments": 1027,
         "media": null,
         "permalink": "/r/science/comments/1nwc7nk/silicone_bakeware_as_a_source_of_human_exposure/"
     },
@@ -168,17 +260,27 @@
         "author": "Inquiring_minds42",
         "title": "From 1999-2021, overdoses due to fentanyl and meth significantly increased",
         "content": "",
-        "upvotes": 64,
-        "comments": 41,
+        "upvotes": 72,
+        "comments": 43,
         "media": null,
         "permalink": "/r/science/comments/1nx5h8y/from_19992021_overdoses_due_to_fentanyl_and_meth/"
+    },
+    {
+        "id": "1nx8os0",
+        "author": "Pomme-M",
+        "title": "Adipose-derived extracellular vesicles, tiny cell-to-cell messengers, can signal the buildup of amyloid-\u03b2 plaque in obese individuals. The lipid cargo of these messengers differs between people with obesity and lean individuals and can change how quickly amyloid-\u03b2 clumps form.",
+        "content": "",
+        "upvotes": 33,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1nx8os0/adiposederived_extracellular_vesicles_tiny/"
     },
     {
         "id": "1nwhdmk",
         "author": "mustaphah",
         "title": "A single dose of psilocybin shown to rewire brain circuits in mice, providing up to two weeks of relief from both chronic pain and depression-like symptoms, offering a potential non-addictive alternative to opioids",
         "content": "",
-        "upvotes": 1576,
+        "upvotes": 1635,
         "comments": 79,
         "media": {
             "type": "image",
@@ -187,22 +289,12 @@
         "permalink": "/r/science/comments/1nwhdmk/a_single_dose_of_psilocybin_shown_to_rewire_brain/"
     },
     {
-        "id": "1nx8os0",
-        "author": "Pomme-M",
-        "title": "Adipose-derived extracellular vesicles, tiny cell-to-cell messengers, can signal the buildup of amyloid-\u03b2 plaque in obese individuals. The lipid cargo of these messengers differs between people with obesity and lean individuals and can change how quickly amyloid-\u03b2 clumps form.",
-        "content": "",
-        "upvotes": 28,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1nx8os0/adiposederived_extracellular_vesicles_tiny/"
-    },
-    {
         "id": "1nwu5bm",
         "author": "molrose96",
         "title": "Shorter stature may be linked to an evolutionary adaptation to the risks of low iodine",
         "content": "",
-        "upvotes": 175,
-        "comments": 12,
+        "upvotes": 198,
+        "comments": 13,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/tVwmhDp36GQ6ro4wbYljJdxCVhAuovOvkxyYzPNSS8U.jpeg?auto=webp&amp;s=b91f327674eb17618f78017eceae4a7729e4946b"
@@ -214,8 +306,8 @@
         "author": "mvea",
         "title": "Your social status has a surprising influence on your biological stress responses. A new study suggests that feeling lower in social rank due to socioeconomic factors like income or education can heighten the body\u2019s cardiovascular stress responses.",
         "content": "",
-        "upvotes": 1438,
-        "comments": 51,
+        "upvotes": 1489,
+        "comments": 53,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/2wmWheC0ZfnJga1Edne5P0pOwPKxQDe5Ayb4OKrb0I0.jpeg?auto=webp&amp;s=51fb0bff8b2d5d077912750c0db69e74342ad530"
@@ -223,21 +315,11 @@
         "permalink": "/r/science/comments/1nwg9km/your_social_status_has_a_surprising_influence_on/"
     },
     {
-        "id": "1nxouox",
-        "author": "h4l",
-        "title": "The Bearded Vulture as an accumulator of historical remains: Insights for future ecological and biocultural studies",
-        "content": "",
-        "upvotes": 2,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1nxouox/the_bearded_vulture_as_an_accumulator_of/"
-    },
-    {
         "id": "1nwua91",
         "author": "Wagamaga",
         "title": "Catastrophic wildfires surge globally with 43 per cent of worst disasters in past decade. Analysing 44 years of disaster data, researchers found economic disasters increased more than four times and fatal disasters causing 10 or more deaths tripled since 1980",
         "content": "",
-        "upvotes": 143,
+        "upvotes": 147,
         "comments": 4,
         "media": null,
         "permalink": "/r/science/comments/1nwua91/catastrophic_wildfires_surge_globally_with_43_per/"
@@ -247,7 +329,7 @@
         "author": "mvea",
         "title": "Autism should not be seen as single condition with one cause. Those diagnosed as small children typically have distinct genetic profile from those diagnosed later, finds international study based on genetic data from more than 45,000 autistic people in Europe and the US.",
         "content": "",
-        "upvotes": 13601,
+        "upvotes": 13675,
         "comments": 550,
         "media": {
             "type": "image",
@@ -260,94 +342,9 @@
         "author": "smurfyjenkins",
         "title": "As occupations increasingly become stereotyped as women\u2019s work, the general prestige of those occupations declines. The study examines millions of American English publications of fiction and non-fiction during the period 1900\u20132019, finding that jobs that become linked to women become devalued.",
         "content": "",
-        "upvotes": 3549,
-        "comments": 404,
+        "upvotes": 3577,
+        "comments": 407,
         "media": null,
         "permalink": "/r/science/comments/1nw5844/as_occupations_increasingly_become_stereotyped_as/"
-    },
-    {
-        "id": "1nwa6j7",
-        "author": "nohup_me",
-        "title": "Study provides scientific evidence that pianists can change timbre through touch, scientifically clarifying for the first time how their manipulation of keys changes piano timbre",
-        "content": "",
-        "upvotes": 1634,
-        "comments": 95,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/SqY1MZIcPE-WAEeEyJwbd2hRycBCGpfhQ7muBsP_QiQ.png?auto=webp&amp;s=06d6207d2118b6eea3efb32f9434ab0cbc7e0cb2"
-        },
-        "permalink": "/r/science/comments/1nwa6j7/study_provides_scientific_evidence_that_pianists/"
-    },
-    {
-        "id": "1nw3sde",
-        "author": "New_Scientist_Mag",
-        "title": "A rogue planet has been seen absorbing 6 billion tonnes of gas and dust per second, reaching a growth rate that has previously only been seen in stars.",
-        "content": "",
-        "upvotes": 2870,
-        "comments": 84,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/xmXirdhobNtWykrUarvQYOiozIGx8zDjIHt9_y3rlhg.jpeg?auto=webp&amp;s=311eb5a595517af712a280000a61e3379f0fa042"
-        },
-        "permalink": "/r/science/comments/1nw3sde/a_rogue_planet_has_been_seen_absorbing_6_billion/"
-    },
-    {
-        "id": "1nwaxar",
-        "author": "ii_Narwhal",
-        "title": "New study out of Japan reveals molecular basis of Long COVID brain fog: \"Systemic increase of AMPA receptors associated with cognitive impairment of long COVID\" - Brain Communications",
-        "content": "",
-        "upvotes": 1216,
-        "comments": 21,
-        "media": null,
-        "permalink": "/r/science/comments/1nwaxar/new_study_out_of_japan_reveals_molecular_basis_of/"
-    },
-    {
-        "id": "1nwosho",
-        "author": "AIBNatUQ",
-        "title": "New research in mice finds that neurons create fatty acids which are used to generate the energy needed to keep brain cells functioning.",
-        "content": "",
-        "upvotes": 174,
-        "comments": 10,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/zvB13Ovpi3en1prypbLL6oSEW4an7VTA3mHLV6hvOYI.jpeg?auto=webp&amp;s=cddef12fdcd94b343d5cb21e2127e279e89e61b1"
-        },
-        "permalink": "/r/science/comments/1nwosho/new_research_in_mice_finds_that_neurons_create/"
-    },
-    {
-        "id": "1nwpx8a",
-        "author": "calliope_kekule",
-        "title": "A new study finds that most UK parliamentarians, like the wider public, overestimate how long humanity has to peak global greenhouse gas emissions to keep warming below 1.5\u00b0C.",
-        "content": "",
-        "upvotes": 122,
-        "comments": 3,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/I02SbkVlr7DP9S2CeIInBZziePchB7_7mRU_exvt2gI.png?auto=webp&amp;s=af4f4433f7f3de64fbbcb5cf4fcfc8bb949b03f5"
-        },
-        "permalink": "/r/science/comments/1nwpx8a/a_new_study_finds_that_most_uk_parliamentarians/"
-    },
-    {
-        "id": "1nwouyr",
-        "author": "sciencealert",
-        "title": "A detection of phosphine in the atmosphere of a brown dwarf 54 light-years from Earth deepens the mystery of phosphorus chemistry throughout the Milky Way",
-        "content": "",
-        "upvotes": 101,
-        "comments": 4,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/RzjMHdNM0l_8zcC5RlHQSc9ANdycsCaTpi597RhGNcQ.jpeg?auto=webp&amp;s=13b0a2445e9972ea6bca7db8062ae772ddefdb47"
-        },
-        "permalink": "/r/science/comments/1nwouyr/a_detection_of_phosphine_in_the_atmosphere_of_a/"
-    },
-    {
-        "id": "1nw7qyp",
-        "author": "MayLikePepsi",
-        "title": "New decade-long study reveals a hidden crisis: international students in US colleges face skyrocketing mental health struggles",
-        "content": "",
-        "upvotes": 656,
-        "comments": 55,
-        "media": null,
-        "permalink": "/r/science/comments/1nw7qyp/new_decadelong_study_reveals_a_hidden_crisis/"
     }
 ]
