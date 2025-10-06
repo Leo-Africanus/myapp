@@ -4,7 +4,7 @@
         "author": "AutoModerator",
         "title": "BACHECA ANNUNCI - buying, selling, apartment hunting, etc",
         "content": "Posta qui ogni annuncio di compravendita (biglietti di concerti, affitti, la qualunque). Ogni post sul sub a riguardo verr\u00e0 cancellato e rediretto qua.\n\nPost here all your bulletin board notices: for things you're selling, buying, promoting or apartments you're renting/looking for! Any standalone post will be deleted and redirected here.\n\nTelegram groups for apartment hunting:\n\n* https://t.me/CaseStudentiTorino\n* https://t.me/AppartamentiaffittoTorino_SBG\n* https://t.me/stay_buy_home_community\n* https://t.me/rbh_homer_bot\n\nAny questions? [Message the moderators](https://www.reddit.com/message/compose?to=/r/torino)!",
-        "upvotes": 5,
+        "upvotes": 6,
         "comments": 35,
         "media": {
             "type": "image",
@@ -26,21 +26,94 @@
         "permalink": "/r/torino/comments/1l0hsky/la_piola_friends_meetup/"
     },
     {
+        "id": "1nzexbz",
+        "author": "Bruno_Barbiere",
+        "title": "In queste settimane sono fuori da Torino per lavoro, vi chiedo quindi: com'\u00e8 stato DAVVERO questo weekend di cortei e scioperi per Gaza? Violento con ingenti danni come i tg lo descrivono o tranquillo con casi isolati di violenza?",
+        "content": "",
+        "upvotes": 54,
+        "comments": 86,
+        "media": {
+            "type": "image",
+            "url": "https://preview.redd.it/cjkvi8m2tgtf1.jpeg?auto=webp&amp;s=c021f77367d574e323c547369cf64a40432d46a2"
+        },
+        "permalink": "/r/torino/comments/1nzexbz/in_queste_settimane_sono_fuori_da_torino_per/"
+    },
+    {
+        "id": "1nzldk5",
+        "author": "Agitated-Standard627",
+        "title": "Ho creato una mappa interattiva per visualizzare quanto siano ben collegate le diverse zone di Torino",
+        "content": "# TLDR;\ud83d\ude89 Ho creato una mappa interattiva per visualizzare quanto siano ben collegate le diverse zone di Torino (e di altre citt\u00e0 italiane) tramite treni e tram \u2014 tutto \u00e8 iniziato da un post su Reddit!\n\nCiao a tutti! \ud83d\udc4b  \nVolevo condividere un progetto su cui ho lavorato: si chiama **The Proximity Project**, ed \u00e8 una mappa web interattiva che mostra quanto facilmente si possono raggiungere diverse aree dalla stazione di treno o tram pi\u00f9 vicina.\n\n\ud83d\udd17 **Provalo qui** \u2192 [https://proximity.duckiesfarm.com/italy/turin](https://proximity.duckiesfarm.com/italy/turin)\n\nhttps://i.redd.it/9p7tgl7w9itf1.gif\n\n# \ud83d\uddfa\ufe0f Cosa fa?\n\nVisualizza le **isochrone** \u2014 aree colorate che mostrano quanto sei distante (in minuti) dalla fermata di **treno** o **tram** pi\u00f9 vicina.  \nQuesto significa che puoi vedere immediatamente quali zone sono ben collegate da un trasporto pubblico **affidabile e su rotaia**, che tende a essere pi\u00f9 puntuale rispetto agli autobus, specialmente in citt\u00e0 come Roma.\n\nQuesto pu\u00f2 essere molto utile per:\n\n* **Turisti** che cercano alloggi a breve termine ben collegati, anche fuori dal centro storico\n* **Expat o lavoratori da remoto** che vogliono trovare un posto dove vivere senza bisogno di un'auto\n* **Residenti** che vogliono comprendere meglio la rete di trasporto pubblico della loro citt\u00e0\n\n# \ud83d\udca1 Come \u00e8 iniziato\n\nTempo fa, ho visto un [post su Reddit di un utente](https://www.reddit.com/r/roma/comments/1ib2ue7/mappa_di_roma_dentro_il_raccordo_indicando_in/) che aveva creato manualmente una mappa simile, solo per divertimento.  \nMi ha ispirato [a creare un piccolo prototipo](https://www.reddit.com/r/rome/comments/1j3gwkc/metroproximity_project/) mentre ero in viaggio per lavoro. Ho condiviso la versione iniziale qu\u00ed su Reddit, ho ricevuto feedback positivi e ho pensato \u2014 perch\u00e9 non farne qualcosa di pi\u00f9 completo?\n\nEd eccoci qui \ud83d\ude0a\n\n# \ud83c\udf1f Cosa f\u00e1\n\n* \ud83d\ude89 Visualizza tutte le isocrone globalmente o seleziona una stazione specifica\n* \u23f1\ufe0f Clicca su qualsiasi isocrona per vedere quanto \u00e8 distante quel punto dalla stazione o dalla fermata\n* \ud83e\udded Ricerca integrata degli indirizzi\n* \ud83d\udccd Rilevamento automaticamente la tua posizione\n\n# \ud83d\udcac Aiuto!\n\nSto ancora lavorando attivamente al progetto, e qualsiasi feedback (bug, idee, suggerimenti) \u00e8 pi\u00f9 che benvenuto! cosa vi piace, cosa no vi piace, cosa aggiungere, cosa togliere, sono qu\u00ed per capire come procedere.\n\nAh, per i pi\u00fa nerd, tutto il codice sorgente \u00e8 open e [disponibile qui](https://github.com/nicolgit/proximity)\n\nGrazie per aver letto, fatemi sapere cosa ne pensate!",
+        "upvotes": 6,
+        "comments": 3,
+        "media": null,
+        "permalink": "/r/torino/comments/1nzldk5/ho_creato_una_mappa_interattiva_per_visualizzare/"
+    },
+    {
         "id": "1nzcb7e",
         "author": "2b__b2",
         "title": "Arriving late at Porta Susa (~11:30 PM) \u2013 is it safe to take a taxi to?",
         "content": "I\u2019ll be arriving in\u00a0**Turin around 11:30 PM**\u00a0at\u00a0**Porta Susa station**\u00a0(coming from Milan). I\u2019m planning to head to my reservation, and I was thinking of booking a taxi using\u00a0**Wetaxi**\u00a0instead of using public transport that late or public transport be safer? The place I am gonna stay is very near to porta susa around 1.1 km distance\n\nI just wanted to ask \u2014\n\n* Is it generally\u00a0**safe around Porta Susa at that time of night**?\n* Would you recommend any other option or area to be cautious about?\n\nIt\u2019s my\u00a0**first time in Italy**, so I\u2019m just trying to be a bit careful on my first night. Thanks a lot for any tips or reassurance!",
-        "upvotes": 7,
-        "comments": 22,
+        "upvotes": 15,
+        "comments": 31,
         "media": null,
         "permalink": "/r/torino/comments/1nzcb7e/arriving_late_at_porta_susa_1130_pm_is_it_safe_to/"
+    },
+    {
+        "id": "1nzhok6",
+        "author": "barbogia",
+        "title": "Se vi piace twilight e la roba gratis entrate in questo post",
+        "content": "Buon pomeriggio a tutti, creo questo post per cercare qualcuno che voglia due biglietti (VE LI REGALO) per la ri-proiezione di Twilight alle 18:30 di domani, 07/10/2025 al cinema The Space Torino in zona Dora.   \nMagari ci fare un regalo alla vostra ragazza mentre vi fate una pennichella al The Space.  \nNe approfitto per lamentarmi di come un'azienda come The Space, possa inserire il messaggio \"Funzione non ancora implementata\" sul tasto \"Richiedi rimborso\" del vostro sito di m\\*\\*\\*a incompleto.",
+        "upvotes": 5,
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/torino/comments/1nzhok6/se_vi_piace_twilight_e_la_roba_gratis_entrate_in/"
+    },
+    {
+        "id": "1nziknd",
+        "author": "bbHiron",
+        "title": "Naturism in Turin",
+        "content": "Hey all! I'm a 23 years old guy who is moving to Turin soon, but i have also been very into naturism. Anyone knows any places like spas or beaches near the riven where it is practiced? Thank you! ",
+        "upvotes": 3,
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/torino/comments/1nziknd/naturism_in_turin/"
+    },
+    {
+        "id": "1nzeolm",
+        "author": "Merciful_Fake",
+        "title": "Avete mai provato il \"Treno verde delle Alpi\"?",
+        "content": "Vorrei fare un regalo a una coppia di amici di Torino, entrambi amanti delle gite in montagna e dei viaggi in generale. Ieri sera ho scoperto l'esistenza del Treno Verde delle Alpi (tratta Domodossola-Berna), e pensavo a una gift card del valore di 65 euro a persona, valida per un giorno.  \nQualcuno di voi ha esperienza di quel tipo di viaggio? Merita?  \nGrazie in anticipo.",
+        "upvotes": 5,
+        "comments": 0,
+        "media": null,
+        "permalink": "/r/torino/comments/1nzeolm/avete_mai_provato_il_treno_verde_delle_alpi/"
+    },
+    {
+        "id": "1nze9vu",
+        "author": "Smorgastorta96",
+        "title": "Lezioni private patente A",
+        "content": "A quanto pare c'\u00e8 una crisi millenaria di autoscuole e motorizzazioni, quindi ci vuole un botto di tempo per fare guide ed esami. Mi hanno detto che la guida la posso prenotare minimo il mese prossimo, quindi vorrei sapere se ci fosse qualcuno che potrebbe dare 1-2 lezioni giusto per poter andare in concessionaria e saperne uscire in moto.",
+        "upvotes": 2,
+        "comments": 0,
+        "media": null,
+        "permalink": "/r/torino/comments/1nze9vu/lezioni_private_patente_a/"
+    },
+    {
+        "id": "1nzhwfe",
+        "author": "Otherwise-Chip4531",
+        "title": "date invernali a torino e dintorni?",
+        "content": "consigliate qualche idea per delle uscite carine ma casual da fare in inverno la sera che non siano andare al cinema o andare a bere un drink :)",
+        "upvotes": 1,
+        "comments": 0,
+        "media": null,
+        "permalink": "/r/torino/comments/1nzhwfe/date_invernali_a_torino_e_dintorni/"
     },
     {
         "id": "1nyurme",
         "author": "Over_Examination2861",
         "title": "In giro per Vanchiglia",
         "content": "\ud83d\udeb6\ud83d\udcf7",
-        "upvotes": 16,
+        "upvotes": 20,
         "comments": 2,
         "media": null,
         "permalink": "/r/torino/comments/1nyurme/in_giro_per_vanchiglia/"
@@ -60,8 +133,8 @@
         "author": "Individual-Egg3290",
         "title": "Digital nomad here, any good recommendations for co-work/co-live",
         "content": "Greetings all, \n\nI am a digital nomad, looking to work and travel. I have been to Torino once for 5 days and loved it. I am currently looking to go on a journey around Europe and stopping by there again, this time looking for 3-5 weeks. Are there any places that offer accommodation for such a stay, preferably with other nomads or short-term expats. The idea of all this is to meet as many new people as possible, so hotel and airbnb recommendations don't cut it for me. Any suggestions are welcomed!",
-        "upvotes": 0,
-        "comments": 3,
+        "upvotes": 1,
+        "comments": 6,
         "media": null,
         "permalink": "/r/torino/comments/1nzcr9c/digital_nomad_here_any_good_recommendations_for/"
     },
@@ -71,7 +144,7 @@
         "title": "Sagre ottobre Torino e dintorni",
         "content": "Ciao ragazzi, come da titolo, sapete dirmi se ci sono sagre a cui vale la pena andare in questo mese? Guidatorino suggerisce bene?",
         "upvotes": 1,
-        "comments": 0,
+        "comments": 3,
         "media": null,
         "permalink": "/r/torino/comments/1nzcez8/sagre_ottobre_torino_e_dintorni/"
     },
@@ -81,26 +154,16 @@
         "title": "Economics in English at UniTo",
         "content": "Anyone here doing Economics in English at UniTo?  is it indeed offered entirely in English?",
         "upvotes": 2,
-        "comments": 0,
+        "comments": 1,
         "media": null,
         "permalink": "/r/torino/comments/1nz6grp/economics_in_english_at_unito/"
-    },
-    {
-        "id": "1nyt1ci",
-        "author": "bbHiron",
-        "title": "Moving to Turin soon, what to avoid?",
-        "content": "Hey! I will be living in Turin for few months, what are some areas i should be avoiding (especially at night)? I know about Barriera di Milano and Porta Nuova, is there more i should know about? \n\nAlso, are there specific bus/tram routes i should avoid too? Are 11 and 72 safe? Because i would be using them quite a bit to visit some friends lol. Thx! ",
-        "upvotes": 7,
-        "comments": 14,
-        "media": null,
-        "permalink": "/r/torino/comments/1nyt1ci/moving_to_turin_soon_what_to_avoid/"
     },
     {
         "id": "1ny45d5",
         "author": "bert87",
         "title": "Sometimes you Have to Look up",
         "content": "",
-        "upvotes": 214,
+        "upvotes": 227,
         "comments": 4,
         "media": {
             "type": "image",
@@ -119,26 +182,6 @@
         "permalink": "/r/torino/comments/1nz0m0x/pilates_e_yoga_a_torino/"
     },
     {
-        "id": "1nz4ikw",
-        "author": "Current-Remote8989",
-        "title": "Mobile Service Recommendations",
-        "content": "Hey guys, recently arriving to Italy for a long term stay. What are your choices for service providers and what packages would you recommend and why if there is a special reason. Thank you for your responses.",
-        "upvotes": 1,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/torino/comments/1nz4ikw/mobile_service_recommendations/"
-    },
-    {
-        "id": "1nz49zq",
-        "author": "Current-Remote8989",
-        "title": "Codice Fiscale",
-        "content": "What are the chances I go to agenzia delle entrate regional office 1 at a random time during the day and they will accept my application for first fiscal code without an appointment?",
-        "upvotes": 1,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/torino/comments/1nz49zq/codice_fiscale/"
-    },
-    {
         "id": "1nz3aeg",
         "author": "Medium_Woodpecker887",
         "title": "Ma la palestra di FitBoxe zona Dante ha chiuso??",
@@ -149,14 +192,14 @@
         "permalink": "/r/torino/comments/1nz3aeg/ma_la_palestra_di_fitboxe_zona_dante_ha_chiuso/"
     },
     {
-        "id": "1nz1uaq",
-        "author": "BrassSteel",
-        "title": "DnD a Torino da principiante",
-        "content": "Ciao a tutti! Sono un ragazzo di 20 anni che non ha mai giocato a DnD ma che vorrebbe provare, con alcuni miei amici che hanno giocato solo un paio di volte. Qualcuno conosce posti in cui poter giocare da principiante con un Master con esperienza? Mi sarebbe molto d'aiuto! ",
-        "upvotes": 1,
-        "comments": 1,
+        "id": "1nytaey",
+        "author": "Gullible_Drummer_246",
+        "title": "Piante Carolina Reaper a Torino?",
+        "content": "Come da titolo chiedevo se qualcuno sa dove posso trovare piante di varie variet\u00e0 to peperoncino, ma soprattutto Carolina Reaper a Torino.\n\nDopo il trasloco su Torino purtroppo non ne ho ritrovate.",
+        "upvotes": 3,
+        "comments": 2,
         "media": null,
-        "permalink": "/r/torino/comments/1nz1uaq/dnd_a_torino_da_principiante/"
+        "permalink": "/r/torino/comments/1nytaey/piante_carolina_reaper_a_torino/"
     },
     {
         "id": "1nykypb",
@@ -187,16 +230,6 @@
         "comments": 1,
         "media": null,
         "permalink": "/r/torino/comments/1nynn84/tartufo_white_truffles/"
-    },
-    {
-        "id": "1nytaey",
-        "author": "Gullible_Drummer_246",
-        "title": "Piante Carolina Reaper a Torino?",
-        "content": "Come da titolo chiedevo se qualcuno sa dove posso trovare piante di varie variet\u00e0 to peperoncino, ma soprattutto Carolina Reaper a Torino.\n\nDopo il trasloco su Torino purtroppo non ne ho ritrovate.",
-        "upvotes": 1,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/torino/comments/1nytaey/piante_carolina_reaper_a_torino/"
     },
     {
         "id": "1nym3ep",
@@ -233,7 +266,7 @@
         "author": "Zig389_",
         "title": "Gtt",
         "content": "Sento moltissime persone che si lamentano del servizio Gtt, ma io personalmente non lo vedo cos\u00ec male rispetto anche solo ad altre citt\u00e0. I pullman alcune volte sono in ritardo, ma solitamente dalla mia esperienza sono relativamente puntuali. La metro funziona molto bene e ha delle frequenze alte. Ditemi cosa ne pensate voi",
-        "upvotes": 29,
+        "upvotes": 33,
         "comments": 42,
         "media": null,
         "permalink": "/r/torino/comments/1nxuigc/gtt/"
@@ -243,7 +276,7 @@
         "author": "matt994",
         "title": "Trovare casa per 1 mese per trasferta di lavoro sta diventando un incubo",
         "content": "Buonasera a tutti, sto per trasferirmi a Torino per lavoro per circa un mese e sto facendo parecchia fatica a trovare una sistemazione temporanea.\n\nMi rivolgo quindi a voi per chiedere qualche consiglio o aiuto.\nCerco un appartamento arredato e pronto all\u2019uso, con utenze gi\u00e0 attive, in zona centrale - idealmente tra Porta Nuova e Piazza Vittorio.\n\nA livello di budget posso arrivare fino a 2.000\u20132.500 \u20ac, coperti dall\u2019azienda. Il problema \u00e8 che sul mercato trovo solo Airbnb per pochi giorni o contratti transitori di almeno 6 mesi.\n\nAvete suggerimenti, contatti o piattaforme alternative dove potrei cercare questo tipo di soluzione?\n\nGrazie in anticipo a chiunque possa darmi una mano \ud83d\ude4f",
-        "upvotes": 8,
+        "upvotes": 10,
         "comments": 11,
         "media": null,
         "permalink": "/r/torino/comments/1ny3xut/trovare_casa_per_1_mese_per_trasferta_di_lavoro/"
@@ -277,35 +310,5 @@
         "comments": 1,
         "media": null,
         "permalink": "/r/torino/comments/1nxxxar/mercatini_orologi_vintage/"
-    },
-    {
-        "id": "1ny23ez",
-        "author": "thecruz831",
-        "title": "Rendimi le cose facili!!",
-        "content": "Qualcuno mi pu\u00f2 indicare un buon ristorante non turistico a Torino che offra pasta e vino eccellenti? Non ho bisogno di un locale super chic, solo di una bella atmosfera. Grazie in anticipo!",
-        "upvotes": 0,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/torino/comments/1ny23ez/rendimi_le_cose_facili/"
-    },
-    {
-        "id": "1nxx8pz",
-        "author": "Virtual-Ad-8601",
-        "title": "Which EDISU dorm is better: Olimpia or Verdi?",
-        "content": "Hi, I am a female psychology student and will attend Unito as an Erasmus student in the spring semester. I got a room at Olimpia dorm bit my second option was Verdi - which one is better?",
-        "upvotes": 0,
-        "comments": 0,
-        "media": null,
-        "permalink": "/r/torino/comments/1nxx8pz/which_edisu_dorm_is_better_olimpia_or_verdi/"
-    },
-    {
-        "id": "1nxwqaf",
-        "author": "Main_Bus9170",
-        "title": "Corsi di calcio per adulti",
-        "content": "Buonasera, qualcuno conosce dei corsi di calcio serali per adulti qua a Torino, eccetto quelli del CUS?\n\n(Calcio o calcetto)",
-        "upvotes": 1,
-        "comments": 0,
-        "media": null,
-        "permalink": "/r/torino/comments/1nxwqaf/corsi_di_calcio_per_adulti/"
     }
 ]
