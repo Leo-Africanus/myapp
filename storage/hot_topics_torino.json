@@ -4,7 +4,7 @@
         "author": "AutoModerator",
         "title": "BACHECA ANNUNCI - buying, selling, apartment hunting, etc",
         "content": "Posta qui ogni annuncio di compravendita (biglietti di concerti, affitti, la qualunque). Ogni post sul sub a riguardo verr\u00e0 cancellato e rediretto qua.\n\nPost here all your bulletin board notices: for things you're selling, buying, promoting or apartments you're renting/looking for! Any standalone post will be deleted and redirected here.\n\nTelegram groups for apartment hunting:\n\n* https://t.me/CaseStudentiTorino\n* https://t.me/AppartamentiaffittoTorino_SBG\n* https://t.me/stay_buy_home_community\n* https://t.me/rbh_homer_bot\n\nAny questions? [Message the moderators](https://www.reddit.com/message/compose?to=/r/torino)!",
-        "upvotes": 6,
+        "upvotes": 7,
         "comments": 35,
         "media": {
             "type": "image",
@@ -17,13 +17,23 @@
         "author": "AutoModerator",
         "title": "LA PIOLA - friends meetup!",
         "content": "Vuoi conoscere persone? Organizzare una gita in montagna? Un aperitivo in centro? Posta qui e trova altri redditor con i tuoi interessi!\n\nDo you want to meet new people? Grab a beer? Stroll the city with locals? Write here!\n\n# USEFUL GROUPS\n\n[CIBO &amp; TRASH](https://chat.whatsapp.com/LxRuDtXedFzAYid0vVRMK9): gruppo per condividere la passione del cibo soprattutto quello Trash. Si organizzano e si possono proporre uscite dedicate al cibo e tanto altro.\n\n[GIOCHI IN TAVERNA](https://t.me/giochiintaverna): club di serate di giochi da tavolo, giochi di ruolo, magic e altro, ogni venerd\u00ec al Comala e ogni mercoled\u00ec in conceria Vanchiglia\n\n[RACCONTAPASSI](https://t.me/raccontapassi): ogni weekend propongono attivit\u00e0 in giro per il Piemonte\n\n[TREKKING TURIN](https://chat.whatsapp.com/J7cE64PnQqJ0D0rj0Iu7wg): gite e trekking ogni weekend con partenza da Torino! Langhe, Liguria, Piemonte etc\n\n[TUTTI LIBERI](https://chat.whatsapp.com/Ld9PMqbHF1FLJAFFdzWjbb): scrivi cosa vuoi e quando vuoi, aggiungi pi\u00f9 persone possibili, sii educato, vivi e lascia vivere, divertiti!\n\nAny questions? Your telegram group got blocked by the spam filter? [Message the moderators](https://www.reddit.com/message/compose?to=/r/torino)!",
-        "upvotes": 4,
+        "upvotes": 5,
         "comments": 0,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/S724xoGIaFT5er3lDWaxUubBejlqByORKznsztzXsg0.jpg?auto=webp&amp;s=391cf4d2a70c1f367d13be1740af83131b1f32e0"
         },
         "permalink": "/r/torino/comments/1l0hsky/la_piola_friends_meetup/"
+    },
+    {
+        "id": "1o0jxrg",
+        "author": "matteo0MTF",
+        "title": "Sapete cosa succede?",
+        "content": "Sono passati adesso in emergenza (andavano di fretta con carro che ha il cannone ad acqua) verso il centro sembra, altra manifestazione pro pal o altro?",
+        "upvotes": 2,
+        "comments": 0,
+        "media": null,
+        "permalink": "/r/torino/comments/1o0jxrg/sapete_cosa_succede/"
     },
     {
         "id": "1o0aeeh",
@@ -63,7 +73,7 @@
         "author": "Agitated-Standard627",
         "title": "Ho creato una mappa interattiva per visualizzare quanto siano ben collegate le diverse zone di Torino",
         "content": "# TLDR;\ud83d\ude89 Ho creato una mappa interattiva per visualizzare quanto siano ben collegate le diverse zone di Torino (e di altre citt\u00e0 italiane) tramite treni e tram \u2014 tutto \u00e8 iniziato da un post su Reddit!\n\nCiao a tutti! \ud83d\udc4b  \nVolevo condividere un progetto su cui ho lavorato: si chiama **The Proximity Project**, ed \u00e8 una mappa web interattiva che mostra quanto facilmente si possono raggiungere diverse aree dalla stazione di treno o tram pi\u00f9 vicina.\n\n\ud83d\udd17 **Provalo qui** \u2192 [https://proximity.duckiesfarm.com/italy/turin](https://proximity.duckiesfarm.com/italy/turin)\n\nhttps://i.redd.it/9p7tgl7w9itf1.gif\n\n# \ud83d\uddfa\ufe0f Cosa fa?\n\nVisualizza le **isochrone** \u2014 aree colorate che mostrano quanto sei distante (in minuti) dalla fermata di **treno** o **tram** pi\u00f9 vicina.  \nQuesto significa che puoi vedere immediatamente quali zone sono ben collegate da un trasporto pubblico **affidabile e su rotaia**, che tende a essere pi\u00f9 puntuale rispetto agli autobus, specialmente in citt\u00e0 come Roma.\n\nQuesto pu\u00f2 essere molto utile per:\n\n* **Turisti** che cercano alloggi a breve termine ben collegati, anche fuori dal centro storico\n* **Expat o lavoratori da remoto** che vogliono trovare un posto dove vivere senza bisogno di un'auto\n* **Residenti** che vogliono comprendere meglio la rete di trasporto pubblico della loro citt\u00e0\n\n# \ud83d\udca1 Come \u00e8 iniziato\n\nTempo fa, ho visto un [post su Reddit di un utente](https://www.reddit.com/r/roma/comments/1ib2ue7/mappa_di_roma_dentro_il_raccordo_indicando_in/) che aveva creato manualmente una mappa simile, solo per divertimento.  \nMi ha ispirato [a creare un piccolo prototipo](https://www.reddit.com/r/rome/comments/1j3gwkc/metroproximity_project/) mentre ero in viaggio per lavoro. Ho condiviso la versione iniziale qu\u00ed su Reddit, ho ricevuto feedback positivi e ho pensato \u2014 perch\u00e9 non farne qualcosa di pi\u00f9 completo?\n\nEd eccoci qui \ud83d\ude0a\n\n# \ud83c\udf1f Cosa f\u00e1\n\n* \ud83d\ude89 Visualizza tutte le isocrone globalmente o seleziona una stazione specifica\n* \u23f1\ufe0f Clicca su qualsiasi isocrona per vedere quanto \u00e8 distante quel punto dalla stazione o dalla fermata\n* \ud83e\udded Ricerca integrata degli indirizzi\n* \ud83d\udccd Rilevamento automaticamente la tua posizione\n\n# \ud83d\udcac Aiuto!\n\nSto ancora lavorando attivamente al progetto, e qualsiasi feedback (bug, idee, suggerimenti) \u00e8 pi\u00f9 che benvenuto! cosa vi piace, cosa no vi piace, cosa aggiungere, cosa togliere, sono qu\u00ed per capire come procedere.\n\nAh, per i pi\u00fa nerd, tutto il codice sorgente \u00e8 open e [disponibile qui](https://github.com/nicolgit/proximity)\n\nGrazie per aver letto, fatemi sapere cosa ne pensate!",
-        "upvotes": 40,
+        "upvotes": 42,
         "comments": 9,
         "media": null,
         "permalink": "/r/torino/comments/1nzldk5/ho_creato_una_mappa_interattiva_per_visualizzare/"
@@ -73,7 +83,7 @@
         "author": "Bruno_Barbiere",
         "title": "In queste settimane sono fuori da Torino per lavoro, vi chiedo quindi: com'\u00e8 stato DAVVERO questo weekend di cortei e scioperi per Gaza? Violento con ingenti danni come i tg lo descrivono o tranquillo con casi isolati di violenza?",
         "content": "",
-        "upvotes": 86,
+        "upvotes": 85,
         "comments": 132,
         "media": {
             "type": "image",
@@ -86,7 +96,7 @@
         "author": "the_owl_doctor",
         "title": "\u00c8 un buon stipendio per Torino?",
         "content": "Ho ricevuto un'offerta da un'azienda italiana ma non conosco bene il costo della vita n\u00e9 gli stipendi medi in Italia. Sono un data engineer con 5 anni di esperienza.\n\n\nIl dettaglio dell'offerta \u00e8:\n\nRetribuzione annua lorda (14 mensilit\u00e0): 24.000 euro\nBuoni Pasto: 5,29 euro per giorno lavorativo\nIndennit\u00e0 giornaliera: 30 euro per giorno lavorativo\nRimborso spese mensile: 800 euro al mese\n\nQuindi, il totale netto mensile ammonterebbe a circa 3007 euro.\n\n \u00c8 uno stipendio adeguato?\n\nGrazie ",
-        "upvotes": 8,
+        "upvotes": 9,
         "comments": 49,
         "media": null,
         "permalink": "/r/torino/comments/1nzw7n2/\u00e8_un_buon_stipendio_per_torino/"
@@ -96,7 +106,7 @@
         "author": "One-Spot9425",
         "title": "vetro auto spaccato",
         "content": "\nCiao a tutti,  \nper l\u2019ennesima volta mi ritrovo con il vetro dell\u2019auto spaccato. Ormai \u00e8 diventata una triste abitudine. Questi maledetti, con una certa \u201cgentilezza\u201d, si preoccupano di rompere solo il vetro piccolo, giusto quel tanto che basta per aprire la macchina e rovistare dentro.\nIn auto non tengo nulla in vista, solo un paio di occhiali nel cassetto portaoggetti, che peraltro non hanno nemmeno toccato. il fatto \u00e8 avvenuto nella zona  Piazza Statuto cinema cityplez e San Donato. Un\u2019area che, almeno in apparenza, sembrerebbe tranquilla\u2026 ma la realt\u00e0 pian piano vedo peggiorare, anche se al momento nn si avvicina a certi quartieri.\nSi vedono spesso persone  che si drogano per strada, ovunque capiti, e lo spacciatore di turno che consegna come fosse un rider di Glovo sul monopattino o bici,  \u00c8 davvero uno schifo. E peggiora di giorno in giorno.\nOra, al di l\u00e0 dello sfogo, mi chiedo: ha senso fare denuncia? Non ho l\u2019assicurazione contro atti vandalici n\u00e9 quella per i cristalli. Per\u00f2 forse una denuncia potrebbe servire a far controllare un po\u2019 di pi\u00f9 la zona, o magari nel caso improbabile in cui trovassero il colpevole ottenere un risarcimento. Anche se, diciamocelo, sar\u00e0 quasi sicuramente nullatenente, quindi non ci sarebbe nulla da recuperare.\n\nQualcuno di voi ci \u00e8 gi\u00e0 passato?  \nAvete fatto denuncia? Vi ha portato a qualcosa?  \nFatemi sapere",
-        "upvotes": 7,
+        "upvotes": 9,
         "comments": 12,
         "media": null,
         "permalink": "/r/torino/comments/1nzu2x9/vetro_auto_spaccato/"
@@ -116,7 +126,7 @@
         "author": "2b__b2",
         "title": "Arriving late at Porta Susa (~11:30 PM) \u2013 is it safe to take a taxi to?",
         "content": "I\u2019ll be arriving in\u00a0**Turin around 11:30 PM**\u00a0at\u00a0**Porta Susa station**\u00a0(coming from Milan). I\u2019m planning to head to my reservation, and I was thinking of booking a taxi using\u00a0**Wetaxi**\u00a0instead of using public transport that late or public transport be safer? The place I am gonna stay is very near to porta susa around 1.1 km distance\n\nI just wanted to ask \u2014\n\n* Is it generally\u00a0**safe around Porta Susa at that time of night**?\n* Would you recommend any other option or area to be cautious about?\n\nIt\u2019s my\u00a0**first time in Italy**, so I\u2019m just trying to be a bit careful on my first night. Thanks a lot for any tips or reassurance!",
-        "upvotes": 15,
+        "upvotes": 17,
         "comments": 35,
         "media": null,
         "permalink": "/r/torino/comments/1nzcb7e/arriving_late_at_porta_susa_1130_pm_is_it_safe_to/"
@@ -186,7 +196,7 @@
         "author": "Individual-Egg3290",
         "title": "Digital nomad here, any good recommendations for co-work/co-live",
         "content": "Greetings all, \n\nI am a digital nomad, looking to work and travel. I have been to Torino once for 5 days and loved it. I am currently looking to go on a journey around Europe and stopping by there again, this time looking for 3-5 weeks. Are there any places that offer accommodation for such a stay, preferably with other nomads or short-term expats. The idea of all this is to meet as many new people as possible, so hotel and airbnb recommendations don't cut it for me. Any suggestions are welcomed!",
-        "upvotes": 2,
+        "upvotes": 1,
         "comments": 6,
         "media": null,
         "permalink": "/r/torino/comments/1nzcr9c/digital_nomad_here_any_good_recommendations_for/"
@@ -206,7 +216,7 @@
         "author": "bert87",
         "title": "Sometimes you Have to Look up",
         "content": "",
-        "upvotes": 268,
+        "upvotes": 272,
         "comments": 4,
         "media": {
             "type": "image",
@@ -249,7 +259,7 @@
         "author": "Intrepid-Routine-875",
         "title": "Ma come si fa il cambio di residenza a Torino?",
         "content": "Io sono abituata ai vecchi tempi in cui andavi al comune o alla circoscrizione di competenza, prendevi il biglietto e dichiaravi il nuovo indirizzo all'operatore, fine.\n\nQui a Torino ovunque dicono che si faccia soltanto online il cambio di residenza, e che serve la carta d'identit\u00e0 elettronica. Io la carta d'identit\u00e0 elettronica non ce l'ho e per farla mi richiedono la residenza.\n\nQuindi come ne esco? Come prendo la residenza a Torino?",
-        "upvotes": 4,
+        "upvotes": 5,
         "comments": 12,
         "media": null,
         "permalink": "/r/torino/comments/1nykypb/ma_come_si_fa_il_cambio_di_residenza_a_torino/"
@@ -303,15 +313,5 @@
         "comments": 21,
         "media": null,
         "permalink": "/r/torino/comments/1nyl11e/torino_borgo_vittoria/"
-    },
-    {
-        "id": "1nxuigc",
-        "author": "Zig389_",
-        "title": "Gtt",
-        "content": "Sento moltissime persone che si lamentano del servizio Gtt, ma io personalmente non lo vedo cos\u00ec male rispetto anche solo ad altre citt\u00e0. I pullman alcune volte sono in ritardo, ma solitamente dalla mia esperienza sono relativamente puntuali. La metro funziona molto bene e ha delle frequenze alte. Ditemi cosa ne pensate voi",
-        "upvotes": 32,
-        "comments": 44,
-        "media": null,
-        "permalink": "/r/torino/comments/1nxuigc/gtt/"
     }
 ]
