@@ -30,7 +30,7 @@
         "author": "Euphoric-Spare-2871",
         "title": "Pensate che negli ultimissimi anni (dal Covid a oggi) Torino stia cambiando in meglio o in peggio?",
         "content": "",
-        "upvotes": 13,
+        "upvotes": 14,
         "comments": 23,
         "media": null,
         "permalink": "/r/torino/comments/1o16mzv/pensate_che_negli_ultimissimi_anni_dal_covid_a/"
@@ -41,9 +41,19 @@
         "title": "Ristoranti buoni ma economici",
         "content": "Ciao ragazzi, potete indicarmi dei ristoranti buoni ma economici dove andare a cena? Pensavo a qualcosa tipo 40\u20ac a testa, meglio se piemontese ",
         "upvotes": 2,
-        "comments": 12,
+        "comments": 15,
         "media": null,
         "permalink": "/r/torino/comments/1o1beah/ristoranti_buoni_ma_economici/"
+    },
+    {
+        "id": "1o1gnpy",
+        "author": "Aggressive-Panda8084",
+        "title": "affitti brevi a Torino",
+        "content": "Ciao! A Novembre mi trasferir\u00f2 a Torino per due mesi per un tirocinio. A Torino \u00e8 difficile trovare stanze in affitto per affitti brevi di due mesi? ",
+        "upvotes": 1,
+        "comments": 0,
+        "media": null,
+        "permalink": "/r/torino/comments/1o1gnpy/affitti_brevi_a_torino/"
     },
     {
         "id": "1o1egl9",
@@ -120,7 +130,7 @@
         "author": "eza137",
         "title": "Tips about Torino for a one-day trip: is it worth a visit?",
         "content": "Ciao tutti! I'm visiting my brother in Cuneo. I'm more of a city person - I live in Berlin and grew up in S\u00e3o Paulo - and my brother likes mountains and nature. I've visited a few big Italian cities before, but not Turin, so I'm thinking of checking it out tomorrow while he's at work, and I'm on vacation.\n\nI'm thinking of visiting two museums, the Risorgimento Museum and the National Cinema Museum, and eating some regional food. I'm also thinking about renting a car and spending the weekend with my brother in the mountains. Another idea would be a visit to the university, if that is possible for visitors. Just to have an idea of its environment.\n\nDoes anyone have recommendations for good local restaurants or caf\u00e9s? Do you have any tips about renting a car and returning it on Sunday? I see that the city is culturally very rich ([WikiVoyage](https://en.wikivoyage.org/wiki/Turin)), so I am overwhelmed by the many possibilities.\n\nP.S. I can understand Italian because I lived here for a while, but I write much faster in English.",
-        "upvotes": 8,
+        "upvotes": 7,
         "comments": 14,
         "media": {
             "type": "image",
@@ -153,7 +163,7 @@
         "author": "Bruno_Barbiere",
         "title": "In queste settimane sono fuori da Torino per lavoro, vi chiedo quindi: com'\u00e8 stato DAVVERO questo weekend di cortei e scioperi per Gaza? Violento con ingenti danni come i tg lo descrivono o tranquillo con casi isolati di violenza?",
         "content": "",
-        "upvotes": 111,
+        "upvotes": 113,
         "comments": 157,
         "media": {
             "type": "image",
@@ -166,7 +176,7 @@
         "author": "Agitated-Standard627",
         "title": "Ho creato una mappa interattiva per visualizzare quanto siano ben collegate le diverse zone di Torino",
         "content": "# TLDR;\ud83d\ude89 Ho creato una mappa interattiva per visualizzare quanto siano ben collegate le diverse zone di Torino (e di altre citt\u00e0 italiane) tramite treni e tram \u2014 tutto \u00e8 iniziato da un post su Reddit!\n\nCiao a tutti! \ud83d\udc4b  \nVolevo condividere un progetto su cui ho lavorato: si chiama **The Proximity Project**, ed \u00e8 una mappa web interattiva che mostra quanto facilmente si possono raggiungere diverse aree dalla stazione di treno o tram pi\u00f9 vicina.\n\n\ud83d\udd17 **Provalo qui** \u2192 [https://proximity.duckiesfarm.com/italy/turin](https://proximity.duckiesfarm.com/italy/turin)\n\nhttps://i.redd.it/9p7tgl7w9itf1.gif\n\n# \ud83d\uddfa\ufe0f Cosa fa?\n\nVisualizza le **isochrone** \u2014 aree colorate che mostrano quanto sei distante (in minuti) dalla fermata di **treno** o **tram** pi\u00f9 vicina.  \nQuesto significa che puoi vedere immediatamente quali zone sono ben collegate da un trasporto pubblico **affidabile e su rotaia**, che tende a essere pi\u00f9 puntuale rispetto agli autobus, specialmente in citt\u00e0 come Roma.\n\nQuesto pu\u00f2 essere molto utile per:\n\n* **Turisti** che cercano alloggi a breve termine ben collegati, anche fuori dal centro storico\n* **Expat o lavoratori da remoto** che vogliono trovare un posto dove vivere senza bisogno di un'auto\n* **Residenti** che vogliono comprendere meglio la rete di trasporto pubblico della loro citt\u00e0\n\n# \ud83d\udca1 Come \u00e8 iniziato\n\nTempo fa, ho visto un [post su Reddit di un utente](https://www.reddit.com/r/roma/comments/1ib2ue7/mappa_di_roma_dentro_il_raccordo_indicando_in/) che aveva creato manualmente una mappa simile, solo per divertimento.  \nMi ha ispirato [a creare un piccolo prototipo](https://www.reddit.com/r/rome/comments/1j3gwkc/metroproximity_project/) mentre ero in viaggio per lavoro. Ho condiviso la versione iniziale qu\u00ed su Reddit, ho ricevuto feedback positivi e ho pensato \u2014 perch\u00e9 non farne qualcosa di pi\u00f9 completo?\n\nEd eccoci qui \ud83d\ude0a\n\n# \ud83c\udf1f Cosa f\u00e1\n\n* \ud83d\ude89 Visualizza tutte le isocrone globalmente o seleziona una stazione specifica\n* \u23f1\ufe0f Clicca su qualsiasi isocrona per vedere quanto \u00e8 distante quel punto dalla stazione o dalla fermata\n* \ud83e\udded Ricerca integrata degli indirizzi\n* \ud83d\udccd Rilevamento automaticamente la tua posizione\n\n# \ud83d\udcac Aiuto!\n\nSto ancora lavorando attivamente al progetto, e qualsiasi feedback (bug, idee, suggerimenti) \u00e8 pi\u00f9 che benvenuto! cosa vi piace, cosa no vi piace, cosa aggiungere, cosa togliere, sono qu\u00ed per capire come procedere.\n\nAh, per i pi\u00fa nerd, tutto il codice sorgente \u00e8 open e [disponibile qui](https://github.com/nicolgit/proximity)\n\nGrazie per aver letto, fatemi sapere cosa ne pensate!",
-        "upvotes": 44,
+        "upvotes": 42,
         "comments": 13,
         "media": null,
         "permalink": "/r/torino/comments/1nzldk5/ho_creato_una_mappa_interattiva_per_visualizzare/"
@@ -176,7 +186,7 @@
         "author": "the_owl_doctor",
         "title": "\u00c8 un buon stipendio per Torino?",
         "content": "Ho ricevuto un'offerta da un'azienda italiana ma non conosco bene il costo della vita n\u00e9 gli stipendi medi in Italia. Sono un data engineer con 5 anni di esperienza.\n\n\nIl dettaglio dell'offerta \u00e8:\n\nRetribuzione annua lorda (14 mensilit\u00e0): 24.000 euro\nBuoni Pasto: 5,29 euro per giorno lavorativo\nIndennit\u00e0 giornaliera: 30 euro per giorno lavorativo\nRimborso spese mensile: 800 euro al mese\n\nQuindi, il totale netto mensile ammonterebbe a circa 3007 euro.\n\n \u00c8 uno stipendio adeguato?\n\nGrazie ",
-        "upvotes": 10,
+        "upvotes": 9,
         "comments": 52,
         "media": null,
         "permalink": "/r/torino/comments/1nzw7n2/\u00e8_un_buon_stipendio_per_torino/"
@@ -186,7 +196,7 @@
         "author": "One-Spot9425",
         "title": "vetro auto spaccato",
         "content": "\nCiao a tutti,  \nper l\u2019ennesima volta mi ritrovo con il vetro dell\u2019auto spaccato. Ormai \u00e8 diventata una triste abitudine. Questi maledetti, con una certa \u201cgentilezza\u201d, si preoccupano di rompere solo il vetro piccolo, giusto quel tanto che basta per aprire la macchina e rovistare dentro.\nIn auto non tengo nulla in vista, solo un paio di occhiali nel cassetto portaoggetti, che peraltro non hanno nemmeno toccato. il fatto \u00e8 avvenuto nella zona  Piazza Statuto cinema cityplez e San Donato. Un\u2019area che, almeno in apparenza, sembrerebbe tranquilla\u2026 ma la realt\u00e0 pian piano vedo peggiorare, anche se al momento nn si avvicina a certi quartieri.\nSi vedono spesso persone  che si drogano per strada, ovunque capiti, e lo spacciatore di turno che consegna come fosse un rider di Glovo sul monopattino o bici,  \u00c8 davvero uno schifo. E peggiora di giorno in giorno.\nOra, al di l\u00e0 dello sfogo, mi chiedo: ha senso fare denuncia? Non ho l\u2019assicurazione contro atti vandalici n\u00e9 quella per i cristalli. Per\u00f2 forse una denuncia potrebbe servire a far controllare un po\u2019 di pi\u00f9 la zona, o magari nel caso improbabile in cui trovassero il colpevole ottenere un risarcimento. Anche se, diciamocelo, sar\u00e0 quasi sicuramente nullatenente, quindi non ci sarebbe nulla da recuperare.\n\nQualcuno di voi ci \u00e8 gi\u00e0 passato?  \nAvete fatto denuncia? Vi ha portato a qualcosa?  \nFatemi sapere",
-        "upvotes": 7,
+        "upvotes": 9,
         "comments": 13,
         "media": null,
         "permalink": "/r/torino/comments/1nzu2x9/vetro_auto_spaccato/"
@@ -196,7 +206,7 @@
         "author": "barbogia",
         "title": "Se vi piace twilight e la roba gratis entrate in questo post",
         "content": "Buon pomeriggio a tutti, creo questo post per cercare qualcuno che voglia due biglietti (VE LI REGALO) per la ri-proiezione di Twilight alle 18:30 di domani, 07/10/2025 al cinema The Space Torino in zona Dora.   \nMagari ci fare un regalo alla vostra ragazza mentre vi fate una pennichella al The Space.  \nNe approfitto per lamentarmi di come un'azienda come The Space, possa inserire il messaggio \"Funzione non ancora implementata\" sul tasto \"Richiedi rimborso\" del vostro sito di m\\*\\*\\*a incompleto.",
-        "upvotes": 8,
+        "upvotes": 7,
         "comments": 2,
         "media": null,
         "permalink": "/r/torino/comments/1nzhok6/se_vi_piace_twilight_e_la_roba_gratis_entrate_in/"
@@ -206,7 +216,7 @@
         "author": "2b__b2",
         "title": "Arriving late at Porta Susa (~11:30 PM) \u2013 is it safe to take a taxi to?",
         "content": "I\u2019ll be arriving in\u00a0**Turin around 11:30 PM**\u00a0at\u00a0**Porta Susa station**\u00a0(coming from Milan). I\u2019m planning to head to my reservation, and I was thinking of booking a taxi using\u00a0**Wetaxi**\u00a0instead of using public transport that late or public transport be safer? The place I am gonna stay is very near to porta susa around 1.1 km distance\n\nI just wanted to ask \u2014\n\n* Is it generally\u00a0**safe around Porta Susa at that time of night**?\n* Would you recommend any other option or area to be cautious about?\n\nIt\u2019s my\u00a0**first time in Italy**, so I\u2019m just trying to be a bit careful on my first night. Thanks a lot for any tips or reassurance!",
-        "upvotes": 16,
+        "upvotes": 17,
         "comments": 36,
         "media": null,
         "permalink": "/r/torino/comments/1nzcb7e/arriving_late_at_porta_susa_1130_pm_is_it_safe_to/"
@@ -266,7 +276,7 @@
         "author": "Individual-Egg3290",
         "title": "Digital nomad here, any good recommendations for co-work/co-live",
         "content": "Greetings all, \n\nI am a digital nomad, looking to work and travel. I have been to Torino once for 5 days and loved it. I am currently looking to go on a journey around Europe and stopping by there again, this time looking for 3-5 weeks. Are there any places that offer accommodation for such a stay, preferably with other nomads or short-term expats. The idea of all this is to meet as many new people as possible, so hotel and airbnb recommendations don't cut it for me. Any suggestions are welcomed!",
-        "upvotes": 1,
+        "upvotes": 0,
         "comments": 6,
         "media": null,
         "permalink": "/r/torino/comments/1nzcr9c/digital_nomad_here_any_good_recommendations_for/"
@@ -286,7 +296,7 @@
         "author": "bert87",
         "title": "Sometimes you Have to Look up",
         "content": "",
-        "upvotes": 300,
+        "upvotes": 297,
         "comments": 4,
         "media": {
             "type": "image",
@@ -303,15 +313,5 @@
         "comments": 2,
         "media": null,
         "permalink": "/r/torino/comments/1nz0m0x/pilates_e_yoga_a_torino/"
-    },
-    {
-        "id": "1nz3aeg",
-        "author": "Medium_Woodpecker887",
-        "title": "Ma la palestra di FitBoxe zona Dante ha chiuso??",
-        "content": "Ci sono passato qualche giorno fa e ho visto che vogliono sostituirla con una palestra di solo fitness, peccato mi sarebbe piaciuto iscrivermi.",
-        "upvotes": 1,
-        "comments": 0,
-        "media": null,
-        "permalink": "/r/torino/comments/1nz3aeg/ma_la_palestra_di_fitboxe_zona_dante_ha_chiuso/"
     }
 ]
