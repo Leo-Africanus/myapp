@@ -4,8 +4,8 @@
         "author": "shiruken",
         "title": "Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2025: Awarded to Joel Mokyr \"for having identified the prerequisites for sustained growth through technological progress\" and Philippe Aghion and Peter Howitt \"for the theory of sustained growth through creative destruction.\"",
         "content": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2025 was awarded to [Joel Mokyr](https://en.wikipedia.org/wiki/Joel_Mokyr) \"for having identified the prerequisites for sustained growth through technological progress\" and the other half jointly to [Philippe Aghion](https://en.wikipedia.org/wiki/Philippe_Aghion) and [Peter Howitt](https://en.wikipedia.org/wiki/Peter_Howitt_(economist)) \"for the theory of sustained growth through creative destruction.\"\n\n* [Official Press Release](https://www.nobelprize.org/prizes/economic-sciences/2025/press-release/)\n* [Popular Information](https://www.nobelprize.org/prizes/economic-sciences/2025/popular-information/)\n* [Scientific Explanation of the Award](https://www.nobelprize.org/prizes/economic-sciences/2025/advanced-information/)\n* [Video of the Prize Announcement](https://www.youtube.com/watch?v=EajZObplJ8U)\n\n&gt;Technology advances rapidly and affects us all, with new products and production methods replacing old ones in a never-ending cycle. This is the basis for sustained economic growth, which results in a better standard of living, health and quality of life for people around the globe.\n\n&gt;However, this was not always the case. Quite the opposite \u2013 stagnation was the norm throughout most of human history. Despite important discoveries now and again, which sometimes led to improved living conditions and higher incomes, growth always eventually levelled off.\n\n&gt;Joel Mokyr used historical sources as one means to uncover the causes of sustained growth becoming the new normal. He demonstrated that if innovations are to succeed one another in a self-generating process, we not only need to know that something works, but we also need to have scientific explanations for why. The latter was often lacking prior to the industrial revolution, which made it difficult to build upon new discoveries and inventions. He also emphasised the importance of society being open to new ideas and allowing change.\n\n&gt;Philippe Aghion and Peter Howitt also studied the mechanisms behind sustained growth. In an article from 1992, they constructed a mathematical model for what is called creative destruction: when a new and better product enters the market, the companies selling the older products lose out. The innovation represents something new and is thus creative. However, it is also destructive, as the company whose technology becomes pass\u00e9 is outcompeted.\n\n&gt;In different ways, the laureates show how creative destruction creates conflicts that must be managed in a constructive manner. Otherwise, innovation will be blocked by established companies and interest groups that risk being put at a disadvantage.\n\n&gt;\u201cThe laureates\u2019 work shows that economic growth cannot be taken for granted. We must uphold the mechanisms that underly creative destruction, so that we do not fall back into stagnation,\u201d says John Hassler, Chair of the Committee for the prize in economic sciences.",
-        "upvotes": 58,
-        "comments": 3,
+        "upvotes": 63,
+        "comments": 4,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/u1rZmVqAUe-D7vZViTXxNOCeU1-Ant85FA7vZCTrodY.jpeg?auto=webp&amp;s=3ad4e54a989a62ef671becb3b6d77cbcc4a6dbda"
@@ -13,22 +13,12 @@
         "permalink": "/r/science/comments/1o5m1il/sveriges_riksbank_prize_in_economic_sciences_in/"
     },
     {
-        "id": "1o84pus",
-        "author": "mvea",
-        "title": "Scientists developed a gene therapy for children with a rare immune condition known as ADA-SCID. They then followed the children\u2019s recovery and progression for an average of 7.5 years. Those treated had a 100% survival rate and over 95% of children were cured of their condition.",
-        "content": "",
-        "upvotes": 792,
-        "comments": 9,
-        "media": null,
-        "permalink": "/r/science/comments/1o84pus/scientists_developed_a_gene_therapy_for_children/"
-    },
-    {
         "id": "1o88max",
         "author": "New_Scientist_Mag",
         "title": "Researchers at the University of Washington in Seattle have shown that an mRNA version of a covid-19 nanoparticle vaccine produces an immune response in mice that is up to 28 times higher than that of a standard mRNA vaccine.",
         "content": "",
-        "upvotes": 481,
-        "comments": 11,
+        "upvotes": 3214,
+        "comments": 74,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/2CXSVHFzPq3cTBI777JOzpw_SKL0Vf30gF4wO3cXBEY.jpeg?auto=webp&amp;s=149e0f862e2d9dc7f4cab98aa500ddf269b2782c"
@@ -36,22 +26,101 @@
         "permalink": "/r/science/comments/1o88max/researchers_at_the_university_of_washington_in/"
     },
     {
+        "id": "1o8hkq6",
+        "author": "mvea",
+        "title": "People tend to become more supportive of conservative views during times of threat. In the U.S. and elsewhere, people usually see conservative political groups as tougher or more action-oriented. New study found that anger\u2014not fear\u2014was the main emotion tied to a shift toward conservative views.",
+        "content": "",
+        "upvotes": 753,
+        "comments": 185,
+        "media": null,
+        "permalink": "/r/science/comments/1o8hkq6/people_tend_to_become_more_supportive_of/"
+    },
+    {
+        "id": "1o89djw",
+        "author": "PhorosK",
+        "title": "In the largest double-blind randomized trial of its kind involving 1,000 healthy men aged 18\u201345, researchers found that testosterone administration does not alter risk-taking or generosity, as participants made the same economic choices as those who received a placebo.",
+        "content": "",
+        "upvotes": 1331,
+        "comments": 74,
+        "media": null,
+        "permalink": "/r/science/comments/1o89djw/in_the_largest_doubleblind_randomized_trial_of/"
+    },
+    {
+        "id": "1o8ilcs",
+        "author": "No-Lifeguard-8173",
+        "title": "JAMA: First-trimester exposure to mRNA COVID19 vaccines was not associated with an increased risk of major congenital malformations overall, by organ system, or by individual malformation.",
+        "content": "",
+        "upvotes": 365,
+        "comments": 3,
+        "media": null,
+        "permalink": "/r/science/comments/1o8ilcs/jama_firsttrimester_exposure_to_mrna_covid19/"
+    },
+    {
         "id": "1o828jt",
         "author": "Wagamaga",
         "title": "Invisible plastic fragments from common tableware are turning up in semen; now, researchers reveal how nanoscale particles may quietly sabotage male reproductive biology through cellular stress and self-destruction pathways.",
         "content": "",
-        "upvotes": 796,
-        "comments": 70,
+        "upvotes": 2044,
+        "comments": 163,
         "media": null,
         "permalink": "/r/science/comments/1o828jt/invisible_plastic_fragments_from_common_tableware/"
+    },
+    {
+        "id": "1o84pus",
+        "author": "mvea",
+        "title": "Scientists developed a gene therapy for children with a rare immune condition known as ADA-SCID. They then followed the children\u2019s recovery and progression for an average of 7.5 years. Those treated had a 100% survival rate and over 95% of children were cured of their condition.",
+        "content": "",
+        "upvotes": 1284,
+        "comments": 12,
+        "media": null,
+        "permalink": "/r/science/comments/1o84pus/scientists_developed_a_gene_therapy_for_children/"
+    },
+    {
+        "id": "1o8dcpb",
+        "author": "nohup_me",
+        "title": "Researchers have developed a new AI algorithm to automate the detection of a few cancer cells among millions of normal blood cells in approximately 10 minutes",
+        "content": "",
+        "upvotes": 320,
+        "comments": 27,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/-nG4sWTK_IoIsSrI5nBKqHfRdJirMYZZnxgTlPOkvfM.jpeg?auto=webp&amp;s=7233e8d9d47c1a068cc005884e34b86243545e8a"
+        },
+        "permalink": "/r/science/comments/1o8dcpb/researchers_have_developed_a_new_ai_algorithm_to/"
+    },
+    {
+        "id": "1o8g3bk",
+        "author": "Wagamaga",
+        "title": "Wildfire smoke linked to declines in sperm quality. Research found there was a decline in sperm concentration, total sperm count, total motile sperm count, and total progressively motile sperm count. There was also an increase in percent progressively motile sperm.",
+        "content": "",
+        "upvotes": 165,
+        "comments": 4,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/vq3cNnGAj7MjRyG3xfdhU1Ll4YyBdzLS_gQ-XJHbn5k.jpeg?auto=webp&amp;s=15da0623c0592a419db7dc9aae70fe0ce1e277e7"
+        },
+        "permalink": "/r/science/comments/1o8g3bk/wildfire_smoke_linked_to_declines_in_sperm/"
+    },
+    {
+        "id": "1o8h89u",
+        "author": "Dr_Neurol",
+        "title": "Programs that teach adolescents cognitive or behavioral strategies to engage with social media in a healthy manner appear to be more effective at improving long-term well-being than interventions that completely restrict social media use or warn adolescents of its negative effects.",
+        "content": "",
+        "upvotes": 110,
+        "comments": 5,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/x2LkJZIv4hvZuvnC4-TTeESTwbnAE_97zHLVYJNwEAg.jpeg?auto=webp&amp;s=270d464967f4fe7ca4ce4257e3916cf3316da252"
+        },
+        "permalink": "/r/science/comments/1o8h89u/programs_that_teach_adolescents_cognitive_or/"
     },
     {
         "id": "1o83gxb",
         "author": "chrisdh79",
         "title": "Scientists Discover Hidden Pulse in The Brain That May Warn of Dementia | Findings provide a missing link between what is seen in large vessel imaging and the microvascular damage observed in aging and Alzheimer's disease",
         "content": "",
-        "upvotes": 405,
-        "comments": 3,
+        "upvotes": 536,
+        "comments": 4,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/VUJWSm6IXqLEMBEBUyLi96m_I-odWZL10PIdeWORfNo.jpeg?auto=webp&amp;s=61fa496d61449eb51e5ffeedbe9cdb90527c2ac2"
@@ -59,22 +128,38 @@
         "permalink": "/r/science/comments/1o83gxb/scientists_discover_hidden_pulse_in_the_brain/"
     },
     {
-        "id": "1o89djw",
-        "author": "PhorosK",
-        "title": "In the largest double-blind randomized trial of its kind involving 1,000 healthy men aged 18\u201345, researchers found that testosterone administration does not alter risk-taking or generosity, as participants made the same economic choices as those who received a placebo.",
+        "id": "1o8cfey",
+        "author": "nohup_me",
+        "title": "A new simple blood test could provide faster and more accurate diagnosis of ALS by measuring cell-free DNA, and this test could eventually allow neurologists to rule out other neurological diseases and also detect ALS disease earlier to provide better treatment and improve life expectancy",
         "content": "",
-        "upvotes": 173,
-        "comments": 24,
-        "media": null,
-        "permalink": "/r/science/comments/1o89djw/in_the_largest_doubleblind_randomized_trial_of/"
+        "upvotes": 76,
+        "comments": 7,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/j83yh8Spyi2YqziT_TzeOEPJ2Gzk07hTGCTXrgVN5JU.jpeg?auto=webp&amp;s=2c4b69f6201a165298a5c5e75d8880d53cdcc4dc"
+        },
+        "permalink": "/r/science/comments/1o8cfey/a_new_simple_blood_test_could_provide_faster_and/"
+    },
+    {
+        "id": "1o8lkt9",
+        "author": "LurkerFromTheVoid",
+        "title": "Sex-specific longitudinal reversal of aging in old frail mice | Aging",
+        "content": "",
+        "upvotes": 27,
+        "comments": 5,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/jnH8dm0LNBhX0ELYkRQ_HVd_H6jWO7yBy-yyh49wdOs.png?auto=webp&amp;s=a0b3d8e8424461ea38a5d05b6b7003e0230036f5"
+        },
+        "permalink": "/r/science/comments/1o8lkt9/sexspecific_longitudinal_reversal_of_aging_in_old/"
     },
     {
         "id": "1o7dfn7",
         "author": "MassGen-Research",
         "title": "Study Indicates Dramatic Increase in Percentage of U.S. Adults Who Meet New Definition of Obesity (from 42.9% to 68.6%)",
         "content": "",
-        "upvotes": 8301,
-        "comments": 1275,
+        "upvotes": 8651,
+        "comments": 1308,
         "media": null,
         "permalink": "/r/science/comments/1o7dfn7/study_indicates_dramatic_increase_in_percentage/"
     },
@@ -83,8 +168,8 @@
         "author": "Wagamaga",
         "title": "New research shows people often reach their all-around mental and emotional peak around age 60, not in their twenties. While quick thinking slows with age, experience, judgment, and emotional balance keep improving through midlife",
         "content": "",
-        "upvotes": 6276,
-        "comments": 114,
+        "upvotes": 6823,
+        "comments": 119,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/xGFADQgd51k8cZA-xpjQscYRjOIG86HwgCd-JYuasaU.jpeg?auto=webp&amp;s=656902605b85e2231a3b164f260cdce091c2e971"
@@ -96,8 +181,8 @@
         "author": "mvea",
         "title": "When single men use pornography but believe doing so is wrong, this conflict can increase sexual shame and loneliness, which in turn may lead to depression. However, secure attachments with a best friend appear to lessen the psychological toll of this moral conflict.",
         "content": "",
-        "upvotes": 1002,
-        "comments": 228,
+        "upvotes": 1167,
+        "comments": 249,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/zZCBMVkGoJeybM9z_clTz_sOFm3sO9fIN8YfoNf7xRY.jpeg?auto=webp&amp;s=544be17287a181f4ff4f41179e464a4fdbfaa92d"
@@ -109,8 +194,8 @@
         "author": "smurfyjenkins",
         "title": "Many of the largest tech firms in the US made \"no-poaching\" agreements (colluding to not hire each other's employees). Evidence indicates that such collusion reduced salaries at colluding firms by 5.6%, as well as negatively affected stock bonuses and job satisfaction.",
         "content": "",
-        "upvotes": 3971,
-        "comments": 84,
+        "upvotes": 4263,
+        "comments": 92,
         "media": null,
         "permalink": "/r/science/comments/1o7ftwg/many_of_the_largest_tech_firms_in_the_us_made/"
     },
@@ -119,8 +204,8 @@
         "author": "mvea",
         "title": "New dementia risk factor identified: Time poverty. Study found that those who experience a lack of time to devote to self care \u2013 a condition known as \"time poverty\" \u2013 are more likely to develop dementia than those who have sufficient time in their days to look after themselves.",
         "content": "",
-        "upvotes": 4352,
-        "comments": 81,
+        "upvotes": 4719,
+        "comments": 86,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/zd2eLQnjVaxb_nJ55O2KxLhgiEYNcXorlGyF53a4V_w.jpeg?auto=webp&amp;s=18fd4fe9111411e5fb807f9e904acbe3226a8c21"
@@ -128,12 +213,35 @@
         "permalink": "/r/science/comments/1o7dsmq/new_dementia_risk_factor_identified_time_poverty/"
     },
     {
+        "id": "1o8es2g",
+        "author": "Oncotarget",
+        "title": "Widespread folate receptor expression in pediatric and adolescent solid tumors - opportunity for intraoperative visualization with the novel fluorescent agent pafolacianine",
+        "content": "",
+        "upvotes": 13,
+        "comments": 1,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/de4k2xP-9AnwzLdqCaEisr7rtYUbBA2ly3sdTZzxCAE.png?auto=webp&amp;s=aa7b0476b344e47e21b37116b8bfc321e7558ee1"
+        },
+        "permalink": "/r/science/comments/1o8es2g/widespread_folate_receptor_expression_in/"
+    },
+    {
+        "id": "1o8gfch",
+        "author": "PhorosK",
+        "title": "New research reveals that global sea levels rose and fell dramatically throughout the last Ice Age, not just at its end, reshaping our understanding of how massive ice sheets grew, decayed, and influenced Earth's climate stability.",
+        "content": "",
+        "upvotes": 13,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1o8gfch/new_research_reveals_that_global_sea_levels_rose/"
+    },
+    {
         "id": "1o7gvh7",
         "author": "thebelsnickle1991",
         "title": "Study shows how domestic abusers build \u2018trauma bonds\u2019 with victims before violence begins",
         "content": "",
-        "upvotes": 1225,
-        "comments": 88,
+        "upvotes": 1494,
+        "comments": 100,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/Q5Y5qUQjCebZHsXuRm5iZP9DJwePpR3k1qrN6WLwaZY.jpeg?auto=webp&amp;s=bc2e6fe107a1db94ba8ec555cefffb844b30f760"
@@ -145,8 +253,8 @@
         "author": "chrisdh79",
         "title": "People who score higher on certain psychopathic traits may actually have a sharper understanding of other people\u2019s thoughts and intentions | The findings suggest that this form of psychopathy might be linked to a clearer but emotionally disengaged view of others\u2019 minds.",
         "content": "",
-        "upvotes": 1643,
-        "comments": 140,
+        "upvotes": 1801,
+        "comments": 150,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/53XQrsr1zz9tjVnYAsfp9vVs2Sqk4Z-wwVuTnQGjdFQ.jpeg?auto=webp&amp;s=b58a561f23c5673bb78141f0108696087d57224b"
@@ -158,17 +266,27 @@
         "author": "Successful_Shoe_8732",
         "title": "A fast-paced computerized cognitive training program restored acetylcholine levels in the brain, equivalent to reversing about a decade of age-related decline. Non-speeded brain games like Solitaire showed no effect.",
         "content": "",
-        "upvotes": 136,
-        "comments": 27,
+        "upvotes": 149,
+        "comments": 30,
         "media": null,
         "permalink": "/r/science/comments/1o7wl8b/a_fastpaced_computerized_cognitive_training/"
+    },
+    {
+        "id": "1o891af",
+        "author": "craig_biggio",
+        "title": "Ocean acidity can be measured by listening to ambient sound",
+        "content": "",
+        "upvotes": 17,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1o891af/ocean_acidity_can_be_measured_by_listening_to/"
     },
     {
         "id": "1o7sb9q",
         "author": "sciencealert",
         "title": "Unexpectedly, X-rays reveal Betelgeuse's binary companion is a young, Sun-like star",
         "content": "",
-        "upvotes": 214,
+        "upvotes": 234,
         "comments": 5,
         "media": {
             "type": "image",
@@ -181,8 +299,8 @@
         "author": "likeawildbirdofprey",
         "title": "Australian wet rainforests may be switching from absorbing carbon to emitting it",
         "content": "",
-        "upvotes": 271,
-        "comments": 15,
+        "upvotes": 293,
+        "comments": 17,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/K5SWgJZ8wUcOKUpbsM9_Zim8TtoX4e7uvFtO27QqWzI.jpeg?auto=webp&amp;s=3ed4fbd1a9b179f82f9c29b17341d8894dcb2ad4"
@@ -190,22 +308,25 @@
         "permalink": "/r/science/comments/1o7q0bn/australian_wet_rainforests_may_be_switching_from/"
     },
     {
-        "id": "1o891af",
-        "author": "craig_biggio",
-        "title": "Ocean acidity can be measured by listening to ambient sound",
+        "id": "1o8ev3n",
+        "author": "AgingUS",
+        "title": "Roles of plasminogen activator inhibitor-1 in aging-related muscle and bone loss in mice",
         "content": "",
-        "upvotes": 11,
+        "upvotes": 5,
         "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1o891af/ocean_acidity_can_be_measured_by_listening_to/"
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/wOhcSWXHGUZG5zanFIl9ToOMEJ4_H-GGd-zqVY2ZyE8.png?auto=webp&amp;s=16df00c9225ec1f120e2df5bdbe96817ef9dce50"
+        },
+        "permalink": "/r/science/comments/1o8ev3n/roles_of_plasminogen_activator_inhibitor1_in/"
     },
     {
         "id": "1o792eg",
         "author": "mvea",
         "title": "The nocebo effect, not gluten, may trigger symptoms for many with IBS. Study found no significant difference in symptom flare-ups when these patients consumed bars containing wheat, purified gluten, or a gluten-free sham substance.",
         "content": "",
-        "upvotes": 1570,
-        "comments": 200,
+        "upvotes": 1638,
+        "comments": 202,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/D5dXKgrIII4NwztOjznE2WhbKsSxq9gwLhimVI30pBQ.jpeg?auto=webp&amp;s=5c343e5970108c22c4f4869c51f2f2bbd027d1ce"
@@ -217,8 +338,8 @@
         "author": "Naurgul",
         "title": "Winning with misinformation: New research identifies link between endorsing easily disproven claims and prioritizing symbolic strength",
         "content": "",
-        "upvotes": 422,
-        "comments": 17,
+        "upvotes": 461,
+        "comments": 18,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/1K3DhHypAufw9LX2LiJoz8EUb5UQCz4PFVSLLVuJIFM.jpeg?auto=webp&amp;s=fa5df5b419743c05f3911f78bd287c39a938803a"
@@ -230,136 +351,12 @@
         "author": "sciencealert",
         "title": "A new analysis of 51 fossilized hominid teeth found lead has haunted us for almost 2 million years \u2013 but modern human brains seem better equipped to deal with it than Neanderthals.",
         "content": "",
-        "upvotes": 372,
+        "upvotes": 421,
         "comments": 15,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/f3f53nHHw4sYP7uyoEZw7xgcKjvDN-J6hKn1JCVZ7Us.jpeg?auto=webp&amp;s=a86192a7f79b685a1bd97a41fe5142d0c32edf18"
         },
         "permalink": "/r/science/comments/1o7iowb/a_new_analysis_of_51_fossilized_hominid_teeth/"
-    },
-    {
-        "id": "1o6v6t2",
-        "author": "mvea",
-        "title": "Beached dolphins show signs of Alzheimer's due to polluted waters: stranded dolphins showed brain damage eerily similar to that of people with Alzheimer's. Just as people with dementia sometimes wander far from home, scientists think dolphins with Alzheimer's might get confused at sea.",
-        "content": "",
-        "upvotes": 14597,
-        "comments": 121,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/ZIFnfdybZ_KanJwQDNvPE4iJNDg8jlGkZZz33cVw3MA.jpeg?auto=webp&amp;s=b7df239b0ce603d6ebdaf549b3e9d50874e663d6"
-        },
-        "permalink": "/r/science/comments/1o6v6t2/beached_dolphins_show_signs_of_alzheimers_due_to/"
-    },
-    {
-        "id": "1o7tbdp",
-        "author": "PhorosK",
-        "title": "Human-caused climate change amplified extreme wildfire seasons across the Americas, making burned areas up to 35 times larger from Los Angeles to the Pantanal-Chiquitano region, and driving record-breaking fires in the Amazon and Congo under a rapidly warming atmosphere.",
-        "content": "",
-        "upvotes": 67,
-        "comments": 1,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/DKuxQG6UUG5hWsrqn0KJkACyf8ZspcCMM98kcTk9T08.png?auto=webp&amp;s=3098a9e45fdb3353b434085fabd5e2105fd8cf56"
-        },
-        "permalink": "/r/science/comments/1o7tbdp/humancaused_climate_change_amplified_extreme/"
-    },
-    {
-        "id": "1o7vq5q",
-        "author": "Environmental_Lab527",
-        "title": "A common chemical makes malaria drugs work better by blocking a parasite enzyme",
-        "content": "",
-        "upvotes": 39,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/science/comments/1o7vq5q/a_common_chemical_makes_malaria_drugs_work_better/"
-    },
-    {
-        "id": "1o7dtpu",
-        "author": "sciencealert",
-        "title": "Flatworms can regenerate from almost any fragment \u2013 even a severed head can grow itself a whole new body in a matter of days. New research shows how their stem cells drive this regrowth, offering clues for future human tissue repair.",
-        "content": "",
-        "upvotes": 300,
-        "comments": 11,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/KIRYApSIOuoquVj6f-7q_AIBSeR1bf5FCSeM3hRmmSM.jpeg?auto=webp&amp;s=761d5323d403ba348847695a946ac95ae8062a43"
-        },
-        "permalink": "/r/science/comments/1o7dtpu/flatworms_can_regenerate_from_almost_any_fragment/"
-    },
-    {
-        "id": "1o7wz61",
-        "author": "Super_Letterhead381",
-        "title": "New Species of Triassic Carnivorous Dinosaur Identified in Argentina",
-        "content": "",
-        "upvotes": 27,
-        "comments": 1,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/-xTOHSG89UBrg1Z53q9LOwuNs0WqwcQbpM8zmHofaNw.jpeg?auto=webp&amp;s=09d544888e35c41e78c8e7f82fde81d13690dd0a"
-        },
-        "permalink": "/r/science/comments/1o7wz61/new_species_of_triassic_carnivorous_dinosaur/"
-    },
-    {
-        "id": "1o6wr50",
-        "author": "sciencealert",
-        "title": "A strange new phase of ice has been discovered during experiments with the world's largest X-ray laser. Named ice XXI, the bizarre phase forms at room temperature, under extreme pressure.",
-        "content": "",
-        "upvotes": 3985,
-        "comments": 160,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/IlMqmpO-_xK_ha9lFux7MvD64SNVRBvzD45Y2RcjNwA.jpeg?auto=webp&amp;s=649150d5eeeb75fcc240972835f9dc3f6b388df5"
-        },
-        "permalink": "/r/science/comments/1o6wr50/a_strange_new_phase_of_ice_has_been_discovered/"
-    },
-    {
-        "id": "1o74pue",
-        "author": "Nekronean",
-        "title": "Youth crime rates in sharp decline",
-        "content": "",
-        "upvotes": 972,
-        "comments": 127,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/NUQMuj0B1SncBm7kSTupUmAfLd64aHnu8q1AK8IWemc.jpeg?auto=webp&amp;s=cd7ffd9fbff712ab273c51426502235011fe2d3c"
-        },
-        "permalink": "/r/science/comments/1o74pue/youth_crime_rates_in_sharp_decline/"
-    },
-    {
-        "id": "1o7ocpm",
-        "author": "drewiepoodle",
-        "title": "Interior of far side of moon may be colder than side facing Earth, suggests new analysis of rock samples. Researchers confirm previous sample findings: age approx 2.8 billion years old; probably formed from deep interior lava around 1100\u00b0C, about 100\u00b0C cooler than existing samples from near side",
-        "content": "",
-        "upvotes": 60,
-        "comments": 13,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/gXtgrRQ4lBo3YHdjqhRnEXNt_LquThA6qCqQWDQNWBc.png?auto=webp&amp;s=6034cc65740e2e7a02ee60d1026f0bdcfda7adee"
-        },
-        "permalink": "/r/science/comments/1o7ocpm/interior_of_far_side_of_moon_may_be_colder_than/"
-    },
-    {
-        "id": "1o762jl",
-        "author": "Wagamaga",
-        "title": "Loneliness  linked to heightened risk of death in those with cancer. Among 1.5 million participants, loneliness was linked to a 34% increased risk of death of any cause. It's possibly the stress of loneliness is having a physical impact on cancer patients that could be impacting their health",
-        "content": "",
-        "upvotes": 590,
-        "comments": 20,
-        "media": null,
-        "permalink": "/r/science/comments/1o762jl/loneliness_linked_to_heightened_risk_of_death_in/"
-    },
-    {
-        "id": "1o7h7w8",
-        "author": "nohup_me",
-        "title": "Researchers have developed a new portable handheld device that can detect minuscule levels of PFAS (250 ppq), known as 'forever chemicals,' in water within minutes",
-        "content": "",
-        "upvotes": 122,
-        "comments": 9,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/kB5vkyvgw59ke4hBqfZJb8bUcBD8VD9ADM-_zSdQ_bo.jpeg?auto=webp&amp;s=1060d47e05d170ff1ff38b245f96604441a638b7"
-        },
-        "permalink": "/r/science/comments/1o7h7w8/researchers_have_developed_a_new_portable/"
     }
 ]
