@@ -4,8 +4,8 @@
         "author": "seeebiscuit",
         "title": "Mathematicians Just Found a Hidden 'Reset Button' That Can Undo Any Rotation",
         "content": "",
-        "upvotes": 5247,
-        "comments": 440,
+        "upvotes": 5445,
+        "comments": 452,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/zRufxB3xGiE3huHBXwvDbDJE62622qg8Qf4n8GKh8to.jpeg?auto=webp&amp;s=4f292432ea69413dcd4fcbf56c2d380169a31ba3"
@@ -17,7 +17,7 @@
         "author": "sciencealert",
         "title": "Scientists have identified a single gene that gives rise to a rare form of diabetes, unique to newborn babies",
         "content": "",
-        "upvotes": 531,
+        "upvotes": 604,
         "comments": 1,
         "media": {
             "type": "image",
@@ -30,8 +30,8 @@
         "author": "nohup_me",
         "title": "Expanding hydrogel-based pill offers new affordable weight loss treatment after successful clinical trial. Once swallowed, it expands in the stomach to induce a feeling of fullness faster, thereby reducing food intake without needing strong medications or injections",
         "content": "",
-        "upvotes": 2020,
-        "comments": 252,
+        "upvotes": 2016,
+        "comments": 253,
         "media": null,
         "permalink": "/r/science/comments/1oaw2p8/expanding_hydrogelbased_pill_offers_new/"
     },
@@ -40,8 +40,8 @@
         "author": "mvea",
         "title": "Poorer health linked to more votes for Reform UK in England. Internationally, countries have seen a rise in the support for populist right wing political parties. Previous studies have suggested that in Europe and the US, this support may be linked to worsening health outcomes.",
         "content": "",
-        "upvotes": 873,
-        "comments": 80,
+        "upvotes": 887,
+        "comments": 81,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/raP0MfSQ4XpNyQFyoitTnci5Sebon1Poa-Tu4Wmhaxg.jpeg?auto=webp&amp;s=73fea738e3cc50250f8d1024c85db8f1d76c801a"
@@ -53,7 +53,7 @@
         "author": "mvea",
         "title": "Cannabis use during adolescence and young adulthood is associated with more frequent psychotic-like experiences. These experiences may resemble symptoms of psychosis but do not typically meet clinical thresholds.",
         "content": "",
-        "upvotes": 5221,
+        "upvotes": 5228,
         "comments": 517,
         "media": {
             "type": "image",
@@ -62,21 +62,11 @@
         "permalink": "/r/science/comments/1oaltzu/cannabis_use_during_adolescence_and_young/"
     },
     {
-        "id": "1obcltk",
-        "author": "ludwig_scientist",
-        "title": "Using your native language can temporarily \"shield\" your brain from making specific grammar errors in your second language that you would normally make",
-        "content": "",
-        "upvotes": 46,
-        "comments": 12,
-        "media": null,
-        "permalink": "/r/science/comments/1obcltk/using_your_native_language_can_temporarily_shield/"
-    },
-    {
         "id": "1obe1e7",
         "author": "Wagamaga",
         "title": "Early-life sugar restriction is linked to lower adult asthma and COPD risk. Individuals who experienced sugar restriction both in the womb and for one to two years after birth had a 25% lower risk of developing asthma and a 27% lower risk of developing chronic obstructive pulmonary disease",
         "content": "",
-        "upvotes": 26,
+        "upvotes": 45,
         "comments": 4,
         "media": {
             "type": "image",
@@ -85,12 +75,22 @@
         "permalink": "/r/science/comments/1obe1e7/earlylife_sugar_restriction_is_linked_to_lower/"
     },
     {
+        "id": "1obcltk",
+        "author": "ludwig_scientist",
+        "title": "Using your native language can temporarily \"shield\" your brain from making specific grammar errors in your second language that you would normally make",
+        "content": "",
+        "upvotes": 55,
+        "comments": 11,
+        "media": null,
+        "permalink": "/r/science/comments/1obcltk/using_your_native_language_can_temporarily_shield/"
+    },
+    {
         "id": "1obe6x9",
         "author": "mvea",
         "title": "Sexual consent tends to decline with age for women who have experienced nonconsensual sex. The findings suggest that the effects of sexual trauma on consent may be persistent and may influence how sexual agency is experienced well into adulthood.",
         "content": "",
-        "upvotes": 16,
-        "comments": 4,
+        "upvotes": 27,
+        "comments": 6,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/wQ7fRI3cPJwkBtuSuPLRr4BDWcJU8i2C0rY9M4ZmFzE.jpeg?auto=webp&amp;s=d669ce2955ba0a48a8275b1c2f7a595c082fd954"
@@ -102,7 +102,7 @@
         "author": "mvea",
         "title": "Popular hair loss drug linked to higher suicide risk: compared to non-users, finasteride (Proscar/ Propecia) users have a markedly increased risk of depression, anxiety, and suicidal thoughts. Over 30 years of observation, 19,320 suicides were expected.",
         "content": "",
-        "upvotes": 7846,
+        "upvotes": 7849,
         "comments": 835,
         "media": {
             "type": "image",
@@ -111,11 +111,24 @@
         "permalink": "/r/science/comments/1oa9aj3/popular_hair_loss_drug_linked_to_higher_suicide/"
     },
     {
+        "id": "1obel3u",
+        "author": "Wagamaga",
+        "title": "Scientists from the University of Barcelona have created the most detailed map of the Antarctic seabed, where they discovered 332 colossal underwater canyons \u2013 some of them reaching depths of over 4 kilometers. This discovery could change perceptions of Antarctica's impact on global climate change",
+        "content": "",
+        "upvotes": 7,
+        "comments": 2,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/4OlZOYw3NhFLHWjngIyod4mu5K-U5THxQpbv8MZBDcA.jpeg?auto=webp&amp;s=97ea4bc3d38728ae4fb0a9f218fbd5ef0905c291"
+        },
+        "permalink": "/r/science/comments/1obel3u/scientists_from_the_university_of_barcelona_have/"
+    },
+    {
         "id": "1oa987i",
         "author": "PhorosK",
         "title": "The world\u2019s oceans are losing their greenness due to global heating, as a long-term study shows a sharp decline in phytoplankton, the tiny organisms driving half of Earth\u2019s productivity, threatening carbon absorption, oxygen levels, and marine food chains.",
         "content": "",
-        "upvotes": 2818,
+        "upvotes": 2820,
         "comments": 55,
         "media": {
             "type": "image",
@@ -128,7 +141,7 @@
         "author": "StrictCan3526",
         "title": "Procrastination can decrease after a 1-minute reflection. In a study of more than 1,000 adults, answering six short questions increased motivation, improved mood, and made people more likely to begin tasks they had been delaying.",
         "content": "",
-        "upvotes": 6495,
+        "upvotes": 6509,
         "comments": 307,
         "media": null,
         "permalink": "/r/science/comments/1o9ydzp/procrastination_can_decrease_after_a_1minute/"
@@ -138,27 +151,17 @@
         "author": "theacceptedway",
         "title": "Phylogenomics redefines the evolutionary history of mosquitoes",
         "content": "",
-        "upvotes": 30,
+        "upvotes": 33,
         "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1oax6t3/phylogenomics_redefines_the_evolutionary_history/"
-    },
-    {
-        "id": "1obel3u",
-        "author": "Wagamaga",
-        "title": "Scientists from the University of Barcelona have created the most detailed map of the Antarctic seabed, where they discovered 332 colossal underwater canyons \u2013 some of them reaching depths of over 4 kilometers. This discovery could change perceptions of Antarctica's impact on global climate change",
-        "content": "",
-        "upvotes": 1,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/science/comments/1obel3u/scientists_from_the_university_of_barcelona_have/"
     },
     {
         "id": "1o9uk6k",
         "author": "mvea",
         "title": "New monoclonal antibody provides full protection against malaria parasite: In new double-blind, placebo-controlled trial, people were exposed to mosquitos carrying malaria, several months after dosing. None who received highest dose of antibody developed infection, compared to all in placebo group.",
         "content": "",
-        "upvotes": 2936,
+        "upvotes": 2932,
         "comments": 43,
         "media": null,
         "permalink": "/r/science/comments/1o9uk6k/new_monoclonal_antibody_provides_full_protection/"
@@ -168,7 +171,7 @@
         "author": "thevishal365",
         "title": "Minimum wage policies and obstetric disorders in the U.S.",
         "content": "",
-        "upvotes": 57,
+        "upvotes": 60,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1oakm0y/minimum_wage_policies_and_obstetric_disorders_in/"
@@ -178,7 +181,7 @@
         "author": "nohup_me",
         "title": "Researchers have demonstrated the first pill-sized bioprinter that can be swallowed and guided within the gastrointestinal tract, where it directly deposits bio-ink over damaged tissues to support repair",
         "content": "",
-        "upvotes": 773,
+        "upvotes": 769,
         "comments": 6,
         "media": {
             "type": "image",
@@ -191,7 +194,7 @@
         "author": "F0urLeafCl0ver",
         "title": "German far right setting agenda as opponents amplify its ideas, study finds",
         "content": "",
-        "upvotes": 1663,
+        "upvotes": 1664,
         "comments": 186,
         "media": {
             "type": "image",
@@ -204,7 +207,7 @@
         "author": "SystematicApproach",
         "title": "Scientists have developed the first single organic material that can both emit light and generate electricity. An organic radical semiconductor that could pave the way for self-powered solar LEDs, wearable devices, and flexible electronics",
         "content": "",
-        "upvotes": 400,
+        "upvotes": 395,
         "comments": 5,
         "media": null,
         "permalink": "/r/science/comments/1oa7fsl/scientists_have_developed_the_first_single/"
@@ -214,7 +217,7 @@
         "author": "FunnyGamer97",
         "title": "Results show belzutifan shrinks rare neuroendocrine tumors and improves symptoms in patients | Phase II trial finds Belzutifan significantly shrinks advanced, inoperable pheochromocytoma and paraganglioma tumors and improved related symptoms",
         "content": "",
-        "upvotes": 170,
+        "upvotes": 173,
         "comments": 3,
         "media": null,
         "permalink": "/r/science/comments/1oa5exy/results_show_belzutifan_shrinks_rare/"
@@ -224,8 +227,8 @@
         "author": "mvea",
         "title": "\u201cReminiscence bump\u201d is our tendency to form strongest emotional ties to music from teenage years. With men, it\u2019s rebellious genres for identity. With women, pop, soul or classical for social bonds. Often with music released before we were born, typically from 25 years earlier, introduced by parents.",
         "content": "",
-        "upvotes": 3345,
-        "comments": 206,
+        "upvotes": 3343,
+        "comments": 207,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/wMq0mlJAWwTLX6LltZsj1Vudzj_f_4Is8W8RD7hcoCs.jpeg?auto=webp&amp;s=d157fae5bffa778c2d4ec289f3b35014f553babf"
@@ -237,7 +240,7 @@
         "author": "bluish1997",
         "title": "Emergence of antiphage functions from random sequence libraries reveals mechanisms of gene birth",
         "content": "",
-        "upvotes": 36,
+        "upvotes": 35,
         "comments": 3,
         "media": null,
         "permalink": "/r/science/comments/1oa9nsw/emergence_of_antiphage_functions_from_random/"
@@ -247,7 +250,7 @@
         "author": "FunnyGamer97",
         "title": "Researchers find a new way to measure biological age: New AI-powered \u201caging clock\u201d called gtAge, which integrates immune-system glycan data and blood-cell gene-activity profiles to estimate biological age with about 85% accuracy and correlate it with health markers",
         "content": "",
-        "upvotes": 52,
+        "upvotes": 53,
         "comments": 14,
         "media": null,
         "permalink": "/r/science/comments/1oa5jhl/researchers_find_a_new_way_to_measure_biological/"
@@ -257,7 +260,7 @@
         "author": "mvea",
         "title": "Americans\u2019 attitudes toward immigration shaped not only by culture or economy but also by how immigrants vote. When Americans were told that certain immigrant groups favored Donald Trump and Republican Party, Republicans became more supportive of immigration, while Democrats less supportive.",
         "content": "",
-        "upvotes": 1488,
+        "upvotes": 1493,
         "comments": 186,
         "media": {
             "type": "image",
@@ -270,7 +273,7 @@
         "author": "Cad_Lin",
         "title": "In everyday speech, we often use verbs of action to describe situations with no real activity. A new registered project is designed to investigate the linguistic properties that make sentences like \u201cThis lid opens easily\u201d express a state rather than an event.",
         "content": "",
-        "upvotes": 88,
+        "upvotes": 89,
         "comments": 13,
         "media": {
             "type": "image",
@@ -283,7 +286,7 @@
         "author": "calliope_kekule",
         "title": "Fear of supernatural punishment can harmonize human societies with nature: an evolutionary game-theoretic approach - Humanities and Social Sciences Communications",
         "content": "",
-        "upvotes": 274,
+        "upvotes": 271,
         "comments": 46,
         "media": {
             "type": "image",
@@ -296,7 +299,7 @@
         "author": "chrisdh79",
         "title": "People Taking Ozempic Say Booze Just Doesn\u2019t Hit Same | Research found that people taking GLP-1 receptor agonists \u2014 medications like Ozempic, Mounjaro, and Saxenda absorb alcohol more slowly and feel less drunk when drinking.",
         "content": "",
-        "upvotes": 2295,
+        "upvotes": 2287,
         "comments": 186,
         "media": null,
         "permalink": "/r/science/comments/1o95kaq/people_taking_ozempic_say_booze_just_doesnt_hit/"
@@ -306,7 +309,7 @@
         "author": "wilmske",
         "title": "Developing a cryopreservation protocol for the conservation of coconut palm (Cocos nucifera L.) using a novel type of explant, meristematic clumps | cryoletters",
         "content": "",
-        "upvotes": 43,
+        "upvotes": 39,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1o9w2ud/developing_a_cryopreservation_protocol_for_the/"
@@ -316,7 +319,7 @@
         "author": "mvea",
         "title": "More than 1 in 5 young adults report using cannabis or alcohol to help them fall asleep. Cannabis was far more common than alcohol for sleep: 18% said they used cannabis, compared to 7% who used alcohol. Among those who used cannabis in past year, 41% said they did so specifically to initiate sleep.",
         "content": "",
-        "upvotes": 5371,
+        "upvotes": 5376,
         "comments": 586,
         "media": null,
         "permalink": "/r/science/comments/1o8xbj1/more_than_1_in_5_young_adults_report_using/"
@@ -326,7 +329,7 @@
         "author": "Dr_Neurol",
         "title": "TV-viewing and gaming were associated with increased focus relative to baseline, whereas social media use was associated with decreased focus. Even short durations of screen use have measurable effects on brain regions involved in cognitive control, emotion, and social decision making.",
         "content": "",
-        "upvotes": 359,
+        "upvotes": 364,
         "comments": 23,
         "media": {
             "type": "image",
@@ -339,7 +342,7 @@
         "author": "PhorosK",
         "title": "Ex-smokers who feel mentally and emotionally exhausted by the effort of remaining smoke free are 64 percent more likely to relapse than those with low fatigue based on a two-year international study involving almost 2000 participants across four countries.",
         "content": "",
-        "upvotes": 1053,
+        "upvotes": 1050,
         "comments": 134,
         "media": null,
         "permalink": "/r/science/comments/1o94oxe/exsmokers_who_feel_mentally_and_emotionally/"
