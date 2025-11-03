@@ -4,8 +4,8 @@
         "author": "mvea",
         "title": "Roof paint blocks 97% of sunlight and pulls water from the air: Researchers created a nano-engineered polymer coating that not only reflects up to 97% of the sun's rays, but also passively collects water, generating as much as 390 mL of water per square meter and indoors up to 6 \u00b0C (~11 \u00b0F) cooler.",
         "content": "",
-        "upvotes": 2604,
-        "comments": 81,
+        "upvotes": 2801,
+        "comments": 88,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/rPSlaQm0ZwDtSGQP_1I86eS0AMmxzpFektL9xb6wWWg.jpeg?auto=webp&amp;s=3dcb7cb7df8200e87b9906b6ac9c6f317c8918c5"
@@ -17,7 +17,7 @@
         "author": "mvea",
         "title": "Orcas seen killing young great white sharks by flipping them upside-down: scientists have observed a specialist shark-hunting pod in the Gulf of California repeatedly targeting juvenile white sharks, flipping them upside-down and taking out their energy-rich livers to share with the pod.",
         "content": "",
-        "upvotes": 804,
+        "upvotes": 850,
         "comments": 23,
         "media": {
             "type": "image",
@@ -30,7 +30,7 @@
         "author": "ChiefLeef22",
         "title": "Scientists have discovered the oldest ice and air on Earth on record, trapped in 6-million-year-old Antarctic ice, giving an unprecedented look back at our ancient climate",
         "content": "",
-        "upvotes": 383,
+        "upvotes": 398,
         "comments": 3,
         "media": {
             "type": "image",
@@ -43,7 +43,7 @@
         "author": "universityofturku",
         "title": "Researchers developed a color-tunable white OLED, which produces white light from a single organic layer and two standard aluminum electrodes. The design replaces the need for complex organic stacks with smart optics, promising to lower manufacturing costs and reduce reliance on scarce materials.",
         "content": "",
-        "upvotes": 273,
+        "upvotes": 291,
         "comments": 12,
         "media": {
             "type": "image",
@@ -52,12 +52,22 @@
         "permalink": "/r/science/comments/1on9p1p/researchers_developed_a_colortunable_white_oled/"
     },
     {
+        "id": "1onf9gs",
+        "author": "Inquiring_minds42",
+        "title": "People who use drugs and experience multiple adverse childhood experiences are significantly more likely to experience a non-fatal overdose",
+        "content": "",
+        "upvotes": 49,
+        "comments": 6,
+        "media": null,
+        "permalink": "/r/science/comments/1onf9gs/people_who_use_drugs_and_experience_multiple/"
+    },
+    {
         "id": "1omjys5",
         "author": "PhorosK",
         "title": "Teens who start using cannabis before 15 are 4\u00d7 more likely to use it regularly by 17 and face higher risks of depression, anxiety, and physical health issues in young adulthood compared to peers who never used cannabis during adolescence.",
         "content": "",
-        "upvotes": 3759,
-        "comments": 381,
+        "upvotes": 3787,
+        "comments": 383,
         "media": null,
         "permalink": "/r/science/comments/1omjys5/teens_who_start_using_cannabis_before_15_are_4/"
     },
@@ -66,7 +76,7 @@
         "author": "chrisdh79",
         "title": "Exercise-induced orgasms: Scientists are diving deep into the unusual phenomenon | Through in-depth interviews, researchers found that these experiences often begin in childhood, are felt as a deep, internal sensation, and can be integrated into a person\u2019s sexual life.",
         "content": "",
-        "upvotes": 2912,
+        "upvotes": 2930,
         "comments": 153,
         "media": {
             "type": "image",
@@ -79,26 +89,13 @@
         "author": "batman613",
         "title": "Participation in Stop The Bleed training raised students\u2019 fears of mass casualty events and self-efficacy",
         "content": "",
-        "upvotes": 433,
-        "comments": 12,
+        "upvotes": 443,
+        "comments": 13,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/AVZUJzbxBg8V-xzfEPf8VjalhwuaoRmKRYKVR-Maa-M.png?auto=webp&amp;s=a3c3f4f9c66c5a26a0daf25dfe451df2d6558f1b"
         },
         "permalink": "/r/science/comments/1omy619/participation_in_stop_the_bleed_training_raised/"
-    },
-    {
-        "id": "1omdkb8",
-        "author": "mvea",
-        "title": "Shiitake mushrooms have been harnessed to function as living processors, storing and recalling data like a semiconductor chip but with almost no environmental footprint. Scientists show fungi can be trained to act like memristors \u2013 microscopic components to process and store data in computer chips.",
-        "content": "",
-        "upvotes": 6877,
-        "comments": 243,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/9QM73et3fnXAbimU_UmVY2ifjmjDwMJauPLpGEaMbt4.png?auto=webp&amp;s=e8cff7abe88e2b04c3112e871a9883c0c6a6de1e"
-        },
-        "permalink": "/r/science/comments/1omdkb8/shiitake_mushrooms_have_been_harnessed_to/"
     },
     {
         "id": "1ondddl",
@@ -114,22 +111,25 @@
         "permalink": "/r/science/comments/1ondddl/neurosteroids_reshape_nmda_receptor_pores/"
     },
     {
-        "id": "1onf9gs",
-        "author": "Inquiring_minds42",
-        "title": "People who use drugs and experience multiple adverse childhood experiences are significantly more likely to experience a non-fatal overdose",
+        "id": "1omdkb8",
+        "author": "mvea",
+        "title": "Shiitake mushrooms have been harnessed to function as living processors, storing and recalling data like a semiconductor chip but with almost no environmental footprint. Scientists show fungi can be trained to act like memristors \u2013 microscopic components to process and store data in computer chips.",
         "content": "",
-        "upvotes": 30,
-        "comments": 5,
-        "media": null,
-        "permalink": "/r/science/comments/1onf9gs/people_who_use_drugs_and_experience_multiple/"
+        "upvotes": 6895,
+        "comments": 243,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/9QM73et3fnXAbimU_UmVY2ifjmjDwMJauPLpGEaMbt4.png?auto=webp&amp;s=e8cff7abe88e2b04c3112e871a9883c0c6a6de1e"
+        },
+        "permalink": "/r/science/comments/1omdkb8/shiitake_mushrooms_have_been_harnessed_to/"
     },
     {
         "id": "1oms808",
         "author": "christopher123454321",
         "title": "Polish is the most effective language for prompting AI, study reveals",
         "content": "",
-        "upvotes": 481,
-        "comments": 82,
+        "upvotes": 488,
+        "comments": 83,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/HLkT8hEFTM_i4ECT9hWztFsoDf9RouYG6ZWJzAhQOUY.jpeg?auto=webp&amp;s=18624b9a681a283f20b9ab1b6b607a965bf5f02e"
@@ -141,8 +141,8 @@
         "author": "mvea",
         "title": "Dog testes offer clues to healthy aging and \u2018frailty resilience\u2019 in men. Early neutering was linked to worse outcomes. Dogs neutered before age 2 had 16% increase in mortality risk for every small rise in frailty score. Those kept intact for more than about 10 years showed no increased mortality.",
         "content": "",
-        "upvotes": 1913,
-        "comments": 204,
+        "upvotes": 1909,
+        "comments": 205,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/_sw1z1HTRM_kSOae_2CmOwxREQvVbx-6fcGP6akB8OU.jpeg?auto=webp&amp;s=8badec7851149cc43bcb43bff4d36584de7911f8"
@@ -154,7 +154,7 @@
         "author": "fchung",
         "title": "New nanoparticles stimulate the immune system to attack ovarian tumors: \u00ab Targeted particles carrying the cytokine IL-12 can jump-start T cells, allowing them to clear tumors while avoiding side effects. \u00bb",
         "content": "",
-        "upvotes": 428,
+        "upvotes": 430,
         "comments": 7,
         "media": {
             "type": "image",
@@ -168,7 +168,7 @@
         "title": "Researchers surveyed right-wing supporters to see if their ideologies influenced meat, dairy, egg, and fish consumption. The right-wing ideologies of Social Dominance and Authoritarianism were found to increase their support of these animal products and their aversion to vegetarianism and veganism.",
         "content": "",
         "upvotes": 1490,
-        "comments": 249,
+        "comments": 251,
         "media": null,
         "permalink": "/r/science/comments/1omg8e9/researchers_surveyed_rightwing_supporters_to_see/"
     },
@@ -177,7 +177,7 @@
         "author": "mvea",
         "title": "Forget the myth that exercise uses up your heartbeats. New research shows fitter people use fewer total heartbeats per day - potentially adding years to their lives. The fittest individuals had resting heart rates as low as 40 beats per minute, compared to the average 70\u201380 bpm.",
         "content": "",
-        "upvotes": 12273,
+        "upvotes": 12272,
         "comments": 660,
         "media": {
             "type": "image",
@@ -190,7 +190,7 @@
         "author": "Dr_Neurol",
         "title": "Social media use is not uniformly harmful; its psychological impact depends on how, why, and by whom it is used. Multilevel prevention strategies, including media education, parental involvement, and responsible platform design, are essential to support healthy adolescent development.",
         "content": "",
-        "upvotes": 147,
+        "upvotes": 149,
         "comments": 4,
         "media": {
             "type": "image",
@@ -199,11 +199,24 @@
         "permalink": "/r/science/comments/1omsp0i/social_media_use_is_not_uniformly_harmful_its/"
     },
     {
+        "id": "1ongg5n",
+        "author": "AgingUS",
+        "title": "Longitudinal associations of epigenetic aging with cognitive aging in Hispanic/Latino adults from the Hispanic Community Health Study/Study of Latinos",
+        "content": "",
+        "upvotes": 4,
+        "comments": 1,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/jInxCXKAAMSiwepHk4p7iKNHvyai97qx8c2xwIAGDyM.png?auto=webp&amp;s=65fcdfd92acbe2afec87d04a515e2a57b83a5b58"
+        },
+        "permalink": "/r/science/comments/1ongg5n/longitudinal_associations_of_epigenetic_aging/"
+    },
+    {
         "id": "1on7b22",
         "author": "JIntegrAgri",
         "title": "Researchers proposes a new algorithm to identify whether and where cropland parcel changes have been undertaken without generating complete parcel maps",
         "content": "",
-        "upvotes": 11,
+        "upvotes": 13,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1on7b22/researchers_proposes_a_new_algorithm_to_identify/"
@@ -213,8 +226,8 @@
         "author": "PhorosK",
         "title": "Contrary to expectations, a new study finds that pre-treatment with cannabidiol (CBD) worsened cannabis-induced memory impairment and psychotic symptoms in schizophrenia patients \u2014 challenging the belief that CBD protects against THC.",
         "content": "",
-        "upvotes": 379,
-        "comments": 36,
+        "upvotes": 381,
+        "comments": 37,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/N6J3JNuSwpJYqX1sJJP06fpTBlfG6MhWXTwbyKmTRYE.png?auto=webp&amp;s=4989c35835e4d0620e1ada5aa54118e4d17d2c04"
@@ -226,7 +239,7 @@
         "author": "nohup_me",
         "title": "Wildfire smoke not only pollutes air but also acts as a hidden chemical reactor, producing harmful peroxides when exposed to sunlight and significantly worsening air quality downstream, putting urban residents at increased respiratory health risk",
         "content": "",
-        "upvotes": 179,
+        "upvotes": 185,
         "comments": 4,
         "media": null,
         "permalink": "/r/science/comments/1omo9x0/wildfire_smoke_not_only_pollutes_air_but_also/"
@@ -236,8 +249,8 @@
         "author": "sometimeshiny",
         "title": "Exercise enhances memory, mood, and learning through stronger glutamate signaling but can become toxic when pushed too far, according to a review of 57 studies.",
         "content": "",
-        "upvotes": 2280,
-        "comments": 72,
+        "upvotes": 2282,
+        "comments": 73,
         "media": null,
         "permalink": "/r/science/comments/1olxjzf/exercise_enhances_memory_mood_and_learning/"
     },
@@ -246,7 +259,7 @@
         "author": "mvea",
         "title": "Scientists found that nearly every cancer harbors its own distinct community of microbes \u2013 the tumor microbiome \u2013 that can influence how tumors start, spread, and respond to treatment, paving the way for a new era of precision medicine.",
         "content": "",
-        "upvotes": 11750,
+        "upvotes": 11754,
         "comments": 130,
         "media": {
             "type": "image",
@@ -260,7 +273,7 @@
         "title": "Scientists find molecule Urolithin A re-energises aged immune system via mitochondrial renewal - Nature Aging",
         "content": "",
         "upvotes": 659,
-        "comments": 34,
+        "comments": 35,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/eNw4DkpOoUHpr4XyGSFfDodcHKzTikPTF_mFrCBXpVA.png?auto=webp&amp;s=7e15f0b0936e93b3b45ea1058a64445a49e92ccd"
@@ -272,7 +285,7 @@
         "author": "Andromeda321",
         "title": "Black hole caught snacking on star far from host galaxy\u2019s center- Astronomers are wondering why the supermassive black hole that caused a strange tidal disruption event is some 2,600 light-years from where it\u2019s supposed to be",
         "content": "",
-        "upvotes": 987,
+        "upvotes": 985,
         "comments": 50,
         "media": {
             "type": "image",
@@ -285,7 +298,7 @@
         "author": "No-Aardvark-7316",
         "title": "Evidence to action: a perspective on treatment approaches for food addiction",
         "content": "",
-        "upvotes": 42,
+        "upvotes": 45,
         "comments": 3,
         "media": null,
         "permalink": "/r/science/comments/1omai0f/evidence_to_action_a_perspective_on_treatment/"
@@ -308,8 +321,8 @@
         "author": "nohup_me",
         "title": "A global study engaged 850,000 adults from six continents and identified 13 obesity-associated genes. Several of these genes also contribute to other obesity-related conditions such as Type 2 diabetes, hypertension, and heart disease.",
         "content": "",
-        "upvotes": 347,
-        "comments": 29,
+        "upvotes": 344,
+        "comments": 30,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/N8lXxhRhhUXSkCcGqBxDMEzYt8J1tMIpxETkmkhAfzQ.jpeg?auto=webp&amp;s=6817fae1462533ff5a582c5710997d388b0210dc"
@@ -321,7 +334,7 @@
         "author": "andy5995",
         "title": "Unsolicited Patient Complaints and Industry Payments for US Physicians",
         "content": "",
-        "upvotes": 79,
+        "upvotes": 78,
         "comments": 4,
         "media": null,
         "permalink": "/r/science/comments/1om48g2/unsolicited_patient_complaints_and_industry/"
@@ -331,7 +344,7 @@
         "author": "Lactobacillus653",
         "title": "Newly established forests dominated global carbon sequestration change induced by land cover conversions | Articles",
         "content": "",
-        "upvotes": 35,
+        "upvotes": 36,
         "comments": 3,
         "media": null,
         "permalink": "/r/science/comments/1om9l8t/newly_established_forests_dominated_global_carbon/"
@@ -341,25 +354,12 @@
         "author": "Inevitable-Middle681",
         "title": "Ants also use social distancing when exposed to a pandemic",
         "content": "",
-        "upvotes": 631,
+        "upvotes": 628,
         "comments": 13,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/gTDXGxjCshi0Qka0ituGrMtrl-BnxldUe7e2v-FnXI8.jpeg?auto=webp&amp;s=12e8f1a1d3448d836e0b66d738579b62ca9bc87b"
         },
         "permalink": "/r/science/comments/1oll6wo/ants_also_use_social_distancing_when_exposed_to_a/"
-    },
-    {
-        "id": "1olmcf1",
-        "author": "batman613",
-        "title": "A lack of political representation has negative, immediate, and long-lasting mental health impact",
-        "content": "",
-        "upvotes": 370,
-        "comments": 7,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/oQrkYetdD4ohOQ8nHAue20wzcN1BfPjueGK7c2RdBRI.png?auto=webp&amp;s=0deb70f63772d01e55dd59d84e28cea295cadd74"
-        },
-        "permalink": "/r/science/comments/1olmcf1/a_lack_of_political_representation_has_negative/"
     }
 ]
