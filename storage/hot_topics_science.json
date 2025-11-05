@@ -4,8 +4,8 @@
         "author": "New_Scientist_Mag",
         "title": "Researchers have developed a gel that uses chemicals found in saliva to repair and regenerate tooth enamel",
         "content": "",
-        "upvotes": 13654,
-        "comments": 469,
+        "upvotes": 18030,
+        "comments": 558,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/O9CkBK93Gng2Q6OZDwU8WASJw8UeCe_N0e6KoOdVOvg.jpeg?auto=webp&amp;s=0e1afbf359586420c1b91064bce61ee0439607b2"
@@ -13,32 +13,45 @@
         "permalink": "/r/science/comments/1oobkrk/researchers_have_developed_a_gel_that_uses/"
     },
     {
-        "id": "1oo5xk4",
-        "author": "SteRoPo",
-        "title": "The Japanese are having less and less sex. Around half of the Japanese population remained sexually inexperienced into their mid-twenties and approximately 10% of the individuals had no sexual experience when reaching their 30s.",
+        "id": "1oovc3b",
+        "author": "unsw",
+        "title": "'Super recognisers' - people with extraordinary face recognition abilities - do not see more detail in faces, instead, they naturally look at the parts of a face that carry the best information for identifying faces",
         "content": "",
-        "upvotes": 8557,
-        "comments": 927,
-        "media": null,
-        "permalink": "/r/science/comments/1oo5xk4/the_japanese_are_having_less_and_less_sex_around/"
+        "upvotes": 527,
+        "comments": 30,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/RMNrjytwV8RMNW48YuXTC2c-rWK7TwV-4Njv7fTWXdg.jpeg?auto=webp&amp;s=581413bd45d72da68104d8d8b548d1b87328c601"
+        },
+        "permalink": "/r/science/comments/1oovc3b/super_recognisers_people_with_extraordinary_face/"
     },
     {
         "id": "1ooiynw",
         "author": "mvea",
         "title": "A sequence of human rights violations precedes mass atrocities. Declining workers\u2019 rights or right to a fair trial come first. Brutality by law enforcement becomes widespread. Judiciary loses independence from executive. Freedom of speech restricted for group, and right to assemble in public places.",
         "content": "",
-        "upvotes": 1146,
-        "comments": 18,
+        "upvotes": 2689,
+        "comments": 33,
         "media": null,
         "permalink": "/r/science/comments/1ooiynw/a_sequence_of_human_rights_violations_precedes/"
+    },
+    {
+        "id": "1oo5xk4",
+        "author": "SteRoPo",
+        "title": "The Japanese are having less and less sex. Around half of the Japanese population remained sexually inexperienced into their mid-twenties and approximately 10% of the individuals had no sexual experience when reaching their 30s.",
+        "content": "",
+        "upvotes": 9501,
+        "comments": 979,
+        "media": null,
+        "permalink": "/r/science/comments/1oo5xk4/the_japanese_are_having_less_and_less_sex_around/"
     },
     {
         "id": "1oodes1",
         "author": "Wagamaga",
         "title": "A recent study suggests that individuals with psychotic disorders process sensations they produce themselves, such as their own touch or heartbeat, differently from people without these conditions. This altered processing appears not only in the brain but also at the level of the spinal cord",
         "content": "",
-        "upvotes": 1304,
-        "comments": 29,
+        "upvotes": 2019,
+        "comments": 49,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/MAbGMvo6FOjVeXhRAJoOjMeagkWob3y-rQXUOCYYwSU.jpeg?auto=webp&amp;s=3242c827c25635f137d783ea18e3624446f6a87e"
@@ -46,22 +59,12 @@
         "permalink": "/r/science/comments/1oodes1/a_recent_study_suggests_that_individuals_with/"
     },
     {
-        "id": "1oofa6c",
-        "author": "nohup_me",
-        "title": "Skipping breakfast or practicing intermittent fasting do not impair thinking ability in healthy adults in the short term.",
-        "content": "",
-        "upvotes": 743,
-        "comments": 61,
-        "media": null,
-        "permalink": "/r/science/comments/1oofa6c/skipping_breakfast_or_practicing_intermittent/"
-    },
-    {
         "id": "1ookd0f",
         "author": "cynddl",
         "title": "Experts find flaws in hundreds of tests that check AI safety and effectiveness",
         "content": "",
-        "upvotes": 383,
-        "comments": 10,
+        "upvotes": 663,
+        "comments": 13,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/KaFC0fmoIRV56kLqzm1hlWF_5MKtMC-y5Ayc0zjl0aw.jpeg?auto=webp&amp;s=0ea00049cb7e95480fe935925fdfda92d5406bf2"
@@ -69,12 +72,22 @@
         "permalink": "/r/science/comments/1ookd0f/experts_find_flaws_in_hundreds_of_tests_that/"
     },
     {
+        "id": "1oofa6c",
+        "author": "nohup_me",
+        "title": "Skipping breakfast or practicing intermittent fasting do not impair thinking ability in healthy adults in the short term.",
+        "content": "",
+        "upvotes": 975,
+        "comments": 70,
+        "media": null,
+        "permalink": "/r/science/comments/1oofa6c/skipping_breakfast_or_practicing_intermittent/"
+    },
+    {
         "id": "1oois63",
         "author": "IEEESpectrum",
         "title": "New robotics fish fin can propel bots through the water at 1.66 body lengths per second, easily turn, mimicking fish movement",
         "content": "",
-        "upvotes": 360,
-        "comments": 25,
+        "upvotes": 456,
+        "comments": 26,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/aYSGg05bMlMAk09g5xow5hfNZvuyIJ1g9pA7Vzgi3TM.jpeg?auto=webp&amp;s=15d64e1319dd40218558821efaa5c99ef686b4f0"
@@ -86,8 +99,8 @@
         "author": "Science_News",
         "title": "Two studies show how popular LLMs and apps can make ethical blunders when playing therapist to teens in crisis",
         "content": "",
-        "upvotes": 423,
-        "comments": 53,
+        "upvotes": 518,
+        "comments": 63,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/RghfbCEoBlPvavOHQj9h-yw2AEz6apvN4-v0waFeMtk.jpeg?auto=webp&amp;s=7d504b36ea89be760b8a40b2013b0902eba7aacf"
@@ -95,12 +108,25 @@
         "permalink": "/r/science/comments/1oogvmu/two_studies_show_how_popular_llms_and_apps_can/"
     },
     {
+        "id": "1oouodj",
+        "author": "Super_Letterhead381",
+        "title": "New Species of Shell-Forming Sea Anemone Discovered in Japanese Waters",
+        "content": "",
+        "upvotes": 60,
+        "comments": 1,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/Ux-1VAYW1YkDPmiZ7Jx1QGLyq1HLf1knpsKkIt5s8Hw.jpeg?auto=webp&amp;s=bd4e83538011c02257fa87499f8dfea692062708"
+        },
+        "permalink": "/r/science/comments/1oouodj/new_species_of_shellforming_sea_anemone/"
+    },
+    {
         "id": "1oo4rfd",
         "author": "mvea",
         "title": "Bird flu virus found surviving in certain cheeses: 4.4% of Americans drink raw milk at least once a year, 1.6% drank it often, and 1.6% ate raw-milk cheeses. The study found that the bird flu virus (H5N1) can still survive in raw-milk cheese, even after 120 days of aging at 39 \u00b0F (3.8 \u00b0C).",
         "content": "",
-        "upvotes": 750,
-        "comments": 29,
+        "upvotes": 836,
+        "comments": 34,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/fAxFGQ0F7iLW2dYk3rUUgit2x6QHjfmEEsxHB7cRUOs.jpeg?auto=webp&amp;s=08774388ce87d0ecb3bb51b8f30089ade9014087"
@@ -108,24 +134,11 @@
         "permalink": "/r/science/comments/1oo4rfd/bird_flu_virus_found_surviving_in_certain_cheeses/"
     },
     {
-        "id": "1onmhcz",
-        "author": "mvea",
-        "title": "A woman\u2019s choice of words for her genitals is tied to her sexual well-being, study finds. Using playful or childish terms for genitals in everyday life is linked to more negative outcomes, while using vulgar terms during sex is connected to more positive sexual experiences.",
-        "content": "",
-        "upvotes": 7668,
-        "comments": 318,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/JPSZTRUkhKkDHWZT2v9QmVQQQ9myn5q0wCTE9cNVP1k.jpeg?auto=webp&amp;s=1e2016113125038a2394b96b8678a9f5bf8d1420"
-        },
-        "permalink": "/r/science/comments/1onmhcz/a_womans_choice_of_words_for_her_genitals_is_tied/"
-    },
-    {
         "id": "1ooj9e8",
         "author": "fchung",
         "title": "Scientists produce powerhouse pigment behind octopus camouflage: \u00ab UC San Diego-led team discovers new method for producing large amounts of color-changing, nature-inspired pigment in the lab. \u00bb",
         "content": "",
-        "upvotes": 64,
+        "upvotes": 102,
         "comments": 5,
         "media": {
             "type": "image",
@@ -138,7 +151,7 @@
         "author": "nohup_me",
         "title": "The tiny blood vessels in the eyes, examined through a retina scan, might hold the key to predicting a person\u2019s risk of developing heart disease and how fast they\u2019re biologically aging",
         "content": "",
-        "upvotes": 89,
+        "upvotes": 151,
         "comments": 3,
         "media": {
             "type": "image",
@@ -147,12 +160,25 @@
         "permalink": "/r/science/comments/1ooe3p2/the_tiny_blood_vessels_in_the_eyes_examined/"
     },
     {
+        "id": "1onmhcz",
+        "author": "mvea",
+        "title": "A woman\u2019s choice of words for her genitals is tied to her sexual well-being, study finds. Using playful or childish terms for genitals in everyday life is linked to more negative outcomes, while using vulgar terms during sex is connected to more positive sexual experiences.",
+        "content": "",
+        "upvotes": 7805,
+        "comments": 321,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/JPSZTRUkhKkDHWZT2v9QmVQQQ9myn5q0wCTE9cNVP1k.jpeg?auto=webp&amp;s=1e2016113125038a2394b96b8678a9f5bf8d1420"
+        },
+        "permalink": "/r/science/comments/1onmhcz/a_womans_choice_of_words_for_her_genitals_is_tied/"
+    },
+    {
         "id": "1oo2j0n",
         "author": "oslomet",
         "title": "Researchers in Norway have identified four distinct groups of young cannabis users. While most use it out of curiosity, social belonging, or to explore their identities, a smaller group shows usage tied to loneliness and mental health struggles.",
         "content": "",
-        "upvotes": 395,
-        "comments": 40,
+        "upvotes": 456,
+        "comments": 44,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/q4Y-oMiIvqb7CxFCadOntPVTm89VGYHd5ArAPAPfKMA.jpeg?auto=webp&amp;s=87b57029ddd0eeb732c4dbc5336589f1ac414303"
@@ -164,7 +190,7 @@
         "author": "amandeel",
         "title": "Safe delivery of a highly toxic anthracycline derivative through liposomal nanoformulation achieves complete cancer regression - Molecular Cancer",
         "content": "",
-        "upvotes": 29,
+        "upvotes": 46,
         "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1ooj0gw/safe_delivery_of_a_highly_toxic_anthracycline/"
@@ -174,7 +200,7 @@
         "author": "Wagamaga",
         "title": "Heated tobacco and cigarettes cause the same gut and vascular damage. Both HTPs and conventional cigarettes impair gut barrier integrity and increase cardiovascular risk, refuting claims of reduced harm. The results highlight the urgent need for stronger tobacco control policies",
         "content": "",
-        "upvotes": 233,
+        "upvotes": 267,
         "comments": 40,
         "media": {
             "type": "image",
@@ -187,8 +213,8 @@
         "author": "Fraaankleb",
         "title": "Catalyst Cuts Biodiesel Reaction Time to 15 Minutes",
         "content": "",
-        "upvotes": 47,
-        "comments": 7,
+        "upvotes": 54,
+        "comments": 8,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/doznxz8pAi13o0A9V7rHOQ6BQBYNqcARctaP_RPL-b8.jpeg?auto=webp&amp;s=3087e1e2af5e6702839f119d00100cae45aaab7e"
@@ -196,11 +222,31 @@
         "permalink": "/r/science/comments/1oobybt/catalyst_cuts_biodiesel_reaction_time_to_15/"
     },
     {
+        "id": "1oox16m",
+        "author": "JIntegrAgri",
+        "title": "In a recent article, researchers investigated the spatiotemporal patterns, labor migration influences, and food security implications of cropland abandonment in China from 1992 to 2022",
+        "content": "",
+        "upvotes": 3,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1oox16m/in_a_recent_article_researchers_investigated_the/"
+    },
+    {
+        "id": "1oowms8",
+        "author": "JIntegrAgri",
+        "title": "Researchers analysed characteristics of walnut cultivars and constructed a suitability evaluation model for soluble proteins processing, the study improved the efficiency of walnut protein during processing and pointed out the direction for the processing &amp; utilization of different walnut cultivars",
+        "content": "",
+        "upvotes": 3,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1oowms8/researchers_analysed_characteristics_of_walnut/"
+    },
+    {
         "id": "1oo9ya6",
         "author": "dpn-journal",
         "title": "Researchers used a mobile EEG headband device to identify putative biomarkers of cognitive and emotional wellbeing in people who use cannabis. Results suggest sex differences in how the EEG measures are linked to mental health.",
         "content": "",
-        "upvotes": 29,
+        "upvotes": 27,
         "comments": 2,
         "media": {
             "type": "image",
@@ -213,7 +259,7 @@
         "author": "F0urLeafCl0ver",
         "title": "Hektoria Glacier in Antarctica shrinks at fastest rate recorded in modern history",
         "content": "",
-        "upvotes": 86,
+        "upvotes": 89,
         "comments": 3,
         "media": {
             "type": "image",
@@ -226,7 +272,7 @@
         "author": "mvea",
         "title": "Roof paint blocks 97% of sunlight and pulls water from the air: Researchers created a nano-engineered polymer coating that not only reflects up to 97% of the sun's rays, but also passively collects water, generating as much as 390 mL of water per square meter and indoors up to 6 \u00b0C (~11 \u00b0F) cooler.",
         "content": "",
-        "upvotes": 5761,
+        "upvotes": 5802,
         "comments": 137,
         "media": {
             "type": "image",
@@ -239,30 +285,17 @@
         "author": "MassGen-Research",
         "title": "Even Modest Amounts of Physical Activity (3,000 - 5,000 steps per day) May Slow Alzheimer\u2019s Disease Among At-Risk Older Adults",
         "content": "",
-        "upvotes": 1304,
-        "comments": 13,
+        "upvotes": 1339,
+        "comments": 19,
         "media": null,
         "permalink": "/r/science/comments/1oni5if/even_modest_amounts_of_physical_activity_3000/"
-    },
-    {
-        "id": "1onta88",
-        "author": "PhorosK",
-        "title": "A global shift toward plant-based diets could reshape farming worldwide, Oxford study finds. By 2030, agricultural labor needs may fall by up to 28%, while millions of new jobs emerge in fruit, vegetable, and legume production, saving up to $995 billion in labor costs each year.",
-        "content": "",
-        "upvotes": 281,
-        "comments": 24,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/OqpZAwmUf6FyB-gsK4SLGCXWW1sVpeavx_47Kmqjt-0.jpeg?auto=webp&amp;s=b00ae632da3dad1669e7664e5e0d1b0e7d8ffa32"
-        },
-        "permalink": "/r/science/comments/1onta88/a_global_shift_toward_plantbased_diets_could/"
     },
     {
         "id": "1onrkrs",
         "author": "sometimeshiny",
         "title": "Chronic stress upregulates cortisol and generates ROS, driving kidney disease progression. The review shows that sustained HPA-axis activation promotes mitochondrial dysfunction, oxidative inflammation, and fibrosis in renal tissue.",
         "content": "",
-        "upvotes": 347,
+        "upvotes": 368,
         "comments": 9,
         "media": {
             "type": "image",
@@ -271,95 +304,59 @@
         "permalink": "/r/science/comments/1onrkrs/chronic_stress_upregulates_cortisol_and_generates/"
     },
     {
-        "id": "1onils0",
-        "author": "nohup_me",
-        "title": "Study finds narcissism as a predictor of social media trolling, with malicious envy and exposure to antisocial media content acting as mediators",
+        "id": "1onta88",
+        "author": "PhorosK",
+        "title": "A global shift toward plant-based diets could reshape farming worldwide, Oxford study finds. By 2030, agricultural labor needs may fall by up to 28%, while millions of new jobs emerge in fruit, vegetable, and legume production, saving up to $995 billion in labor costs each year.",
         "content": "",
-        "upvotes": 760,
-        "comments": 38,
-        "media": null,
-        "permalink": "/r/science/comments/1onils0/study_finds_narcissism_as_a_predictor_of_social/"
+        "upvotes": 290,
+        "comments": 24,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/OqpZAwmUf6FyB-gsK4SLGCXWW1sVpeavx_47Kmqjt-0.jpeg?auto=webp&amp;s=b00ae632da3dad1669e7664e5e0d1b0e7d8ffa32"
+        },
+        "permalink": "/r/science/comments/1onta88/a_global_shift_toward_plantbased_diets_could/"
     },
     {
         "id": "1oo4f27",
         "author": "eduardpetiska1",
         "title": "The thymus hosts more 'cellular teachers' than we thought, study finds",
         "content": "",
-        "upvotes": 36,
+        "upvotes": 41,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1oo4f27/the_thymus_hosts_more_cellular_teachers_than_we/"
+    },
+    {
+        "id": "1oovo6u",
+        "author": "Lactobacillus653",
+        "title": "Personality, predation and group size: unravelling behavioural drivers of lionfish (Pterois volitans) invasion success",
+        "content": "",
+        "upvotes": 1,
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/science/comments/1oovo6u/personality_predation_and_group_size_unravelling/"
+    },
+    {
+        "id": "1onils0",
+        "author": "nohup_me",
+        "title": "Study finds narcissism as a predictor of social media trolling, with malicious envy and exposure to antisocial media content acting as mediators",
+        "content": "",
+        "upvotes": 776,
+        "comments": 38,
+        "media": null,
+        "permalink": "/r/science/comments/1onils0/study_finds_narcissism_as_a_predictor_of_social/"
     },
     {
         "id": "1oo49uj",
         "author": "magnetochiral",
         "title": "Researchers find that asymmetric organic materials respond more strongly to a magnetic field",
         "content": "",
-        "upvotes": 20,
+        "upvotes": 24,
         "comments": 1,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/KiXyQVcQTWe41_cph-OfJlvaqYqSOgs_nlpqTTsTVqM.png?auto=webp&amp;s=4d867d80266a6b35217c76c57a23610aa4e86aba"
         },
         "permalink": "/r/science/comments/1oo49uj/researchers_find_that_asymmetric_organic/"
-    },
-    {
-        "id": "1on6f45",
-        "author": "mvea",
-        "title": "Orcas seen killing young great white sharks by flipping them upside-down: scientists have observed a specialist shark-hunting pod in the Gulf of California repeatedly targeting juvenile white sharks, flipping them upside-down and taking out their energy-rich livers to share with the pod.",
-        "content": "",
-        "upvotes": 2031,
-        "comments": 48,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/zovOQtvbBrGGQZ2zm6h44PeIrVc9TcGhAG5arhcs8Nk.jpeg?auto=webp&amp;s=206a61dde6ae96a8bb3e754dd70571ddaeba3f02"
-        },
-        "permalink": "/r/science/comments/1on6f45/orcas_seen_killing_young_great_white_sharks_by/"
-    },
-    {
-        "id": "1onum1d",
-        "author": "bluish1997",
-        "title": "Bacteriophage-loaded microneedle patches for targeted and minimally disruptive foodborne pathogen decontamination",
-        "content": "",
-        "upvotes": 67,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1onum1d/bacteriophageloaded_microneedle_patches_for/"
-    },
-    {
-        "id": "1on8y3z",
-        "author": "ChiefLeef22",
-        "title": "Scientists have discovered the oldest ice and air on Earth on record, trapped in 6-million-year-old Antarctic ice, giving an unprecedented look back at our ancient climate",
-        "content": "",
-        "upvotes": 687,
-        "comments": 9,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/l-dokz0cafz81WPRMDcB2Lr1BdKpTbaXTqZqHUBd1tc.jpeg?auto=webp&amp;s=b08ba4fa15490eef3c39979501fda9263d25812f"
-        },
-        "permalink": "/r/science/comments/1on8y3z/scientists_have_discovered_the_oldest_ice_and_air/"
-    },
-    {
-        "id": "1onzm5j",
-        "author": "Hurry_Ferris02",
-        "title": "Stratified analyses revealed significant disparities: mothers exhibited more complex pathways than fathers, particularly through work-related stress and children's mental health. Parents with higher-baseline mental health showed more numerous associations than their lower-baseline counterparts.",
-        "content": "",
-        "upvotes": 22,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/science/comments/1onzm5j/stratified_analyses_revealed_significant/"
-    },
-    {
-        "id": "1on9p1p",
-        "author": "universityofturku",
-        "title": "Researchers developed a color-tunable white OLED, which produces white light from a single organic layer and two standard aluminum electrodes. The design replaces the need for complex organic stacks with smart optics, promising to lower manufacturing costs and reduce reliance on scarce materials.",
-        "content": "",
-        "upvotes": 574,
-        "comments": 20,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/dJh3BjRg8pBmerQy1ixMZZVzj7r2R88J-X5xH6dD2k4.jpeg?auto=webp&amp;s=3ae3c6b97db8c377911443c1c2eb4a7484e8ee6f"
-        },
-        "permalink": "/r/science/comments/1on9p1p/researchers_developed_a_colortunable_white_oled/"
     }
 ]
