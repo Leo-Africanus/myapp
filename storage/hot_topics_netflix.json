@@ -4,7 +4,7 @@
         "author": "anonRedd",
         "title": "Netflix Biannual Engagement Report: Viewing Data for January through June 2025 for over 16,000 titles",
         "content": "",
-        "upvotes": 14,
+        "upvotes": 15,
         "comments": 17,
         "media": null,
         "permalink": "/r/netflix/comments/1m2ohav/netflix_biannual_engagement_report_viewing_data/"
@@ -24,38 +24,38 @@
         "author": "Blue-Sea2255",
         "title": "Kevin hart special acting my age - it's worst than the war of the worlds ice cube movie.",
         "content": "\nIt\u2019s terrible. I\u2019m stuck eating the popcorn I made for this show while aimlessly watching random YouTube videos.\n\nHe's trying so hard, but those made up stories only make everything worse.",
-        "upvotes": 83,
-        "comments": 52,
+        "upvotes": 81,
+        "comments": 54,
         "media": null,
         "permalink": "/r/netflix/comments/1p8vogh/kevin_hart_special_acting_my_age_its_worst_than/"
-    },
-    {
-        "id": "1p85gri",
-        "author": "pleasestoptalkin",
-        "title": "Millie Bobby Brown takes me out of every Stranger Things scene she\u2019s in",
-        "content": "I don\u2019t know if it\u2019s the bad acting or the fact she\u2019s a grown woman, who has had work done on her face, playing a little girl, but I just start laughing every time she\u2019s on screen. If David Harbour really did snap at her, I get it because it seems like she stopped trying and their emotional scenes together are really bad. ",
-        "upvotes": 1881,
-        "comments": 649,
-        "media": null,
-        "permalink": "/r/netflix/comments/1p85gri/millie_bobby_brown_takes_me_out_of_every_stranger/"
     },
     {
         "id": "1p8yhn5",
         "author": "MelloCello7",
         "title": "Genuine question: are you guys really okay with paying for a service and still getting ads?",
         "content": "Its been a looong time since I've used a Netflix account, (I've been been using better alternatives) but since the release of one of the goats Stranger Things, I was, like you know what, lets get an account for old times sake, only to find that the modest 7.99 had ballooned out to 17.99 a month, and the familiar payed basic tier had become riddled with Ads... Payed streaming service with ads was something I simply could not believe. \n\nThis was the most fundamental difference between Cable and Internet: you don't pay for ads. Needless to say I'm back to my usual options, but for those of you who do, are you guys really truly okay with paying for ads?",
-        "upvotes": 17,
-        "comments": 40,
+        "upvotes": 23,
+        "comments": 51,
         "media": null,
         "permalink": "/r/netflix/comments/1p8yhn5/genuine_question_are_you_guys_really_okay_with/"
+    },
+    {
+        "id": "1p85gri",
+        "author": "pleasestoptalkin",
+        "title": "Millie Bobby Brown takes me out of every Stranger Things scene she\u2019s in",
+        "content": "I don\u2019t know if it\u2019s the bad acting or the fact she\u2019s a grown woman, who has had work done on her face, playing a little girl, but I just start laughing every time she\u2019s on screen. If David Harbour really did snap at her, I get it because it seems like she stopped trying and their emotional scenes together are really bad. ",
+        "upvotes": 1893,
+        "comments": 650,
+        "media": null,
+        "permalink": "/r/netflix/comments/1p85gri/millie_bobby_brown_takes_me_out_of_every_stranger/"
     },
     {
         "id": "1p8x845",
         "author": "winnneer",
         "title": "I was in depression for most of my life so i never watched any shows/movies. Recommend me some that i must watch before i die",
         "content": "My therapy is working and i am slowing gaining interest in the world around me so i took a Netflix subscription hoping to watch shows and movies and talk about them with others to cure and help in my depression journey. Please let me know shows/movies i must watch\u2026 Thank you &lt;3",
-        "upvotes": 21,
-        "comments": 42,
+        "upvotes": 19,
+        "comments": 43,
         "media": null,
         "permalink": "/r/netflix/comments/1p8x845/i_was_in_depression_for_most_of_my_life_so_i/"
     },
@@ -94,7 +94,7 @@
         "author": "Mission-Forever6267",
         "title": "Any Black Mirror fans on here?!",
         "content": "Was having a nosy at the Black Friday deals this morning and spotted\u00a0this new Black Mirror merch store... looks interesting\ud83d\udc40\n\n[https://blackmirror.co.uk](https://blackmirror.co.uk)",
-        "upvotes": 2,
+        "upvotes": 3,
         "comments": 1,
         "media": null,
         "permalink": "/r/netflix/comments/1p8txfn/any_black_mirror_fans_on_here/"
@@ -104,10 +104,20 @@
         "author": "JustAcivilian24",
         "title": "Stranger Things skipped an episode",
         "content": "Did season 5 skip an episode for anyone else last night? My wife and I were binging it last night and it went from episode 2 right to episode 4. Didn\u2019t know until episode 4 was finished so we brought up the episodes and the show just straight up skipped episode 3. ",
-        "upvotes": 18,
-        "comments": 15,
+        "upvotes": 19,
+        "comments": 16,
         "media": null,
         "permalink": "/r/netflix/comments/1p8i9eo/stranger_things_skipped_an_episode/"
+    },
+    {
+        "id": "1p8znc8",
+        "author": "peoplemagazine",
+        "title": "Netflix Actor Tony Germano Dies at 55 After Fatal Fall in Brazil: 'His Absence Will Be Deeply Felt'",
+        "content": "",
+        "upvotes": 1,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/netflix/comments/1p8znc8/netflix_actor_tony_germano_dies_at_55_after_fatal/"
     },
     {
         "id": "1p8zjaa",
@@ -115,19 +125,9 @@
         "title": "Windows 11, Nvidia 5080, AW3423DW- can't get HDR with Netflix Premium.",
         "content": "I've tried the Edge browser and the Netflix app from windows store. \n\nInstalled \"HVEC Video Extensions\" from Microsoft store.\n\nDisable/Enabled Widevine DRM(disabling stops Netflix from playing videos), \n\nEnabled playready DRM \n\nTried \"force color profile\" to \"scRGB linear (HDR when available)\" and HDR10\n\nCouldn't find a way to disable Graphics or Hardware acceleration in Edge.\n\nUpdated NVidia drivers. Nvidia says GPU and Display are HDCP Capable.\n\nSet \"Override to reference mode\" in nvidia control panel, it was Current color accuracy mode: Enhanced before. Color settings are default in Nvidia under \"Change Resolution\".\n\nI've switched HDR on/Off in Windows and tried alternating setting above and Netflix always has HDR: false.\n\n  \nNot sure what else to try. Any advice would be great!\n\n",
         "upvotes": 1,
-        "comments": 0,
+        "comments": 1,
         "media": null,
         "permalink": "/r/netflix/comments/1p8zjaa/windows_11_nvidia_5080_aw3423dw_cant_get_hdr_with/"
-    },
-    {
-        "id": "1p8zdpa",
-        "author": "upsidedown5588",
-        "title": "Somethings off about Natalia and Charlie?",
-        "content": "So, ive been watching the stranger things S5 interviews of Charlie, Natalia, Joe and Maya, the ones where they are teamed together and i sense theres something off about Charlie and Natalia in the way like Natalia has gone quite and Charlie mostly converses with Joe or sometimes Maya..but the chemistry does seem off and its like even though they both are seated next to each other, they rarely make eye contact or include each other in conversations..\n\nMaybe they have broken up? Does anyone else feel the same. In most interviews, they do not seem themselves, so only i wanted to ask.",
-        "upvotes": 0,
-        "comments": 0,
-        "media": null,
-        "permalink": "/r/netflix/comments/1p8zdpa/somethings_off_about_natalia_and_charlie/"
     },
     {
         "id": "1p8twjl",
@@ -154,7 +154,7 @@
         "author": "-H3110_W0R1D-",
         "title": "Thoughts on Stranger Things 5?",
         "content": "I'm only two episodes in as of now, but I think it's pretty great. Of course there's the inevitable time-skip to compensate for the actors aging, but I don't really see it as that big of a deal. I was scared I wouldn't remember anything from the previous seasons considering how long it took, but I guess Stranger Things is just one of those shows where once you pick it back up, you suddenly remember everything. Again, I'm only two episodes in right now, but so far, I like it a lot. It could be that I've been starved of any Stranger Things content for a while now, but it's just nice to watch it again. In episode one I got so scared cause I thought they just killed off Dustin. They for real had me concerned. Besides that, I'm enjoying it. What do you think?",
-        "upvotes": 7,
+        "upvotes": 9,
         "comments": 14,
         "media": null,
         "permalink": "/r/netflix/comments/1p8m5hz/thoughts_on_stranger_things_5/"
@@ -164,8 +164,8 @@
         "author": "New_Description6384",
         "title": "Suggest good, happy feeling series or movie",
         "content": "I rarely watch older series because I don\u2019t have the patience to get into them, but I finished *Ginny &amp; Georgia* and *Never Have I Ever* and absolutely loved both, so I\u2019d love similar show recommendations to watch.",
-        "upvotes": 2,
-        "comments": 2,
+        "upvotes": 1,
+        "comments": 4,
         "media": null,
         "permalink": "/r/netflix/comments/1p8sqlo/suggest_good_happy_feeling_series_or_movie/"
     },
@@ -205,7 +205,7 @@
         "title": "You know what netflix needs ?",
         "content": "Been thinking about the sea of unfinished shows, the one maybe two-season cliffhangers. There are two things that should happen that add to the long-term value of the network.\n\nIt's just too hard to be sure what will work. It's why cable did pilots.\n\nWhy can't streaming platforms have pilot seasons, maybe two a year? Perhaps they even change each month. They can produce a sitcom pilot season on say march, a sci-fi fantasy series in november, an anime month, a game show month, etc. Have a few of these a year for different sections, see what's popular and work from there. \n\nThey can make a big deal of it, such as voting and public engagement. People are watching to see what gets funded for a full season. There is potential for some actual sitcoms that people want to watch. \n\nThen, on the other side of the coin, a commitment to finish what they start. Mini-series, three episodes for any Netflix show to finish off their stories. Then nothing feels like a wasteland, as even if a show is cancelled, you know it will get wrapped up with perhaps quite limited funding. \n\n",
         "upvotes": 2,
-        "comments": 5,
+        "comments": 6,
         "media": null,
         "permalink": "/r/netflix/comments/1p8r1vy/you_know_what_netflix_needs/"
     },
@@ -214,17 +214,27 @@
         "author": "claire_luna_25",
         "title": "the beast in me",
         "content": "am i the only one who wanted Nile to come out winning in the end? \n\nmaybe it\u2019s just me but sometimes if the show paint the \u201cvillain\u201d well enough, i want them to get away with it. this is probably an unpopular opinion but i felt the same about joe from the show You. and for same with. cersei in GOT. \n\nplz tell me there\u2019s more of you villain lovers out there ",
-        "upvotes": 4,
+        "upvotes": 5,
         "comments": 3,
         "media": null,
         "permalink": "/r/netflix/comments/1p8mrp7/the_beast_in_me/"
+    },
+    {
+        "id": "1p8zdpa",
+        "author": "upsidedown5588",
+        "title": "Somethings off about Natalia and Charlie?",
+        "content": "So, ive been watching the stranger things S5 interviews of Charlie, Natalia, Joe and Maya, the ones where they are teamed together and i sense theres something off about Charlie and Natalia in the way like Natalia has gone quite and Charlie mostly converses with Joe or sometimes Maya..but the chemistry does seem off and its like even though they both are seated next to each other, they rarely make eye contact or include each other in conversations..\n\nMaybe they have broken up? Does anyone else feel the same. In most interviews, they do not seem themselves, so only i wanted to ask.",
+        "upvotes": 0,
+        "comments": 0,
+        "media": null,
+        "permalink": "/r/netflix/comments/1p8zdpa/somethings_off_about_natalia_and_charlie/"
     },
     {
         "id": "1p875ad",
         "author": "At0micDonut",
         "title": "Stranger Things had the best timing to release the last season and ignored it.",
         "content": "Nov 3rd is when it all started with Will, ep-2's on screen date is nov 3rd. Nov 6th is when they had a big break. Imagine real life dates synced with these dates. It would have been such a cinematic end  \n",
-        "upvotes": 32,
+        "upvotes": 30,
         "comments": 13,
         "media": null,
         "permalink": "/r/netflix/comments/1p875ad/stranger_things_had_the_best_timing_to_release/"
@@ -234,7 +244,7 @@
         "author": "Fun_Molasses5215",
         "title": "House of Usher stat Ruth Code undergoes second leg amputation after losing first at 23",
         "content": "",
-        "upvotes": 0,
+        "upvotes": 1,
         "comments": 4,
         "media": null,
         "permalink": "/r/netflix/comments/1p8sabx/house_of_usher_stat_ruth_code_undergoes_second/"
@@ -274,8 +284,8 @@
         "author": "Acrobatic-Apricot874",
         "title": "Netflix broken?",
         "content": "Anyone else's netflix just break?? I was trying to watch season 5 of stranger things because it just dropped a minute ago but my netflix isn't letting me into anything...\n\nedit: it came back up after 30 minutes.. but holy shit guys please calm down &lt;/3",
-        "upvotes": 214,
-        "comments": 189,
+        "upvotes": 217,
+        "comments": 190,
         "media": null,
         "permalink": "/r/netflix/comments/1p7oxqd/netflix_broken/"
     },
@@ -288,15 +298,5 @@
         "comments": 1,
         "media": null,
         "permalink": "/r/netflix/comments/1p8fvh9/my_extra_member_was_removed_and_replaced/"
-    },
-    {
-        "id": "1p79ilm",
-        "author": "intelerks",
-        "title": "Linda Hamilton refuses to chase youth in 'Stranger Things': \"I do not spend a moment trying to look younger\"",
-        "content": "",
-        "upvotes": 560,
-        "comments": 45,
-        "media": null,
-        "permalink": "/r/netflix/comments/1p79ilm/linda_hamilton_refuses_to_chase_youth_in_stranger/"
     }
 ]
