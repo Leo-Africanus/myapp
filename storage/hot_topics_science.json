@@ -4,7 +4,7 @@
         "author": "New_Scientist_Mag",
         "title": "A man has become the seventh person to be left HIV-free after receiving a stem cell transplant to treat blood cancer. Significantly, he is also the second to receive stem cells that were not actually resistant to the virus",
         "content": "",
-        "upvotes": 19702,
+        "upvotes": 19829,
         "comments": 173,
         "media": {
             "type": "image",
@@ -17,7 +17,7 @@
         "author": "mareacaspica",
         "title": "A small study in Turkey showed that cats meow louder at men. While it's not clear if this behavior is universal, it suggests that cats adapt their vocal cues to different people",
         "content": "",
-        "upvotes": 18300,
+        "upvotes": 18366,
         "comments": 252,
         "media": {
             "type": "image",
@@ -30,7 +30,7 @@
         "author": "mvea",
         "title": "Family life lowers men\u2019s testosterone without causing medical deficiency. New study found that men living with a partner and school-aged children tend to have lower testosterone levels than single men or partnered men without children.",
         "content": "",
-        "upvotes": 3061,
+        "upvotes": 3105,
         "comments": 127,
         "media": {
             "type": "image",
@@ -43,17 +43,30 @@
         "author": "smurfyjenkins",
         "title": "Contrary to anecdotal evidence, female suicide bombers inflict fewer fatalities than their male counterparts. [Analysis of 6,800 suicide attacks during the period 1985\u20132017]",
         "content": "",
-        "upvotes": 519,
-        "comments": 87,
+        "upvotes": 527,
+        "comments": 89,
         "media": null,
         "permalink": "/r/science/comments/1pbtj11/contrary_to_anecdotal_evidence_female_suicide/"
+    },
+    {
+        "id": "1pc31i2",
+        "author": "Wagamaga",
+        "title": "Research tracked the same Australians across 14 years and discovered that people who move to a new area gradually adopt part of the typical weight profile of their new community, showing that \u201cplace\u201d itself contributes to differences in weight across the country.",
+        "content": "",
+        "upvotes": 100,
+        "comments": 11,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/4DiDDABueVorD1eJ8RpfTxTk_Or0zx0yiBy9HY6Slok.jpeg?auto=webp&amp;s=a7877fa4aa9d0e193017c7e67fc657edf01fdc0e"
+        },
+        "permalink": "/r/science/comments/1pc31i2/research_tracked_the_same_australians_across_14/"
     },
     {
         "id": "1pbqgg1",
         "author": "MassGen-Research",
         "title": "Study Reveals Long-Term Associations of Strangulation-Related Brain Injury from Intimate Partner Violence",
         "content": "",
-        "upvotes": 487,
+        "upvotes": 503,
         "comments": 50,
         "media": null,
         "permalink": "/r/science/comments/1pbqgg1/study_reveals_longterm_associations_of/"
@@ -63,7 +76,7 @@
         "author": "mvea",
         "title": "Autistic individuals are more prosocial towards strangers and people they barely know compared to their non-autistic peers. These differences were not driven by repetitive responding that is typical of autism.",
         "content": "",
-        "upvotes": 3291,
+        "upvotes": 3312,
         "comments": 193,
         "media": {
             "type": "image",
@@ -76,7 +89,7 @@
         "author": "Science_News",
         "title": "Personalized \u2018prehabilitation\u2019 helps the body brace for major surgery | Tailored exercise, nutrition and cognitive training appear to tune immune activity and improve recovery outcomes",
         "content": "",
-        "upvotes": 694,
+        "upvotes": 696,
         "comments": 19,
         "media": {
             "type": "image",
@@ -89,7 +102,7 @@
         "author": "sciencealert",
         "title": "The 'vampire squid' has just yielded the largest cephalopod genome ever sequenced, at more than 11 billion base pairs. The fascinating species is neither squid or octopus, but rather the last, lone remnant of an ancient lineage whose other members have long since vanished.",
         "content": "",
-        "upvotes": 23614,
+        "upvotes": 23630,
         "comments": 472,
         "media": {
             "type": "image",
@@ -102,7 +115,7 @@
         "author": "UCBerkeley",
         "title": "A study finds that one microbe, a member of the Archaea, tolerates a little flexibility in interpreting the genetic code, contradicting a 60-year-old doctrine.",
         "content": "",
-        "upvotes": 292,
+        "upvotes": 293,
         "comments": 1,
         "media": {
             "type": "image",
@@ -111,24 +124,11 @@
         "permalink": "/r/science/comments/1pbnwg7/a_study_finds_that_one_microbe_a_member_of_the/"
     },
     {
-        "id": "1pc31i2",
-        "author": "Wagamaga",
-        "title": "Research tracked the same Australians across 14 years and discovered that people who move to a new area gradually adopt part of the typical weight profile of their new community, showing that \u201cplace\u201d itself contributes to differences in weight across the country.",
-        "content": "",
-        "upvotes": 31,
-        "comments": 9,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/4DiDDABueVorD1eJ8RpfTxTk_Or0zx0yiBy9HY6Slok.jpeg?auto=webp&amp;s=a7877fa4aa9d0e193017c7e67fc657edf01fdc0e"
-        },
-        "permalink": "/r/science/comments/1pc31i2/research_tracked_the_same_australians_across_14/"
-    },
-    {
         "id": "1pbc7td",
         "author": "Super_Letterhead381",
         "title": "Domestic Cats Were Introduced to Europe around 2,000 Years Ago, Probably from North Africa: Study",
         "content": "",
-        "upvotes": 526,
+        "upvotes": 528,
         "comments": 12,
         "media": {
             "type": "image",
@@ -141,7 +141,7 @@
         "author": "PrincetonEngineers",
         "title": "Diamond sensors can now reveal hidden magnetic fluctuations by leveraging quantum entanglement, giving researchers a new tool for studying superconductors, graphene and other quantum materials [Nature]",
         "content": "",
-        "upvotes": 251,
+        "upvotes": 252,
         "comments": 3,
         "media": {
             "type": "image",
@@ -154,7 +154,7 @@
         "author": "Dr_Neurol",
         "title": "Long COVID manifests with sex-specific differences, particularly in those with myalgic encephalomyelitis/chronic fatigue syndrome. Cytokine profiling indicates a stronger pro-inflammatory response in females compared to males, along with markers of gut barrier dysfunction.",
         "content": "",
-        "upvotes": 120,
+        "upvotes": 117,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1pbnwcg/long_covid_manifests_with_sexspecific_differences/"
@@ -164,7 +164,7 @@
         "author": "mvea",
         "title": "Learning with AI falls short compared to old-fashioned web search. When people rely on large language models to summarize information on a topic for them, they tend to develop shallower knowledge about it compared to learning through a standard Google search.",
         "content": "",
-        "upvotes": 9468,
+        "upvotes": 9479,
         "comments": 466,
         "media": {
             "type": "image",
@@ -177,7 +177,7 @@
         "author": "amesydragon",
         "title": "Cell biologists are one step closer to making viable human eggs from stem cells in the lab. A recent study in mice established a novel method to create relatively mature oocytes (egg precursors) from pluripotent stem cells, supplemented by a mix of proteins and growth factors.",
         "content": "",
-        "upvotes": 84,
+        "upvotes": 81,
         "comments": 3,
         "media": null,
         "permalink": "/r/science/comments/1pbomlw/cell_biologists_are_one_step_closer_to_making/"
@@ -187,7 +187,7 @@
         "author": "Hairy-Animator-3293",
         "title": "The Most Extensive and Detailed Radio Image Ever Captured of the Milky Way",
         "content": "",
-        "upvotes": 108,
+        "upvotes": 105,
         "comments": 2,
         "media": {
             "type": "image",
@@ -200,7 +200,7 @@
         "author": "MassGen-Research",
         "title": "Researchers Identify Why Some People With HIV Achieve Remission After Antibody Treatment",
         "content": "",
-        "upvotes": 104,
+        "upvotes": 106,
         "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1pbi29t/researchers_identify_why_some_people_with_hiv/"
@@ -210,8 +210,8 @@
         "author": "mareacaspica",
         "title": "This little-known culture in Bronze Age Turkey might have been a major regional power",
         "content": "",
-        "upvotes": 147,
-        "comments": 10,
+        "upvotes": 153,
+        "comments": 11,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/1We5aXpg9BuTEczD1Y3m41uZi9MGCY22jon06lYG5zM.jpeg?auto=webp&amp;s=69242ddbe4475fd1e20e8af0e5f436e8f0f2fb17"
@@ -236,7 +236,7 @@
         "author": "FlipH19Switch",
         "title": "Inhibition of 15-hydroxy prostaglandin dehydrogenase promotes cartilage regeneration",
         "content": "",
-        "upvotes": 648,
+        "upvotes": 642,
         "comments": 27,
         "media": null,
         "permalink": "/r/science/comments/1pb4nlw/inhibition_of_15hydroxy_prostaglandin/"
@@ -256,7 +256,7 @@
         "author": "CookieCrispr",
         "title": "Estimation and mapping of the missing heritability of human phenotypes",
         "content": "",
-        "upvotes": 14,
+        "upvotes": 13,
         "comments": 1,
         "media": {
             "type": "image",
@@ -265,11 +265,21 @@
         "permalink": "/r/science/comments/1pbs9w0/estimation_and_mapping_of_the_missing/"
     },
     {
+        "id": "1pc3alg",
+        "author": "iscmns",
+        "title": "New D-D fusion reaction channel observed at very low energies (Physical Review X)",
+        "content": "",
+        "upvotes": 3,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1pc3alg/new_dd_fusion_reaction_channel_observed_at_very/"
+    },
+    {
         "id": "1pai2sd",
         "author": "Wagamaga",
         "title": "Autistic adults show higher rates of self-harm and suicide plans regardless of trauma history. As many as 1 in 4 autistic people reports suicide attempts across their lifetime and autistic people have a higher likelihood of adverse life experiences",
         "content": "",
-        "upvotes": 5874,
+        "upvotes": 5880,
         "comments": 372,
         "media": {
             "type": "image",
@@ -282,7 +292,7 @@
         "author": "AgingUS",
         "title": "On the intergenerational transfer of ideas in aging and cancer research: from the hypothalamus according to V.M. Dilman to the mTOR protein complex according to M.V. Blagosklonny",
         "content": "",
-        "upvotes": 10,
+        "upvotes": 8,
         "comments": 1,
         "media": {
             "type": "image",
@@ -295,7 +305,7 @@
         "author": "sr_local",
         "title": "How the brain decides what to remember: with a virtual reality-based behavioral model in mice, the scientists discovered that long-term memory is orchestrated by key regulators that either promote memories into progressively more lasting forms or demote them until they are forgotten",
         "content": "",
-        "upvotes": 1439,
+        "upvotes": 1441,
         "comments": 17,
         "media": {
             "type": "image",
@@ -304,21 +314,11 @@
         "permalink": "/r/science/comments/1panwso/how_the_brain_decides_what_to_remember_with_a/"
     },
     {
-        "id": "1pc3alg",
-        "author": "iscmns",
-        "title": "New D-D fusion reaction channel observed at very low energies (Physical Review X)",
-        "content": "",
-        "upvotes": 1,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1pc3alg/new_dd_fusion_reaction_channel_observed_at_very/"
-    },
-    {
         "id": "1pb9cj1",
         "author": "Cough_Geek",
         "title": "Continuous cough monitoring accurately quantifies disease burden and day-to-day variability, enabling earlier detection of patient deterioration, more sensitive clinical trial endpoints, and population-level disease surveillance",
         "content": "",
-        "upvotes": 52,
+        "upvotes": 55,
         "comments": 2,
         "media": {
             "type": "image",
@@ -331,7 +331,7 @@
         "author": "burtzev",
         "title": "Winter-active spiders (Clubiona) have a hyperactive antifreeze protein with a unique beta-solenoid fold",
         "content": "",
-        "upvotes": 345,
+        "upvotes": 344,
         "comments": 5,
         "media": null,
         "permalink": "/r/science/comments/1paw8fl/winteractive_spiders_clubiona_have_a_hyperactive/"
@@ -354,7 +354,7 @@
         "author": "mvea",
         "title": "New study of individuals with ADHD revealed that those with increased folds (gyrification) in frontal cortical regions of the brain generally responded better to treatment. Higher degrees of gyrification are generally associated with increased cognitive capacity.",
         "content": "",
-        "upvotes": 1801,
+        "upvotes": 1805,
         "comments": 80,
         "media": {
             "type": "image",
