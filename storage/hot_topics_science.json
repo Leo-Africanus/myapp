@@ -4,8 +4,8 @@
         "author": "New_Scientist_Mag",
         "title": "Researchers have just found the presence of sugars, including ribose, lyxose, and glycose, on samples of Asteroid Bennu, which now has all of the ingredients for life as it exists on Earth.",
         "content": "",
-        "upvotes": 7588,
-        "comments": 190,
+        "upvotes": 11031,
+        "comments": 301,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/4YUii0p-ghU91Up2oNF-CgGQR79h3lz_kGykg77MWZ8.jpeg?auto=webp&amp;s=3327f4254ea939145f0aa20bb59314bed380cf24"
@@ -13,11 +13,21 @@
         "permalink": "/r/science/comments/1pcaiyh/researchers_have_just_found_the_presence_of/"
     },
     {
+        "id": "1pcc4xt",
+        "author": "smurfyjenkins",
+        "title": "Abortion clinics in Southern Michigan are performing substantially more abortions since the Dobbs Supreme Court ruling. Abortion is legal in Michigan but not in Indiana and Ohio, Michigan's Southern neighbors.",
+        "content": "",
+        "upvotes": 607,
+        "comments": 31,
+        "media": null,
+        "permalink": "/r/science/comments/1pcc4xt/abortion_clinics_in_southern_michigan_are/"
+    },
+    {
         "id": "1pc5oav",
         "author": "mvea",
         "title": "Priming for planned sex increases desire, frequency in parents with young children. Lack of sleep and free time, juggling work and other commitments, couples find sex lives take a hit transitioning to parenthood. Encouraging couples with young children to plan sex led to increased desire, frequency.",
         "content": "",
-        "upvotes": 1220,
+        "upvotes": 1270,
         "comments": 43,
         "media": {
             "type": "image",
@@ -26,22 +36,12 @@
         "permalink": "/r/science/comments/1pc5oav/priming_for_planned_sex_increases_desire/"
     },
     {
-        "id": "1pcc4xt",
-        "author": "smurfyjenkins",
-        "title": "Abortion clinics in Southern Michigan are performing substantially more abortions since the Dobbs Supreme Court ruling. Abortion is legal in Michigan but not in Indiana and Ohio, Michigan's Southern neighbors.",
-        "content": "",
-        "upvotes": 416,
-        "comments": 21,
-        "media": null,
-        "permalink": "/r/science/comments/1pcc4xt/abortion_clinics_in_southern_michigan_are/"
-    },
-    {
         "id": "1pc5tzq",
         "author": "mvea",
         "title": "The racing mind of insomnia may stem from flattened circadian rhythms. This biological misalignment keeps the mind in an alert, problem-solving mode when it should be disengaging. The thought patterns stayed more daytime-like in the night-time hours when the brain should be quietening.",
         "content": "",
-        "upvotes": 900,
-        "comments": 52,
+        "upvotes": 945,
+        "comments": 58,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/oi8yBED0lXs0I5BdxXZ6rlYV4a7VHyEdUbDqpob5_fw.jpeg?auto=webp&amp;s=ced4c9c307f20803d4af0a05a7249c36976d204c"
@@ -53,7 +53,7 @@
         "author": "Wagamaga",
         "title": "Research tracked the same Australians across 14 years and discovered that people who move to a new area gradually adopt part of the typical weight profile of their new community, showing that \u201cplace\u201d itself contributes to differences in weight across the country.",
         "content": "",
-        "upvotes": 1374,
+        "upvotes": 1418,
         "comments": 53,
         "media": {
             "type": "image",
@@ -66,8 +66,8 @@
         "author": "James_Fortis",
         "title": "A 6-year study of 5,944 adults over 50 found replacing 5% of total energy intake from animal fat with vegetable fat corresponded to a 15% lower risk of dementia. Also, the highest intake of monounsaturated fat had a 37% lower risk, while the highest intake of saturated fat had a 56% higher risk.",
         "content": "",
-        "upvotes": 455,
-        "comments": 24,
+        "upvotes": 482,
+        "comments": 29,
         "media": null,
         "permalink": "/r/science/comments/1pc72mb/a_6year_study_of_5944_adults_over_50_found/"
     },
@@ -76,7 +76,7 @@
         "author": "New_Scientist_Mag",
         "title": "A man has become the seventh person to be left HIV-free after receiving a stem cell transplant to treat blood cancer. Significantly, he is also the second to receive stem cells that were not actually resistant to the virus",
         "content": "",
-        "upvotes": 21554,
+        "upvotes": 21595,
         "comments": 177,
         "media": {
             "type": "image",
@@ -89,7 +89,7 @@
         "author": "mareacaspica",
         "title": "A small study in Turkey showed that cats meow louder at men. While it's not clear if this behavior is universal, it suggests that cats adapt their vocal cues to different people",
         "content": "",
-        "upvotes": 19458,
+        "upvotes": 19471,
         "comments": 262,
         "media": {
             "type": "image",
@@ -102,7 +102,7 @@
         "author": "mvea",
         "title": "Family life lowers men\u2019s testosterone without causing medical deficiency. New study found that men living with a partner and school-aged children tend to have lower testosterone levels than single men or partnered men without children.",
         "content": "",
-        "upvotes": 3768,
+        "upvotes": 3797,
         "comments": 159,
         "media": {
             "type": "image",
@@ -111,11 +111,24 @@
         "permalink": "/r/science/comments/1pbncib/family_life_lowers_mens_testosterone_without/"
     },
     {
+        "id": "1pcbh3x",
+        "author": "IEEESpectrum",
+        "title": "AI models struggle to distinguish between users\u2019 beliefs and facts, which could be particularly harmful in medical settings",
+        "content": "",
+        "upvotes": 101,
+        "comments": 11,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/FU7S0R_ZJDHjsei2Lg80k3-7TMh3-InYueh-X-dU_3M.jpeg?auto=webp&amp;s=605e49924f04b48a82870f574f414f0168bf9da3"
+        },
+        "permalink": "/r/science/comments/1pcbh3x/ai_models_struggle_to_distinguish_between_users/"
+    },
+    {
         "id": "1pc94y5",
         "author": "universityofga",
         "title": "Youth experiencing economic hardship at higher risk of suicide, suicidal thoughts",
         "content": "",
-        "upvotes": 121,
+        "upvotes": 133,
         "comments": 4,
         "media": {
             "type": "image",
@@ -124,25 +137,25 @@
         "permalink": "/r/science/comments/1pc94y5/youth_experiencing_economic_hardship_at_higher/"
     },
     {
-        "id": "1pcbh3x",
-        "author": "IEEESpectrum",
-        "title": "AI models struggle to distinguish between users\u2019 beliefs and facts, which could be particularly harmful in medical settings",
+        "id": "1pcd0u4",
+        "author": "The_Conversation",
+        "title": "Belief in misinformation and conspiracy theories is often based on experience and not just cognitive errors, as evidenced by the fact that the flat earth theory is popular but not the cone-shaped earth theory",
         "content": "",
-        "upvotes": 89,
-        "comments": 8,
+        "upvotes": 41,
+        "comments": 3,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/FU7S0R_ZJDHjsei2Lg80k3-7TMh3-InYueh-X-dU_3M.jpeg?auto=webp&amp;s=605e49924f04b48a82870f574f414f0168bf9da3"
+            "url": "https://external-preview.redd.it/_Xs4kTjKobhWEYRbOxv9-BKLrxL8xOjhPfiCg3xZXE4.jpeg?auto=webp&amp;s=38ed623e89ad10b532a027a41eb20d528b605a2e"
         },
-        "permalink": "/r/science/comments/1pcbh3x/ai_models_struggle_to_distinguish_between_users/"
+        "permalink": "/r/science/comments/1pcd0u4/belief_in_misinformation_and_conspiracy_theories/"
     },
     {
         "id": "1pbtj11",
         "author": "smurfyjenkins",
         "title": "Contrary to anecdotal evidence, female suicide bombers inflict fewer fatalities than their male counterparts. [Analysis of 6,800 suicide attacks during the period 1985\u20132017]",
         "content": "",
-        "upvotes": 653,
-        "comments": 113,
+        "upvotes": 654,
+        "comments": 115,
         "media": null,
         "permalink": "/r/science/comments/1pbtj11/contrary_to_anecdotal_evidence_female_suicide/"
     },
@@ -151,8 +164,8 @@
         "author": "MassGen-Research",
         "title": "Study Reveals Long-Term Associations of Strangulation-Related Brain Injury from Intimate Partner Violence",
         "content": "",
-        "upvotes": 637,
-        "comments": 68,
+        "upvotes": 641,
+        "comments": 72,
         "media": null,
         "permalink": "/r/science/comments/1pbqgg1/study_reveals_longterm_associations_of/"
     },
@@ -161,7 +174,7 @@
         "author": "Skoltech_",
         "title": "Scientists have created the largest dataset for computer vision in retail automation. It includes 100,000 images of 370,000 objects \u2014 fruits and vegetables, both packaged and loose. This dataset will enable the development of precise models for store automation.",
         "content": "",
-        "upvotes": 27,
+        "upvotes": 35,
         "comments": 5,
         "media": null,
         "permalink": "/r/science/comments/1pc9czi/scientists_have_created_the_largest_dataset_for/"
@@ -171,7 +184,7 @@
         "author": "mvea",
         "title": "Autistic individuals are more prosocial towards strangers and people they barely know compared to their non-autistic peers. These differences were not driven by repetitive responding that is typical of autism.",
         "content": "",
-        "upvotes": 3568,
+        "upvotes": 3574,
         "comments": 208,
         "media": {
             "type": "image",
@@ -180,17 +193,17 @@
         "permalink": "/r/science/comments/1pb9yjo/autistic_individuals_are_more_prosocial_towards/"
     },
     {
-        "id": "1pcd0u4",
-        "author": "The_Conversation",
-        "title": "Belief in misinformation and conspiracy theories is often based on experience and not just cognitive errors, as evidenced by the fact that the flat earth theory is popular but not the cone-shaped earth theory",
+        "id": "1pcczjk",
+        "author": "NGNResearch",
+        "title": "New research shows the impact that social media algorithms can have on partisan political feelings, using a new tool that hijacks the way platforms rank content.",
         "content": "",
         "upvotes": 14,
-        "comments": 2,
+        "comments": 1,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/_Xs4kTjKobhWEYRbOxv9-BKLrxL8xOjhPfiCg3xZXE4.jpeg?auto=webp&amp;s=38ed623e89ad10b532a027a41eb20d528b605a2e"
+            "url": "https://external-preview.redd.it/YNSEAsXtd_3elhfKwfngN5OR5CYwJefeg8huh9kd6zc.jpeg?auto=webp&amp;s=76f3c4a34bf5243230cb6e8a7fc753261f2a60f4"
         },
-        "permalink": "/r/science/comments/1pcd0u4/belief_in_misinformation_and_conspiracy_theories/"
+        "permalink": "/r/science/comments/1pcczjk/new_research_shows_the_impact_that_social_media/"
     },
     {
         "id": "1pbjcbw",
@@ -206,24 +219,11 @@
         "permalink": "/r/science/comments/1pbjcbw/personalized_prehabilitation_helps_the_body_brace/"
     },
     {
-        "id": "1pcczjk",
-        "author": "NGNResearch",
-        "title": "New research shows the impact that social media algorithms can have on partisan political feelings, using a new tool that hijacks the way platforms rank content.",
-        "content": "",
-        "upvotes": 10,
-        "comments": 1,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/YNSEAsXtd_3elhfKwfngN5OR5CYwJefeg8huh9kd6zc.jpeg?auto=webp&amp;s=76f3c4a34bf5243230cb6e8a7fc753261f2a60f4"
-        },
-        "permalink": "/r/science/comments/1pcczjk/new_research_shows_the_impact_that_social_media/"
-    },
-    {
         "id": "1payt1v",
         "author": "sciencealert",
         "title": "The 'vampire squid' has just yielded the largest cephalopod genome ever sequenced, at more than 11 billion base pairs. The fascinating species is neither squid or octopus, but rather the last, lone remnant of an ancient lineage whose other members have long since vanished.",
         "content": "",
-        "upvotes": 23985,
+        "upvotes": 23992,
         "comments": 471,
         "media": {
             "type": "image",
@@ -236,7 +236,7 @@
         "author": "UCBerkeley",
         "title": "A study finds that one microbe, a member of the Archaea, tolerates a little flexibility in interpreting the genetic code, contradicting a 60-year-old doctrine.",
         "content": "",
-        "upvotes": 322,
+        "upvotes": 324,
         "comments": 1,
         "media": {
             "type": "image",
@@ -249,17 +249,30 @@
         "author": "iscmns",
         "title": "New D-D fusion reaction channel observed at very low energies (Physical Review X)",
         "content": "",
-        "upvotes": 29,
+        "upvotes": 28,
         "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1pc3alg/new_dd_fusion_reaction_channel_observed_at_very/"
+    },
+    {
+        "id": "1pcdmt8",
+        "author": "sr_local",
+        "title": "Tattoos could be a risk factor for melanoma, but further studies are needed before it is possible to talk about a causal link",
+        "content": "",
+        "upvotes": 7,
+        "comments": 7,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/5Ip3ntzI4ul-K7hbMIZfluKjngPUFrt5gGcUSlxVnWM.png?auto=webp&amp;s=c24fa9f96bc4ab82411545792e3800b7e34b3869"
+        },
+        "permalink": "/r/science/comments/1pcdmt8/tattoos_could_be_a_risk_factor_for_melanoma_but/"
     },
     {
         "id": "1pbc7td",
         "author": "Super_Letterhead381",
         "title": "Domestic Cats Were Introduced to Europe around 2,000 Years Ago, Probably from North Africa: Study",
         "content": "",
-        "upvotes": 579,
+        "upvotes": 584,
         "comments": 13,
         "media": {
             "type": "image",
@@ -272,17 +285,27 @@
         "author": "Dr_Neurol",
         "title": "Long COVID manifests with sex-specific differences, particularly in those with myalgic encephalomyelitis/chronic fatigue syndrome. Cytokine profiling indicates a stronger pro-inflammatory response in females compared to males, along with markers of gut barrier dysfunction.",
         "content": "",
-        "upvotes": 139,
+        "upvotes": 146,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1pbnwcg/long_covid_manifests_with_sexspecific_differences/"
+    },
+    {
+        "id": "1pcefc9",
+        "author": "sr_local",
+        "title": "More than three-quarters of the global population (76%) are not getting enough Omega-3, according to new research",
+        "content": "",
+        "upvotes": 6,
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/science/comments/1pcefc9/more_than_threequarters_of_the_global_population/"
     },
     {
         "id": "1pbhkfp",
         "author": "PrincetonEngineers",
         "title": "Diamond sensors can now reveal hidden magnetic fluctuations by leveraging quantum entanglement, giving researchers a new tool for studying superconductors, graphene and other quantum materials [Nature]",
         "content": "",
-        "upvotes": 274,
+        "upvotes": 278,
         "comments": 5,
         "media": {
             "type": "image",
@@ -295,7 +318,7 @@
         "author": "amesydragon",
         "title": "Cell biologists are one step closer to making viable human eggs from stem cells in the lab. A recent study in mice established a novel method to create relatively mature oocytes (egg precursors) from pluripotent stem cells, supplemented by a mix of proteins and growth factors.",
         "content": "",
-        "upvotes": 100,
+        "upvotes": 107,
         "comments": 3,
         "media": null,
         "permalink": "/r/science/comments/1pbomlw/cell_biologists_are_one_step_closer_to_making/"
@@ -305,7 +328,7 @@
         "author": "mvea",
         "title": "Learning with AI falls short compared to old-fashioned web search. When people rely on large language models to summarize information on a topic for them, they tend to develop shallower knowledge about it compared to learning through a standard Google search.",
         "content": "",
-        "upvotes": 9552,
+        "upvotes": 9544,
         "comments": 465,
         "media": {
             "type": "image",
@@ -318,7 +341,7 @@
         "author": "Hairy-Animator-3293",
         "title": "The Most Extensive and Detailed Radio Image Ever Captured of the Milky Way",
         "content": "",
-        "upvotes": 119,
+        "upvotes": 123,
         "comments": 2,
         "media": {
             "type": "image",
@@ -331,35 +354,12 @@
         "author": "avogadros_number",
         "title": "Researchers have successfully identified a previously unknown cyclic climate pattern in the tropics by historical reanalysis of datasets and satellite observations.",
         "content": "",
-        "upvotes": 61,
+        "upvotes": 60,
         "comments": 2,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/YmtEg_UAN3PZFXnZxGEMvS2PXOAPM8hevyk-z7_wmoo.jpeg?auto=webp&amp;s=a0e3df205c777c5af89ee25b8b6d78594edd730e"
         },
         "permalink": "/r/science/comments/1pbnmla/researchers_have_successfully_identified_a/"
-    },
-    {
-        "id": "1pbi29t",
-        "author": "MassGen-Research",
-        "title": "Researchers Identify Why Some People With HIV Achieve Remission After Antibody Treatment",
-        "content": "",
-        "upvotes": 116,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/science/comments/1pbi29t/researchers_identify_why_some_people_with_hiv/"
-    },
-    {
-        "id": "1pbdxod",
-        "author": "mareacaspica",
-        "title": "This little-known culture in Bronze Age Turkey might have been a major regional power",
-        "content": "",
-        "upvotes": 173,
-        "comments": 12,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/1We5aXpg9BuTEczD1Y3m41uZi9MGCY22jon06lYG5zM.jpeg?auto=webp&amp;s=69242ddbe4475fd1e20e8af0e5f436e8f0f2fb17"
-        },
-        "permalink": "/r/science/comments/1pbdxod/this_littleknown_culture_in_bronze_age_turkey/"
     }
 ]
