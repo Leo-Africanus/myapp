@@ -4,7 +4,7 @@
         "author": "New_Scientist_Mag",
         "title": "Researchers have just found the presence of sugars, including ribose, lyxose, and glycose, on samples of Asteroid Bennu, which now has all of the ingredients for life as it exists on Earth.",
         "content": "",
-        "upvotes": 35774,
+        "upvotes": 35888,
         "comments": 954,
         "media": {
             "type": "image",
@@ -17,7 +17,7 @@
         "author": "mvea",
         "title": "Biomining viruses deliver rare earth elements but no toxic horrors of mining: Scientists genetically engineer a harmless virus that acts like a microscopic aquatic miner that can extract rare earth elements without causing ecosystem-killing pollution and destruction.",
         "content": "",
-        "upvotes": 2823,
+        "upvotes": 2853,
         "comments": 107,
         "media": {
             "type": "image",
@@ -30,7 +30,7 @@
         "author": "smurfyjenkins",
         "title": "Abortion clinics in Southern Michigan are performing substantially more abortions since the Dobbs Supreme Court ruling. Abortion is legal in Michigan but not in Indiana and Ohio, Michigan's Southern neighbors.",
         "content": "",
-        "upvotes": 2829,
+        "upvotes": 2838,
         "comments": 70,
         "media": null,
         "permalink": "/r/science/comments/1pcc4xt/abortion_clinics_in_southern_michigan_are/"
@@ -40,8 +40,8 @@
         "author": "sr_local",
         "title": "More than three-quarters of the global population (76%) are not getting enough Omega-3, according to new research",
         "content": "",
-        "upvotes": 1657,
-        "comments": 173,
+        "upvotes": 1680,
+        "comments": 178,
         "media": null,
         "permalink": "/r/science/comments/1pcefc9/more_than_threequarters_of_the_global_population/"
     },
@@ -50,8 +50,8 @@
         "author": "sr_local",
         "title": "Tattoos could be a risk factor for melanoma, but further studies are needed before it is possible to talk about a causal link",
         "content": "",
-        "upvotes": 1049,
-        "comments": 70,
+        "upvotes": 1055,
+        "comments": 71,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/5Ip3ntzI4ul-K7hbMIZfluKjngPUFrt5gGcUSlxVnWM.png?auto=webp&amp;s=c24fa9f96bc4ab82411545792e3800b7e34b3869"
@@ -63,7 +63,7 @@
         "author": "mvea",
         "title": "Priming for planned sex increases desire, frequency in parents with young children. Lack of sleep and free time, juggling work and other commitments, couples find sex lives take a hit transitioning to parenthood. Encouraging couples with young children to plan sex led to increased desire, frequency.",
         "content": "",
-        "upvotes": 2044,
+        "upvotes": 2056,
         "comments": 71,
         "media": {
             "type": "image",
@@ -72,25 +72,12 @@
         "permalink": "/r/science/comments/1pc5oav/priming_for_planned_sex_increases_desire/"
     },
     {
-        "id": "1pc5tzq",
-        "author": "mvea",
-        "title": "The racing mind of insomnia may stem from flattened circadian rhythms. This biological misalignment keeps the mind in an alert, problem-solving mode when it should be disengaging. The thought patterns stayed more daytime-like in the night-time hours when the brain should be quietening.",
-        "content": "",
-        "upvotes": 1845,
-        "comments": 104,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/oi8yBED0lXs0I5BdxXZ6rlYV4a7VHyEdUbDqpob5_fw.jpeg?auto=webp&amp;s=ced4c9c307f20803d4af0a05a7249c36976d204c"
-        },
-        "permalink": "/r/science/comments/1pc5tzq/the_racing_mind_of_insomnia_may_stem_from/"
-    },
-    {
         "id": "1pcd0u4",
         "author": "The_Conversation",
         "title": "Belief in misinformation and conspiracy theories is often based on experience and not just cognitive errors, as evidenced by the fact that the flat earth theory is popular but not the cone-shaped earth theory",
         "content": "",
-        "upvotes": 692,
-        "comments": 76,
+        "upvotes": 699,
+        "comments": 78,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/_Xs4kTjKobhWEYRbOxv9-BKLrxL8xOjhPfiCg3xZXE4.jpeg?auto=webp&amp;s=38ed623e89ad10b532a027a41eb20d528b605a2e"
@@ -98,11 +85,24 @@
         "permalink": "/r/science/comments/1pcd0u4/belief_in_misinformation_and_conspiracy_theories/"
     },
     {
+        "id": "1pc5tzq",
+        "author": "mvea",
+        "title": "The racing mind of insomnia may stem from flattened circadian rhythms. This biological misalignment keeps the mind in an alert, problem-solving mode when it should be disengaging. The thought patterns stayed more daytime-like in the night-time hours when the brain should be quietening.",
+        "content": "",
+        "upvotes": 1856,
+        "comments": 105,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/oi8yBED0lXs0I5BdxXZ6rlYV4a7VHyEdUbDqpob5_fw.jpeg?auto=webp&amp;s=ced4c9c307f20803d4af0a05a7249c36976d204c"
+        },
+        "permalink": "/r/science/comments/1pc5tzq/the_racing_mind_of_insomnia_may_stem_from/"
+    },
+    {
         "id": "1pcoacm",
         "author": "lcounts",
         "title": "A new study published in the journal Science reveals that researchers who both publish papers and file patents\u2014dubbed \u201cPasteur\u2019s quadrant researchers\u201d\u2014produce work that is more novel and more influential than those who stick to just one activity.",
         "content": "",
-        "upvotes": 178,
+        "upvotes": 181,
         "comments": 6,
         "media": {
             "type": "image",
@@ -115,7 +115,7 @@
         "author": "Wagamaga",
         "title": "Research tracked the same Australians across 14 years and discovered that people who move to a new area gradually adopt part of the typical weight profile of their new community, showing that \u201cplace\u201d itself contributes to differences in weight across the country.",
         "content": "",
-        "upvotes": 1970,
+        "upvotes": 1966,
         "comments": 64,
         "media": {
             "type": "image",
@@ -128,8 +128,8 @@
         "author": "James_Fortis",
         "title": "A 6-year study of 5,944 adults over 50 found replacing 5% of total energy intake from animal fat with vegetable fat corresponded to a 15% lower risk of dementia. Also, the highest intake of monounsaturated fat had a 37% lower risk, while the highest intake of saturated fat had a 56% higher risk.",
         "content": "",
-        "upvotes": 823,
-        "comments": 100,
+        "upvotes": 822,
+        "comments": 101,
         "media": null,
         "permalink": "/r/science/comments/1pc72mb/a_6year_study_of_5944_adults_over_50_found/"
     },
@@ -138,7 +138,7 @@
         "author": "IEEESpectrum",
         "title": "AI models struggle to distinguish between users\u2019 beliefs and facts, which could be particularly harmful in medical settings",
         "content": "",
-        "upvotes": 352,
+        "upvotes": 365,
         "comments": 21,
         "media": {
             "type": "image",
@@ -151,7 +151,7 @@
         "author": "Wagamaga",
         "title": "Researchers draw cellular blueprint for how we think, feel. It reveals how certain brain networks act as middlemen, linking the microscopic biology of the brain (like specific cell types) to complex behaviors and mental processes.",
         "content": "",
-        "upvotes": 171,
+        "upvotes": 178,
         "comments": 2,
         "media": {
             "type": "image",
@@ -164,7 +164,7 @@
         "author": "memorialmonorail",
         "title": "A new animal study highlights how important uninterrupted sleep is to recovery after a traumatic brain injury, finding that fragmented sleep worsens symptoms that a TBI produces \u2013 and that mice without TBI can make up for some REM sleep loss brought on by interruption, but injured mice do not.",
         "content": "",
-        "upvotes": 167,
+        "upvotes": 171,
         "comments": 3,
         "media": {
             "type": "image",
@@ -177,7 +177,7 @@
         "author": "Super_Letterhead381",
         "title": "Fossils from Venezuela Reveal Early Origin of Gigantism in Anacondas",
         "content": "",
-        "upvotes": 23,
+        "upvotes": 29,
         "comments": 1,
         "media": {
             "type": "image",
@@ -190,7 +190,7 @@
         "author": "universityofga",
         "title": "Youth experiencing economic hardship at higher risk of suicide, suicidal thoughts",
         "content": "",
-        "upvotes": 302,
+        "upvotes": 304,
         "comments": 10,
         "media": {
             "type": "image",
@@ -203,7 +203,7 @@
         "author": "New_Scientist_Mag",
         "title": "A man has become the seventh person to be left HIV-free after receiving a stem cell transplant to treat blood cancer. Significantly, he is also the second to receive stem cells that were not actually resistant to the virus",
         "content": "",
-        "upvotes": 22290,
+        "upvotes": 22298,
         "comments": 177,
         "media": {
             "type": "image",
@@ -216,7 +216,7 @@
         "author": "IntrepidWolverine517",
         "title": "Finnish optical clock sets new accuracy record and brings us closer to a new definition of the second | VTT",
         "content": "",
-        "upvotes": 58,
+        "upvotes": 57,
         "comments": 1,
         "media": {
             "type": "image",
@@ -229,7 +229,7 @@
         "author": "mareacaspica",
         "title": "A small study in Turkey showed that cats meow louder at men. While it's not clear if this behavior is universal, it suggests that cats adapt their vocal cues to different people",
         "content": "",
-        "upvotes": 19908,
+        "upvotes": 19917,
         "comments": 262,
         "media": {
             "type": "image",
@@ -255,7 +255,7 @@
         "author": "acidgoat_15",
         "title": "Inhibitory PD-1 axis maintains high-avidity stem-like CD8+ T cells (Hor et al, 2025)",
         "content": "",
-        "upvotes": 5,
+        "upvotes": 7,
         "comments": 1,
         "media": {
             "type": "image",
@@ -268,7 +268,7 @@
         "author": "Skoltech_",
         "title": "Scientists have created the largest dataset for computer vision in retail automation. It includes 100,000 images of 370,000 objects \u2014 fruits and vegetables, both packaged and loose. This dataset will enable the development of precise models for store automation.",
         "content": "",
-        "upvotes": 71,
+        "upvotes": 72,
         "comments": 11,
         "media": null,
         "permalink": "/r/science/comments/1pc9czi/scientists_have_created_the_largest_dataset_for/"
@@ -278,7 +278,7 @@
         "author": "MassGen-Research",
         "title": "Those with Positive Experiences or Conflicts of Interest Dominate FDA Drug Advisory Meetings",
         "content": "",
-        "upvotes": 35,
+        "upvotes": 36,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1pcerx0/those_with_positive_experiences_or_conflicts_of/"
@@ -288,7 +288,7 @@
         "author": "NGNResearch",
         "title": "New research shows the impact that social media algorithms can have on partisan political feelings, using a new tool that hijacks the way platforms rank content.",
         "content": "",
-        "upvotes": 34,
+        "upvotes": 37,
         "comments": 1,
         "media": {
             "type": "image",
@@ -301,7 +301,7 @@
         "author": "smurfyjenkins",
         "title": "Contrary to anecdotal evidence, female suicide bombers inflict fewer fatalities than their male counterparts. [Analysis of 6,800 suicide attacks during the period 1985\u20132017]",
         "content": "",
-        "upvotes": 693,
+        "upvotes": 695,
         "comments": 129,
         "media": null,
         "permalink": "/r/science/comments/1pbtj11/contrary_to_anecdotal_evidence_female_suicide/"
@@ -322,7 +322,7 @@
         "title": "Study Reveals Long-Term Associations of Strangulation-Related Brain Injury from Intimate Partner Violence",
         "content": "",
         "upvotes": 705,
-        "comments": 94,
+        "comments": 95,
         "media": null,
         "permalink": "/r/science/comments/1pbqgg1/study_reveals_longterm_associations_of/"
     },
@@ -331,7 +331,7 @@
         "author": "mvea",
         "title": "Autistic individuals are more prosocial towards strangers and people they barely know compared to their non-autistic peers. These differences were not driven by repetitive responding that is typical of autism.",
         "content": "",
-        "upvotes": 3727,
+        "upvotes": 3731,
         "comments": 230,
         "media": {
             "type": "image",
@@ -344,7 +344,7 @@
         "author": "Science_News",
         "title": "Personalized \u2018prehabilitation\u2019 helps the body brace for major surgery | Tailored exercise, nutrition and cognitive training appear to tune immune activity and improve recovery outcomes",
         "content": "",
-        "upvotes": 798,
+        "upvotes": 792,
         "comments": 20,
         "media": {
             "type": "image",
@@ -357,7 +357,7 @@
         "author": "SlothSpeedRunning",
         "title": "In a review for Trends in Cognitive Sciences, anthropologists argue that personal experience shapes extraordinary beliefs, such as the Earth is flat or that prayer leads to experiences with a god, just as much as cognitive biases and social dynamics",
         "content": "",
-        "upvotes": 7,
+        "upvotes": 9,
         "comments": 7,
         "media": null,
         "permalink": "/r/science/comments/1pcfq22/in_a_review_for_trends_in_cognitive_sciences/"
