@@ -20,22 +20,62 @@
         "permalink": "/r/netflix/comments/1pcfokw/stranger_things_x_netflix_puzzled_puzzles_just/"
     },
     {
+        "id": "1pi3w47",
+        "author": "Routine-Ad-1546",
+        "title": "Sean Combs new documentary",
+        "content": "One of the greatest things the documentary proved was that the jurors were dumb as fuck. No common sense whatsoever.\n\nI just know they got paid to act dense bc if they didn\u2019t take a payoff I\u2019d be very surprised\u2026. It was shocking the jurors even wanted to save face with some ridiculous excuses to literally let the devil loose. The diddler belongs UNDER the jail, k.",
+        "upvotes": 93,
+        "comments": 49,
+        "media": null,
+        "permalink": "/r/netflix/comments/1pi3w47/sean_combs_new_documentary/"
+    },
+    {
+        "id": "1pi9fsh",
+        "author": "NoMoreTicks",
+        "title": "First We Waited for Seasons, Now We Wait for Volumes",
+        "content": "Remember the good old days? We waited a year\u2014maybe two\u2014for a new **season** of our favorite show. It was painful, sure, but the eventual drop was a single, glorious binge-fest. We adapted. We endured the long waits for the return of hits like the final run of *Stranger Things*.\n\nBut now, the streaming overlords have added a new layer of torture: **Volumes**.\n\nIt\u2019s not enough that we waited for what we were promised as \"Season 5\" of *Stranger Things*, only to get Volume 1\u2014a cruel, tantalizing fraction of the story. You get four episodes of vital plot, a massive cliffhanger, and then... nothing. Back to the waiting game for Volume 2, which is essentially just the back half of the same season. The same happened with the highly-anticipated return of *The Family Man*, only for fans to have to wait again between parts.\n\n  \nWe signed up for the convenience of binge-watching, the freedom to control our viewing experience. Now, we are being forced back into an anticipated, staggered release schedule, only without the benefit of the traditional weekly TV model that kept the community discourse alive for months. Instead, we get an initial flash of binge-mania followed by a frustrating, momentum-killing pause.\n\n",
+        "upvotes": 15,
+        "comments": 22,
+        "media": null,
+        "permalink": "/r/netflix/comments/1pi9fsh/first_we_waited_for_seasons_now_we_wait_for/"
+    },
+    {
+        "id": "1pi7yo0",
+        "author": "Educational_Base_301",
+        "title": "I feel like I watched everything on Netflix. Any new 2026 series to look forward to?",
+        "content": "I\u2019ve gone through so many shows over the last few years that I\u2019m starting to run out of things to watch.  \nDo you guys have any recommendations for upcoming Netflix series in 2026 or something recent that feels fresh?  \nI\u2019m open to any genre, as long as it keeps me hooked.",
+        "upvotes": 4,
+        "comments": 18,
+        "media": null,
+        "permalink": "/r/netflix/comments/1pi7yo0/i_feel_like_i_watched_everything_on_netflix_any/"
+    },
+    {
         "id": "1phkmdn",
         "author": "Brandon84xx",
         "title": "The Beast In Me",
         "content": "Was I the only person who thought Nile asked Aggie to sign the book just to forge her signature for the jogging path?\n\nI was so sure but apparently not.",
-        "upvotes": 85,
-        "comments": 23,
+        "upvotes": 95,
+        "comments": 24,
         "media": null,
         "permalink": "/r/netflix/comments/1phkmdn/the_beast_in_me/"
+    },
+    {
+        "id": "1phzd9u",
+        "author": "Cool_Bath_77",
+        "title": "Love &amp; Death and Candy",
+        "content": "I did not realize \"Love &amp; Death\" (2023) is the same story as \"Candy\" (2022). I am watching Love &amp; Death and did not realize it was the same storyline until episode 4. I probably watched Candy in 2022. I don't have a memory to remember character names years later.\n\nWhen did everyone else realize it was the same story?",
+        "upvotes": 12,
+        "comments": 6,
+        "media": null,
+        "permalink": "/r/netflix/comments/1phzd9u/love_death_and_candy/"
     },
     {
         "id": "1ph1mqu",
         "author": "Other-Squirrel-8705",
         "title": "Diddy is done.",
         "content": "Sean Combs:The reckoning.  What shocked you the most? Collecting bodily fluids to drink later \ud83d\ude31. Also when he shook hands with his fans/people in Harlem\u2026.and talked about needing a shower after. That man is layers of evil. ",
-        "upvotes": 1427,
-        "comments": 436,
+        "upvotes": 1490,
+        "comments": 482,
         "media": null,
         "permalink": "/r/netflix/comments/1ph1mqu/diddy_is_done/"
     },
@@ -44,18 +84,28 @@
         "author": "HehroMaraFara",
         "title": "Sean Combs: The Reckoning",
         "content": "Obviously he\u2019s generally a scumbag and that\u2019s been well established. What struck me the most is almost any time he speaks at length, it is pure gibberish. \n\nThis mofo cannot put together a coherent thought. How he operated in any kind of a professional sense is unbelievable. It is pretty ridiculous that he was not exposed earlier. \n\nFuck Diddy. ",
-        "upvotes": 639,
-        "comments": 103,
+        "upvotes": 687,
+        "comments": 114,
         "media": null,
         "permalink": "/r/netflix/comments/1ph42sv/sean_combs_the_reckoning/"
+    },
+    {
+        "id": "1piaaqu",
+        "author": "MechRat",
+        "title": "How to fix your monitor going black when opening Netflix, Spotify, Disney+ on your PC, caused by HDCP, when the NVIDIA setting \"Content Type Reported to the Display\" doesn't appear",
+        "content": "My setup: *Windows 11, AMD Ryzen 9, RTX 3070, Dual Acer Monitors. However, I've experienced this with other setups too.*\n\nMy monitors going black when loading up Netflix, Spotify and other services, whether through desktop apps or through any browsers, has plagued me for years. Yesterday I finally tried a fix that actually worked flawlessly for me.\n\nFor reference, I tried the most popular fixes, such as disabling audio devices in Device Manager or Content Type Reported to the Display in NVIDIA Control Panel (as I don't have that option appear), but to no avail.\n\nI stumbled upon this [forum](https://forums.guru3d.com/threads/disable-hdcp-regedit.442563/), discussing how to disable HDCP with a registry edit. And it worked flawlessly for me.\n\n**DISCLAIMER: Editing the Windows Registry carries significant risks. Disabling HDCP may cause other issues with compatibility in other software and services.**\n\n1. **Get your GFX Class GUID** (*Open Device Manager, right click your graphics card under Display adaptors, go to details, select Class GUID, right click the number that appears and copy and paste somewhere!)*\n2. **Open Command Prompt** (*Press Windows key, type Command Prompt, right click and open as administrator*)\n3. **Disable HDCP** (*Paste in the command below to update your registry, checking that the ID matches your GFX and then press enter)*\n4. **Restart your PC**\n\n`reg add \"HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0000\" /v \"RMHdcpKeyglobZero\" /t \"REG_DWORD\" /d \"1\" /f`\n\nI hope it can help others - it was driving me mad!",
+        "upvotes": 1,
+        "comments": 0,
+        "media": null,
+        "permalink": "/r/netflix/comments/1piaaqu/how_to_fix_your_monitor_going_black_when_opening/"
     },
     {
         "id": "1phedey",
         "author": "DetectiveHot2071",
         "title": "50 Cent claims Diddy sent him \u2018creepy\u2019 gift from prison after explosive Netflix doc",
         "content": "",
-        "upvotes": 81,
-        "comments": 4,
+        "upvotes": 86,
+        "comments": 5,
         "media": null,
         "permalink": "/r/netflix/comments/1phedey/50_cent_claims_diddy_sent_him_creepy_gift_from/"
     },
@@ -65,69 +115,69 @@
         "title": "Homeland, is anyone else watching this?",
         "content": "If you have watched or are currently watching what are your thoughts on Carrie?\n\nI'm only on season 4 but the more I watch her the more I dislike her. I know her character is meant to be unstable but I also find her incredibly selfish and manipulative. I'm not sure I can even finish the entire series but maybe it'll get better. ",
         "upvotes": 32,
-        "comments": 41,
+        "comments": 44,
         "media": null,
         "permalink": "/r/netflix/comments/1phlklm/homeland_is_anyone_else_watching_this/"
     },
     {
-        "id": "1pi2dfo",
-        "author": "Prowling_Owl",
-        "title": "Halo season 3",
-        "content": "So from what I gather is Paramount+ has officially canceled the production in 2024. Since Netflix picked up the franchise off of paramount and had huge success and influx of viewers customers etc. Why doesn\u2019t Netflix just buy the rights to the show so they can continue to make good shows? Sick show so far love it and dreading the end of season 2 being left on a cliff hanger I\u2019m sure \ud83d\ude44 ",
-        "upvotes": 2,
-        "comments": 1,
+        "id": "1pi4p68",
+        "author": "Fickle_Memory4327",
+        "title": "Frankstein - Review",
+        "content": "",
+        "upvotes": 1,
+        "comments": 0,
         "media": null,
-        "permalink": "/r/netflix/comments/1pi2dfo/halo_season_3/"
-    },
-    {
-        "id": "1phzd9u",
-        "author": "Cool_Bath_77",
-        "title": "Love &amp; Death and Candy",
-        "content": "I did not realize \"Love &amp; Death\" (2023) is the same story as \"Candy\" (2022). I am watching Love &amp; Death and did not realize it was the same storyline until episode 4. I probably watched Candy in 2022. I don't have a memory to remember character names years later.\n\nWhen did everyone else realize it was the same story?",
-        "upvotes": 3,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/netflix/comments/1phzd9u/love_death_and_candy/"
-    },
-    {
-        "id": "1php4g8",
-        "author": "Temporary_Egg_1633",
-        "title": "NEED THRILLER/MYSTERY/HORROR SERIES RECOMENDATIONS PLEASE &lt;3",
-        "content": "I am struggling to find a thriller/mystery/dark/horror/apocalypse/monsters serie that I like. Some examples that I watched are Dark, Bodies, 1988, Beyond Evil, Mask Girl, Sweet Home, All Of Us Are Dead, Kingdom, Alice in Borderland, Hellbound, Strangers From Hell, The Silent Sea, GyeongSon Creature, Happiness, The OA, American Horror Story and Stories, and more that I forgot.\n\nCan someone please lighten my night and recommend me something. It's been days trying to see something new and I get bored at 20min.\n\nThank you!!!! &lt;3\n\nEdit: I have Netflix and Disney+ :)))",
-        "upvotes": 8,
-        "comments": 37,
-        "media": null,
-        "permalink": "/r/netflix/comments/1php4g8/need_thrillermysteryhorror_series_recomendations/"
+        "permalink": "/r/netflix/comments/1pi4p68/frankstein_review/"
     },
     {
         "id": "1phyz8q",
         "author": "BiploarFurryEgirl",
         "title": "Has anyone else noticed that subtitles are suddenly not correct on translated shows?",
         "content": "I love Ragnarok. I\u2019ve watched it about 4 times and I started my 5th watch today, but I don\u2019t remember the subtitles being this wrong. The third episode is especially glaring. I\u2019m so confused on what happened, like thank god I\u2019ve watch the show before so I wasn\u2019t confused when the subtitles during the therapist\u2019s and Ran\u2019s conversation shows the therapist (via subtitles) saying that he SHOULD be telling Ran the things Magna had just told him, when in reality the actual conversation (via audio) says that he shouldn\u2019t be saying these things. My fiance was confused though so I had to pause to explain. And that\u2019s just one of many translation issues in this episode.\n\n\nI\u2019m so confused, this show was pretty well translated about a year ago? What happened?",
-        "upvotes": 2,
-        "comments": 6,
+        "upvotes": 1,
+        "comments": 9,
         "media": null,
         "permalink": "/r/netflix/comments/1phyz8q/has_anyone_else_noticed_that_subtitles_are/"
     },
     {
-        "id": "1pi1rng",
-        "author": "AdministrationNo5052",
-        "title": "This is new policy is ridiculous",
-        "content": "I haven\u2019t had Netflix for 2 years and now while I\u2019m abroad for study I try to again subscribe for my account, I now wish I never tried to. Firstly after 20 attempts I somehow get into my account because my email apparently just vanished from Netflix servers. I choose subscription, get to pay, authorise card by the app and there is no possibility to get payment approved. Contacted support and they say  \u201cwell, to successfully subscribe you need to pay with local bank card\u201d. WHERE AND HOW do you want me to get not just bank account but BANK CARD in the country where I don\u2019t know if I have right to open a bank account and where I don\u2019t want to open bank account, I don\u2019t even use my local bank card when I\u2019m home because of fraud attempts, I pay everything with either Revolut or Wise. \nSo if anyone knows a way to watch Diddy documentary without having Netflix pls help or I\u2019ll just wait 3 months for it till I come back home, as lucky as I am by that time probably Diddy will get it off the Netflix \ud83e\udd72",
-        "upvotes": 0,
-        "comments": 1,
+        "id": "1pi3zk9",
+        "author": "curiouscat_20",
+        "title": "Series/Movies Reco",
+        "content": "I want to watch series or movie which will give different prospective and has different story than typical family/love drama. Don\u2019t want to watch horror or crime. ",
+        "upvotes": 1,
+        "comments": 5,
         "media": null,
-        "permalink": "/r/netflix/comments/1pi1rng/this_is_new_policy_is_ridiculous/"
+        "permalink": "/r/netflix/comments/1pi3zk9/seriesmovies_reco/"
+    },
+    {
+        "id": "1php4g8",
+        "author": "Temporary_Egg_1633",
+        "title": "NEED THRILLER/MYSTERY/HORROR SERIES RECOMENDATIONS PLEASE &lt;3",
+        "content": "I am struggling to find a thriller/mystery/dark/horror/apocalypse/monsters serie that I like. Some examples that I watched are Dark, Bodies, 1988, Beyond Evil, Mask Girl, Sweet Home, All Of Us Are Dead, Kingdom, Alice in Borderland, Hellbound, Strangers From Hell, The Silent Sea, GyeongSon Creature, Happiness, The OA, American Horror Story and Stories, and more that I forgot.\n\nCan someone please lighten my night and recommend me something. It's been days trying to see something new and I get bored at 20min.\n\nThank you!!!! &lt;3\n\nEdit: I have Netflix and Disney+ :)))",
+        "upvotes": 10,
+        "comments": 56,
+        "media": null,
+        "permalink": "/r/netflix/comments/1php4g8/need_thrillermysteryhorror_series_recomendations/"
     },
     {
         "id": "1pgdmxt",
         "author": "Swamp_Hawk420",
         "title": "Canceling my subscription, this is too ridiculous",
         "content": "I\u2019m traveling right now about a thousand miles from home. It\u2019s late, I can\u2019t sleep, tried to throw on a movie, and got notified that Netflix has decided that I\u2019m trying to commit fraud by watching tv outside of my house. The account is linked to my wife\u2019s email so I can\u2019t get the temporary password. The fact that they treat us like we\u2019re trying to steal from them after paying so much is just a bridge too far. ",
-        "upvotes": 6070,
-        "comments": 386,
+        "upvotes": 6199,
+        "comments": 395,
         "media": null,
         "permalink": "/r/netflix/comments/1pgdmxt/canceling_my_subscription_this_is_too_ridiculous/"
+    },
+    {
+        "id": "1pi7nk5",
+        "author": "Ms_Dontworryaboutit",
+        "title": "The ads!",
+        "content": "Has Netflix lost their mf minds with these ads??? Its worse than YouTube! I pay enough already, I cant fast forward or rewind without atleast 3 damn ads! Wtf. Really pisses me off and ruins the viewer experience. ",
+        "upvotes": 0,
+        "comments": 23,
+        "media": null,
+        "permalink": "/r/netflix/comments/1pi7nk5/the_ads/"
     },
     {
         "id": "1pht5w9",
@@ -138,6 +188,16 @@
         "comments": 0,
         "media": null,
         "permalink": "/r/netflix/comments/1pht5w9/anyone_having_buffer_issues_all_the_sudden/"
+    },
+    {
+        "id": "1pi2dfo",
+        "author": "Prowling_Owl",
+        "title": "Halo season 3",
+        "content": "So from what I gather is Paramount+ has officially canceled the production in 2024. Since Netflix picked up the franchise off of paramount and had huge success and influx of viewers customers etc. Why doesn\u2019t Netflix just buy the rights to the show so they can continue to make good shows? Sick show so far love it and dreading the end of season 2 being left on a cliff hanger I\u2019m sure \ud83d\ude44 ",
+        "upvotes": 0,
+        "comments": 8,
+        "media": null,
+        "permalink": "/r/netflix/comments/1pi2dfo/halo_season_3/"
     },
     {
         "id": "1phvaeu",
@@ -170,34 +230,44 @@
         "permalink": "/r/netflix/comments/1phua7q/netflix_app_and_apple_tv/"
     },
     {
+        "id": "1phnki6",
+        "author": "Western-Mall5505",
+        "title": "Playing the games with friends",
+        "content": "Does anyone on here know if you can play games like pictionary with friends who are in other house holds?\nThe crappy ai thing that pops up when you googled says yes, but I couldn't find anything on Netflix faq.",
+        "upvotes": 2,
+        "comments": 0,
+        "media": null,
+        "permalink": "/r/netflix/comments/1phnki6/playing_the_games_with_friends/"
+    },
+    {
         "id": "1ph74e3",
         "author": "RedditBurner_5225",
         "title": "Sean combs the reckoning",
         "content": "Who did Diddy and his son Justin shoot in the bathroom? Who is G? Did anyone figure that out?\n\nAlso, why was he having freakoffs with his son Justin?! That is beyond insane.\n",
-        "upvotes": 19,
+        "upvotes": 17,
         "comments": 5,
         "media": null,
         "permalink": "/r/netflix/comments/1ph74e3/sean_combs_the_reckoning/"
+    },
+    {
+        "id": "1pi1rng",
+        "author": "AdministrationNo5052",
+        "title": "This is new policy is ridiculous",
+        "content": "I haven\u2019t had Netflix for 2 years and now while I\u2019m abroad for study I try to again subscribe for my account, I now wish I never tried to. Firstly after 20 attempts I somehow get into my account because my email apparently just vanished from Netflix servers. I choose subscription, get to pay, authorise card by the app and there is no possibility to get payment approved. Contacted support and they say  \u201cwell, to successfully subscribe you need to pay with local bank card\u201d. WHERE AND HOW do you want me to get not just bank account but BANK CARD in the country where I don\u2019t know if I have right to open a bank account and where I don\u2019t want to open bank account, I don\u2019t even use my local bank card when I\u2019m home because of fraud attempts, I pay everything with either Revolut or Wise. \nSo if anyone knows a way to watch Diddy documentary without having Netflix pls help or I\u2019ll just wait 3 months for it till I come back home, as lucky as I am by that time probably Diddy will get it off the Netflix \ud83e\udd72",
+        "upvotes": 0,
+        "comments": 3,
+        "media": null,
+        "permalink": "/r/netflix/comments/1pi1rng/this_is_new_policy_is_ridiculous/"
     },
     {
         "id": "1phnoqn",
         "author": "conniewanders",
         "title": "Anyone else watching Ripple? Lovely bit of cheese",
         "content": "\n\nSo I just randomly clicked on Ripple after it popped up in my Netflix suggestions. Watched the trailer, thought \u201cthis could either be really lovely or painfully cheesy\u201d, and decided to give episode 1 a go.\n\nI\u2019m actually really into it so far. Feels like the right mix of heartwarming and emotional without going full Hallmark cheese (no offence to any hallmark fans out there)\n\nI also love that there are some familiar faces... Ezra from PLL (Ian Harding) is in it, and Frankie Faison, who I remember from The Wire and Coming to America. \n\nPLL fans will appreciate this: there\u2019s a scene where Ian Harding\u2019s character is chatting with a woman about a musician and her name is Aria. I actually lol\u2019d at that. Someone in the writers\u2019 room knew exactly what they were doing.\n\nAnyone else watching?",
-        "upvotes": 0,
-        "comments": 1,
+        "upvotes": 1,
+        "comments": 2,
         "media": null,
         "permalink": "/r/netflix/comments/1phnoqn/anyone_else_watching_ripple_lovely_bit_of_cheese/"
-    },
-    {
-        "id": "1phnki6",
-        "author": "Western-Mall5505",
-        "title": "Playing the games with friends",
-        "content": "Does anyone on here know if you can play games like pictionary with friends who are in other house holds?\nThe crappy ai thing that pops up when you googled says yes, but I couldn't find anything on Netflix faq.",
-        "upvotes": 1,
-        "comments": 0,
-        "media": null,
-        "permalink": "/r/netflix/comments/1phnki6/playing_the_games_with_friends/"
     },
     {
         "id": "1phy3ou",
@@ -224,79 +294,9 @@
         "author": "Chickenjane788",
         "title": "Check out Ripple - new on Netflix!",
         "content": "I enjoy a variety of stuff - dark and gritty to light and clever.\n\nCame across this new little 8 episode show on Netflix (Ripple) and it was actually pretty good! Yes, it was originally made for Hallmark and you can tell a bit, but a couple episodes in it finds a more natural groove and by the end I was invested in the characters and where it could go next. So fingers-crossed that netflix could keep going with it if enough people watch it. kinda the vibe of This is Us, virgin river etc.\n\nfirst episode is a little cheesy, but stick with it\u2026 it has potential!",
-        "upvotes": 24,
+        "upvotes": 23,
         "comments": 4,
         "media": null,
         "permalink": "/r/netflix/comments/1pgtyt5/check_out_ripple_new_on_netflix/"
-    },
-    {
-        "id": "1phdglu",
-        "author": "solid-sosa",
-        "title": "Email showing up on tv that isnt mine?",
-        "content": "I went to set up netflix on my tv, it says choose an account to sign in, one is a old gmail i havent used in a minute and isnt my netflix accounts email im not sure why it popped up, and the other is another gmail that isnt even mine it seems to be a womans as its a girly name? How is this possible, does it have something to do with being on wifi? ",
-        "upvotes": 1,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/netflix/comments/1phdglu/email_showing_up_on_tv_that_isnt_mine/"
-    },
-    {
-        "id": "1phpilp",
-        "author": "GolbNOS-4A2",
-        "title": "Netflix quality drive me insane",
-        "content": "I was able to be streaming 4k netflix series with atmos logo on them and then i am on my 5k mac with safari can handle 4k but out of sudden no longer a possibility i have to force the command shift d and press arrows left to right then out of nowhere it works and don\u2019t it drop to 1080p i paid for 4k subscription is it a scam?",
-        "upvotes": 0,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/netflix/comments/1phpilp/netflix_quality_drive_me_insane/"
-    },
-    {
-        "id": "1phwndk",
-        "author": "Straight-Crow1598",
-        "title": "Netflix is built to show ads, not the content they purport to offer",
-        "content": "I'm watching on my computer via a browser, not using a stand-alone app. When commercials are playing, if I switch tabs, or programs, or windows, the commercials will pause. If a show is playing, however, it'll just keep going in the background. \n\nIf I were a creator I\u2019d be pissed the platform is giving users the option to skip the content, but locking them in for the commercials. \n\nAnd I\u2019m aware I could pay to get rid of the ads entirely. I\u2019m sure they\u2019d love to up-sell me a convenient solution to this problem they created, just like Pepsi conveniently found a solution to the thirst I experience when I enjoy a Frito-Lays product, or one of the YUM! dining brands. Or paying protection fees to the mafia. ",
-        "upvotes": 0,
-        "comments": 19,
-        "media": null,
-        "permalink": "/r/netflix/comments/1phwndk/netflix_is_built_to_show_ads_not_the_content_they/"
-    },
-    {
-        "id": "1ph2zoi",
-        "author": "Complex_Day6489",
-        "title": "Help needed",
-        "content": "**So when I go to watch Netflix (I watch Netflix on an Android phone) for some reason the screen always goes blank. I can still hear sound but the screen always turns black, I have reset my phone, delete and reinstall the app, and a few other things but I can't seem to get it to work. So if anyone knows how to fix this problem that would be amazing.**",
-        "upvotes": 3,
-        "comments": 3,
-        "media": null,
-        "permalink": "/r/netflix/comments/1ph2zoi/help_needed/"
-    },
-    {
-        "id": "1ph3tm0",
-        "author": "elemenopes",
-        "title": "Whaat should Netflix make a documentary on next?",
-        "content": "With documentaries being so popular, what should Netflix make a documentary on next? \n\nI would love to see one about Sylvia Brown - the psychic on Montel Williams. \n",
-        "upvotes": 2,
-        "comments": 34,
-        "media": null,
-        "permalink": "/r/netflix/comments/1ph3tm0/whaat_should_netflix_make_a_documentary_on_next/"
-    },
-    {
-        "id": "1ph3ann",
-        "author": "Dennis551103",
-        "title": "Just finished SWAT. Does anyone have any good show recommendations?",
-        "content": "I like anything car, police/fire, and history. If anyone knows anything good, that would be nice. I am currently watching the Sean \u201cDiddy\u201d Combs documentary and it is pretty good. ",
-        "upvotes": 2,
-        "comments": 4,
-        "media": null,
-        "permalink": "/r/netflix/comments/1ph3ann/just_finished_swat_does_anyone_have_any_good_show/"
-    },
-    {
-        "id": "1phdg8q",
-        "author": "-sprout",
-        "title": "Netflix account \u201cdoesn\u2019t exist\u201d customer service won\u2019t help",
-        "content": "My mum had a Netflix account that when I moved out she transferred to me through change of email. She still makes payments and I was able to log in with no problem on my smart TV and iPad. \n\nAfter a while (maybe after updates to the app) I was logged out of the account on my iPad and no longer able to log back in. This is something I just ignored for a long time as I was still able to watch on my TV. \n\nI am about to travel and would like to be able to watch Netflix away from home so, again,  tried logging in on my iPad. I\u2019m told neither me or my mums email address are linked to an account, I\u2019ve tried with both of our phone numbers and we get the same response \u201cno account linked to these numbers\u201d. We have also tried the option of using her debit card where payments are still taken monthly as it\u2019s the \u201ccan\u2019t remember email or phone number\u201dlast resort option, same response. \n\nWe called Netflix customer service today and she just ran us through the exact same process. She was quite adamant that no account exists and that we must be reading number wrong as there is no way that they couldn\u2019t locate the account with her debit card account number. We\u2019ve been through this process multiple times and the lady ended up telling us that there\u2019s nothing she can do for us. \n\nI don\u2019t really know where to go from here as the account definitely exists, I can still watch Netflix on my TV and a monthly payment is still being taken. Is there any way we can get money back, someone higher up than the call centre to email? Or do we just have to suck it up, close the account and create a new one? \n\nWe are in England for context and I\u2019m not angry at the customer service lady, I know they\u2019re trained to read off scripts and can only do what they can do. ",
-        "upvotes": 0,
-        "comments": 9,
-        "media": null,
-        "permalink": "/r/netflix/comments/1phdg8q/netflix_account_doesnt_exist_customer_service/"
     }
 ]
