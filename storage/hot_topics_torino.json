@@ -23,31 +23,31 @@
         "permalink": "/r/torino/comments/1o90rn3/la_piola_friends_meetup/"
     },
     {
+        "id": "1pmq6wl",
+        "author": "yotama9",
+        "title": "Cerco per il libro \"Frankenstein\" in ingelse per mia figlia",
+        "content": "Ciao tutti.\n\nMia figlia ha un esame sul questo libro in venerd\u00ec. Lei ha letto il libro online (project Guttenberg), m\u00e1 solo oggi mi ha detto che forse c'\u00e8 bisogno d'avere questo libro fisicamente durante l'esame. Forse qualcuno posso aiutare a noi? O forse conosci un negozio a Torino dove possiamo comprarlo? \n\n(Dispiace se ho l'errore nel mio messaggio, non sono Italiano)",
+        "upvotes": 3,
+        "comments": 6,
+        "media": null,
+        "permalink": "/r/torino/comments/1pmq6wl/cerco_per_il_libro_frankenstein_in_ingelse_per/"
+    },
+    {
         "id": "1pm8w9g",
         "author": "chack1172_temp",
         "title": "Maledetto fuochi d'artificio",
         "content": "Stanotte fuochi d'artificio a non finire, a mezzanotte, all'1 e alle 2. Oggi mi son dovuto svegliare alle 6 per prendere il treno, ho dormito solo 3 ore... Situazione assurda",
-        "upvotes": 21,
-        "comments": 22,
+        "upvotes": 32,
+        "comments": 26,
         "media": null,
         "permalink": "/r/torino/comments/1pm8w9g/maledetto_fuochi_dartificio/"
-    },
-    {
-        "id": "1pmdunq",
-        "author": "Conscious-Trouble430",
-        "title": "SMAT Water Distribution Point Questions",
-        "content": "In our town are a couple of SMAT water distribution point, like kiosks.  The still water is free and the fizzy water costs little with the card according to someone we met at the kiosk.  But, a couple of questions for the group....  Is the still water the same water (hard and full of minerals) that arrives from the tap in the house, or is is different?  If so, what's the point of dragging empty bottles to the kiosk, filling them up, and taking them back home?  Second, I don't see a way to get the SMAT card for the fizzy water unless one already has a separate SMAT account for the apartment.  We pay our water bill via the condominium and don't have a separate account.  Thanks in advance for your helpful feedback on both of these things.",
-        "upvotes": 3,
-        "comments": 0,
-        "media": null,
-        "permalink": "/r/torino/comments/1pmdunq/smat_water_distribution_point_questions/"
     },
     {
         "id": "1pmio3m",
         "author": "Agitated-Standard627",
         "title": "UPDATE: The proximity project",
         "content": "Ciao a tutti,\n\nvolevo aggiornarvi sul \"the proximity project\", di cui avevo parlato qui nel sub qualche tempo fa.\n\n&gt;Si tratta di uno strumento che mostra, tramite isocrone (o meglio aree con colori sempre pi\u00f9 scuri), le zone pi\u00f9 vicine a una stazione ferroviaria, metropolitana, fermata di tram o filobus. Questo perch\u00e9, secondo la mia esperienza personale (almeno a Roma :-) ), questo tipo di trasporto pubblico \u00e8 decisamente pi\u00f9 affidabile degli autobus, che sono pi\u00f9 soggetti al traffico.\n\nOk, forse tram e filobus non sono sempre al 100% affidabili, ma mi piaceva pensarla cos\u00ec.\n\nhttps://i.redd.it/uzp6u32k877g1.gif\n\nA chi pu\u00f2 servire? A chi cerca un modo semplice per individuare zone ben collegate dove soggiornare, quindi turisti, studenti o chi cerca casa in affitto o acquisto. Oppure a chi, come me, si diverte con rappresentazioni di dati sulle mappe :-D\n\nLe novit\u00e0 principali sono:\n\n* aggiunta dei filobus, ai treni e tram gi\u00e1 presenti\n* mappe pi\u00f9 fluide grazie all\u2019uso di Azure Maps invece di OpenStreetMap\n* ho sistemato alcuni problemi che si presentavano su mobile\n* ora si pu\u00f2 filtrare anche per tipo di stazione o fermata, che vengono mostrate con colori diversi\n\nIn via sperimentale ho aggiunto anche il supporto per un paio di aree metropolitane francesi (Parigi e Lione).\n\nQui [https://proximity.duckiesfarm.com/italy](https://proximity.duckiesfarm.com/italy) trovate tutte le aree italiane disponibili (si pu\u00f2 anche accedere direttamente con deep link, per esempio [https://proximity.duckiesfarm.com/italy/milan](https://proximity.duckiesfarm.com/italy/milan)), mentre qui [https://proximity.duckiesfarm.com/france](https://proximity.duckiesfarm.com/france) ci sono le due aree francesi.\n\nIl progetto \u00e8 open source, lo faccio per passione, per creare qualcosa di utile anche ad altri e per avere una scusa per imparare cose nuove. Qualsiasi feedback, purch\u00e9 gentile :-), \u00e8 ben accetto - [https://github.com/nicolgit/proximity](https://github.com/nicolgit/proximity)\n\nFatemi sapere cosa ne pensate, cosa posso migliorare, cambiare o aggiungere, e condividete o salvate il link se vi sembra davvero utile!",
-        "upvotes": 1,
+        "upvotes": 3,
         "comments": 0,
         "media": {
             "type": "image",
@@ -56,12 +56,52 @@
         "permalink": "/r/torino/comments/1pmio3m/update_the_proximity_project/"
     },
     {
+        "id": "1pmo675",
+        "author": "DenverMa",
+        "title": "Wins school",
+        "content": "Hi! I\u2019m looking for feedback for WINS school - can anyway please help me? Primary and middle school for my kids ",
+        "upvotes": 2,
+        "comments": 0,
+        "media": null,
+        "permalink": "/r/torino/comments/1pmo675/wins_school/"
+    },
+    {
+        "id": "1pmdunq",
+        "author": "Conscious-Trouble430",
+        "title": "SMAT Water Distribution Point Questions",
+        "content": "In our town are a couple of SMAT water distribution point, like kiosks.  The still water is free and the fizzy water costs little with the card according to someone we met at the kiosk.  But, a couple of questions for the group....  Is the still water the same water (hard and full of minerals) that arrives from the tap in the house, or is is different?  If so, what's the point of dragging empty bottles to the kiosk, filling them up, and taking them back home?  Second, I don't see a way to get the SMAT card for the fizzy water unless one already has a separate SMAT account for the apartment.  We pay our water bill via the condominium and don't have a separate account.  Thanks in advance for your helpful feedback on both of these things.",
+        "upvotes": 6,
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/torino/comments/1pmdunq/smat_water_distribution_point_questions/"
+    },
+    {
+        "id": "1pmmivk",
+        "author": "No_Spinach2802",
+        "title": "Lezioni di piscina private",
+        "content": "Qualcuno sa suggerirmi una piscina aperta di domenica con cui posso fare lezioni priva per imparare a nuotare ? ",
+        "upvotes": 1,
+        "comments": 0,
+        "media": null,
+        "permalink": "/r/torino/comments/1pmmivk/lezioni_di_piscina_private/"
+    },
+    {
+        "id": "1pmdpay",
+        "author": "Fabulous-Owl3389",
+        "title": "Suggerimenti palestra per arrampicata?",
+        "content": "Ciao!\nSapreste suggerire una palestra per arrampicata indoor a Torino?\nPossibilmente una dove si possa accedere senza iscrizione/abbonamento/certificato medico,giusto per andare ogni tanto portando qualche amico a provare.\nGrazie mille!",
+        "upvotes": 3,
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/torino/comments/1pmdpay/suggerimenti_palestra_per_arrampicata/"
+    },
+    {
         "id": "1pmcd6j",
         "author": "Thestonksman599xx",
         "title": "Parcheggio in corso settembrini",
         "content": "A breve dovr\u00f2 iniziare a prendere il 4 per lavorare in centro e mi sembrava sensato lasciare l'auto al fondo di Corso Settembrini, vicino alla fermata del 4. \u00c8 una zona sicura per parcheggiare? Posso lasciare l'auto anche la notte?",
         "upvotes": 2,
-        "comments": 1,
+        "comments": 3,
         "media": null,
         "permalink": "/r/torino/comments/1pmcd6j/parcheggio_in_corso_settembrini/"
     },
@@ -71,29 +111,32 @@
         "title": "New in Turin",
         "content": "Ciao, I just wanted to know what places in turin are must to visit? and how can I learn italian efficiently!",
         "upvotes": 0,
-        "comments": 1,
+        "comments": 6,
         "media": null,
         "permalink": "/r/torino/comments/1pmdy68/new_in_turin/"
-    },
-    {
-        "id": "1pmdpay",
-        "author": "Fabulous-Owl3389",
-        "title": "Suggerimenti palestra per arrampicata?",
-        "content": "Ciao!\nSapreste suggerire una palestra per arrampicata indoor a Torino?\nPossibilmente una dove si possa accedere senza iscrizione/abbonamento/certificato medico,giusto per andare ogni tanto portando qualche amico a provare.\nGrazie mille!",
-        "upvotes": 1,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/torino/comments/1pmdpay/suggerimenti_palestra_per_arrampicata/"
     },
     {
         "id": "1pm51rj",
         "author": "Kernel_907",
         "title": "Santa Rita \u00e8 davvero cosi tagliata fuori?",
         "content": "Ciao a tutti, \nSembrer\u00e0 ridicolo ma questa Cosa mi sta divorando l'anima! Devo decidere se puntare su un appartamento in zona pellerina oppure in zona Santa Rita. \nPro pellerina, sicuram \u00e8 meglio servita , quello l'ho gi\u00e0 appurato.. ma l'appartamento sarebbe da rifare perch\u00e8 cosi \u00e8 un po' spoglio/desolante.\nSanta Rita \u00e8 pi\u00fa lontana.. ma \u00e8 gi\u00e0 a posto dentro, da una sensazione di casa accogliente. \nNota: normalmente risistemare casa mi piace, dipingere pareti, decorare , solo che vengo da un periodo lungo di burn out. \nInsomma, se Santa Rita fosse non proprio cpsi scomoda Forse andrebbe meglio per sentirmi in un posto pi\u00fa tranquillo.. e dunque, quanto \u00e8 tagliata fuori secondo voi? \nEventi / iniziative / cose artistiche Sono tutte nelle zone pi\u00fa in alto mi sembra di capire. \nCon la metro \u00e8 facile, ma per arrivare alla metro da dove sarebbe la casa (v.buenos Aires) \u00e8 agevole insomma? \nVoi cosa fareste?",
-        "upvotes": 2,
-        "comments": 14,
+        "upvotes": 3,
+        "comments": 15,
         "media": null,
         "permalink": "/r/torino/comments/1pm51rj/santa_rita_\u00e8_davvero_cosi_tagliata_fuori/"
+    },
+    {
+        "id": "1pmqclc",
+        "author": "Bruno_Barbiere",
+        "title": "Unpopular opinion: colpa delle ciclabili",
+        "content": "",
+        "upvotes": 0,
+        "comments": 12,
+        "media": {
+            "type": "image",
+            "url": "https://preview.redd.it/f2ndp0ges87g1.jpeg?auto=webp&amp;s=9945b52ba44371a037b73b00063b9f0faf585fb0"
+        },
+        "permalink": "/r/torino/comments/1pmqclc/unpopular_opinion_colpa_delle_ciclabili/"
     },
     {
         "id": "1plzb1t",
@@ -101,7 +144,7 @@
         "title": "Lezioni d\u2019Inglese a Torino",
         "content": "Ciao a tutti,\nsto seriamente pensando, avendo un po\u2019 di tempo libero da dedicarci, di fare un corso intensivo d\u2019inglese per migliorare la comprensione.\n\nQualche corso, scuola valida da consigliarmi in citt\u00e0?\n\nGrazie!",
         "upvotes": 3,
-        "comments": 0,
+        "comments": 1,
         "media": null,
         "permalink": "/r/torino/comments/1plzb1t/lezioni_dinglese_a_torino/"
     },
@@ -110,8 +153,8 @@
         "author": "Erleyx",
         "title": "Breakfast Spot",
         "content": "Hi guys, just wanted to ask if anyone here knew a nice spot for breakfast, i\u2019m taking my girl out on a morning date and wanted to know beforehand, somewhere near Porta Susa or Porta Nuova would be nice, thanks in advance!",
-        "upvotes": 3,
-        "comments": 3,
+        "upvotes": 2,
+        "comments": 4,
         "media": null,
         "permalink": "/r/torino/comments/1plxo9n/breakfast_spot/"
     },
@@ -126,16 +169,6 @@
         "permalink": "/r/torino/comments/1pm0czg/sapete_dirmi_a_quali_aziende_si_affida_amazon_per/"
     },
     {
-        "id": "1plnb36",
-        "author": "MeowLesty1",
-        "title": "Qualcuno va al Xmas comics domani?",
-        "content": "Hai, primo post che faccio su Reddit. Sarei dovuto andare al Xmas Comics con duei miei amici, ma mi hanno dato buca di brutto per tutti e due i giorni.\n\nQualcuno che ha gi\u00e0 i biglietti ha bisogno di un +1 per la giornata? (Sono addirittura in Cosplay, wow!), non ho sbatti di andarci da solo per due giorni di fila :(",
-        "upvotes": 4,
-        "comments": 3,
-        "media": null,
-        "permalink": "/r/torino/comments/1plnb36/qualcuno_va_al_xmas_comics_domani/"
-    },
-    {
         "id": "1pldu75",
         "author": "Amazing_Constant_405",
         "title": "ma \u00e8 possibile che ci siano fuochi d\u2019artificio alle 3 del mattino?",
@@ -144,6 +177,16 @@
         "comments": 33,
         "media": null,
         "permalink": "/r/torino/comments/1pldu75/ma_\u00e8_possibile_che_ci_siano_fuochi_dartificio/"
+    },
+    {
+        "id": "1plnb36",
+        "author": "MeowLesty1",
+        "title": "Qualcuno va al Xmas comics domani?",
+        "content": "Hai, primo post che faccio su Reddit. Sarei dovuto andare al Xmas Comics con duei miei amici, ma mi hanno dato buca di brutto per tutti e due i giorni.\n\nQualcuno che ha gi\u00e0 i biglietti ha bisogno di un +1 per la giornata? (Sono addirittura in Cosplay, wow!), non ho sbatti di andarci da solo per due giorni di fila :(",
+        "upvotes": 6,
+        "comments": 3,
+        "media": null,
+        "permalink": "/r/torino/comments/1plnb36/qualcuno_va_al_xmas_comics_domani/"
     },
     {
         "id": "1pljmfd",
@@ -160,7 +203,7 @@
         "author": "Extension_Eye_2635",
         "title": "Com'\u00e8 questa zona in Barriera?",
         "content": "Ciao a tutti, sto considerando di cambiare casa, ho visto qualcosina da queste parti, com'\u00e8 la zona a livello di sicurezza, servizi, efficienza dei mezzi e rumore notturno? So che di per s\u00e9 il quartiere non gode di una bellissima reputazione, ma immagino che evitando alcuni punti (che sto cercando di individuare) non sia poi cos\u00ec male. Ora sono in zona san paolo, tra piazza Sabotino e il mercato di corso Racconigi e non mi sono mai trovata male, ho vissuto per anni in zona San Salvario, vicino via Belfiore e a parte un paio di strane apparizioni mi sono sempre trovata bene anche l\u00ec\n\nhttps://preview.redd.it/naw77odlly6g1.png?width=1334&amp;format=png&amp;auto=webp&amp;s=baa0e56d7f705541252ba07c9c35c9bdd6e91e25\n\n",
-        "upvotes": 2,
+        "upvotes": 3,
         "comments": 3,
         "media": null,
         "permalink": "/r/torino/comments/1pljiqc/com\u00e8_questa_zona_in_barriera/"
@@ -210,8 +253,8 @@
         "author": "Top-Analysis-887",
         "title": "Credete che lo sciopero generale, pur creando disagi (trasporti, servizi), sia ancora oggi uno strumento efficace e necessario per ottenere cambiamenti, oppure credete che il danno superi il beneficio?",
         "content": "",
-        "upvotes": 65,
-        "comments": 74,
+        "upvotes": 66,
+        "comments": 78,
         "media": {
             "type": "image",
             "url": "https://preview.redd.it/24glqniunq6g1.png?auto=webp&amp;s=a02325607149a2ee1e062671969b6628c9dbe448"
@@ -223,7 +266,7 @@
         "author": "bookbookitaita5",
         "title": "Ci sono un sacco di cose carine da fare questo weekend a Torino, voi che fate??",
         "content": "",
-        "upvotes": 4,
+        "upvotes": 3,
         "comments": 2,
         "media": {
             "type": "image",
@@ -270,48 +313,5 @@
         "comments": 3,
         "media": null,
         "permalink": "/r/torino/comments/1pkqqrf/chi_vuole_migliorarsi_e_crescere_insieme/"
-    },
-    {
-        "id": "1pklhkb",
-        "author": "Similar_Profit_7298",
-        "title": "Torino-Borgaro con la AM",
-        "content": "Salve ragazzi, vi scrivo perch\u00e9 stavo valutando l'acquisto di una Citroen ami e il percorso giornaliero che farei di pi\u00f9 \u00e8 praticamente quello che fa il Sadem che collega Borgaro all'aeroporto, anche se per raggiungere Torino credo ci siano altre strade percorribili(nel caso consigliatemele), vi scrivo per sapere se \"la strada aeroporto\"(quella che passa per la zona \"industriale\" di Borgaro e che poi passa sopra il campo Rom, finendo davanti all'istituto Grassi e in zona Via Lanzo) sia una strada percorribile con quel mezzo, com'\u00e8 classificata? Ringrazio gi\u00e0 per le risposte.",
-        "upvotes": 2,
-        "comments": 8,
-        "media": null,
-        "permalink": "/r/torino/comments/1pklhkb/torinoborgaro_con_la_am/"
-    },
-    {
-        "id": "1pk690h",
-        "author": "cinnamon_troll77",
-        "title": "Torino ha bisogno di rilanciare l'economia. Qual \u00e8, secondo te, il settore (oltre all'auto) su cui la citt\u00e0 dovrebbe puntare di pi\u00f9 nei prossimi 5 anni?",
-        "content": "Synergie cerca 400 operai per la 500 ibrida a Mirafiori. Secondo te, le nuove generazioni a Torino vedono ancora un futuro nell'industria automobilistica o puntano su altri settori (come l'aerospazio, menzionato nell'articolo)?",
-        "upvotes": 16,
-        "comments": 19,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/pjrSvE3mT7Af0umCP1LXGOjdmcCPNH5xRxtrjV9A_nc.jpeg?auto=webp&amp;s=08e52918614cdd3a6ac42a30f32645f3c7c172d6"
-        },
-        "permalink": "/r/torino/comments/1pk690h/torino_ha_bisogno_di_rilanciare_leconomia_qual_\u00e8/"
-    },
-    {
-        "id": "1pk5a8c",
-        "author": "Top-Analysis-887",
-        "title": "C'\u00e8 qualcuno che ha gi\u00e0 provato un laboratorio o una scuola di ceramica in citt\u00e0 e la raccomanda vivamente?",
-        "content": "Dove si trova? Quanto dura il corso (un workshop singolo o un ciclo di lezioni)? \u00c8 stata una bella esperienza? (E cosa siete riusciti a creare?)",
-        "upvotes": 11,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/torino/comments/1pk5a8c/c\u00e8_qualcuno_che_ha_gi\u00e0_provato_un_laboratorio_o/"
-    },
-    {
-        "id": "1pks83x",
-        "author": "Aromatic-Gift4353",
-        "title": "Migliori sigarette slim?",
-        "content": "Come da titolo",
-        "upvotes": 0,
-        "comments": 3,
-        "media": null,
-        "permalink": "/r/torino/comments/1pks83x/migliori_sigarette_slim/"
     }
 ]
