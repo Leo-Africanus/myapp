@@ -1,11 +1,24 @@
 [
     {
+        "id": "1ptrd31",
+        "author": "mvea",
+        "title": "Ozempic may be quietly reshaping shopping habits: New research finds that people taking GLP-1 tend to spend less money grocery shopping, especially on snacks. GLP-1 households reduced grocery spending by 5.3% within 6 months, and began to spend more on healthier foods like yogurt and fresh fruits.",
+        "content": "",
+        "upvotes": 6323,
+        "comments": 546,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/QOtw1hVMOmf-t40zVNiWrjH-GD4R3JBKxjxKZJqIk00.jpeg?auto=webp&amp;s=6dc549be78367e47ee1fc7321aa282912ca3e091"
+        },
+        "permalink": "/r/science/comments/1ptrd31/ozempic_may_be_quietly_reshaping_shopping_habits/"
+    },
+    {
         "id": "1ptcm04",
         "author": "mvea",
         "title": "Aspartame, artificial sweetener, decreases fat deposits in mice at a cost of mild cardiac hypertrophy and reduced cognitive performance. Long-term exposure to artificial sweeteners may have detrimental impact on organ function even at low doses (~ to one-sixth recommended max human daily intake).",
         "content": "",
-        "upvotes": 6392,
-        "comments": 530,
+        "upvotes": 7409,
+        "comments": 592,
         "media": null,
         "permalink": "/r/science/comments/1ptcm04/aspartame_artificial_sweetener_decreases_fat/"
     },
@@ -14,18 +27,31 @@
         "author": "FunnyGamer97",
         "title": "Cannabis products with more THC slightly reduce pain but cause more side effects such as dizziness, sedation and nausea, study finds: While products higher in CBD than THC have almost no benefit in reducing pain",
         "content": "",
-        "upvotes": 2551,
-        "comments": 151,
+        "upvotes": 3369,
+        "comments": 201,
         "media": null,
         "permalink": "/r/science/comments/1ptg1u6/cannabis_products_with_more_thc_slightly_reduce/"
+    },
+    {
+        "id": "1ptra8f",
+        "author": "mvea",
+        "title": "Sorbitol, an alternative sweetener, is converted to disease-causing fructose in liver, in experiments in zebrafish. Fructose processed in the liver may be hijacked to supercharge cancer cells and is a key contributor to steatotic liver disease, affecting 30% of the adult population worldwide.",
+        "content": "",
+        "upvotes": 457,
+        "comments": 162,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/jkpj3Y4UnMn62-TEZOEByN_40o9oIO9rSJKSYgFfKVk.jpeg?auto=webp&amp;s=1c5c93e5085b114f99c5cbdd3283f316e280536c"
+        },
+        "permalink": "/r/science/comments/1ptra8f/sorbitol_an_alternative_sweetener_is_converted_to/"
     },
     {
         "id": "1ptimwj",
         "author": "Sciantifa",
         "title": "Healthier, more sustainable school meals could help feed the world better and protect the planet as research shows that plant-rich menus with less meat and dairy can reduce hunger, save over one million lives each year, and sharply cut food-related environmental impacts by 2030.",
         "content": "",
-        "upvotes": 763,
-        "comments": 30,
+        "upvotes": 1128,
+        "comments": 37,
         "media": null,
         "permalink": "/r/science/comments/1ptimwj/healthier_more_sustainable_school_meals_could/"
     },
@@ -34,8 +60,8 @@
         "author": "mvea",
         "title": "New research suggests that a potential partner\u2019s willingness to protect you from physical danger is a primary driver of attraction, often outweighing their actual physical strength. When women evaluated male dates, a refusal to protect acted as a severe penalty to attractiveness.",
         "content": "",
-        "upvotes": 12741,
-        "comments": 611,
+        "upvotes": 13261,
+        "comments": 620,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/sE1dgbBiUz5vcQ8cHgVtsroSau5dnZaB38MEPzbboTs.jpeg?auto=webp&amp;s=89124bb01615a84c6823b818b71c72cfc763fd38"
@@ -47,7 +73,7 @@
         "author": "sr_local",
         "title": "Discovery has found a way to turn ordinary household plastic (PET) waste into the building block for anti-cancer drugs ethyl-4-hydroxymethyl benzoate (EHMB)",
         "content": "",
-        "upvotes": 1400,
+        "upvotes": 1468,
         "comments": 33,
         "media": null,
         "permalink": "/r/science/comments/1pt4voa/discovery_has_found_a_way_to_turn_ordinary/"
@@ -57,7 +83,7 @@
         "author": "FunnyGamer97",
         "title": "New species are now being discovered faster than ever before, study suggests | Between 2015 and 2020 researchers have documented an average of more than 16,000 new species each year, including more than 10,000 animals (dominated by arthropods and insects), 2,500 plants and 2,000 fungi.",
         "content": "",
-        "upvotes": 221,
+        "upvotes": 324,
         "comments": 8,
         "media": {
             "type": "image",
@@ -70,38 +96,48 @@
         "author": "Sciantifa",
         "title": "High-fat diets are a major risk factor for liver cancer. New research shows that excess fat rewires liver cells, pushing mature hepatocytes into a stem-like state. This helps them survive metabolic stress, but over time increases their likelihood of becoming cancerous.",
         "content": "",
-        "upvotes": 967,
-        "comments": 67,
+        "upvotes": 1036,
+        "comments": 68,
         "media": null,
         "permalink": "/r/science/comments/1pt3etf/highfat_diets_are_a_major_risk_factor_for_liver/"
     },
     {
-        "id": "1pt4522",
-        "author": "Sciantifa",
-        "title": "A new study finds that consistently combining clean energy subsidies with pollution taxes can drive rapid clean technology adoption and enable up to an 80% reduction in energy-related carbon emissions by mid-century, while incentive-only approaches fail to deliver deep, lasting decarbonization.",
+        "id": "1ptqijb",
+        "author": "Skoltech_",
+        "title": "Researchers developed a method to accurately determine fibrous material porosity from a single microscope image. The algorithm corrects for perspective and fiber thickness variations, achieving 3.5% average error. This enables real-time quality control in manufacturing.",
         "content": "",
-        "upvotes": 740,
-        "comments": 17,
+        "upvotes": 39,
+        "comments": 1,
         "media": null,
-        "permalink": "/r/science/comments/1pt4522/a_new_study_finds_that_consistently_combining/"
+        "permalink": "/r/science/comments/1ptqijb/researchers_developed_a_method_to_accurately/"
     },
     {
         "id": "1ptjndd",
         "author": "JIntegrAgri",
         "title": "A recent study found that increasing temperature during early spring increases kernel number per spike of winter wheat by prolonging spike differentiation and increasing water soluble carbohydrate accumulation",
         "content": "",
-        "upvotes": 80,
+        "upvotes": 120,
         "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1ptjndd/a_recent_study_found_that_increasing_temperature/"
+    },
+    {
+        "id": "1pt4522",
+        "author": "Sciantifa",
+        "title": "A new study finds that consistently combining clean energy subsidies with pollution taxes can drive rapid clean technology adoption and enable up to an 80% reduction in energy-related carbon emissions by mid-century, while incentive-only approaches fail to deliver deep, lasting decarbonization.",
+        "content": "",
+        "upvotes": 799,
+        "comments": 18,
+        "media": null,
+        "permalink": "/r/science/comments/1pt4522/a_new_study_finds_that_consistently_combining/"
     },
     {
         "id": "1pt4xdz",
         "author": "Inevitable-Middle681",
         "title": "Neanderthal nose wasn't adapted to cold climates",
         "content": "",
-        "upvotes": 391,
-        "comments": 14,
+        "upvotes": 520,
+        "comments": 18,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/FXwPDgvJSFqWiHGWiLIruOQxA08QnO4gyI1nAEyKZPw.jpeg?auto=webp&amp;s=82b84aaf6987413fcbfcdc9be88f19ee11a14cf5"
@@ -109,11 +145,21 @@
         "permalink": "/r/science/comments/1pt4xdz/neanderthal_nose_wasnt_adapted_to_cold_climates/"
     },
     {
+        "id": "1ptsyw4",
+        "author": "JIntegrAgri",
+        "title": "A recent review summarizes recent advances in rice synthetic biology, outlines current developments, and discusses future research directions",
+        "content": "",
+        "upvotes": 13,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1ptsyw4/a_recent_review_summarizes_recent_advances_in/"
+    },
+    {
         "id": "1ptad9i",
         "author": "The_Conversation",
         "title": "West Antarctica\u2019s history of rapid melting foretells sudden shifts in continent\u2019s \u2018catastrophic\u2019 geology",
         "content": "",
-        "upvotes": 154,
+        "upvotes": 185,
         "comments": 2,
         "media": {
             "type": "image",
@@ -122,21 +168,51 @@
         "permalink": "/r/science/comments/1ptad9i/west_antarcticas_history_of_rapid_melting/"
     },
     {
+        "id": "1ptp30t",
+        "author": "Super_Letterhead381",
+        "title": "Choosy dispersal promotes the evolution of altruism",
+        "content": "",
+        "upvotes": 21,
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/science/comments/1ptp30t/choosy_dispersal_promotes_the_evolution_of/"
+    },
+    {
         "id": "1psnvb5",
         "author": "EnigmaticEmir",
         "title": "HPV vaccines prevent precancerous lesions in vulva and vagina, study finds",
         "content": "",
-        "upvotes": 4270,
+        "upvotes": 4300,
         "comments": 54,
         "media": null,
         "permalink": "/r/science/comments/1psnvb5/hpv_vaccines_prevent_precancerous_lesions_in/"
+    },
+    {
+        "id": "1ptxw23",
+        "author": "Sciantifa",
+        "title": "The global seafood trade has become a delivery system for per- and polyfluoroalkyl substances (PFAS), industrial pollutants that persist for decades. Acting as a planetary conveyor belt, it redistributes these contaminants from polluted waters to consumers thousands of miles away.",
+        "content": "",
+        "upvotes": 4,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1ptxw23/the_global_seafood_trade_has_become_a_delivery/"
+    },
+    {
+        "id": "1ptqq3l",
+        "author": "boredant",
+        "title": "New paper on ant's chromosomes",
+        "content": "",
+        "upvotes": 10,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1ptqq3l/new_paper_on_ants_chromosomes/"
     },
     {
         "id": "1psiyoq",
         "author": "Dr_Neurol",
         "title": "A new study has found that keeping tabs on a former romantic partner through social media hinders emotional recovery. The findings indicate that both intentional surveillance and accidental exposure to an ex-partner\u2019s content are associated with increased distress, jealousy, and negative mood.",
         "content": "",
-        "upvotes": 5784,
+        "upvotes": 5840,
         "comments": 127,
         "media": null,
         "permalink": "/r/science/comments/1psiyoq/a_new_study_has_found_that_keeping_tabs_on_a/"
@@ -146,7 +222,7 @@
         "author": "universityofturku",
         "title": "Evolution and locomotion patterns, such as bipedalism, shaped bone structures through proteins present in the bone matrix. Species with different locomotor patterns display distinct evolutionary signatures in the genes and proteins associated with load sensing and skeletal remodeling.",
         "content": "",
-        "upvotes": 218,
+        "upvotes": 231,
         "comments": 2,
         "media": {
             "type": "image",
@@ -159,7 +235,7 @@
         "author": "mvea",
         "title": "mRNA rejuvenates aging immune system: mRNA technology used to transform liver in mice into temporary source of important immune regulatory factors naturally lost during aging. This restores formation of new immune cells, allowing older animals to develop immune responses again and fight tumors.",
         "content": "",
-        "upvotes": 2327,
+        "upvotes": 2362,
         "comments": 26,
         "media": {
             "type": "image",
@@ -172,8 +248,8 @@
         "author": "fchung",
         "title": "NU-9 halts Alzheimer\u2019s disease in animal model before symptoms begin: \u00ab Study uncovers a new Alzheimer\u2019s trigger \u2014 and a way to stop it. \u00bb",
         "content": "",
-        "upvotes": 4326,
-        "comments": 83,
+        "upvotes": 4334,
+        "comments": 84,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/b9N5tqc2d-AGBezasvUwoUzYS7-lLs9phPNw2f4qGO8.jpeg?auto=webp&amp;s=f8d29253780276f63c5be5a85b40a193572aba34"
@@ -185,27 +261,17 @@
         "author": "Scbadiver",
         "title": "Inflammation and Cardiovascular Disease: 2025 ACC Scientific Statement: A Report of the American College of Cardiology | JACC",
         "content": "",
-        "upvotes": 81,
+        "upvotes": 85,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1pt1jpo/inflammation_and_cardiovascular_disease_2025_acc/"
-    },
-    {
-        "id": "1psyqnm",
-        "author": "JIntegrAgri",
-        "title": "In a new study, a 553-day incubation experiment was conducted to examine temporal changes in CO2 emissions, extracellular enzyme activities, microbial biomass, and microbial community composition in soils from both enclosed and grazed grasslands",
-        "content": "",
-        "upvotes": 94,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/science/comments/1psyqnm/in_a_new_study_a_553day_incubation_experiment_was/"
     },
     {
         "id": "1pt89yq",
         "author": "AgingUS",
         "title": "A natural language processing\u2013driven map of the aging research landscape",
         "content": "",
-        "upvotes": 28,
+        "upvotes": 30,
         "comments": 2,
         "media": {
             "type": "image",
@@ -214,21 +280,21 @@
         "permalink": "/r/science/comments/1pt89yq/a_natural_language_processingdriven_map_of_the/"
     },
     {
-        "id": "1ptp30t",
-        "author": "Super_Letterhead381",
-        "title": "Choosy dispersal promotes the evolution of altruism",
+        "id": "1psyqnm",
+        "author": "JIntegrAgri",
+        "title": "In a new study, a 553-day incubation experiment was conducted to examine temporal changes in CO2 emissions, extracellular enzyme activities, microbial biomass, and microbial community composition in soils from both enclosed and grazed grasslands",
         "content": "",
-        "upvotes": 2,
+        "upvotes": 99,
         "comments": 2,
         "media": null,
-        "permalink": "/r/science/comments/1ptp30t/choosy_dispersal_promotes_the_evolution_of/"
+        "permalink": "/r/science/comments/1psyqnm/in_a_new_study_a_553day_incubation_experiment_was/"
     },
     {
         "id": "1pt0za6",
         "author": "groom_no_402826277",
         "title": "Extraordinary claims require extraordinary evidence: evaluating nodule-associated dark oxygen production",
         "content": "",
-        "upvotes": 48,
+        "upvotes": 49,
         "comments": 5,
         "media": null,
         "permalink": "/r/science/comments/1pt0za6/extraordinary_claims_require_extraordinary/"
@@ -238,8 +304,8 @@
         "author": "mvea",
         "title": "Researchers find reverse sexual double standard in sextech use: Men who use sexual technology are viewed with more disgust than women who engage in the same behaviors, a \u201creverse sexual double standard\u201d in which men face harsher social penalties for using devices like sex toys, chatbots, and robots.",
         "content": "",
-        "upvotes": 7458,
-        "comments": 997,
+        "upvotes": 7489,
+        "comments": 998,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/xFJU0eBhA5kjmvs8tF17zeEpFu5bEGZA2TVSQ1JMkuI.jpeg?auto=webp&amp;s=2d06387b59d13e076a201673aac3ede2fd8fce4e"
@@ -251,7 +317,7 @@
         "author": "Wagamaga",
         "title": "New research shows that emotionally stimulating music can enhance specific types of memory recall, while relaxing music might help fade negative memories. These findings suggest that low-cost, music-based interventions could play a supportive role in managing cognitive decline",
         "content": "",
-        "upvotes": 902,
+        "upvotes": 927,
         "comments": 6,
         "media": {
             "type": "image",
@@ -264,75 +330,12 @@
         "author": "sr_local",
         "title": "Low dietary doses of nanoplastics in mice for 3 months, found to impact gut barrier integrity, microbiota composition, and liver function, with effects magnified by a high fat, high sugar diet",
         "content": "",
-        "upvotes": 1217,
+        "upvotes": 1219,
         "comments": 33,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/gFR1QjOKof_ZkyKTX6QLs2jbnTiiZ48avFghlcItSbg.jpeg?auto=webp&amp;s=9919a8f1fd1781c455e31496be4c9948c71cecea"
         },
         "permalink": "/r/science/comments/1psao5b/low_dietary_doses_of_nanoplastics_in_mice_for_3/"
-    },
-    {
-        "id": "1psym9t",
-        "author": "JIntegrAgri",
-        "title": "Researchers developed a visual assay of LayV nucleic acids based on recombinase polymerase amplification technology, combined with immunochromatographic test device, this assay is well-suited for requirements of point-of-care and field detection and has the potential for broader application",
-        "content": "",
-        "upvotes": 22,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1psym9t/researchers_developed_a_visual_assay_of_layv/"
-    },
-    {
-        "id": "1prylks",
-        "author": "EnigmaticEmir",
-        "title": "A randomized trial in 56 adults with ADHD found that 4 weeks of tACS significantly improved inattention versus sham, with effects lasting to week 8. Benefits correlated with reduced gamma connectivity, suggesting a neural mechanism; safety was comparable.",
-        "content": "",
-        "upvotes": 2392,
-        "comments": 96,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/Rz9sR83BkgokDgj9GtU3q96vkN-YBJ5NS8qqPJQ6SOU.png?auto=webp&amp;s=e0844ad0dae27e411f070a086cee1753bfe147d5"
-        },
-        "permalink": "/r/science/comments/1prylks/a_randomized_trial_in_56_adults_with_adhd_found/"
-    },
-    {
-        "id": "1ps74yd",
-        "author": "Sciantifa",
-        "title": "A small early-phase human clinical study suggests that a single 10 mg dose of psilocybin transiently reduces compulsive, but not obsessive, symptoms in adults with OCD, with effects peaking at one week and no full psychedelic experience.",
-        "content": "",
-        "upvotes": 457,
-        "comments": 11,
-        "media": null,
-        "permalink": "/r/science/comments/1ps74yd/a_small_earlyphase_human_clinical_study_suggests/"
-    },
-    {
-        "id": "1proho9",
-        "author": "smurfyjenkins",
-        "title": "A large-scale audit study (involving nearly 1,500 university administrators) finds no evidence that administrators discriminate against conservative students who want to set up conservative student organizations or secure campus space for guest speakers.",
-        "content": "",
-        "upvotes": 8095,
-        "comments": 270,
-        "media": null,
-        "permalink": "/r/science/comments/1proho9/a_largescale_audit_study_involving_nearly_1500/"
-    },
-    {
-        "id": "1prpl5g",
-        "author": "mvea",
-        "title": "Tattoo ink induces inflammation in the draining lymph node and alters the immune response to vaccination, finds a new study in a mouse model. The results inform the general public regarding the potential risk of tattooing practice associated with an altered immune response.",
-        "content": "",
-        "upvotes": 5039,
-        "comments": 206,
-        "media": null,
-        "permalink": "/r/science/comments/1prpl5g/tattoo_ink_induces_inflammation_in_the_draining/"
-    },
-    {
-        "id": "1prnc46",
-        "author": "Sciantifa",
-        "title": "Scientists are urging governments to act immediately on plastic pollution, warning that waiting for a binding Global Plastics Treaty could mean years of damaging delay as plastic waste accelerates worldwide. They emphasize that countries already have the tools to act and must use them now.",
-        "content": "",
-        "upvotes": 2040,
-        "comments": 35,
-        "media": null,
-        "permalink": "/r/science/comments/1prnc46/scientists_are_urging_governments_to_act/"
     }
 ]
