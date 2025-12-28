@@ -1,11 +1,34 @@
 [
     {
+        "id": "1px28bn",
+        "author": "sr_local",
+        "title": "New study finds skin collagen production and renewal directly respond to the amount of vitamin C we eat, suggesting increasing fruit consumption can boost skin health",
+        "content": "",
+        "upvotes": 5007,
+        "comments": 115,
+        "media": null,
+        "permalink": "/r/science/comments/1px28bn/new_study_finds_skin_collagen_production_and/"
+    },
+    {
+        "id": "1px7aqe",
+        "author": "mvea",
+        "title": "Difficulty maintaining relationships is a major driver of modern singlehood, Greek study suggests. For men, the greater the difficulty in maintaining relationships, the more consistently likely they are to be single, while for women the effect is strong but nonlinear.",
+        "content": "",
+        "upvotes": 1642,
+        "comments": 222,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/DLr4yqv-sOU63pGWqvtXcmMYzGJ_mOTWh1O2hqi8EeU.jpeg?auto=webp&amp;s=9e6d540be3324f33698e5e30fdf6312f7aacbd8b"
+        },
+        "permalink": "/r/science/comments/1px7aqe/difficulty_maintaining_relationships_is_a_major/"
+    },
+    {
         "id": "1pwvv6h",
         "author": "mvea",
         "title": "Game-day crime rises up to 70% after sports betting went legal in the US in 2018. Those crimes include assault, larceny, and vehicle theft, with assaults spiking between 60-90% and larceny increasing 30-100%. Assaults had the largest jump of all crimes \u2013 up to 93% \u2013 after a home-team upset.",
         "content": "",
-        "upvotes": 3902,
-        "comments": 123,
+        "upvotes": 7243,
+        "comments": 242,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/8dp2w3rRhjAydPGn-2vJ4lnimaM7X7kbOTunYUoQRBY.jpeg?auto=webp&amp;s=c0ae8040045aa9185035805dbea4e76bce297d4b"
@@ -13,12 +36,58 @@
         "permalink": "/r/science/comments/1pwvv6h/gameday_crime_rises_up_to_70_after_sports_betting/"
     },
     {
+        "id": "1pxa1aj",
+        "author": "Sciantifa",
+        "title": "A new study suggests we may be misreading our dogs\u2019 emotions more often than we think. Rather than accurately interpreting what they feel, our perceptions appear to be shaped by our own emotional state, leading us to project our moods onto them and misunderstand their experience.",
+        "content": "",
+        "upvotes": 674,
+        "comments": 49,
+        "media": null,
+        "permalink": "/r/science/comments/1pxa1aj/a_new_study_suggests_we_may_be_misreading_our/"
+    },
+    {
+        "id": "1px4n8h",
+        "author": "Jumpinghoops46",
+        "title": "Adverse childhood experiences linked to increased ADHD symptoms in college students",
+        "content": "",
+        "upvotes": 1289,
+        "comments": 79,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/ONEcLNVnqfHCgyyqQvN0iEa08fPMcFnFheNg5p74wfc.jpeg?auto=webp&amp;s=feab5bc74ca4c2fb9409fa75610a398c9caedbfc"
+        },
+        "permalink": "/r/science/comments/1px4n8h/adverse_childhood_experiences_linked_to_increased/"
+    },
+    {
+        "id": "1pxau76",
+        "author": "Sciantifa",
+        "title": "New technique reveals exactly where drugs bind in the body\u2014one cell at a time. Using whole-body imaging and highly selective click chemistry, scientists map drug targets across every organ, uncovering unexpected binding sites that may explain side effects and guide safer drug development.",
+        "content": "",
+        "upvotes": 563,
+        "comments": 7,
+        "media": null,
+        "permalink": "/r/science/comments/1pxau76/new_technique_reveals_exactly_where_drugs_bind_in/"
+    },
+    {
+        "id": "1px1dee",
+        "author": "Dr_Neurol",
+        "title": "Excessive social media use was associated with impaired attention, reduced working memory, and diminished executive functioning, particularly among adolescents with addiction. Certain platforms showed potential benefits in enhancing language skills and memory through educational engagement.",
+        "content": "",
+        "upvotes": 576,
+        "comments": 29,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/eFMa-V1uKt_0fEaeLyZatpb8QwmDWeu0cd35rQ-BtGk.jpeg?auto=webp&amp;s=3ccfb02ee1a9d392e35707ff6b7cfc25262c0542"
+        },
+        "permalink": "/r/science/comments/1px1dee/excessive_social_media_use_was_associated_with/"
+    },
+    {
         "id": "1pwvc6s",
         "author": "mvea",
         "title": "Study found divergence in how mothers and fathers perceived their relationship over time. Fathers report that frequency of conflict decreased while mothers report it increased as children aged. This suggests that as family life became more complex, mothers perceived more friction than fathers did.",
         "content": "",
-        "upvotes": 891,
-        "comments": 57,
+        "upvotes": 1351,
+        "comments": 88,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/_r1F7JnlwvbY9k_Ezm2fjH5UYf6rn578zsanASv9WZc.jpeg?auto=webp&amp;s=ce615fc62850791b990176cb0e7ab3141538293f"
@@ -30,41 +99,18 @@
         "author": "ddx-me",
         "title": "A systematic review and meta-analysis on GLP-1 receptor agonists for obesity without diabetes found that they are generally not cost-effective versus other interventions (lifestyle change, surgery)",
         "content": "",
-        "upvotes": 2246,
-        "comments": 538,
+        "upvotes": 2578,
+        "comments": 654,
         "media": null,
         "permalink": "/r/science/comments/1pwmr6f/a_systematic_review_and_metaanalysis_on_glp1/"
-    },
-    {
-        "id": "1px28bn",
-        "author": "sr_local",
-        "title": "New study finds skin collagen production and renewal directly respond to the amount of vitamin C we eat, suggesting increasing fruit consumption can boost skin health",
-        "content": "",
-        "upvotes": 185,
-        "comments": 7,
-        "media": null,
-        "permalink": "/r/science/comments/1px28bn/new_study_finds_skin_collagen_production_and/"
-    },
-    {
-        "id": "1px1dee",
-        "author": "Dr_Neurol",
-        "title": "Excessive social media use was associated with impaired attention, reduced working memory, and diminished executive functioning, particularly among adolescents with addiction. Certain platforms showed potential benefits in enhancing language skills and memory through educational engagement.",
-        "content": "",
-        "upvotes": 148,
-        "comments": 10,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/eFMa-V1uKt_0fEaeLyZatpb8QwmDWeu0cd35rQ-BtGk.jpeg?auto=webp&amp;s=3ccfb02ee1a9d392e35707ff6b7cfc25262c0542"
-        },
-        "permalink": "/r/science/comments/1px1dee/excessive_social_media_use_was_associated_with/"
     },
     {
         "id": "1pwtrbs",
         "author": "fchung",
         "title": "Ant societies rose by trading individual protection for collective power: \u00ab Building prolific ant legions takes tons of resources\u2014but a new study finds that certain species cut corners by skimping out on protective armor. \u00bb",
         "content": "",
-        "upvotes": 238,
-        "comments": 3,
+        "upvotes": 356,
+        "comments": 4,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/QuWYdlGBY3wZxfxmgOPzVPgko3GmbIf0wLKd61dCoMk.jpeg?auto=webp&amp;s=7f0875bfecd70924c612ef6d80e9f2690aac5791"
@@ -72,12 +118,25 @@
         "permalink": "/r/science/comments/1pwtrbs/ant_societies_rose_by_trading_individual/"
     },
     {
+        "id": "1px3i94",
+        "author": "atmscience",
+        "title": "A Novel Approach for Reliable Classification of Marine Low Cloud Morphologies with Vision\u2013Language Models",
+        "content": "",
+        "upvotes": 24,
+        "comments": 1,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/nD77TG6lWkOI3SPmskoOdVq70fVkNqEy0Y-b1pq_jd0.jpeg?auto=webp&amp;s=dce0ad0ae68421fe0989cb98e3785bc093ca6783"
+        },
+        "permalink": "/r/science/comments/1px3i94/a_novel_approach_for_reliable_classification_of/"
+    },
+    {
         "id": "1pw1x6w",
         "author": "mvea",
         "title": "Even a low daily intake of alcohol (just 9 g or around 1 standard drink) is linked to a 50% heightened risk of mouth (buccal mucosa) cancer in India, with greatest risk associated with locally brewed alcohol. Study suggests there may be no safe limit of alcohol consumption for mouth cancer risk.",
         "content": "",
-        "upvotes": 4766,
-        "comments": 266,
+        "upvotes": 4856,
+        "comments": 273,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/0c-o93WKtc63ZX_d4BOsHi3RnJMIKvVGjf_EL7fBFOE.jpeg?auto=webp&amp;s=ff82777ffd0e8d7f2f40c0fddab924ba9454729a"
@@ -89,18 +148,28 @@
         "author": "RealisticScienceGuy",
         "title": "Study links real world light exposure patterns with aspects of cognitive function in everyday life",
         "content": "",
-        "upvotes": 841,
-        "comments": 4,
+        "upvotes": 904,
+        "comments": 5,
         "media": null,
         "permalink": "/r/science/comments/1pw9eb1/study_links_real_world_light_exposure_patterns/"
+    },
+    {
+        "id": "1px47j1",
+        "author": "RealisticScienceGuy",
+        "title": "Graded encoding of spatial novelty scales in the human brain during virtual navigation",
+        "content": "",
+        "upvotes": 10,
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/science/comments/1px47j1/graded_encoding_of_spatial_novelty_scales_in_the/"
     },
     {
         "id": "1pwosj7",
         "author": "Scbadiver",
         "title": "An Intravenous Injection of Reelin Rescues Endogenous Reelin Expression and Epithelial Cell Apoptosis in the Small Intestine Following Chronic Stress",
         "content": "",
-        "upvotes": 78,
-        "comments": 5,
+        "upvotes": 100,
+        "comments": 6,
         "media": null,
         "permalink": "/r/science/comments/1pwosj7/an_intravenous_injection_of_reelin_rescues/"
     },
@@ -109,7 +178,7 @@
         "author": "Super_Letterhead381",
         "title": "Upper Jurassic dinosaur tracks from the Majala Formation in the Huatacondo area (Tarapac\u00e1 Basin, Chile): reappraisal of known localities and new tracksite discoveries",
         "content": "",
-        "upvotes": 27,
+        "upvotes": 47,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1pwra6w/upper_jurassic_dinosaur_tracks_from_the_majala/"
@@ -119,8 +188,8 @@
         "author": "mvea",
         "title": "Men who are concerned about maintaining a traditional masculine image may be less likely to express concern about climate change to avoid appearing feminine. Men who feel pressure to prove their manhood may avoid environmentalist attitudes to protect their gender identity.",
         "content": "",
-        "upvotes": 15965,
-        "comments": 1593,
+        "upvotes": 16104,
+        "comments": 1606,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/sAJlIHMCfBzmFC_dHyJ1eY4n080jBSgWcPecQ-8rp0k.jpeg?auto=webp&amp;s=817ba820485f5ec0812e681bcc07465d83a7fe20"
@@ -132,7 +201,7 @@
         "author": "Dr_Neurol",
         "title": "Air pollution is a significant environmental determinant of the cardiovascular-kidney-metabolic (CKM) syndrome. The combined effect of multiple pollutants was associated with a 77.7% higher risk of CKM incidence, while 5-year cumulative PM10 exposure was strongly associated with CKM progression.",
         "content": "",
-        "upvotes": 203,
+        "upvotes": 213,
         "comments": 5,
         "media": null,
         "permalink": "/r/science/comments/1pw9cqm/air_pollution_is_a_significant_environmental/"
@@ -142,7 +211,7 @@
         "author": "Super_Letterhead381",
         "title": "A Carbon-rich Atmosphere on a Windy Pulsar Planet",
         "content": "",
-        "upvotes": 43,
+        "upvotes": 53,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1pwebd4/a_carbonrich_atmosphere_on_a_windy_pulsar_planet/"
@@ -152,7 +221,7 @@
         "author": "mvea",
         "title": "Perceived spiritual strength of a group drives extreme self-sacrifice through collective narcissism. Narratives of spiritual power may inadvertently foster dangerous forms of group entitlement, suggests Spanish study of prisoners involved with street gangs or Muslim jihadists.",
         "content": "",
-        "upvotes": 2019,
+        "upvotes": 2048,
         "comments": 66,
         "media": {
             "type": "image",
@@ -165,8 +234,8 @@
         "author": "mvea",
         "title": "New study shows Alzheimer\u2019s disease can be reversed to full neurological recovery\u2014not just prevented or slowed\u2014in animal models. Using mouse models and human brains, study shows brain\u2019s failure to maintain cellular energy molecule, NAD+, drives AD, and maintaining NAD+ prevents or even reverses it.",
         "content": "",
-        "upvotes": 26649,
-        "comments": 578,
+        "upvotes": 26871,
+        "comments": 586,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/dPibrIvCsXuHIqsQnmczBYGo4avWf4cxUyp5o9po6gI.jpeg?auto=webp&amp;s=03a4bbacbd51e2bd8bc131f0b2295269807a15f7"
@@ -178,7 +247,7 @@
         "author": "sci_guy0",
         "title": "Building a comprehensive library of observed Lagrangian trajectories for testing modeled cloud evolution, aerosol\u2013cloud interactions, and marine cloud brightening",
         "content": "",
-        "upvotes": 42,
+        "upvotes": 46,
         "comments": 1,
         "media": {
             "type": "image",
@@ -191,7 +260,7 @@
         "author": "JIntegrAgri",
         "title": "Researchers reported pathways to improved food and nutrition security: The role of farm production diversity in household dietary outcomes in rural areas of Pakistan",
         "content": "",
-        "upvotes": 101,
+        "upvotes": 112,
         "comments": 3,
         "media": null,
         "permalink": "/r/science/comments/1pw3lvs/researchers_reported_pathways_to_improved_food/"
@@ -201,7 +270,7 @@
         "author": "talhelmt",
         "title": "Adapting Interventions to Culture Can Improve Effectiveness and Cost-Efficiency",
         "content": "",
-        "upvotes": 33,
+        "upvotes": 30,
         "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1pw8tc9/adapting_interventions_to_culture_can_improve/"
@@ -221,7 +290,7 @@
         "author": "peterabbit456",
         "title": "Multiscale aperture synthesis imager",
         "content": "",
-        "upvotes": 88,
+        "upvotes": 83,
         "comments": 4,
         "media": {
             "type": "image",
@@ -234,7 +303,7 @@
         "author": "Cad_Lin",
         "title": "A paper reviewing 25 studies finds that aphasia and dementia often make sorting things into categories slower and sometimes less accurate, especially when the task depends on meaning rather than simple matching.",
         "content": "",
-        "upvotes": 327,
+        "upvotes": 339,
         "comments": 2,
         "media": {
             "type": "image",
@@ -247,7 +316,7 @@
         "author": "mvea",
         "title": "Throwing out flame-retardant furniture can reduce toxic chemicals in blood, study finds. Flame retardants commonly used in furniture linked to serious health issues, including cancer and thyroid disease. Most furniture made with foam between 1975 and 2015 contained a range of toxic flame retardants.",
         "content": "",
-        "upvotes": 4217,
+        "upvotes": 4239,
         "comments": 161,
         "media": {
             "type": "image",
@@ -260,8 +329,8 @@
         "author": "Slow-Pie147",
         "title": "Neanderthals may have been \"absorbed\" rather than extinguished: A simple analytical model shows constant gene flow from larger Homo sapiens populations could explain the Neanderthal disappearance within 30,000 years.",
         "content": "",
-        "upvotes": 6317,
-        "comments": 254,
+        "upvotes": 6334,
+        "comments": 256,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/L0fgoDMjyvm63-dvLF2bOwXws8CHMfAXPH2fJWMmCyk.png?auto=webp&amp;s=071a18fc45a4d2294d8df4413ab616ec6502d896"
@@ -273,75 +342,9 @@
         "author": "Emyrssentry",
         "title": "Stimulant medications affect arousal and reward, not attention networks.",
         "content": "",
-        "upvotes": 3499,
+        "upvotes": 3516,
         "comments": 279,
         "media": null,
         "permalink": "/r/science/comments/1puudan/stimulant_medications_affect_arousal_and_reward/"
-    },
-    {
-        "id": "1pumh5j",
-        "author": "mvea",
-        "title": "Playing whimsical video games may help young adults manage symptoms of burnout. Titles like Super Mario Bros. can foster a sense of \u201cchildlike wonder\u201d that boosts happiness and lowers emotional exhaustion. This offers a potential mental health tool for facing high levels of stress and anxiety.",
-        "content": "",
-        "upvotes": 9525,
-        "comments": 330,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/rGDiiFfZ2qOGzuc-ofi74p8NtKAe5WQEv7cQMSxkX24.jpeg?auto=webp&amp;s=c3975705432f059940d47c95a9e9042dedfe1f6e"
-        },
-        "permalink": "/r/science/comments/1pumh5j/playing_whimsical_video_games_may_help_young/"
-    },
-    {
-        "id": "1pvcg47",
-        "author": "research_ux",
-        "title": "Good User Experience associated with higher NPS and customer satisfaction",
-        "content": "",
-        "upvotes": 64,
-        "comments": 16,
-        "media": null,
-        "permalink": "/r/science/comments/1pvcg47/good_user_experience_associated_with_higher_nps/"
-    },
-    {
-        "id": "1pur1sb",
-        "author": "sr_local",
-        "title": "Study (in mice) has shown for the first time that a father\u2019s exposure to microplastics (MPs) can trigger metabolic dysfunctions in his offspring, highlighting that MPs affect male and female offspring differently",
-        "content": "",
-        "upvotes": 807,
-        "comments": 6,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/-lmQL6SRPf4T0fYHGIdTYUPxk2HpbRBLIoLbx6JPpS0.jpeg?auto=webp&amp;s=e6593a62fa591c3e16a99c77b1bebbf0d2bf244c"
-        },
-        "permalink": "/r/science/comments/1pur1sb/study_in_mice_has_shown_for_the_first_time_that_a/"
-    },
-    {
-        "id": "1puzq4v",
-        "author": "paigejarreau",
-        "title": "Researchers leveraged AI to determine what environmental conditions predict higher concentrations of vibrio bacteria in oysters. They found that not only water temperature but also the amount of solar radiation, water level, wind speed, and water salinity affect bacteria numbers.",
-        "content": "",
-        "upvotes": 220,
-        "comments": 4,
-        "media": null,
-        "permalink": "/r/science/comments/1puzq4v/researchers_leveraged_ai_to_determine_what/"
-    },
-    {
-        "id": "1puma3d",
-        "author": "RealisticScienceGuy",
-        "title": "Longitudinal study suggests psychological well-being predicts later self-control, rather than self-control increasing well-being",
-        "content": "",
-        "upvotes": 1366,
-        "comments": 38,
-        "media": null,
-        "permalink": "/r/science/comments/1puma3d/longitudinal_study_suggests_psychological/"
-    },
-    {
-        "id": "1put9ia",
-        "author": "Super_Letterhead381",
-        "title": "Rapid morphological change in an urban bird due to COVID-19 restrictions",
-        "content": "",
-        "upvotes": 406,
-        "comments": 8,
-        "media": null,
-        "permalink": "/r/science/comments/1put9ia/rapid_morphological_change_in_an_urban_bird_due/"
     }
 ]
