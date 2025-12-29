@@ -4,8 +4,8 @@
         "author": "mvea",
         "title": "Brains of autistic people have fewer of a specific kind of receptor for glutamate, the most common excitatory neurotransmitter in the brain. The reduced availability of these receptors may be associated with various characteristics linked to autism.",
         "content": "",
-        "upvotes": 6158,
-        "comments": 241,
+        "upvotes": 12211,
+        "comments": 464,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/hAwtI4F7t0oKkOKZ83DfROZg_I0Mo6fPl04DAKxJ8LA.jpeg?auto=webp&amp;s=8d497a26c77937b3a4d15b3772f6de600569e803"
@@ -17,8 +17,8 @@
         "author": "sr_local",
         "title": "Using marijuana just once or twice a month is associated with worse school performance and emotional distress for teens. The more frequently they used cannabis, the more likely they were to report emotional distress and other social and academic problems",
         "content": "",
-        "upvotes": 4704,
-        "comments": 908,
+        "upvotes": 6257,
+        "comments": 1048,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/KKmcmQ5XHCKC5ja8xj5y0Qhm_Enf_81TxGy_ULdbP0U.jpeg?auto=webp&amp;s=374a45e994f1f6d996b4489ee7960139bf6a8d5b"
@@ -30,8 +30,8 @@
         "author": "Jumpinghoops46",
         "title": "Listing gaming on your resume might hurt your job prospects. Study found that applicants who listed gaming as an extracurricular activity tended to be rated lower in hireability compared to an equal applicant who listed volleyball.",
         "content": "",
-        "upvotes": 4476,
-        "comments": 1056,
+        "upvotes": 5436,
+        "comments": 1142,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/a7iYXe01TTpA49DpOYT-QyFoNiapiNxIdF_KWe9RLmE.jpeg?auto=webp&amp;s=85263ff5c7e88ee6b38047c379989606b4f80cc9"
@@ -39,12 +39,25 @@
         "permalink": "/r/science/comments/1pxvqcs/listing_gaming_on_your_resume_might_hurt_your_job/"
     },
     {
+        "id": "1pyg64e",
+        "author": "Wagamaga",
+        "title": "Traditional Brazilian plant shows unexpected strength against arthritis. Researchers observed less swelling, healthier joints, and signs of tissue protection. Just as important, the extract showed a promising safety profile at tested doses.",
+        "content": "",
+        "upvotes": 125,
+        "comments": 3,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/briUPmWOxFjcxgrADeuWpfgSK60O0lQw5zqnLRquTOc.jpeg?auto=webp&amp;s=8a3591588c3950d3685eafd6089f82d9bc4ef7c9"
+        },
+        "permalink": "/r/science/comments/1pyg64e/traditional_brazilian_plant_shows_unexpected/"
+    },
+    {
         "id": "1pxpeni",
         "author": "mvea",
         "title": "Gerrymandering and US democracy: The mere perception of redistricting being done in a partisan manner leads to decreased levels of system support. But independent redistricting commissions reduce the perceived prevalence of gerrymandering and boost citizens\u2019 evaluations of the democratic process.",
         "content": "",
-        "upvotes": 2752,
-        "comments": 124,
+        "upvotes": 3144,
+        "comments": 134,
         "media": null,
         "permalink": "/r/science/comments/1pxpeni/gerrymandering_and_us_democracy_the_mere/"
     },
@@ -53,8 +66,8 @@
         "author": "mvea",
         "title": "New findings indicate that speakers who use \u201cums,\u201d \u201cahs,\u201d and corrections are consistently rated as less knowledgeable than those who speak fluently. But the presence of hand gestures, regardless of their type or frequency, does not appear to mitigate this negative perception.",
         "content": "",
-        "upvotes": 2141,
-        "comments": 266,
+        "upvotes": 2620,
+        "comments": 278,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/wtBGOqSJVs_Hh14KTS9nhvGHVHVZdND7u53P_157AvQ.jpeg?auto=webp&amp;s=077d1a0bbd621d9c1078cefbf61df91e3e124b1d"
@@ -62,51 +75,101 @@
         "permalink": "/r/science/comments/1pxpag3/new_findings_indicate_that_speakers_who_use_ums/"
     },
     {
-        "id": "1pxw9rw",
-        "author": "Dr_Neurol",
-        "title": "A study showed that early individual differences in infants\u2019 sensitivity to information gain are linked to later cognitive development. Researchers found that the extent to which infants\u2019 attention was guided by information gain at 8 months was related to their IQ scores at 3.5 years of age.",
+        "id": "1py6g4r",
+        "author": "antichain",
+        "title": "Brainstem dysfunction as a potential etiology of ME/CFS and long COVID: A mechanical basis",
         "content": "",
-        "upvotes": 480,
+        "upvotes": 218,
         "comments": 16,
         "media": null,
-        "permalink": "/r/science/comments/1pxw9rw/a_study_showed_that_early_individual_differences/"
+        "permalink": "/r/science/comments/1py6g4r/brainstem_dysfunction_as_a_potential_etiology_of/"
     },
     {
         "id": "1py4l7n",
         "author": "avboden",
         "title": "Rodent contamination of soft drinks: An evaluation of postmortem changes",
         "content": "",
-        "upvotes": 151,
-        "comments": 8,
+        "upvotes": 252,
+        "comments": 10,
         "media": null,
         "permalink": "/r/science/comments/1py4l7n/rodent_contamination_of_soft_drinks_an_evaluation/"
+    },
+    {
+        "id": "1pxw9rw",
+        "author": "Dr_Neurol",
+        "title": "A study showed that early individual differences in infants\u2019 sensitivity to information gain are linked to later cognitive development. Researchers found that the extent to which infants\u2019 attention was guided by information gain at 8 months was related to their IQ scores at 3.5 years of age.",
+        "content": "",
+        "upvotes": 660,
+        "comments": 18,
+        "media": null,
+        "permalink": "/r/science/comments/1pxw9rw/a_study_showed_that_early_individual_differences/"
     },
     {
         "id": "1py2x6z",
         "author": "Sciantifa",
         "title": "A new study suggests that platelets, long known for stopping bleeding, may drive rheumatoid arthritis and other autoimmune diseases, with researchers showing that blocking their interaction with white blood cells reduced inflammation and disease severity in experimental models.",
         "content": "",
-        "upvotes": 155,
-        "comments": 8,
+        "upvotes": 238,
+        "comments": 10,
         "media": null,
         "permalink": "/r/science/comments/1py2x6z/a_new_study_suggests_that_platelets_long_known/"
     },
     {
-        "id": "1py6g4r",
-        "author": "antichain",
-        "title": "Brainstem dysfunction as a potential etiology of ME/CFS and long COVID: A mechanical basis",
+        "id": "1pybxz8",
+        "author": "JIntegrAgri",
+        "title": "Machine learning identifies the dominant physiological components in intrinsic water-use efficiency and photosynthetic performance index in dryland maize",
         "content": "",
-        "upvotes": 35,
-        "comments": 13,
+        "upvotes": 26,
+        "comments": 1,
         "media": null,
-        "permalink": "/r/science/comments/1py6g4r/brainstem_dysfunction_as_a_potential_etiology_of/"
+        "permalink": "/r/science/comments/1pybxz8/machine_learning_identifies_the_dominant/"
+    },
+    {
+        "id": "1pyc053",
+        "author": "JIntegrAgri",
+        "title": "A recent study revealed the genetic diversity of H13 avian influenza viruses in migratory shorebirds in eastern China",
+        "content": "",
+        "upvotes": 23,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1pyc053/a_recent_study_revealed_the_genetic_diversity_of/"
+    },
+    {
+        "id": "1pxy6kt",
+        "author": "ID2691",
+        "title": "A recent review explored mindfulness, its dimensions, and its integration with psychological wellbeing, showing that it can enhance outcomes\u2014such as autonomy, self-acceptance, personal growth, and relationships\u2014by reducing stress, anxiety, and depression.",
+        "content": "",
+        "upvotes": 118,
+        "comments": 7,
+        "media": null,
+        "permalink": "/r/science/comments/1pxy6kt/a_recent_review_explored_mindfulness_its/"
+    },
+    {
+        "id": "1pyg6f3",
+        "author": "EnigmaticEmir",
+        "title": "Study suggests that maternal treatment with SSRIs during breastfeeding does not affect the cognitive performance of the offspring.",
+        "content": "",
+        "upvotes": 9,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1pyg6f3/study_suggests_that_maternal_treatment_with_ssris/"
+    },
+    {
+        "id": "1py6cl9",
+        "author": "antichain",
+        "title": "A 3-hit metabolic signaling model for the core symptoms of autism spectrum disorder - Mitochondrion",
+        "content": "",
+        "upvotes": 32,
+        "comments": 6,
+        "media": null,
+        "permalink": "/r/science/comments/1py6cl9/a_3hit_metabolic_signaling_model_for_the_core/"
     },
     {
         "id": "1pxw3oa",
         "author": "sr_local",
         "title": "Talking can slow down eye movement responses, potentially compromising driver safety by delaying visual assessments necessary for hazard detection and slowing physical responses",
         "content": "",
-        "upvotes": 93,
+        "upvotes": 118,
         "comments": 9,
         "media": {
             "type": "image",
@@ -115,62 +178,42 @@
         "permalink": "/r/science/comments/1pxw3oa/talking_can_slow_down_eye_movement_responses/"
     },
     {
-        "id": "1pxy6kt",
-        "author": "ID2691",
-        "title": "A recent review explored mindfulness, its dimensions, and its integration with psychological wellbeing, showing that it can enhance outcomes\u2014such as autonomy, self-acceptance, personal growth, and relationships\u2014by reducing stress, anxiety, and depression.",
-        "content": "",
-        "upvotes": 71,
-        "comments": 5,
-        "media": null,
-        "permalink": "/r/science/comments/1pxy6kt/a_recent_review_explored_mindfulness_its/"
-    },
-    {
         "id": "1px28bn",
         "author": "sr_local",
         "title": "New study finds skin collagen production and renewal directly respond to the amount of vitamin C we eat, suggesting increasing fruit consumption can boost skin health",
         "content": "",
-        "upvotes": 7817,
-        "comments": 180,
+        "upvotes": 7942,
+        "comments": 182,
         "media": null,
         "permalink": "/r/science/comments/1px28bn/new_study_finds_skin_collagen_production_and/"
-    },
-    {
-        "id": "1pxa1aj",
-        "author": "Sciantifa",
-        "title": "A new study suggests we may be misreading our dogs\u2019 emotions more often than we think. Rather than accurately interpreting what they feel, our perceptions appear to be shaped by our own emotional state, leading us to project our moods onto them and misunderstand their experience.",
-        "content": "",
-        "upvotes": 2364,
-        "comments": 210,
-        "media": null,
-        "permalink": "/r/science/comments/1pxa1aj/a_new_study_suggests_we_may_be_misreading_our/"
-    },
-    {
-        "id": "1py6cl9",
-        "author": "antichain",
-        "title": "A 3-hit metabolic signaling model for the core symptoms of autism spectrum disorder - Mitochondrion",
-        "content": "",
-        "upvotes": 20,
-        "comments": 5,
-        "media": null,
-        "permalink": "/r/science/comments/1py6cl9/a_3hit_metabolic_signaling_model_for_the_core/"
     },
     {
         "id": "1pxo9rp",
         "author": "Wagamaga",
         "title": "Smile and the world will trust you: How mimicry shapes first impressions. Research found people are more likely to mimic people who express joy, and we perceive those people as more attractive and more trustworthy",
         "content": "",
-        "upvotes": 219,
-        "comments": 8,
+        "upvotes": 255,
+        "comments": 9,
         "media": null,
         "permalink": "/r/science/comments/1pxo9rp/smile_and_the_world_will_trust_you_how_mimicry/"
+    },
+    {
+        "id": "1pxa1aj",
+        "author": "Sciantifa",
+        "title": "A new study suggests we may be misreading our dogs\u2019 emotions more often than we think. Rather than accurately interpreting what they feel, our perceptions appear to be shaped by our own emotional state, leading us to project our moods onto them and misunderstand their experience.",
+        "content": "",
+        "upvotes": 2454,
+        "comments": 219,
+        "media": null,
+        "permalink": "/r/science/comments/1pxa1aj/a_new_study_suggests_we_may_be_misreading_our/"
     },
     {
         "id": "1px7aqe",
         "author": "mvea",
         "title": "Difficulty maintaining relationships is a major driver of modern singlehood, Greek study suggests. For men, the greater the difficulty in maintaining relationships, the more consistently likely they are to be single, while for women the effect is strong but nonlinear.",
         "content": "",
-        "upvotes": 2905,
-        "comments": 396,
+        "upvotes": 2971,
+        "comments": 406,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/DLr4yqv-sOU63pGWqvtXcmMYzGJ_mOTWh1O2hqi8EeU.jpeg?auto=webp&amp;s=9e6d540be3324f33698e5e30fdf6312f7aacbd8b"
@@ -178,11 +221,24 @@
         "permalink": "/r/science/comments/1px7aqe/difficulty_maintaining_relationships_is_a_major/"
     },
     {
+        "id": "1pycu0v",
+        "author": "bluish1997",
+        "title": "Genotype networks drive oscillating endemicity and epidemic trajectories in viral evolution - Communications Physics",
+        "content": "",
+        "upvotes": 7,
+        "comments": 1,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/mcuK_N549TTS9K2X87gd-nbb3yIJw7ODvoW9B1YiASY.png?auto=webp&amp;s=ed545cd7d1e2c02ba78b2dafcdbe72f85991540f"
+        },
+        "permalink": "/r/science/comments/1pycu0v/genotype_networks_drive_oscillating_endemicity/"
+    },
+    {
         "id": "1pxau76",
         "author": "Sciantifa",
         "title": "New technique reveals exactly where drugs bind in the body\u2014one cell at a time. Using whole-body imaging and highly selective click chemistry, scientists map drug targets across every organ, uncovering unexpected binding sites that may explain side effects and guide safer drug development.",
         "content": "",
-        "upvotes": 1430,
+        "upvotes": 1478,
         "comments": 9,
         "media": null,
         "permalink": "/r/science/comments/1pxau76/new_technique_reveals_exactly_where_drugs_bind_in/"
@@ -192,8 +248,8 @@
         "author": "Jumpinghoops46",
         "title": "Adverse childhood experiences linked to increased ADHD symptoms in college students",
         "content": "",
-        "upvotes": 2342,
-        "comments": 134,
+        "upvotes": 2417,
+        "comments": 143,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/ONEcLNVnqfHCgyyqQvN0iEa08fPMcFnFheNg5p74wfc.jpeg?auto=webp&amp;s=feab5bc74ca4c2fb9409fa75610a398c9caedbfc"
@@ -205,7 +261,7 @@
         "author": "mvea",
         "title": "Game-day crime rises up to 70% after sports betting went legal in the US in 2018. Those crimes include assault, larceny, and vehicle theft, with assaults spiking between 60-90% and larceny increasing 30-100%. Assaults had the largest jump of all crimes \u2013 up to 93% \u2013 after a home-team upset.",
         "content": "",
-        "upvotes": 8344,
+        "upvotes": 8407,
         "comments": 275,
         "media": {
             "type": "image",
@@ -218,7 +274,7 @@
         "author": "Dr_Neurol",
         "title": "Excessive social media use was associated with impaired attention, reduced working memory, and diminished executive functioning, particularly among adolescents with addiction. Certain platforms showed potential benefits in enhancing language skills and memory through educational engagement.",
         "content": "",
-        "upvotes": 957,
+        "upvotes": 985,
         "comments": 41,
         "media": {
             "type": "image",
@@ -231,8 +287,8 @@
         "author": "mvea",
         "title": "Study found divergence in how mothers and fathers perceived their relationship over time. Fathers report that frequency of conflict decreased while mothers report it increased as children aged. This suggests that as family life became more complex, mothers perceived more friction than fathers did.",
         "content": "",
-        "upvotes": 1595,
-        "comments": 97,
+        "upvotes": 1636,
+        "comments": 98,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/_r1F7JnlwvbY9k_Ezm2fjH5UYf6rn578zsanASv9WZc.jpeg?auto=webp&amp;s=ce615fc62850791b990176cb0e7ab3141538293f"
@@ -244,7 +300,7 @@
         "author": "donutloop",
         "title": "Artificial intelligence for quantum computing",
         "content": "",
-        "upvotes": 17,
+        "upvotes": 21,
         "comments": 3,
         "media": {
             "type": "image",
@@ -257,8 +313,8 @@
         "author": "ddx-me",
         "title": "A systematic review and meta-analysis on GLP-1 receptor agonists for obesity without diabetes found that they are generally not cost-effective versus other interventions (lifestyle change, surgery)",
         "content": "",
-        "upvotes": 2778,
-        "comments": 683,
+        "upvotes": 2790,
+        "comments": 684,
         "media": null,
         "permalink": "/r/science/comments/1pwmr6f/a_systematic_review_and_metaanalysis_on_glp1/"
     },
@@ -267,7 +323,7 @@
         "author": "fchung",
         "title": "Ant societies rose by trading individual protection for collective power: \u00ab Building prolific ant legions takes tons of resources\u2014but a new study finds that certain species cut corners by skimping out on protective armor. \u00bb",
         "content": "",
-        "upvotes": 449,
+        "upvotes": 463,
         "comments": 5,
         "media": {
             "type": "image",
@@ -276,69 +332,16 @@
         "permalink": "/r/science/comments/1pwtrbs/ant_societies_rose_by_trading_individual/"
     },
     {
-        "id": "1pxxttw",
-        "author": "RealisticScienceGuy",
-        "title": "AI-guided digital intervention with physiological monitoring is associated with fewer intrusive memories after experimental trauma",
-        "content": "",
-        "upvotes": 0,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1pxxttw/aiguided_digital_intervention_with_physiological/"
-    },
-    {
         "id": "1px3i94",
         "author": "atmscience",
         "title": "A Novel Approach for Reliable Classification of Marine Low Cloud Morphologies with Vision\u2013Language Models",
         "content": "",
-        "upvotes": 30,
+        "upvotes": 36,
         "comments": 1,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/nD77TG6lWkOI3SPmskoOdVq70fVkNqEy0Y-b1pq_jd0.jpeg?auto=webp&amp;s=dce0ad0ae68421fe0989cb98e3785bc093ca6783"
         },
         "permalink": "/r/science/comments/1px3i94/a_novel_approach_for_reliable_classification_of/"
-    },
-    {
-        "id": "1px47j1",
-        "author": "RealisticScienceGuy",
-        "title": "Graded encoding of spatial novelty scales in the human brain during virtual navigation",
-        "content": "",
-        "upvotes": 27,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/science/comments/1px47j1/graded_encoding_of_spatial_novelty_scales_in_the/"
-    },
-    {
-        "id": "1pw1x6w",
-        "author": "mvea",
-        "title": "Even a low daily intake of alcohol (just 9 g or around 1 standard drink) is linked to a 50% heightened risk of mouth (buccal mucosa) cancer in India, with greatest risk associated with locally brewed alcohol. Study suggests there may be no safe limit of alcohol consumption for mouth cancer risk.",
-        "content": "",
-        "upvotes": 4983,
-        "comments": 277,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/0c-o93WKtc63ZX_d4BOsHi3RnJMIKvVGjf_EL7fBFOE.jpeg?auto=webp&amp;s=ff82777ffd0e8d7f2f40c0fddab924ba9454729a"
-        },
-        "permalink": "/r/science/comments/1pw1x6w/even_a_low_daily_intake_of_alcohol_just_9_g_or/"
-    },
-    {
-        "id": "1pwosj7",
-        "author": "Scbadiver",
-        "title": "An Intravenous Injection of Reelin Rescues Endogenous Reelin Expression and Epithelial Cell Apoptosis in the Small Intestine Following Chronic Stress",
-        "content": "",
-        "upvotes": 123,
-        "comments": 6,
-        "media": null,
-        "permalink": "/r/science/comments/1pwosj7/an_intravenous_injection_of_reelin_rescues/"
-    },
-    {
-        "id": "1pw9eb1",
-        "author": "RealisticScienceGuy",
-        "title": "Study links real world light exposure patterns with aspects of cognitive function in everyday life",
-        "content": "",
-        "upvotes": 954,
-        "comments": 6,
-        "media": null,
-        "permalink": "/r/science/comments/1pw9eb1/study_links_real_world_light_exposure_patterns/"
     }
 ]
