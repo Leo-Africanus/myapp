@@ -4,8 +4,8 @@
         "author": "mvea",
         "title": "Psychedelics/ psilocybin/ hallucinogen use is rising in the United States; however, emergency and hospital admissions involving hallucinogens remain relatively rare. They account for a small fraction of substance-related hospital admissions, outweighed by alcohol- and opioid-related encounters.",
         "content": "",
-        "upvotes": 2875,
-        "comments": 96,
+        "upvotes": 5008,
+        "comments": 147,
         "media": null,
         "permalink": "/r/science/comments/1q40dgj/psychedelics_psilocybin_hallucinogen_use_is/"
     },
@@ -14,8 +14,8 @@
         "author": "sr_local",
         "title": "Six particular depressive symptoms when experienced in midlife (45 to 69 years) predict dementia risk more than two decades later",
         "content": "",
-        "upvotes": 2880,
-        "comments": 286,
+        "upvotes": 3582,
+        "comments": 336,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/6qkD2CSMbr_g_VNS0I7nVP8UxVqeD9tbJFHTX4WXpxA.jpeg?auto=webp&amp;s=8ad0718397953e524a861036fdb0f2a8e1fa77c5"
@@ -27,8 +27,8 @@
         "author": "Jumpinghoops46",
         "title": "Researchers identify two psychological traits that predict conspiracy theory belief. The findings suggest that individuals who perceive the world as fundamentally unjust and those who struggle with uncertain or ambiguous situations are more likely to endorse conspiratorial narratives.",
         "content": "",
-        "upvotes": 3043,
-        "comments": 419,
+        "upvotes": 3506,
+        "comments": 435,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/qFO71KXuwSJelXpJT2vODKRHBtASNfdo9O5JyET4kq8.jpeg?auto=webp&amp;s=9614831de8de6550096c52a3e73aad6f5e2ee5c5"
@@ -40,8 +40,8 @@
         "author": "Sciantifa",
         "title": "Industrial fungal mycelium from Aspergillus niger can be converted into high-performance vegan leather-like materials by valorising existing biomass waste, offering a viable alternative to animal-derived leather with comparable mechanical and thermal properties.",
         "content": "",
-        "upvotes": 1511,
-        "comments": 50,
+        "upvotes": 1784,
+        "comments": 64,
         "media": null,
         "permalink": "/r/science/comments/1q3r3nm/industrial_fungal_mycelium_from_aspergillus_niger/"
     },
@@ -50,8 +50,8 @@
         "author": "James_Fortis",
         "title": "Researchers compared 95 families following vegan, vegetarian or omnivorous diets, where children had been on the diet since birth. Children across all groups had similar growth and bone health. Vegan families showed the best cholesterol and cardiovascular health indices, but had lower iodine levels.",
         "content": "",
-        "upvotes": 2045,
-        "comments": 261,
+        "upvotes": 2314,
+        "comments": 262,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/NrURJRS8kaGOBukwTND55TAE1_qXktXaLCXlyvjsyT4.png?auto=webp&amp;s=7acfb0a636e36f223f2977b5ec4d5e668b1840f4"
@@ -59,12 +59,22 @@
         "permalink": "/r/science/comments/1q3onml/researchers_compared_95_families_following_vegan/"
     },
     {
+        "id": "1q4d3f1",
+        "author": "EnigmaticEmir",
+        "title": "In this randomized clinical trial, adjunctive Omega-3 administration, 1.5 g/d (EPA:DHA, 2:1), did not outperform placebo in youths with Major Depressive Disorder.",
+        "content": "",
+        "upvotes": 90,
+        "comments": 4,
+        "media": null,
+        "permalink": "/r/science/comments/1q4d3f1/in_this_randomized_clinical_trial_adjunctive/"
+    },
+    {
         "id": "1q426ql",
         "author": "Jumpinghoops46",
         "title": "Restoring a specific protein could rewire the brain in Down syndrome. Researchers have found that mouse models of several neurodevelopmental disorders, including Down syndrome, have altered levels of astrocyte proteins during development.",
         "content": "",
-        "upvotes": 195,
-        "comments": 4,
+        "upvotes": 344,
+        "comments": 6,
         "media": null,
         "permalink": "/r/science/comments/1q426ql/restoring_a_specific_protein_could_rewire_the/"
     },
@@ -73,28 +83,51 @@
         "author": "Specialist_Rice_6723",
         "title": "The study reveals that macrophages, key immune cells, fail to properly clear dead and drying cells after peripheral nerve injury, contributing to chronic pain development.",
         "content": "",
-        "upvotes": 396,
-        "comments": 5,
+        "upvotes": 541,
+        "comments": 8,
         "media": null,
         "permalink": "/r/science/comments/1q3vzbx/the_study_reveals_that_macrophages_key_immune/"
+    },
+    {
+        "id": "1q4e8nv",
+        "author": "Specialist_Rice_6723",
+        "title": "L-lactic acid promotes host immune response and inhibits viral infection by inducing Interferon Regulatory Factor 9 (IRF9) L-lactylation",
+        "content": "",
+        "upvotes": 22,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1q4e8nv/llactic_acid_promotes_host_immune_response_and/"
     },
     {
         "id": "1q3nblb",
         "author": "mvea",
         "title": "Prior research suggests meditation may slow brain aging and reduce risk of Alzheimer's disease. New randomized clinical trial found that 1 week of daily mindfulness practice with slow breathing decreased plasma amyloid beta levels. Slow breathing may be how meditation influences Alzheimer's risk.",
         "content": "",
-        "upvotes": 555,
+        "upvotes": 650,
         "comments": 21,
         "media": null,
         "permalink": "/r/science/comments/1q3nblb/prior_research_suggests_meditation_may_slow_brain/"
+    },
+    {
+        "id": "1q47bh5",
+        "author": "bluish1997",
+        "title": "A prophage-encoded sRNA limits phage infection of adherent-invasive E. coli",
+        "content": "",
+        "upvotes": 41,
+        "comments": 1,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/O4sUPF3AL6IBEOSbIaFSwi1-YzMVy2swa3Wnj3tt5kc.png?auto=webp&amp;s=4d3e0add8b32e83ff777e10b393b8c2a7854e45f"
+        },
+        "permalink": "/r/science/comments/1q47bh5/a_prophageencoded_srna_limits_phage_infection_of/"
     },
     {
         "id": "1q3a2t3",
         "author": "mvea",
         "title": "Nano-magnets may defeat bone cancer and help you heal: They simultaneously eliminate tumors through magnetic hyperthermia \u2013 essentially, burning cancer cells from the inside \u2013 while supporting new bone growth, finds new In vitro study in simulated body fluid.",
         "content": "",
-        "upvotes": 2155,
-        "comments": 21,
+        "upvotes": 2284,
+        "comments": 22,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/eWyu9TXKmPf7c5kTRkIbZkm7KdZSnX0nl21l5UPKQHA.jpeg?auto=webp&amp;s=e0ab9cff89ac401118f13f0ed8c5c050f85e9e3b"
@@ -106,7 +139,7 @@
         "author": "Jumpinghoops46",
         "title": "A woman\u2019s knowledge of her own anatomy and feelings toward her genitals are strong predictors of her solitary sexual behaviors. Study also suggests that women who engage in self-stimulation during adolescence may experience orgasms more frequently with partners later in life.",
         "content": "",
-        "upvotes": 6627,
+        "upvotes": 6808,
         "comments": 129,
         "media": {
             "type": "image",
@@ -115,25 +148,12 @@
         "permalink": "/r/science/comments/1q2z3ie/a_womans_knowledge_of_her_own_anatomy_and/"
     },
     {
-        "id": "1q47bh5",
-        "author": "bluish1997",
-        "title": "A prophage-encoded sRNA limits phage infection of adherent-invasive E. coli",
-        "content": "",
-        "upvotes": 8,
-        "comments": 1,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/O4sUPF3AL6IBEOSbIaFSwi1-YzMVy2swa3Wnj3tt5kc.png?auto=webp&amp;s=4d3e0add8b32e83ff777e10b393b8c2a7854e45f"
-        },
-        "permalink": "/r/science/comments/1q47bh5/a_prophageencoded_srna_limits_phage_infection_of/"
-    },
-    {
         "id": "1q2z6fh",
         "author": "sr_local",
         "title": "Rising food prices linked to increased childhood obesity and chronic malnutrition, due to families prioritizing cheaper calories over nutrient-rich foods. This also results in a 'hidden deficiency' of important micronutrients, which slows down height growth without reducing body weight",
         "content": "",
-        "upvotes": 2002,
-        "comments": 117,
+        "upvotes": 2076,
+        "comments": 122,
         "media": null,
         "permalink": "/r/science/comments/1q2z6fh/rising_food_prices_linked_to_increased_childhood/"
     },
@@ -142,17 +162,27 @@
         "author": "Sciantifa",
         "title": "High-dose risankizumab induces rapid, deep skin clearance in moderate-to-severe psoriasis and sustains remission long after treatment stops, alongside a significant reduction in pathogenic tissue-resident memory T cells within former lesions, supporting its potential as a durable therapeutic option.",
         "content": "",
-        "upvotes": 657,
-        "comments": 14,
+        "upvotes": 689,
+        "comments": 16,
         "media": null,
         "permalink": "/r/science/comments/1q35pxp/highdose_risankizumab_induces_rapid_deep_skin/"
+    },
+    {
+        "id": "1q4fe6o",
+        "author": "Prof_Minaev",
+        "title": "The multicenter registry study from EUPSA EAR found that postoperative muscle paralysis for primary esophageal atresia repair did not significantly reduce anastomotic leaks or strictures but was associated with substantially longer ventilator dependence and hospital stay",
+        "content": "",
+        "upvotes": 1,
+        "comments": 3,
+        "media": null,
+        "permalink": "/r/science/comments/1q4fe6o/the_multicenter_registry_study_from_eupsa_ear/"
     },
     {
         "id": "1q3b3fx",
         "author": "bluish1997",
         "title": "Tracing 2500 years of human betaherpesvirus 6A and 6B diversity through ancient DNA - Science Advances",
         "content": "",
-        "upvotes": 94,
+        "upvotes": 101,
         "comments": 3,
         "media": null,
         "permalink": "/r/science/comments/1q3b3fx/tracing_2500_years_of_human_betaherpesvirus_6a/"
@@ -162,8 +192,8 @@
         "author": "mvea",
         "title": "Individuals with high levels of psychopathic traits had a 9.3 times higher risk of developing schizophrenia compared to individuals with low levels of these traits. Individuals classified as psychopathic were 2.37 times more likely to develop schizophrenia compared to their non-psychopathic peers.",
         "content": "",
-        "upvotes": 850,
-        "comments": 45,
+        "upvotes": 866,
+        "comments": 46,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/szik4fHdK_dxC5Pz_hbmAbQo9C_JglmvAN28Q3G1zSE.jpeg?auto=webp&amp;s=a94a59e185e4c0038ef73660dd05525e3ce0b8ba"
@@ -175,8 +205,8 @@
         "author": "mvea",
         "title": "Circadian rhythm, the body\u2019s internal clock, may affect a person\u2019s risk of dementia. People with weaker or more irregular body clocks had a higher risk of developing dementia. Being most active later in the day, instead of earlier, was linked to a 45% increased risk of dementia.",
         "content": "",
-        "upvotes": 7708,
-        "comments": 463,
+        "upvotes": 7743,
+        "comments": 464,
         "media": null,
         "permalink": "/r/science/comments/1q2cw7y/circadian_rhythm_the_bodys_internal_clock_may/"
     },
@@ -185,7 +215,7 @@
         "author": "Jumpinghoops46",
         "title": "Why Some Bacteria Survive Antibiotics and How to Stop Them - New study reveals that bacteria can survive antibiotic treatment through two fundamentally different \u201cshutdown modes\u201d",
         "content": "",
-        "upvotes": 535,
+        "upvotes": 556,
         "comments": 4,
         "media": {
             "type": "image",
@@ -198,7 +228,7 @@
         "author": "Oblique4119375",
         "title": "Detection of Candidozyma (formerly Candida) auris from ward wastewater during an outbreak using culture and molecular methods",
         "content": "",
-        "upvotes": 77,
+        "upvotes": 93,
         "comments": 11,
         "media": null,
         "permalink": "/r/science/comments/1q369zk/detection_of_candidozyma_formerly_candida_auris/"
@@ -208,7 +238,7 @@
         "author": "Choobeen",
         "title": "Tunable Einstein-Bohr Recoiling-Slit Gedankenexperiment at the Quantum Limit",
         "content": "",
-        "upvotes": 35,
+        "upvotes": 30,
         "comments": 7,
         "media": null,
         "permalink": "/r/science/comments/1q32zyt/tunable_einsteinbohr_recoilingslit/"
@@ -218,8 +248,8 @@
         "author": "Wagamaga",
         "title": "Short bursts of energetic activity can trigger rapid molecular changes in the bloodstream, shutting down bowel cancer growth and speeding up DNA damage repair, a new study has shown.",
         "content": "",
-        "upvotes": 13606,
-        "comments": 235,
+        "upvotes": 13650,
+        "comments": 237,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/QB92c6gSLZqDaY-eE3Be3SUxes7HjegXRSowzR0VJPs.jpeg?auto=webp&amp;s=dadfdcaf3a4f945ec484953ea35134575c1be5ee"
@@ -231,7 +261,7 @@
         "author": "Oblique4119375",
         "title": "Candidozyma auris (formerly Candida auris): Resistant, long-lasting, and everywhere",
         "content": "",
-        "upvotes": 414,
+        "upvotes": 416,
         "comments": 18,
         "media": null,
         "permalink": "/r/science/comments/1q2g77q/candidozyma_auris_formerly_candida_auris/"
@@ -241,30 +271,17 @@
         "author": "Sciantifa",
         "title": "By reconstructing extinct enzymes from millions of years ago, researchers show that cannabis evolved the ability to produce THC, CBD and CBC through gene duplication and enzyme specialization, identifying ancestral enzymes with potential for biotechnological and medicinal cannabinoid production.",
         "content": "",
-        "upvotes": 1277,
+        "upvotes": 1281,
         "comments": 14,
         "media": null,
         "permalink": "/r/science/comments/1q26npc/by_reconstructing_extinct_enzymes_from_millions/"
-    },
-    {
-        "id": "1q24zl4",
-        "author": "cindyx7102",
-        "title": "Plant-based diets especially healthy ones are negatively associated with depression: a cross-sectional study",
-        "content": "",
-        "upvotes": 1248,
-        "comments": 194,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/iI8gvPYFowqkouE1i41Fh7KdPBxo0xjtzxyCaukK1Fk.png?auto=webp&amp;s=64a2e3da71268a07ff17ccb751ba94d2fe00e390"
-        },
-        "permalink": "/r/science/comments/1q24zl4/plantbased_diets_especially_healthy_ones_are/"
     },
     {
         "id": "1q2ld9w",
         "author": "GeoGeoGeoGeo",
         "title": "Ammonite survival across the Cretaceous\u2013Paleogene boundary confirmed by new data from Denmark",
         "content": "",
-        "upvotes": 156,
+        "upvotes": 162,
         "comments": 5,
         "media": {
             "type": "image",
@@ -273,11 +290,24 @@
         "permalink": "/r/science/comments/1q2ld9w/ammonite_survival_across_the_cretaceouspaleogene/"
     },
     {
+        "id": "1q24zl4",
+        "author": "cindyx7102",
+        "title": "Plant-based diets especially healthy ones are negatively associated with depression: a cross-sectional study",
+        "content": "",
+        "upvotes": 1252,
+        "comments": 194,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/iI8gvPYFowqkouE1i41Fh7KdPBxo0xjtzxyCaukK1Fk.png?auto=webp&amp;s=64a2e3da71268a07ff17ccb751ba94d2fe00e390"
+        },
+        "permalink": "/r/science/comments/1q24zl4/plantbased_diets_especially_healthy_ones_are/"
+    },
+    {
         "id": "1q2c36z",
         "author": "Sciantifa",
         "title": "Masculinity, emotional regulation, and alcohol use after romantic conflict shows that individuals with stronger masculine orientations are more likely to drink after relationship disagreements, driven primarily by negative emotions such as anger and jealousy rather than biological sex.",
         "content": "",
-        "upvotes": 467,
+        "upvotes": 474,
         "comments": 44,
         "media": null,
         "permalink": "/r/science/comments/1q2c36z/masculinity_emotional_regulation_and_alcohol_use/"
@@ -287,7 +317,7 @@
         "author": "Jumpinghoops46",
         "title": "Loneliness and self-doubt mediate the link between depression and meaning in life. The research identifies specific psychological pathways that vary across different developmental stages, from adolescence to middle adulthood.",
         "content": "",
-        "upvotes": 758,
+        "upvotes": 770,
         "comments": 27,
         "media": {
             "type": "image",
@@ -300,45 +330,9 @@
         "author": "mvea",
         "title": "Calcium alpha-ketoglutarate (CaAKG), a naturally occurring molecule our body produces, restores key memory functions disrupted in Alzheimer\u2019s disease, suggests new study in mice. CaAKG brought long-term memory process back to normal and also boosted autophagy, the brain\u2019s built-in \u201cclean-up\u201d system.",
         "content": "",
-        "upvotes": 1313,
+        "upvotes": 1318,
         "comments": 31,
         "media": null,
         "permalink": "/r/science/comments/1q1vy8a/calcium_alphaketoglutarate_caakg_a_naturally/"
-    },
-    {
-        "id": "1q1xae1",
-        "author": "perivascularspaces",
-        "title": "Peer-reviewed by human experts: AI failed in key steps to generate a scoping review",
-        "content": "",
-        "upvotes": 384,
-        "comments": 13,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/WqS9FVoz2ssp4tCjw6j_4JkmHGrA9tafIiahY4H6hyc.png?auto=webp&amp;s=9cd0704cd61332cc307d72a3eb03960638f37ada"
-        },
-        "permalink": "/r/science/comments/1q1xae1/peerreviewed_by_human_experts_ai_failed_in_key/"
-    },
-    {
-        "id": "1q23iix",
-        "author": "sr_local",
-        "title": "Wildfires and prescribed burns could emit up to 21% more gases, including those contributing to air pollution, than previously estimated",
-        "content": "",
-        "upvotes": 122,
-        "comments": 12,
-        "media": null,
-        "permalink": "/r/science/comments/1q23iix/wildfires_and_prescribed_burns_could_emit_up_to/"
-    },
-    {
-        "id": "1q3jd70",
-        "author": "MacroMegaHard",
-        "title": "Neural Spinfoam Networks",
-        "content": "",
-        "upvotes": 0,
-        "comments": 5,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/KfJqE56qwjc6A8Lc8dHMrtvolmjeqZRvv35-KwKCqN0.jpeg?auto=webp&amp;s=8b7bb800e4fd51cbf2c57daed9f61e626be66ebf"
-        },
-        "permalink": "/r/science/comments/1q3jd70/neural_spinfoam_networks/"
     }
 ]
