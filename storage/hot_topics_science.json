@@ -4,8 +4,8 @@
         "author": "mvea",
         "title": "Jellyfish sleep like humans \u2014 even though they don\u2019t have brains. The findings bolster a theory that sleep evolved, at least in part, to protect the DNA in individual nerve cells, helping to repair damage that builds up while animals are awake.",
         "content": "",
-        "upvotes": 7320,
-        "comments": 77,
+        "upvotes": 7411,
+        "comments": 81,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/0NtmIc74iaDuwum_u-waZvWgruJI7BN0FaV638iMWGc.jpeg?auto=webp&amp;s=f92ed3c7a6c2c05468c1c693749a653754e720ee"
@@ -17,8 +17,8 @@
         "author": "johnhemingwayscience",
         "title": "Eating a fresh mango every day for six months improves blood sugar control, insulin sensitivity, and body composition in adults with prediabetes.",
         "content": "",
-        "upvotes": 775,
-        "comments": 100,
+        "upvotes": 905,
+        "comments": 119,
         "media": null,
         "permalink": "/r/science/comments/1q68b1c/eating_a_fresh_mango_every_day_for_six_months/"
     },
@@ -27,7 +27,7 @@
         "author": "sr_local",
         "title": "A single drinking binge can weaken the gut lining in healthy adults, allowing bacteria and toxins to enter the bloodstream, a phenomenon known as leaky gut, according to a study in animal model",
         "content": "",
-        "upvotes": 8503,
+        "upvotes": 8553,
         "comments": 456,
         "media": {
             "type": "image",
@@ -40,8 +40,8 @@
         "author": "mvea",
         "title": "Covid-19 is still killing a disturbing number of Americans, study finds. Between 2022 and 2024, covid-19 killed roughly 100,000 Americans annually, new research by CDC scientists shows.",
         "content": "",
-        "upvotes": 15952,
-        "comments": 1396,
+        "upvotes": 15990,
+        "comments": 1399,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/wqaPOtjyUiK5wjy0vynxaBjZ6OY_tr03HTg2Lt85gCQ.jpeg?auto=webp&amp;s=7cce6532d4d506d3acac587b6c59fbc2075d7735"
@@ -63,7 +63,7 @@
         "author": "MassGen-Research",
         "title": "Global Analysis Reveals Sharp Rise in Cancer Among People Under 50",
         "content": "",
-        "upvotes": 3962,
+        "upvotes": 3987,
         "comments": 577,
         "media": null,
         "permalink": "/r/science/comments/1q5kzqf/global_analysis_reveals_sharp_rise_in_cancer/"
@@ -73,8 +73,8 @@
         "author": "wise_karlaz",
         "title": "In young Asian men, four weeks of alternate-day fasting successfully reduced body fat by 1.6kg, but it also caused 0.8kg of muscle loss that a small protein supplement failed to prevent",
         "content": "",
-        "upvotes": 96,
-        "comments": 10,
+        "upvotes": 136,
+        "comments": 16,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/dSj0-RE5fXd-Ocmtv3dSZROXHJ48vbsSUESrSRVvozE.png?auto=webp&amp;s=148cd03e0a8e022dca8133d50621874a3ff5e58d"
@@ -82,11 +82,24 @@
         "permalink": "/r/science/comments/1q696fe/in_young_asian_men_four_weeks_of_alternateday/"
     },
     {
+        "id": "1q691b3",
+        "author": "wise_karlaz",
+        "title": "Research indicates kefir boosts healthy Lactobacillus levels in the gut and consistently lowers cavity-causing Streptococcus mutans in the mouth",
+        "content": "",
+        "upvotes": 78,
+        "comments": 2,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/U_y7CubSOH15q2KRg4MtiJ1TORfaf5snkWeYWtwAHfQ.jpeg?auto=webp&amp;s=528969880a7817c96f04f276318e56f88ee1c3b1"
+        },
+        "permalink": "/r/science/comments/1q691b3/research_indicates_kefir_boosts_healthy/"
+    },
+    {
         "id": "1q5lxtf",
         "author": "The_Conversation",
         "title": "Americans generally like wolves \u2212 but when their political affiliation is activated, there are significant shifts in perceptions compared to a neutral control",
         "content": "",
-        "upvotes": 1099,
+        "upvotes": 1108,
         "comments": 167,
         "media": {
             "type": "image",
@@ -95,24 +108,11 @@
         "permalink": "/r/science/comments/1q5lxtf/americans_generally_like_wolves_but_when_their/"
     },
     {
-        "id": "1q691b3",
-        "author": "wise_karlaz",
-        "title": "Research indicates kefir boosts healthy Lactobacillus levels in the gut and consistently lowers cavity-causing Streptococcus mutans in the mouth",
-        "content": "",
-        "upvotes": 62,
-        "comments": 1,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/U_y7CubSOH15q2KRg4MtiJ1TORfaf5snkWeYWtwAHfQ.jpeg?auto=webp&amp;s=528969880a7817c96f04f276318e56f88ee1c3b1"
-        },
-        "permalink": "/r/science/comments/1q691b3/research_indicates_kefir_boosts_healthy/"
-    },
-    {
         "id": "1q5zctw",
         "author": "erikrolfsen",
         "title": "Earliest, hottest galaxy cluster gas on record could change our cosmological models",
         "content": "",
-        "upvotes": 174,
+        "upvotes": 172,
         "comments": 2,
         "media": {
             "type": "image",
@@ -125,7 +125,7 @@
         "author": "Jumpinghoops46",
         "title": "Early life adversity may fundamentally rewire global brain dynamics. Research indicates that these adverse events may fundamentally reorganize how the brain functions across its entire network, rather than just in isolated areas.",
         "content": "",
-        "upvotes": 835,
+        "upvotes": 842,
         "comments": 14,
         "media": {
             "type": "image",
@@ -138,8 +138,8 @@
         "author": "ludwig_scientist",
         "title": "An 8-week study of adults over 55 found that eating Greek yogurt daily successfully boosted protein and calcium levels, but it caused only minor and mixed changes in bone health and inflammation markers, suggesting that a longer timeframe is likely needed to see significant improvements",
         "content": "",
-        "upvotes": 19,
-        "comments": 3,
+        "upvotes": 29,
+        "comments": 4,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/dSj0-RE5fXd-Ocmtv3dSZROXHJ48vbsSUESrSRVvozE.png?auto=webp&amp;s=148cd03e0a8e022dca8133d50621874a3ff5e58d"
@@ -147,11 +147,21 @@
         "permalink": "/r/science/comments/1q699ow/an_8week_study_of_adults_over_55_found_that/"
     },
     {
+        "id": "1q5r254",
+        "author": "umichnews",
+        "title": "Young adults who drink due to social pressure face higher risks and more negative consequences than those who drink for enjoyment, U-Michigan led study finds",
+        "content": "",
+        "upvotes": 158,
+        "comments": 28,
+        "media": null,
+        "permalink": "/r/science/comments/1q5r254/young_adults_who_drink_due_to_social_pressure/"
+    },
+    {
         "id": "1q509nc",
         "author": "smurfyjenkins",
         "title": "Congestion pricing in New York City, implemented at the start of 2025, led to substantial decreases in particulate pollution during its first six months. Pollution decreased by 22% in the congestion pricing zone, with more modest reductions in neighboring areas.",
         "content": "",
-        "upvotes": 6979,
+        "upvotes": 6976,
         "comments": 166,
         "media": {
             "type": "image",
@@ -160,21 +170,21 @@
         "permalink": "/r/science/comments/1q509nc/congestion_pricing_in_new_york_city_implemented/"
     },
     {
-        "id": "1q5r254",
-        "author": "umichnews",
-        "title": "Young adults who drink due to social pressure face higher risks and more negative consequences than those who drink for enjoyment, U-Michigan led study finds",
+        "id": "1q68lbg",
+        "author": "johnhemingwayscience",
+        "title": "Climate change threatens the fruit and vegetable supply, but combining smart technologies with strong government support can protect it",
         "content": "",
-        "upvotes": 155,
-        "comments": 28,
+        "upvotes": 15,
+        "comments": 5,
         "media": null,
-        "permalink": "/r/science/comments/1q5r254/young_adults_who_drink_due_to_social_pressure/"
+        "permalink": "/r/science/comments/1q68lbg/climate_change_threatens_the_fruit_and_vegetable/"
     },
     {
         "id": "1q5m60d",
         "author": "Sciantifa",
         "title": "Climate change drives a rapid surge in tree deaths across Australia, serving as a warning for global forests. A study of long-term data confirms the trend is intensifying, labeling it a \"widespread phenomenon\" that threatens the stability of carbon sinks worldwide.",
         "content": "",
-        "upvotes": 206,
+        "upvotes": 207,
         "comments": 4,
         "media": {
             "type": "image",
@@ -183,21 +193,11 @@
         "permalink": "/r/science/comments/1q5m60d/climate_change_drives_a_rapid_surge_in_tree/"
     },
     {
-        "id": "1q68lbg",
-        "author": "johnhemingwayscience",
-        "title": "Climate change threatens the fruit and vegetable supply, but combining smart technologies with strong government support can protect it",
-        "content": "",
-        "upvotes": 13,
-        "comments": 5,
-        "media": null,
-        "permalink": "/r/science/comments/1q68lbg/climate_change_threatens_the_fruit_and_vegetable/"
-    },
-    {
         "id": "1q5n7z3",
         "author": "nakuvi",
         "title": "Psilocybin may reduce depressive symptoms in cancer patients, with mixed effects on anxiety and time-dependent improvements in spiritual well-being and quality of life.",
         "content": "",
-        "upvotes": 139,
+        "upvotes": 140,
         "comments": 8,
         "media": {
             "type": "image",
@@ -210,7 +210,7 @@
         "author": "Marha01",
         "title": "A multimodal sleep foundation model for disease prediction",
         "content": "",
-        "upvotes": 9,
+        "upvotes": 8,
         "comments": 3,
         "media": {
             "type": "image",
@@ -223,7 +223,7 @@
         "author": "hurricanebones",
         "title": "No meta-analytical effect of economic inequality on well-being or mental health - Nature",
         "content": "",
-        "upvotes": 27,
+        "upvotes": 26,
         "comments": 34,
         "media": {
             "type": "image",
@@ -236,7 +236,7 @@
         "author": "Jumpinghoops46",
         "title": "Liberal state policies during adolescence linked to lower dementia risk in later life. Findings point to the potential long-term health consequences of local government decisions made early in a resident\u2019s life.",
         "content": "",
-        "upvotes": 2234,
+        "upvotes": 2238,
         "comments": 125,
         "media": {
             "type": "image",
@@ -249,7 +249,7 @@
         "author": "Sciantifa",
         "title": "Climate change is quietly rewriting the rules of the nitrogen cycle, creating a disconnect between plant needs and soil availability. This destabilization risks collapsing the delicate chemical balance essential for agriculture, leading to reduced crop yields and severe environmental degradation.",
         "content": "",
-        "upvotes": 1623,
+        "upvotes": 1631,
         "comments": 41,
         "media": {
             "type": "image",
@@ -262,7 +262,7 @@
         "author": "mvea",
         "title": "Children with ADHD, particularly those treated with methylphenidate, had a higher BMI and shorter height at adulthood than individuals without ADHD. Findings suggest that long-term methylphenidate exposure may be associated with growth and body composition changes.",
         "content": "",
-        "upvotes": 2206,
+        "upvotes": 2208,
         "comments": 235,
         "media": null,
         "permalink": "/r/science/comments/1q4wz9k/children_with_adhd_particularly_those_treated/"
@@ -272,7 +272,7 @@
         "author": "mareacaspica",
         "title": "Dental hygiene key to predicting mortality, Japanese researchers find",
         "content": "",
-        "upvotes": 10212,
+        "upvotes": 10209,
         "comments": 331,
         "media": {
             "type": "image",
@@ -308,7 +308,7 @@
         "author": "Specialist_Rice_6723",
         "title": "Infants developing in a household where mothers reported income to be inadequate to support the family's needs exhibit delays in brain maturation. Maternal perceptions of income sufficiency may signal increased risk of financial and psychosocial stress.",
         "content": "",
-        "upvotes": 210,
+        "upvotes": 209,
         "comments": 7,
         "media": null,
         "permalink": "/r/science/comments/1q5a6lr/infants_developing_in_a_household_where_mothers/"
@@ -318,7 +318,7 @@
         "author": "Fraaankleb",
         "title": "Microbubbles Behind New Study's Algae CO2 Conversion Breakthrough",
         "content": "",
-        "upvotes": 24,
+        "upvotes": 25,
         "comments": 1,
         "media": {
             "type": "image",
@@ -331,7 +331,7 @@
         "author": "consulent-finanziar",
         "title": "Fucoxanthin prevents septic cardiomyopathy by targeting BRD2 in M1-polarized macrophages",
         "content": "",
-        "upvotes": 19,
+        "upvotes": 21,
         "comments": 1,
         "media": {
             "type": "image",
@@ -344,7 +344,7 @@
         "author": "rubicube1",
         "title": "NASA\u2019s Hubble Examines Cloud-9, First of New Type of Object",
         "content": "",
-        "upvotes": 420,
+        "upvotes": 418,
         "comments": 11,
         "media": {
             "type": "image",
@@ -357,7 +357,7 @@
         "author": "johnhemingwayscience",
         "title": "Biotechnology is bridging artisanal knowledge with modern science by using screening and \"omics\" tools to ensure traditional fermentations are safe and consistent enough for sustainable, organic mass production",
         "content": "",
-        "upvotes": 1,
+        "upvotes": 0,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1q68r5h/biotechnology_is_bridging_artisanal_knowledge/"
