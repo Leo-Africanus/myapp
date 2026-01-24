@@ -1,11 +1,37 @@
 [
     {
+        "id": "1qlk6zr",
+        "author": "mvea",
+        "title": "Donald Trump weaponizes humor through \u201cdark play\u201d to test boundaries - A new analysis of American political discourse suggests that humor has evolved into a strategic weapon used to attack opponents and solidify support bases.",
+        "content": "",
+        "upvotes": 4759,
+        "comments": 383,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/MnQ1HIhTEfFAkA0YfNxNhy6T1S-pkP_ks5aR1S7VmVQ.jpeg?auto=webp&amp;s=acfe8696b8426e068dfdf60cdb31740721149f02"
+        },
+        "permalink": "/r/science/comments/1qlk6zr/donald_trump_weaponizes_humor_through_dark_play/"
+    },
+    {
+        "id": "1qlmo85",
+        "author": "Wagamaga",
+        "title": "Diagnoses of major conditions failing to recover since the pandemic. Diagnoses of depression were 27.7% lower than expected compared with pre-pandemic trends. Diagnoses were also lower than expected for asthma (16.4%), chronic obstructive pulmonary disease (COPD, 15.8%) and osteoporosis (11.5%).",
+        "content": "",
+        "upvotes": 187,
+        "comments": 19,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/mxlPPz2k8BbeIJmpLznIV3JNBKbNDN8cZ65b47yAK6E.png?auto=webp&amp;s=ba07a098ba031bc189050bec625c84ff6ab9f7b1"
+        },
+        "permalink": "/r/science/comments/1qlmo85/diagnoses_of_major_conditions_failing_to_recover/"
+    },
+    {
         "id": "1ql7i1k",
         "author": "Jumpinghoops46",
         "title": "Childhood adversity linked to accelerated biological aging in women. Research indicates that the impact of these early experiences varies depending on a person\u2019s sex and racial or ethnic background and how social disadvantages experienced decades ago may leave lasting chemical marks on our DNA.",
         "content": "",
-        "upvotes": 1419,
-        "comments": 46,
+        "upvotes": 1950,
+        "comments": 51,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/Gs9nQP8J6hfFNY4np784IUKr2JG1NptfK7NX1w40rws.jpeg?auto=webp&amp;s=916bbdac6c96201a26081cec06767c6fd8b2e4ad"
@@ -17,8 +43,8 @@
         "author": "mvea",
         "title": "Low vitamin D means high hospitalization rate for lung infections. People who had severe vitamin D deficiency of below 15 nmol/L were 33% more likely to be hospitalized for a respiratory tract infection. For each 10 nmol/L increase in Vitamin D, the hospitalization rate went down by 4%.",
         "content": "",
-        "upvotes": 1685,
-        "comments": 107,
+        "upvotes": 2040,
+        "comments": 120,
         "media": null,
         "permalink": "/r/science/comments/1ql3ypm/low_vitamin_d_means_high_hospitalization_rate_for/"
     },
@@ -27,8 +53,8 @@
         "author": "Jumpinghoops46",
         "title": "158 scientists used the same data, but their politics predicted the results. Study provides evidence that when experts act independently to answer the same question using the same dataset, their conclusions tend to align with their pre-existing ideological beliefs.",
         "content": "",
-        "upvotes": 10591,
-        "comments": 414,
+        "upvotes": 11175,
+        "comments": 424,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/2AtRKBNcLNVXEZNI5TtcMA0TIe1UPyfc-Sb9IrNoG_0.jpeg?auto=webp&amp;s=936310119898aebf698a9efe72fa04cf7b26e3e9"
@@ -36,62 +62,85 @@
         "permalink": "/r/science/comments/1qknxih/158_scientists_used_the_same_data_but_their/"
     },
     {
-        "id": "1qkp983",
-        "author": "mvea",
-        "title": "The number of Americans under 50 years old dying from cancer has decreased for every leading cancer except for bowel cancer, which is now the leading cancer death in females and males combined aged under 50.",
-        "content": "",
-        "upvotes": 5979,
-        "comments": 568,
-        "media": null,
-        "permalink": "/r/science/comments/1qkp983/the_number_of_americans_under_50_years_old_dying/"
-    },
-    {
-        "id": "1ql4867",
-        "author": "mvea",
-        "title": "Cancer might protect against Alzheimer\u2019s \u2014 this protein helps explain why. A molecule produced by cancer cells can shield the brain from Alzheimer\u2019s disease in mice. The study, which was 15 years in the making, could help researchers design drugs to treat Alzheimer\u2019s disease.",
-        "content": "",
-        "upvotes": 861,
-        "comments": 31,
-        "media": null,
-        "permalink": "/r/science/comments/1ql4867/cancer_might_protect_against_alzheimers_this/"
-    },
-    {
         "id": "1ql7jpb",
         "author": "Jumpinghoops46",
         "title": "Psychopathic female criminals exhibit unexpected patterns of emotional processing. Study suggests that instead of displaying the fearlessness often associated with psychopathy, these women may engage in defensive emotional regulation strategies that result in a reduced sense of control.",
         "content": "",
-        "upvotes": 431,
-        "comments": 29,
+        "upvotes": 691,
+        "comments": 47,
         "media": null,
         "permalink": "/r/science/comments/1ql7jpb/psychopathic_female_criminals_exhibit_unexpected/"
     },
     {
-        "id": "1qkkhcs",
-        "author": "Tracheid",
-        "title": "A survey of Silicon Valley developers reveals that 74% would implement features restricting human rights if pressured, fueling a \"slop economy\" of low-quality AI content. The study argues corporate demands override ethics, creating a gap in information quality.",
+        "id": "1qkp983",
+        "author": "mvea",
+        "title": "The number of Americans under 50 years old dying from cancer has decreased for every leading cancer except for bowel cancer, which is now the leading cancer death in females and males combined aged under 50.",
         "content": "",
-        "upvotes": 8336,
-        "comments": 326,
+        "upvotes": 6337,
+        "comments": 587,
         "media": null,
-        "permalink": "/r/science/comments/1qkkhcs/a_survey_of_silicon_valley_developers_reveals/"
+        "permalink": "/r/science/comments/1qkp983/the_number_of_americans_under_50_years_old_dying/"
     },
     {
         "id": "1qla9dw",
         "author": "ResearchRaptor1",
         "title": "Pigeons detect Earth's magnetic field using electromagnetic induction, the same physical principle as wireless phone charging",
         "content": "",
-        "upvotes": 174,
-        "comments": 9,
+        "upvotes": 266,
+        "comments": 13,
         "media": null,
         "permalink": "/r/science/comments/1qla9dw/pigeons_detect_earths_magnetic_field_using/"
+    },
+    {
+        "id": "1qlhrhy",
+        "author": "thinkB4WeSpeak",
+        "title": "Conservation may not be enough to sustain water supplies, researchers find | A new computational model reveals that prescriptive water conservation in three US cities would be less effective under severe climate change",
+        "content": "",
+        "upvotes": 78,
+        "comments": 5,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/fMD_QmajWi74REpXW3Rs2RXo2RbYH4p7XUMOcDWWmlo.png?auto=webp&amp;s=4957a4f6c5a2f6cc07672a472bb7658b3e85cc07"
+        },
+        "permalink": "/r/science/comments/1qlhrhy/conservation_may_not_be_enough_to_sustain_water/"
+    },
+    {
+        "id": "1qkkhcs",
+        "author": "Tracheid",
+        "title": "A survey of Silicon Valley developers reveals that 74% would implement features restricting human rights if pressured, fueling a \"slop economy\" of low-quality AI content. The study argues corporate demands override ethics, creating a gap in information quality.",
+        "content": "",
+        "upvotes": 8626,
+        "comments": 329,
+        "media": null,
+        "permalink": "/r/science/comments/1qkkhcs/a_survey_of_silicon_valley_developers_reveals/"
+    },
+    {
+        "id": "1qlfi3g",
+        "author": "FootballAndFries",
+        "title": "Early trial of Nipah virus vaccine shows promise",
+        "content": "",
+        "upvotes": 51,
+        "comments": 5,
+        "media": null,
+        "permalink": "/r/science/comments/1qlfi3g/early_trial_of_nipah_virus_vaccine_shows_promise/"
+    },
+    {
+        "id": "1qloq7s",
+        "author": "ILikeNeurons",
+        "title": "Flexibility mindsets enhance pro-environmental behavioral intentions among those with a low pro-environmental default tendency",
+        "content": "",
+        "upvotes": 9,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1qloq7s/flexibility_mindsets_enhance_proenvironmental/"
     },
     {
         "id": "1ql2du2",
         "author": "MassGen-Research",
         "title": "One-third of patients in an at-home blood pressure program could not complete the required weekly readings",
         "content": "",
-        "upvotes": 186,
-        "comments": 14,
+        "upvotes": 242,
+        "comments": 11,
         "media": null,
         "permalink": "/r/science/comments/1ql2du2/onethird_of_patients_in_an_athome_blood_pressure/"
     },
@@ -100,8 +149,8 @@
         "author": "cindyx7102",
         "title": "A recent meta-analysis found healthy plant-based diets were associated with a 36% lower risk of upper gastrointestinal cancers. In subgroup analyses, the inverse association was consistent for both esophageal cancer (34%) and gastric cancer (37%).",
         "content": "",
-        "upvotes": 501,
-        "comments": 63,
+        "upvotes": 544,
+        "comments": 69,
         "media": null,
         "permalink": "/r/science/comments/1qkt7az/a_recent_metaanalysis_found_healthy_plantbased/"
     },
@@ -110,8 +159,8 @@
         "author": "Potential_Being_7226",
         "title": "A partial skeleton dating back more than two million years is the most complete yet of Homo habilis, one of the earliest known species in our genus",
         "content": "",
-        "upvotes": 323,
-        "comments": 4,
+        "upvotes": 355,
+        "comments": 5,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/TT_kYSm244GVRke1Bdq8l8MyEmfa2GCfhSGt8Js2M2o.jpeg?auto=webp&amp;s=0b937e601f4e1b294033147353e89d19465f9bb1"
@@ -119,21 +168,11 @@
         "permalink": "/r/science/comments/1qkw18f/a_partial_skeleton_dating_back_more_than_two/"
     },
     {
-        "id": "1qlfi3g",
-        "author": "FootballAndFries",
-        "title": "Early trial of Nipah virus vaccine shows promise",
-        "content": "",
-        "upvotes": 22,
-        "comments": 4,
-        "media": null,
-        "permalink": "/r/science/comments/1qlfi3g/early_trial_of_nipah_virus_vaccine_shows_promise/"
-    },
-    {
         "id": "1qkzhcx",
         "author": "fchung",
         "title": "Breath carries clues to gut microbiome health: \u00ab Findings in children, mice could pave way to new diagnostic tools, faster treatment. \u00bb",
         "content": "",
-        "upvotes": 130,
+        "upvotes": 147,
         "comments": 4,
         "media": {
             "type": "image",
@@ -142,22 +181,22 @@
         "permalink": "/r/science/comments/1qkzhcx/breath_carries_clues_to_gut_microbiome_health/"
     },
     {
-        "id": "1qk5hr0",
-        "author": "mvea",
-        "title": "\u2018Manosphere\u2019 influencers pushing testosterone tests are convincing healthy young men there is something wrong with them, study finds. Researcher points to \u2018medicalisation of masculinity\u2019 after investigating how men\u2019s health is being monetised online.",
+        "id": "1qljufj",
+        "author": "Super_Letterhead381",
+        "title": "Biomechanical limits of hopping in the hindlimbs of giant extinct kangaroos",
         "content": "",
-        "upvotes": 7129,
-        "comments": 685,
+        "upvotes": 8,
+        "comments": 1,
         "media": null,
-        "permalink": "/r/science/comments/1qk5hr0/manosphere_influencers_pushing_testosterone_tests/"
+        "permalink": "/r/science/comments/1qljufj/biomechanical_limits_of_hopping_in_the_hindlimbs/"
     },
     {
         "id": "1qkxdqx",
         "author": "thinkB4WeSpeak",
         "title": "This wild potato may change the agricultural story in the American Southwest \u2013 Starchy residue preserved in ancient stone tools may rewrite the story of crop domestication in the American Southwest",
         "content": "",
-        "upvotes": 127,
-        "comments": 6,
+        "upvotes": 140,
+        "comments": 7,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/u4TNUaz9yiBCfoBzRuME3YLTG9Mx5tm4YPmza4yVeKo.jpeg?auto=webp&amp;s=19dfd6dd26631a02d0ee113c99b6fc60ac60020c"
@@ -165,25 +204,32 @@
         "permalink": "/r/science/comments/1qkxdqx/this_wild_potato_may_change_the_agricultural/"
     },
     {
-        "id": "1qlhrhy",
-        "author": "thinkB4WeSpeak",
-        "title": "Conservation may not be enough to sustain water supplies, researchers find | A new computational model reveals that prescriptive water conservation in three US cities would be less effective under severe climate change",
+        "id": "1qk5hr0",
+        "author": "mvea",
+        "title": "\u2018Manosphere\u2019 influencers pushing testosterone tests are convincing healthy young men there is something wrong with them, study finds. Researcher points to \u2018medicalisation of masculinity\u2019 after investigating how men\u2019s health is being monetised online.",
         "content": "",
-        "upvotes": 5,
-        "comments": 1,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/fMD_QmajWi74REpXW3Rs2RXo2RbYH4p7XUMOcDWWmlo.png?auto=webp&amp;s=4957a4f6c5a2f6cc07672a472bb7658b3e85cc07"
-        },
-        "permalink": "/r/science/comments/1qlhrhy/conservation_may_not_be_enough_to_sustain_water/"
+        "upvotes": 7197,
+        "comments": 689,
+        "media": null,
+        "permalink": "/r/science/comments/1qk5hr0/manosphere_influencers_pushing_testosterone_tests/"
+    },
+    {
+        "id": "1ql2cqu",
+        "author": "MassGen-Research",
+        "title": "New Blood Test Method Predicts Asthma Attacks Up to Five Years in Advance",
+        "content": "",
+        "upvotes": 42,
+        "comments": 4,
+        "media": null,
+        "permalink": "/r/science/comments/1ql2cqu/new_blood_test_method_predicts_asthma_attacks_up/"
     },
     {
         "id": "1qk56gw",
         "author": "mvea",
         "title": "Why the human penis is unusually large compared to that of other primates is a long-standing evolutionary question. New findings suggest that female choice and male-male competition have jointly favored larger penis size, greater height, and more V-shaped bodies in men.",
         "content": "",
-        "upvotes": 4172,
-        "comments": 448,
+        "upvotes": 4262,
+        "comments": 450,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/O9JSvu1JTqE1yt5wBTEs_xSktGiGZN3-ix74UvHcDhU.png?auto=webp&amp;s=1a20f3367f843e0461c5dd0433bd762b9e1323c4"
@@ -191,22 +237,22 @@
         "permalink": "/r/science/comments/1qk56gw/why_the_human_penis_is_unusually_large_compared/"
     },
     {
-        "id": "1ql2cqu",
-        "author": "MassGen-Research",
-        "title": "New Blood Test Method Predicts Asthma Attacks Up to Five Years in Advance",
+        "id": "1qlg4yu",
+        "author": "Kerubiel_Cherub",
+        "title": "The Ocean plays a role in the weathering feedback, as calcium supplied to the Ocean affects its ability to store CO2.",
         "content": "",
-        "upvotes": 38,
-        "comments": 3,
+        "upvotes": 5,
+        "comments": 1,
         "media": null,
-        "permalink": "/r/science/comments/1ql2cqu/new_blood_test_method_predicts_asthma_attacks_up/"
+        "permalink": "/r/science/comments/1qlg4yu/the_ocean_plays_a_role_in_the_weathering_feedback/"
     },
     {
         "id": "1qjycgq",
         "author": "NGNResearch",
         "title": "Women are more skeptical of AI than men, finding it riskier, new research finds",
         "content": "",
-        "upvotes": 6391,
-        "comments": 774,
+        "upvotes": 6433,
+        "comments": 777,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/UkTZRH63KKDYn5kpn2YIswCHGN27AY6DFIX_hi4IEes.jpeg?auto=webp&amp;s=ce72d82fff3d935b30c388f3a3081487cd025652"
@@ -218,7 +264,7 @@
         "author": "azonetwork",
         "title": "Breakthrough Study Explores Energy Recovery from Coastal Plastic Waste",
         "content": "",
-        "upvotes": 73,
+        "upvotes": 79,
         "comments": 4,
         "media": {
             "type": "image",
@@ -231,7 +277,7 @@
         "author": "Dr_Neurol",
         "title": "Early age at smoking initiation is associated with elevated cardiovascular disease and mortality risk. Over a nine-year follow-up, \u2265\u200920 pack-years smokers with age at initiation\u2009&lt;\u200920 had the highest risks of myocardial infarction, stroke or death.",
         "content": "",
-        "upvotes": 45,
+        "upvotes": 52,
         "comments": 3,
         "media": null,
         "permalink": "/r/science/comments/1qkwucc/early_age_at_smoking_initiation_is_associated/"
@@ -241,7 +287,7 @@
         "author": "HeinieKaboobler",
         "title": "AI chatbots tend to overdiagnose mental health conditions when used without structured guidance",
         "content": "",
-        "upvotes": 329,
+        "upvotes": 342,
         "comments": 50,
         "media": {
             "type": "image",
@@ -254,18 +300,28 @@
         "author": "GutBitesMD",
         "title": "Early-life colonization by aromatic-lactate-producing bifidobacteria lowers the risk of allergic sensitization",
         "content": "",
-        "upvotes": 61,
+        "upvotes": 66,
         "comments": 5,
         "media": null,
         "permalink": "/r/science/comments/1qkslao/earlylife_colonization_by/"
+    },
+    {
+        "id": "1ql2bxm",
+        "author": "MassGen-Research",
+        "title": "Early Translational Study Supports the Role of High-Dose Inhaled Nitric Oxide as a Potential Antimicrobial Therapy",
+        "content": "",
+        "upvotes": 20,
+        "comments": 7,
+        "media": null,
+        "permalink": "/r/science/comments/1ql2bxm/early_translational_study_supports_the_role_of/"
     },
     {
         "id": "1qjrqst",
         "author": "mvea",
         "title": "People who show ADHD traits in childhood are more likely to experience physical health problems and health-related disability by midlife. People with ADHD are more likely to experience stressful life events, social exclusion, and delayed access to health screening and medical care.",
         "content": "",
-        "upvotes": 8293,
-        "comments": 638,
+        "upvotes": 8329,
+        "comments": 640,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/nXmFcB8rIClEjuk2JLUU-P0lGaKJ4Q5qcYnR-zulyM0.jpeg?auto=webp&amp;s=bf5c53978bb314b69ff9d2fa16d4c1ba00bc56ec"
@@ -273,69 +329,13 @@
         "permalink": "/r/science/comments/1qjrqst/people_who_show_adhd_traits_in_childhood_are_more/"
     },
     {
-        "id": "1ql2bxm",
-        "author": "MassGen-Research",
-        "title": "Early Translational Study Supports the Role of High-Dose Inhaled Nitric Oxide as a Potential Antimicrobial Therapy",
-        "content": "",
-        "upvotes": 11,
-        "comments": 4,
-        "media": null,
-        "permalink": "/r/science/comments/1ql2bxm/early_translational_study_supports_the_role_of/"
-    },
-    {
-        "id": "1qk77d6",
-        "author": "Dr_Neurol",
-        "title": "AI seems to benefit experienced, senior-level developers: they increased productivity and more readily expanded into new domains of software development. In contrast, early-career developers showed no significant benefits from AI adoption. This may widen skill gaps and reshape future career ladders.",
-        "content": "",
-        "upvotes": 657,
-        "comments": 76,
-        "media": null,
-        "permalink": "/r/science/comments/1qk77d6/ai_seems_to_benefit_experienced_seniorlevel/"
-    },
-    {
         "id": "1qku5es",
         "author": "RealisticScienceGuy",
         "title": "Study of Chinese employees tests bidirectional links between perceived work stress and mental health and finds short-term effects from stress to mental health over time",
         "content": "",
-        "upvotes": 21,
+        "upvotes": 24,
         "comments": 4,
         "media": null,
         "permalink": "/r/science/comments/1qku5es/study_of_chinese_employees_tests_bidirectional/"
-    },
-    {
-        "id": "1qlg4yu",
-        "author": "Kerubiel_Cherub",
-        "title": "The Ocean plays a role in the weathering feedback, as calcium supplied to the Ocean affects its ability to store CO2.",
-        "content": "",
-        "upvotes": 2,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1qlg4yu/the_ocean_plays_a_role_in_the_weathering_feedback/"
-    },
-    {
-        "id": "1qjxchk",
-        "author": "sr_local",
-        "title": "New research analyzing 350 million street view images finds urban tree canopies may reduce cardiovascular disease (-4%), while grassy areas may increase it (+6%)",
-        "content": "",
-        "upvotes": 934,
-        "comments": 29,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/WotujDkhvqBbp4mWScWIZmjgsweFoNl7TB4ZeBNFVc0.jpeg?auto=webp&amp;s=579b407222fa801f4d10dbae365735c3bda79502"
-        },
-        "permalink": "/r/science/comments/1qjxchk/new_research_analyzing_350_million_street_view/"
-    },
-    {
-        "id": "1qk56ys",
-        "author": "OhMyOhWhyOh",
-        "title": "Clinical Trial: Plant-Derived Cannabis Formulations Show Comparable Efficacy to Lorazepam in Insomnia Patients",
-        "content": "",
-        "upvotes": 354,
-        "comments": 67,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/KbkPJdC44VS3wscVb-LKQIumIuvBFW0BETuKM1axJIc.png?auto=webp&amp;s=7456a12717294fec821bb4788deb5ea9e8a3a475"
-        },
-        "permalink": "/r/science/comments/1qk56ys/clinical_trial_plantderived_cannabis_formulations/"
     }
 ]
