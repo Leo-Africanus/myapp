@@ -5,7 +5,7 @@
         "title": "Weekly Open Thread - General Discussion",
         "content": "# Open Thread\n\nBesides general conversation and talk about other leagues and teams, all the following content must go into the weekly Open Thread:\n\n\n\n* Simple one-liners, random thoughts or unrelated posts (with or without a single image).\n* All discussion about rival teams matches and results.\n* All wallpapers and image editing that are not created by you \\[Not OC\\]\n* Unsourced news and stats.\n* Photos of jerseys and other memorabilia.\n* Images of formations with minimal description.\n* Links to social media posts made by our players or celebrities, unless it counts as team news or stats.\n* All gaming content.\n* All memes should go into the Open thread during the week days.\n* All \"I am a fan of X team, I come in peace\" type of posts.\n* When posting rumours/news from Twitter, if possible post a direct link to the tweet.\n\n# This is our reliability guide: [https://rm-reddit.github.io/](https://rm-reddit.github.io/)\n\n**IMPORTANT: Only news from official sources, Tier 1 and Tier 2, can have their own thread, everything else including discussions about target players must go in here.**\n\n\n\n\n\n# Real Madrid Discord Server\n\n[**Click here to join our Discord Server**](https://discord.gg/syH7yen)",
         "upvotes": 12,
-        "comments": 450,
+        "comments": 584,
         "media": null,
         "permalink": "/r/realmadrid/comments/1qnd1ex/weekly_open_thread_general_discussion/"
     },
@@ -14,31 +14,18 @@
         "author": "scoreboard-app",
         "title": "Pre Match Thread: Benfica vs Real Madrid, UCL Game 8",
         "content": "This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/realmadrid/comments/1qont6i)",
-        "upvotes": 68,
-        "comments": 40,
+        "upvotes": 80,
+        "comments": 54,
         "media": null,
         "permalink": "/r/realmadrid/comments/1qont6i/pre_match_thread_benfica_vs_real_madrid_ucl_game_8/"
-    },
-    {
-        "id": "1qp0oq7",
-        "author": "Jorgemeister",
-        "title": "Has this gone too far?",
-        "content": "",
-        "upvotes": 504,
-        "comments": 68,
-        "media": {
-            "type": "image",
-            "url": "https://preview.redd.it/njpidm2jj0gg1.png?auto=webp&amp;s=09d2725f0dd5400a0740931b8f6b8e9695a2fdc9"
-        },
-        "permalink": "/r/realmadrid/comments/1qp0oq7/has_this_gone_too_far/"
     },
     {
         "id": "1qp4jn9",
         "author": "SwimmingFireMen",
         "title": "Squad atmosphere with Alvaro Arbeloa as the manager, Friendship/Vibes FC is back!",
         "content": "",
-        "upvotes": 177,
-        "comments": 13,
+        "upvotes": 567,
+        "comments": 43,
         "media": {
             "type": "video",
             "url": "https://v.redd.it/fhqyxws6j1gg1/CMAF_720.mp4?source=fallback"
@@ -46,12 +33,51 @@
         "permalink": "/r/realmadrid/comments/1qp4jn9/squad_atmosphere_with_alvaro_arbeloa_as_the/"
     },
     {
+        "id": "1qpecb9",
+        "author": "No-Independent2522",
+        "title": "Real Madrid on X : \ud83d\udd19 We're back at the stadium of La D\u00e9cima!",
+        "content": "",
+        "upvotes": 118,
+        "comments": 12,
+        "media": {
+            "type": "video",
+            "url": "https://v.redd.it/1h6l6u8ty3gg1/CMAF_1080.mp4?source=fallback"
+        },
+        "permalink": "/r/realmadrid/comments/1qpecb9/real_madrid_on_x_were_back_at_the_stadium_of_la/"
+    },
+    {
+        "id": "1qp0oq7",
+        "author": "Jorgemeister",
+        "title": "Has this gone too far?",
+        "content": "",
+        "upvotes": 869,
+        "comments": 106,
+        "media": {
+            "type": "image",
+            "url": "https://preview.redd.it/njpidm2jj0gg1.png?auto=webp&amp;s=09d2725f0dd5400a0740931b8f6b8e9695a2fdc9"
+        },
+        "permalink": "/r/realmadrid/comments/1qp0oq7/has_this_gone_too_far/"
+    },
+    {
+        "id": "1qpbqyn",
+        "author": "Galactic_Ryder",
+        "title": "Brad Branson, Real Madrid Basketball player 1986-88, passes away at 67",
+        "content": "",
+        "upvotes": 44,
+        "comments": 2,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/tYzMu_c5U2lHkGyJmLqkIrkTlXzqhjSmHWq5EjdLjJg.jpeg?auto=webp&amp;s=5f7c60a17779cb30d232264607504fcfc74703fd"
+        },
+        "permalink": "/r/realmadrid/comments/1qpbqyn/brad_branson_real_madrid_basketball_player_198688/"
+    },
+    {
         "id": "1qox8zn",
         "author": "FergieBall_FC",
         "title": "@Squawka: Most chances created from open-play in Europe's top five leagues this season. \ud83d\udd11",
         "content": "",
-        "upvotes": 106,
-        "comments": 17,
+        "upvotes": 171,
+        "comments": 23,
         "media": {
             "type": "image",
             "url": "https://preview.redd.it/b390n9qzrzfg1.jpeg?auto=webp&amp;s=a1883194a38240601e36c053b9bb809890f31a64"
@@ -59,12 +85,25 @@
         "permalink": "/r/realmadrid/comments/1qox8zn/squawka_most_chances_created_from_openplay_in/"
     },
     {
+        "id": "1qp5vvh",
+        "author": "Business-Cherry1883",
+        "title": "I simulated Matchday 8 of the Champions League 20,000 times. Here is the probability distribution of the final League Phase standings.",
+        "content": "**The Visualisation**\u00a0This is a \"Violin Plot\" showing the density of finishing positions for the 36 UCL teams.\n\n* **The \"Bulge\":**\u00a0The wider the shape at a specific rank, the higher the probability the team finishes there.\n* **The Line:**\u00a0The white internal bars show the interquartile range (where the middle 50% of outcomes fall).\n\n**Data Source**\n\n* **Fixtures &amp; Standings:**\u00a0Official UEFA Matchday 8 Schedule.\n* **Team Strength:**\u00a0[ClubElo.com](http://clubelo.com/)\u00a0ratings (used to weight the Poisson simulation).\n\n**Key Takeaways**\n\n1. **The Certainty:**\u00a0Look at\u00a0**Arsenal**\u00a0and\u00a0**Bayern Munich**\u00a0at the top. Their shapes are thin and compressed. The model is nearly 100% certain of their finishing position (Rank 1 or 2).\n2. **The Chaos:**\u00a0Look at\u00a0**PSG (Paris Saint-Germain)**. They have a massive \"bimodal\" distribution (two distinct bulges). This means they will likely either qualify comfortably in the Top 8 OR drop significantly; there is very little middle ground for them.\n3. **The Bubble:**\u00a0The fight for Rank 24 (the elimination cutoff) creates a massive spread of probability for the\u00a0**12 teams straddling the line**, where a single goal can swing a team 5+ positions.\n\n**Methodology**\n\n* **Engine:**\u00a0Python (NumPy/Pandas) running 20,000 Monte Carlo simulations.\n* **Scoring:**\u00a0Strength-weighted Poisson distribution based on current team Elo ratings for remaining fixtures.\n* **Tiebreakers:**\u00a0Full UEFA Article 18 implementation (H2H, Goal Difference, Goals Scored, Away Goals, Wins, Away Wins).\n\n**Tools Used**\n\n* Python (Matplotlib)\n* Visuals rendered in a custom \"Midnight Analytics\" theme.\n* [**Source Code / GitHub**](https://github.com/ACl365/ucl-permutations)",
+        "upvotes": 38,
+        "comments": 9,
+        "media": {
+            "type": "image",
+            "url": "https://preview.redd.it/2sb9v332x1gg1.png?auto=webp&amp;s=6ad48b074a45e249010b9699fe44c5173d3bb145"
+        },
+        "permalink": "/r/realmadrid/comments/1qp5vvh/i_simulated_matchday_8_of_the_champions_league/"
+    },
+    {
         "id": "1qoqpje",
         "author": "Sparrow_tora_999",
         "title": "Guess which game it was?",
         "content": "",
-        "upvotes": 122,
-        "comments": 31,
+        "upvotes": 175,
+        "comments": 36,
         "media": {
             "type": "image",
             "url": "https://preview.redd.it/rq6t0ukajyfg1.jpeg?auto=webp&amp;s=b41b2175e892978c8098a9004bd58fa5912ed880"
@@ -72,11 +111,21 @@
         "permalink": "/r/realmadrid/comments/1qoqpje/guess_which_game_it_was/"
     },
     {
+        "id": "1qp83a7",
+        "author": "unai_zoat",
+        "title": "I made a LaLiga Simulator to predict the title race. Will Madrid clinch it?",
+        "content": "Hi everyone!\n\nWith the title race getting intense, I decided to build a web tool to simulate how the rest of the season might play out. I wanted something faster and cleaner than Excel to check different scenarios.\n\n**Features:**\n\n* **Full Interactive Calendar:** Enter scores for all remaining matchdays.\n* **Live Table:** The standings update instantly as you type results.\n* **Tie-breaker Logic:** It handles the points and goal difference automatically.\n* **Shareable:** You can download your final standings as an image to show how you think the top 4 will look.\n\nI thought some of you might find it useful to visualize Madrid\u00b4s path to the trophy.\n\n**Check it out here:** [https://calculafutbol.com/](https://calculafutbol.com/)\n\nLet me know what you think!",
+        "upvotes": 12,
+        "comments": 3,
+        "media": null,
+        "permalink": "/r/realmadrid/comments/1qp83a7/i_made_a_laliga_simulator_to_predict_the_title/"
+    },
+    {
         "id": "1qopgsl",
         "author": "Sparrow_tora_999",
         "title": "Press con. before Benfica match",
         "content": "\ud83c\udf99\ufe0f \ud835\udc00\ud835\udc0b\ud835\udc15\ud835\udc00\ud835\udc11\ud835\udc0e \ud835\udc00\ud835\udc11\ud835\udc01\ud835\udc04\ud835\udc0b\ud835\udc0e\ud835\udc00 \ud835\udc05\ud835\udc14\ud835\udc0b\ud835\udc0b \ud835\udc0f\ud835\udc11\ud835\udc04\ud835\udc12\ud835\udc12 \ud835\udc02\ud835\udc0e\ud835\udc0d\ud835\udc05\ud835\udc04\ud835\udc11\ud835\udc04\ud835\udc0d\ud835\udc02\ud835\udc04:\n\n\ud83d\udde3\ufe0f Alvaro Arbeloa: \u201cBenfica is a very important game for us. We need the 3 points tomorrow to secure the top 8.\u201d\n\n\ud83d\udde3\ufe0f Alvaro Arbeloa: \u201cIt\u2019s an honour  to hear Coach Mourinho\u2019s kind words about me. He means a lot more to me than just a coach. It made me emotional and happy to hear him. He\u2019s my friend.\u201d\n\n\ud83d\udde3\ufe0f Alvaro Arbeloa: \u201cWhen I was a player, we used to put on Mourinho\u2019s press conferences in the locker room and listen to them.\n\nI didn\u2019t miss his conferences back then, and I didn\u2019t miss today\u2019s conference either.\u201d\n\n\ud83d\udde3\ufe0f Alvaro Arbeloa: \u201cThe new Mourinho? There will never be another Mourinho.\u201d\n\n\ud83d\udde3\ufe0f Alvaro Arbeloa: \u201cMourinho keeps changing his phone number. We stayed in contact, but of course I try not to annoy him and keep calling him.\u201d\n\n\ud83d\udde3\ufe0f Alvaro Arbeloa: \u201cThe team showing a better attitude on the pitch? From what I\u2019ve seen since I\u2019ve been here, the squad is perfectly ready to sacrifice and work hard and do everything to win. Of course we can do much better, but we need time and work and training.\u201d\n\n\ud83d\udde3\ufe0f Alvaro Arbeloa: \u201cThese players deserve a lot of credit for how well they\u2019re playing right now, under a new coach with so little time to train.\u201d\n\n\ud83d\udde3\ufe0f Alvaro Arbeloa: \u201cJude Bellingham is INCREDIBLE. He\u2019s an incredible player, but he\u2019s also a guy who wants to be a leader, he runs, he works hard.\n\nHis level in training, his committment, it\u2019s crazy. It\u2019s an honour for me to coach Jude Bellingham.\u201d\n\n\ud83d\udde3\ufe0f Alvaro Arbeloa: \u201cThe 2014 CL final in this stadium marked the beginning of a glorious era.\u201d\n\n\ud83d\udde3\ufe0f Alvaro Arbeloa: \u201cA few days ago, 48 hours after a game, I went to Jude Bellingham, and I told him \u201cJude, stop running so much.\u201d He doesn\u2019t stop running, it\u2019s crazy.\u201d\n\n\ud83d\udde3\ufe0f Alvaro Arbeloa:\u201cArda is a very young boy, he is working a lot. He finishes the games very tired due to the defensive involvement, but it helps us a lot.We want to take advantage of his talent, one that can shine closer to the pivot or the strikers.In all these situations, you must continue to grow. And when the games of maximum demand arrive, he will surely help us.\u201c",
-        "upvotes": 52,
+        "upvotes": 62,
         "comments": 24,
         "media": null,
         "permalink": "/r/realmadrid/comments/1qopgsl/press_con_before_benfica_match/"
@@ -86,30 +135,17 @@
         "author": "DreadlockSamurai",
         "title": "What did you think of David Alaba before his injuries?",
         "content": "Personally thought he was pretty goddamn magnificent.\n\nFree kicks, speed, toughness, versatility, and ability to play at multiple positions was perfect for the squad.\n\nHis first goal coming in the clasico win was the chef's kiss \ud83d\ude18\ud83e\udd0c\n\nI might be alone in my thinking, but if he was never injured, I think it would be difficult to imagine him not being in the line up",
-        "upvotes": 34,
-        "comments": 40,
+        "upvotes": 45,
+        "comments": 45,
         "media": null,
         "permalink": "/r/realmadrid/comments/1qor9ac/what_did_you_think_of_david_alaba_before_his/"
-    },
-    {
-        "id": "1qp5vvh",
-        "author": "Business-Cherry1883",
-        "title": "I simulated Matchday 8 of the Champions League 20,000 times. Here is the probability distribution of the final League Phase standings.",
-        "content": "**The Visualisation**\u00a0This is a \"Violin Plot\" showing the density of finishing positions for the 36 UCL teams.\n\n* **The \"Bulge\":**\u00a0The wider the shape at a specific rank, the higher the probability the team finishes there.\n* **The Line:**\u00a0The white internal bars show the interquartile range (where the middle 50% of outcomes fall).\n\n**Data Source**\n\n* **Fixtures &amp; Standings:**\u00a0Official UEFA Matchday 8 Schedule.\n* **Team Strength:**\u00a0[ClubElo.com](http://clubelo.com/)\u00a0ratings (used to weight the Poisson simulation).\n\n**Key Takeaways**\n\n1. **The Certainty:**\u00a0Look at\u00a0**Arsenal**\u00a0and\u00a0**Bayern Munich**\u00a0at the top. Their shapes are thin and compressed. The model is nearly 100% certain of their finishing position (Rank 1 or 2).\n2. **The Chaos:**\u00a0Look at\u00a0**PSG (Paris Saint-Germain)**. They have a massive \"bimodal\" distribution (two distinct bulges). This means they will likely either qualify comfortably in the Top 8 OR drop significantly; there is very little middle ground for them.\n3. **The Bubble:**\u00a0The fight for Rank 24 (the elimination cutoff) creates a massive spread of probability for the\u00a0**12 teams straddling the line**, where a single goal can swing a team 5+ positions.\n\n**Methodology**\n\n* **Engine:**\u00a0Python (NumPy/Pandas) running 20,000 Monte Carlo simulations.\n* **Scoring:**\u00a0Strength-weighted Poisson distribution based on current team Elo ratings for remaining fixtures.\n* **Tiebreakers:**\u00a0Full UEFA Article 18 implementation (H2H, Goal Difference, Goals Scored, Away Goals, Wins, Away Wins).\n\n**Tools Used**\n\n* Python (Matplotlib)\n* Visuals rendered in a custom \"Midnight Analytics\" theme.\n* [**Source Code / GitHub**](https://github.com/ACl365/ucl-permutations)",
-        "upvotes": 4,
-        "comments": 1,
-        "media": {
-            "type": "image",
-            "url": "https://preview.redd.it/2sb9v332x1gg1.png?auto=webp&amp;s=6ad48b074a45e249010b9699fe44c5173d3bb145"
-        },
-        "permalink": "/r/realmadrid/comments/1qp5vvh/i_simulated_matchday_8_of_the_champions_league/"
     },
     {
         "id": "1qotwlw",
         "author": "Galego_ACB",
         "title": "Real Madrid lost against Paris (98-92) in round 25 of the Euroleague regular season",
         "content": "",
-        "upvotes": 9,
+        "upvotes": 10,
         "comments": 2,
         "media": null,
         "permalink": "/r/realmadrid/comments/1qotwlw/real_madrid_lost_against_paris_9892_in_round_25/"
@@ -119,8 +155,8 @@
         "author": "TekTron1013",
         "title": "Squad list for UCL match vs Benfica",
         "content": "",
-        "upvotes": 73,
-        "comments": 29,
+        "upvotes": 77,
+        "comments": 30,
         "media": null,
         "permalink": "/r/realmadrid/comments/1qoaqgq/squad_list_for_ucl_match_vs_benfica/"
     },
@@ -129,7 +165,7 @@
         "author": "No-Independent2522",
         "title": "Bellingham and Mastantuono before Villareal match",
         "content": "",
-        "upvotes": 499,
+        "upvotes": 517,
         "comments": 15,
         "media": {
             "type": "video",
@@ -142,8 +178,8 @@
         "author": "Brief_Key_9483",
         "title": "Agent Vini on a mission \ud83d\ude02",
         "content": "",
-        "upvotes": 684,
-        "comments": 66,
+        "upvotes": 698,
+        "comments": 68,
         "media": {
             "type": "image",
             "url": "https://preview.redd.it/45xz2yhs0rfg1.jpeg?auto=webp&amp;s=c1435a674730573d4999e00ca0958feb10906b1d"
@@ -155,8 +191,8 @@
         "author": "Upper_Coyote312",
         "title": "Getting a controller in midfield",
         "content": "We need to be careful about the player we\u2019re getting if we should get one . I see names like Neves suggested and I\u2019m worried . Yes it\u2019s for free but aside from playing in saudi for the last 3 years , he is a bit of a set piece merchant . Stiller looks good but the problem is Real Madrid will always be a big step from stuttgart.",
-        "upvotes": 22,
-        "comments": 27,
+        "upvotes": 25,
+        "comments": 30,
         "media": null,
         "permalink": "/r/realmadrid/comments/1qocq0r/getting_a_controller_in_midfield/"
     },
@@ -165,7 +201,7 @@
         "author": "Ready_Ad_1353",
         "title": "[FotMob] Endrick has 5 G/A in 3 matches for Lyon, and was the MOTM in all 3 matches",
         "content": "",
-        "upvotes": 1337,
+        "upvotes": 1362,
         "comments": 101,
         "media": {
             "type": "image",
@@ -174,31 +210,31 @@
         "permalink": "/r/realmadrid/comments/1qngnof/fotmob_endrick_has_5_ga_in_3_matches_for_lyon_and/"
     },
     {
-        "id": "1qoox3r",
-        "author": "PsychologicalRoof805",
-        "title": "This is so stupid...",
-        "content": "I never understood the idea of those game analysing people saying madrid have no system, no tactics and they are the worst team in terms of that. Like I'm pretty sure we all know that Real Madrid has never been known for tactics in the first place. They were never a tactic-based team and probably won't be for the time being. Real Madrid is purely based on individual performances and team chemistry. Not some sort of complex tactical situation.",
-        "upvotes": 6,
-        "comments": 11,
-        "media": null,
-        "permalink": "/r/realmadrid/comments/1qoox3r/this_is_so_stupid/"
-    },
-    {
         "id": "1qocrym",
         "author": "megamimo1991",
         "title": "A genuine question about what works for us",
         "content": "The recent issues have been about players being diva, no proper system having worked out etc etc.\n\nMy question to y'all is: What worked for us in the past, specifically in the last decade ? Is it the coaches? Is it a particular system of play? Or is it us having a ton of superstars who worked well together and created the magic? \n\nCan we ever function like how it worked out in Liverpool with the biggest names in the team? Or should we let friendship and vibes reside?",
         "upvotes": 15,
-        "comments": 33,
+        "comments": 34,
         "media": null,
         "permalink": "/r/realmadrid/comments/1qocrym/a_genuine_question_about_what_works_for_us/"
+    },
+    {
+        "id": "1qoox3r",
+        "author": "PsychologicalRoof805",
+        "title": "This is so stupid...",
+        "content": "I never understood the idea of those game analysing people saying madrid have no system, no tactics and they are the worst team in terms of that. Like I'm pretty sure we all know that Real Madrid has never been known for tactics in the first place. They were never a tactic-based team and probably won't be for the time being. Real Madrid is purely based on individual performances and team chemistry. Not some sort of complex tactical situation.",
+        "upvotes": 5,
+        "comments": 14,
+        "media": null,
+        "permalink": "/r/realmadrid/comments/1qoox3r/this_is_so_stupid/"
     },
     {
         "id": "1qnima3",
         "author": "Bijay12356",
         "title": "Happy Birthday Boss Jose Mourinho",
         "content": "",
-        "upvotes": 528,
+        "upvotes": 539,
         "comments": 29,
         "media": {
             "type": "video",
@@ -211,7 +247,7 @@
         "author": "No-Independent2522",
         "title": "Real Madrid Tastes Victory for the First Time Without Tchouameni this season",
         "content": "",
-        "upvotes": 271,
+        "upvotes": 276,
         "comments": 44,
         "media": {
             "type": "image",
@@ -224,8 +260,8 @@
         "author": "MeteorFalls297",
         "title": "Endrick scores a hattrick vs Metz!",
         "content": "",
-        "upvotes": 3213,
-        "comments": 162,
+        "upvotes": 3221,
+        "comments": 165,
         "media": {
             "type": "video",
             "url": "https://v.redd.it/uq97rgzzdjfg1/CMAF_480.mp4?source=fallback"
@@ -237,8 +273,8 @@
         "author": "Fit_Wrap_9580",
         "title": "Real reason why Xabi got Sacked by: Tifo football by The Athletic",
         "content": "",
-        "upvotes": 101,
-        "comments": 142,
+        "upvotes": 99,
+        "comments": 147,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/rdLCAe_VABMLKFloPiJ4WxrtGlocaqeLmxeTVw4PIzo.jpeg?auto=webp&amp;s=cb80c463c4ab787efd67c0f43a86bb323a7a8228"
@@ -250,7 +286,7 @@
         "author": "iPeluche",
         "title": "Real Madrid is monitoring Neil El Aynaoui, made it in the midfield short list for the summer.",
         "content": "",
-        "upvotes": 74,
+        "upvotes": 75,
         "comments": 41,
         "media": null,
         "permalink": "/r/realmadrid/comments/1qndn5m/real_madrid_is_monitoring_neil_el_aynaoui_made_it/"
@@ -260,7 +296,7 @@
         "author": "soldier101br",
         "title": "Endrick equals Neymar ligue one best game stats",
         "content": "3 Goals,3 sucessful take ons,6 shots,6 shots on the target,with those numbers against Metz he's the First player to It Since Neymar in 2018\nSource: Statmuse\nHe's truly a gem,the same gem he was at Palmeiras,If there's a point that should be commom ground of criticism to Xabi time as manager with us is the way he didn't Gave Endrick an opportunity to show himself,This can't go unspoken.",
-        "upvotes": 787,
+        "upvotes": 794,
         "comments": 81,
         "media": null,
         "permalink": "/r/realmadrid/comments/1qmx4qx/endrick_equals_neymar_ligue_one_best_game_stats/"
@@ -270,7 +306,7 @@
         "author": "More-Judgment-9253",
         "title": "Endrick vs Metz (Away)",
         "content": "Third best wonderkid after doue and yamal imo",
-        "upvotes": 687,
+        "upvotes": 690,
         "comments": 62,
         "media": {
             "type": "video",
@@ -283,7 +319,7 @@
         "author": "MeteorFalls297",
         "title": "Endrick 2nd goal vs Metz",
         "content": "",
-        "upvotes": 1202,
+        "upvotes": 1208,
         "comments": 37,
         "media": {
             "type": "video",
@@ -296,7 +332,7 @@
         "author": "Pale_Phase_07",
         "title": "Is mastantuono the missing piece?",
         "content": "I think mastuono, despite his huge signing fees, is not talked enough as a youngster(mentioned signing fees because with huge fees you get more attention). For instance, he has similar or better stats than Yamal had in the first 15 games. Maybe Yamal was younger than him so we can't really compare them. Arda was the talk of football community when he signed with us, his age-18 was the highlight. Mastuono being of similar age, I don't really see him getting similar fame others before him got.\n\nAnd, I personally feel he's the proper right winger we've got since Gareth bale, a left footed right winger. Like we also had rodrygo and he was nice on the right, but him being right footed always had us lacking something during games. Mastantuono helps in so much ways, creates a balance on both sides while attacking. He runs, presses, tracks back, passes perfectly,...RUNS. Maybe he runs too much at times, but he doesn't look under confident on the pitch, and the number of fck ups are quite negligible by him.\n\nI feel like we don't talk about him enough like we did about Arda or huijsen. Or even the football media don't talk about him enough like they did with the likes of Yamal or cubarsi or pedri, etc.",
-        "upvotes": 75,
+        "upvotes": 77,
         "comments": 67,
         "media": null,
         "permalink": "/r/realmadrid/comments/1qn5qjb/is_mastantuono_the_missing_piece/"
@@ -306,51 +342,12 @@
         "author": "Ready_Ad_1353",
         "title": "Villarreal manager Marcelino shouting at his players to mark Kylian Mbapp\u00e9 as he stood by next to him, smiling at him.",
         "content": "",
-        "upvotes": 1524,
+        "upvotes": 1547,
         "comments": 29,
         "media": {
             "type": "video",
             "url": "https://v.redd.it/em6430bgbhfg1/CMAF_720.mp4?source=fallback"
         },
         "permalink": "/r/realmadrid/comments/1qmgibf/villarreal_manager_marcelino_shouting_at_his/"
-    },
-    {
-        "id": "1qndxdr",
-        "author": "ManuMora98",
-        "title": "[Basket] Our opponent in the Copa del Rey Quarterfinals will be Unicaja",
-        "content": "",
-        "upvotes": 16,
-        "comments": 5,
-        "media": {
-            "type": "image",
-            "url": "https://preview.redd.it/04balprcmofg1.jpeg?auto=webp&amp;s=1a0c41aaa565b732efa1134f48f0bcde0145ed81"
-        },
-        "permalink": "/r/realmadrid/comments/1qndxdr/basket_our_opponent_in_the_copa_del_rey/"
-    },
-    {
-        "id": "1qmhbvr",
-        "author": "FrrancondonaEra",
-        "title": "The real slim shady pls stand up",
-        "content": "",
-        "upvotes": 617,
-        "comments": 61,
-        "media": {
-            "type": "video",
-            "url": "https://v.redd.it/nvcnot9hjhfg1/CMAF_720.mp4?source=fallback"
-        },
-        "permalink": "/r/realmadrid/comments/1qmhbvr/the_real_slim_shady_pls_stand_up/"
-    },
-    {
-        "id": "1qmul9l",
-        "author": "Finn_Madridista",
-        "title": "Troll Level Over 9000 \ud83d\ude2d (OC)",
-        "content": "",
-        "upvotes": 126,
-        "comments": 4,
-        "media": {
-            "type": "image",
-            "url": "https://preview.redd.it/0znpaq9c3kfg1.jpeg?auto=webp&amp;s=af59c8941861ca39fb17b542c5c37c96acff349a"
-        },
-        "permalink": "/r/realmadrid/comments/1qmul9l/troll_level_over_9000_oc/"
     }
 ]
