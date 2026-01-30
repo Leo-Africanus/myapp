@@ -1,11 +1,34 @@
 [
     {
+        "id": "1qr0jz0",
+        "author": "Wagamaga",
+        "title": "A new machine learning tool has identified more than 250,000 cancer research papers that may have been produced by so-called \u201cpaper mills\u201d. Selling authorships and entire ready-made research papers, paper mills often use recycled text, awkward phrasing or fabricated data and images.",
+        "content": "",
+        "upvotes": 2134,
+        "comments": 84,
+        "media": null,
+        "permalink": "/r/science/comments/1qr0jz0/a_new_machine_learning_tool_has_identified_more/"
+    },
+    {
+        "id": "1qr4tuq",
+        "author": "mvea",
+        "title": "A dream-like psychedelic might help traumatized veterans reset their brains - Researchers found that soldiers who reported profound feelings of unity and sacredness while taking ibogaine experienced lasting relief from post-traumatic stress disorder.",
+        "content": "",
+        "upvotes": 488,
+        "comments": 53,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/psmiYYKhC4V6YpFqjiEt1K9ZEd0PHnBkm0o1XyOShxc.jpeg?auto=webp&amp;s=927d2a2cf82de83833f8077239c6c4bd7afa2102"
+        },
+        "permalink": "/r/science/comments/1qr4tuq/a_dreamlike_psychedelic_might_help_traumatized/"
+    },
+    {
         "id": "1qqi09c",
         "author": "OhMyOhWhyOh",
         "title": "Study: Marijuana Access Associated With \u201cStriking\u201d Decline in Daily Opioid Use by IV Drug Consumers",
         "content": "",
-        "upvotes": 12713,
-        "comments": 393,
+        "upvotes": 14142,
+        "comments": 428,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/5RdGSPnJCWF1jqCHEZvh4pQNUhLRlMq7MYmq9Op7NAU.png?auto=webp&amp;s=1a2d8c5e96ad8b58109374e3fbe7554354a9660e"
@@ -17,18 +40,31 @@
         "author": "mvea",
         "title": "Swarms of AI personas mimic humans so well they can infiltrate online communities, shape conversations and tilt elections. Early warning signs include AI-generated deepfakes and fabricated news outlets that influenced recent election debates. AI swarms could tilt the balance of power in democracies.",
         "content": "",
-        "upvotes": 6268,
-        "comments": 339,
+        "upvotes": 7760,
+        "comments": 381,
         "media": null,
         "permalink": "/r/science/comments/1qqjwz8/swarms_of_ai_personas_mimic_humans_so_well_they/"
+    },
+    {
+        "id": "1qr3mkq",
+        "author": "mvea",
+        "title": "Scientists have designed an immunotherapy that reduces plaque in the arteries of mice, presenting a possible new treatment strategy against heart disease. Such an immunotherapy could especially help patients who already have plaque in their coronary arteries and remain at high risk of heart attack.",
+        "content": "",
+        "upvotes": 215,
+        "comments": 4,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/npSUMeFYsiyNPJ5nrzfhaQ0lHWadjyfBYbw5cckPIxs.jpeg?auto=webp&amp;s=9679587c1b2cedc210559dc016c28b06e7a8679e"
+        },
+        "permalink": "/r/science/comments/1qr3mkq/scientists_have_designed_an_immunotherapy_that/"
     },
     {
         "id": "1qqf0eu",
         "author": "Dr_Neurol",
         "title": "A new study from Chicago found that every 1% increase in eviction rate in a census tract was associated with 2.66 more shootings. The study also showed that evictions disrupt a neighborhood\u2019s \u201ccollective efficacy,\u201d or residents\u2019 shared belief in their ability to work together for the common good.",
         "content": "",
-        "upvotes": 2048,
-        "comments": 99,
+        "upvotes": 2156,
+        "comments": 102,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/7hrFJyWpLQfPQvat4HWc28wvHX_S0KqKw34enNaMZOg.jpeg?auto=webp&amp;s=a2e26a43734abced909a8f6e8cf0c9e7772def8d"
@@ -36,12 +72,22 @@
         "permalink": "/r/science/comments/1qqf0eu/a_new_study_from_chicago_found_that_every_1/"
     },
     {
+        "id": "1qqhzqh",
+        "author": "maxkozlov",
+        "title": "Longevity is in the genes: half of lifespan is heritable, far more than previously estimated. Understanding the genetic controls of ageing could lead to more therapies that forestall it.",
+        "content": "",
+        "upvotes": 1205,
+        "comments": 93,
+        "media": null,
+        "permalink": "/r/science/comments/1qqhzqh/longevity_is_in_the_genes_half_of_lifespan_is/"
+    },
+    {
         "id": "1qqd7if",
         "author": "Science_News",
         "title": "A true artificial lung system kept a man alive for 2 days until he could get a transplant | The new system put oxygen into his blood while maintaining blood flow through the heart",
         "content": "",
-        "upvotes": 1895,
-        "comments": 56,
+        "upvotes": 2000,
+        "comments": 58,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/41uTfksJrH9buE7Lrqugz72-4T4jqA1bLEZI-AF6KcM.jpeg?auto=webp&amp;s=3446459a6678131482dac161d77847f392447531"
@@ -49,32 +95,42 @@
         "permalink": "/r/science/comments/1qqd7if/a_true_artificial_lung_system_kept_a_man_alive/"
     },
     {
-        "id": "1qqhzqh",
-        "author": "maxkozlov",
-        "title": "Longevity is in the genes: half of lifespan is heritable, far more than previously estimated. Understanding the genetic controls of ageing could lead to more therapies that forestall it.",
+        "id": "1qr4xd4",
+        "author": "MistWeaver80",
+        "title": "General Relativity Survives a Tough Trial. Physicists used the clearest gravitational-wave signal dubbed GW250114 to confirm a key prediction about black holes and to test general relativity in the high-velocity, strong-gravity regime that prevailed during the merger.",
         "content": "",
-        "upvotes": 1083,
-        "comments": 90,
+        "upvotes": 45,
+        "comments": 1,
         "media": null,
-        "permalink": "/r/science/comments/1qqhzqh/longevity_is_in_the_genes_half_of_lifespan_is/"
+        "permalink": "/r/science/comments/1qr4xd4/general_relativity_survives_a_tough_trial/"
     },
     {
         "id": "1qq6bgz",
         "author": "mvea",
         "title": "Scientists develop new nanomaterial that triggers chemical reactions inside cancer cells, killing them while leaving healthy tissues alone. When administered in mice bearing human breast cancer cells, it completely eradicated the cancer without side effects, with long-term prevention of recurrence.",
         "content": "",
-        "upvotes": 4382,
-        "comments": 94,
+        "upvotes": 4631,
+        "comments": 101,
         "media": null,
         "permalink": "/r/science/comments/1qq6bgz/scientists_develop_new_nanomaterial_that_triggers/"
+    },
+    {
+        "id": "1qr4q43",
+        "author": "MistWeaver80",
+        "title": "Early humans in central China may have been making sophisticated stone tools as early as 160,000 years ago, according to research in Nature Communications.",
+        "content": "",
+        "upvotes": 33,
+        "comments": 9,
+        "media": null,
+        "permalink": "/r/science/comments/1qr4q43/early_humans_in_central_china_may_have_been/"
     },
     {
         "id": "1qqlu6q",
         "author": "NinjaDiscoJesus",
         "title": "Polar bears on Norwegian islands fatter and healthier despite ice loss, scientists say.",
         "content": "",
-        "upvotes": 332,
-        "comments": 14,
+        "upvotes": 363,
+        "comments": 15,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/fMwt7H3vQH_dNutXwlM9egzzSW6fUfDhQQ2NbV2HgZ4.jpeg?auto=webp&amp;s=f0fdcdbd709e1cceff259c408346c79c086a53cf"
@@ -82,12 +138,22 @@
         "permalink": "/r/science/comments/1qqlu6q/polar_bears_on_norwegian_islands_fatter_and/"
     },
     {
+        "id": "1qqhn7y",
+        "author": "fchung",
+        "title": "In developing immunity to allergens, a little \u2018dirty\u2019 goes a long way: \u00ab New Yale research finds that microbe-diverse environments build protective immune memory that helps prevent allergies. \u00bb",
+        "content": "",
+        "upvotes": 546,
+        "comments": 24,
+        "media": null,
+        "permalink": "/r/science/comments/1qqhn7y/in_developing_immunity_to_allergens_a_little/"
+    },
+    {
         "id": "1qqd3y2",
         "author": "sr_local",
         "title": "Transcranial magnetic stimulation (TMS) can be a cost-effective treatment option in treating moderate and severe forms of depression that have not responded to other treatments",
         "content": "",
-        "upvotes": 866,
-        "comments": 116,
+        "upvotes": 878,
+        "comments": 128,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/7ujroTcLtkF0FYv_i72GsJw3VqQwjXo9X1mDsXFy9FA.jpeg?auto=webp&amp;s=b861059fd585cab2a533640bb26956ba6cf80856"
@@ -95,35 +161,22 @@
         "permalink": "/r/science/comments/1qqd3y2/transcranial_magnetic_stimulation_tms_can_be_a/"
     },
     {
-        "id": "1qqhn7y",
-        "author": "fchung",
-        "title": "In developing immunity to allergens, a little \u2018dirty\u2019 goes a long way: \u00ab New Yale research finds that microbe-diverse environments build protective immune memory that helps prevent allergies. \u00bb",
+        "id": "1qr5l78",
+        "author": "GutBitesMD",
+        "title": "Oral microbiome shaped by both human genetics and bacterial gene variation, with implications for caries and dentures",
         "content": "",
-        "upvotes": 522,
-        "comments": 23,
+        "upvotes": 16,
+        "comments": 2,
         "media": null,
-        "permalink": "/r/science/comments/1qqhn7y/in_developing_immunity_to_allergens_a_little/"
-    },
-    {
-        "id": "1qq5lqo",
-        "author": "mvea",
-        "title": "Narcissism shows surprisingly consistent patterns across 53 countries, study finds. The findings suggest that younger adults, men, and individuals who perceive themselves as having high social status tend to display higher levels of narcissistic traits, regardless of their cultural background.",
-        "content": "",
-        "upvotes": 1275,
-        "comments": 97,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/jy-EDLF1YgUEgIQYmo4r43Q_x1cplJjWpxC5Yet7EBQ.jpeg?auto=webp&amp;s=b954293065493ff372559c4e676fba65b5296121"
-        },
-        "permalink": "/r/science/comments/1qq5lqo/narcissism_shows_surprisingly_consistent_patterns/"
+        "permalink": "/r/science/comments/1qr5l78/oral_microbiome_shaped_by_both_human_genetics_and/"
     },
     {
         "id": "1qqganh",
         "author": "NGNResearch",
         "title": "Aquanauts who live and work underwater experience a similar cognitive shift as the one astronauts experience when they first see Earth from space, research finds.",
         "content": "",
-        "upvotes": 302,
-        "comments": 10,
+        "upvotes": 383,
+        "comments": 11,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/zJY-EXV3gns3adsiF0Ed1J9tmi9nYTW4T1oBmBCHznU.jpeg?auto=webp&amp;s=7217e20649519df3de13c2a86bd934d0d1123d8e"
@@ -131,11 +184,24 @@
         "permalink": "/r/science/comments/1qqganh/aquanauts_who_live_and_work_underwater_experience/"
     },
     {
+        "id": "1qq5lqo",
+        "author": "mvea",
+        "title": "Narcissism shows surprisingly consistent patterns across 53 countries, study finds. The findings suggest that younger adults, men, and individuals who perceive themselves as having high social status tend to display higher levels of narcissistic traits, regardless of their cultural background.",
+        "content": "",
+        "upvotes": 1381,
+        "comments": 100,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/jy-EDLF1YgUEgIQYmo4r43Q_x1cplJjWpxC5Yet7EBQ.jpeg?auto=webp&amp;s=b954293065493ff372559c4e676fba65b5296121"
+        },
+        "permalink": "/r/science/comments/1qq5lqo/narcissism_shows_surprisingly_consistent_patterns/"
+    },
+    {
         "id": "1qqnkoy",
         "author": "Hrmbee",
         "title": "Research on ice fishing shows social density increases likelihood of sticking with a location when foraging. Environmental factors had little influence | High-precision tracking of human foragers reveals adaptive social information use in the wild",
         "content": "",
-        "upvotes": 129,
+        "upvotes": 151,
         "comments": 8,
         "media": {
             "type": "image",
@@ -148,8 +214,8 @@
         "author": "RhiannaSmithSci",
         "title": "Autism is linked to hundreds of different genes, yet many autistic people share similar features. Now, researchers at UCLA and Stanford University report that distinct autism-linked mutations begin to converge on common biological pathways during early brain development.",
         "content": "",
-        "upvotes": 1424,
-        "comments": 147,
+        "upvotes": 1541,
+        "comments": 156,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/KJWWbSRxL4TTZi79K5Xvi99ar6js8OT-4z2vwL10d6Y.jpeg?auto=webp&amp;s=11da2bd8b4336473a95cb62a8693cce371fe0baf"
@@ -157,12 +223,22 @@
         "permalink": "/r/science/comments/1qq3pc2/autism_is_linked_to_hundreds_of_different_genes/"
     },
     {
+        "id": "1qr0n3l",
+        "author": "azonetwork",
+        "title": "Radar Technique Improves Contact-Free Detection of Heartbeat and Breathing in Cluttered Environments",
+        "content": "",
+        "upvotes": 15,
+        "comments": 3,
+        "media": null,
+        "permalink": "/r/science/comments/1qr0n3l/radar_technique_improves_contactfree_detection_of/"
+    },
+    {
         "id": "1qpsuuv",
         "author": "Hrmbee",
         "title": "New study suggests Terry Pratchett\u2019s novels may have held clues to his dementia a decade before diagnosis | Detecting Dementia Using Lexical Analysis: Terry Pratchett\u2019s Discworld Tells a More Personal Story",
         "content": "",
-        "upvotes": 5575,
-        "comments": 358,
+        "upvotes": 5663,
+        "comments": 365,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/tJiw-As7xb3UGLKHcxzQSbuEd4Of07_VSGy3Z4JzC4Q.jpeg?auto=webp&amp;s=3ad9b00b8a87b1f6543c1cb563a70c8fe1c99155"
@@ -174,27 +250,17 @@
         "author": "smurfyjenkins",
         "title": "Racial residential segregation leads to more non-white homicides \u2013 Segregation, historically enabled by discriminatory government policies, depletes the local tax base, leading to urban decay and higher crime, resulting in the loss of non-White lives.",
         "content": "",
-        "upvotes": 248,
-        "comments": 35,
+        "upvotes": 256,
+        "comments": 36,
         "media": null,
         "permalink": "/r/science/comments/1qqdgsu/racial_residential_segregation_leads_to_more/"
-    },
-    {
-        "id": "1qr0jz0",
-        "author": "Wagamaga",
-        "title": "A new machine learning tool has identified more than 250,000 cancer research papers that may have been produced by so-called \u201cpaper mills\u201d. Selling authorships and entire ready-made research papers, paper mills often use recycled text, awkward phrasing or fabricated data and images.",
-        "content": "",
-        "upvotes": 13,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/science/comments/1qr0jz0/a_new_machine_learning_tool_has_identified_more/"
     },
     {
         "id": "1qqmm35",
         "author": "USCDornsifeNews",
         "title": "One of Earth\u2019s most abundant organisms is surprisingly fragile",
         "content": "",
-        "upvotes": 76,
+        "upvotes": 84,
         "comments": 3,
         "media": {
             "type": "image",
@@ -207,8 +273,8 @@
         "author": "Sciantifa",
         "title": "Long-term follow-up of the ASPREE trial finds that daily low-dose aspirin started after age 70 does not reduce overall cancer incidence and is associated with higher cancer-related mortality, challenging earlier evidence of cancer prevention benefits seen in middle-aged adults.",
         "content": "",
-        "upvotes": 82,
-        "comments": 11,
+        "upvotes": 89,
+        "comments": 10,
         "media": null,
         "permalink": "/r/science/comments/1qqkc4l/longterm_followup_of_the_aspree_trial_finds_that/"
     },
@@ -217,8 +283,8 @@
         "author": "scientificamerican",
         "title": "A study of more than 320,000 people found that night owls are more likely to engage in behaviors that increase the risk of cardiovascular disease such as smoking and sleeping poorly.",
         "content": "",
-        "upvotes": 5853,
-        "comments": 332,
+        "upvotes": 5922,
+        "comments": 353,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/PgyFzmCxJ6OMcBsbAo50Cam0XahmeYoVlf52BuSVmk0.jpeg?auto=webp&amp;s=ace3cc3a6717f399f3c527de4fe772c4dceeed61"
@@ -230,7 +296,7 @@
         "author": "bluish1997",
         "title": "Xanthomonas coordinates type III\u2013type II effector synergy by activating fruit-ripening pathway - Science",
         "content": "",
-        "upvotes": 10,
+        "upvotes": 13,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1qqua0j/xanthomonas_coordinates_type_iiitype_ii_effector/"
@@ -240,7 +306,7 @@
         "author": "circadianclocks",
         "title": "A study of 4.5 years of prescription records from 12,000 adults with depression finds that higher genetic risk for bipolar disorder, ADHD, neuroticism, and depression creates a more difficult-to-treat form of depression",
         "content": "",
-        "upvotes": 847,
+        "upvotes": 861,
         "comments": 48,
         "media": null,
         "permalink": "/r/science/comments/1qpvl9l/a_study_of_45_years_of_prescription_records_from/"
@@ -250,7 +316,7 @@
         "author": "GutBitesMD",
         "title": "Microbiota utilization of intestinal amino acids modulates cancer progression and anticancer immunity",
         "content": "",
-        "upvotes": 19,
+        "upvotes": 27,
         "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1qqiol6/microbiota_utilization_of_intestinal_amino_acids/"
@@ -260,8 +326,8 @@
         "author": "ID2691",
         "title": "A recent randomized clinical trial found that autistic adults who participated in mindfulness-based stress reduction (MBSR) experienced significantly greater reductions in perceived stress, anxiety and depression compared to those receiving treatment as usual.",
         "content": "",
-        "upvotes": 855,
-        "comments": 122,
+        "upvotes": 876,
+        "comments": 130,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/KzDNicxYrTkkkc1mM00t2aEviv3lWHDZTedbsr7XlP0.jpeg?auto=webp&amp;s=e1f318ce2888646c00544582c1472672c4e9328c"
@@ -273,75 +339,12 @@
         "author": "GiveMeSomeSunshine3",
         "title": "The Barbacid group in the CNIO eliminates pancreatic tumors in mice completely and without the appearance of resistance",
         "content": "",
-        "upvotes": 142,
+        "upvotes": 149,
         "comments": 5,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/NdwHooz3XjyY8-fta7K1AmiAXr80Cb6e1pmOTC_Hx40.jpeg?auto=webp&amp;s=531ce72b5735a2fbc283095a662bbe2ac404013f"
         },
         "permalink": "/r/science/comments/1qq1vwh/the_barbacid_group_in_the_cnio_eliminates/"
-    },
-    {
-        "id": "1qr0n3l",
-        "author": "azonetwork",
-        "title": "Radar Technique Improves Contact-Free Detection of Heartbeat and Breathing in Cluttered Environments",
-        "content": "",
-        "upvotes": 1,
-        "comments": 3,
-        "media": null,
-        "permalink": "/r/science/comments/1qr0n3l/radar_technique_improves_contactfree_detection_of/"
-    },
-    {
-        "id": "1qqa50q",
-        "author": "MassGen-Research",
-        "title": "Parental Firearm Injury Linked to Increased Mental Health Burden in Children",
-        "content": "",
-        "upvotes": 21,
-        "comments": 3,
-        "media": null,
-        "permalink": "/r/science/comments/1qqa50q/parental_firearm_injury_linked_to_increased/"
-    },
-    {
-        "id": "1qp8esp",
-        "author": "mvea",
-        "title": "Men\u2019s heart attack risk climbs by mid-30s, years before women. Decades-long U.S. study suggests prevention and screening should start earlier in adulthood, particularly for men. Risk started diverging around age 35.",
-        "content": "",
-        "upvotes": 3412,
-        "comments": 353,
-        "media": null,
-        "permalink": "/r/science/comments/1qp8esp/mens_heart_attack_risk_climbs_by_mid30s_years/"
-    },
-    {
-        "id": "1qptae2",
-        "author": "TylerFortier_Photo",
-        "title": "Clinical Trial of Early Morning Shift Workers Shows Promise of New Drug for Reducing Excessive Sleepiness",
-        "content": "",
-        "upvotes": 242,
-        "comments": 98,
-        "media": null,
-        "permalink": "/r/science/comments/1qptae2/clinical_trial_of_early_morning_shift_workers/"
-    },
-    {
-        "id": "1qpw1rm",
-        "author": "unsw",
-        "title": "In households where both partners work from home, couples experienced heightened frustration and relationship conflict if work intruded on family time, compared to households where only one partner works from home",
-        "content": "",
-        "upvotes": 167,
-        "comments": 5,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/QjNnbKEuUZlBQAvTe1VUoX3Q5fhquweq5zgsJmKQYRY.jpeg?auto=webp&amp;s=5abbf65bfa86af79a5e53f990540c862a8d99219"
-        },
-        "permalink": "/r/science/comments/1qpw1rm/in_households_where_both_partners_work_from_home/"
-    },
-    {
-        "id": "1qpay0f",
-        "author": "Tracheid",
-        "title": "A study on sexual decision-making finds a gap between knowledge and practice: while young men can define consent as \"explicit and ongoing,\" they struggle to apply this in reality, preferring to navigate encounters through reciprocated physical cues, trust, and emotional intimacy.",
-        "content": "",
-        "upvotes": 1797,
-        "comments": 661,
-        "media": null,
-        "permalink": "/r/science/comments/1qpay0f/a_study_on_sexual_decisionmaking_finds_a_gap/"
     }
 ]
