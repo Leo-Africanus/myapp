@@ -1,30 +1,30 @@
 [
     {
-        "id": "1qsfvfz",
-        "author": "Sciantifa",
-        "title": "Nearly half of the world\u2019s population\u2014about 3.79 billion people\u2014is projected to face extreme heat by 2050 if global warming reaches 2.0 \u00b0C above pre-industrial levels, a scenario climate scientists see as increasingly likely as the world surpasses the 1.5 \u00b0C Paris Agreement threshold.",
-        "content": "",
-        "upvotes": 2314,
-        "comments": 197,
-        "media": null,
-        "permalink": "/r/science/comments/1qsfvfz/nearly_half_of_the_worlds_populationabout_379/"
-    },
-    {
         "id": "1qsiqj1",
         "author": "Sciantifa",
         "title": "COVID-19 did not simply bring forward inevitable deaths as an analysis of mortality data from 34 high-income countries shows a sustained rise in excess deaths years after the pandemic, challenging the mortality displacement hypothesis.",
         "content": "",
-        "upvotes": 1573,
-        "comments": 84,
+        "upvotes": 1690,
+        "comments": 95,
         "media": null,
         "permalink": "/r/science/comments/1qsiqj1/covid19_did_not_simply_bring_forward_inevitable/"
+    },
+    {
+        "id": "1qsfvfz",
+        "author": "Sciantifa",
+        "title": "Nearly half of the world\u2019s population\u2014about 3.79 billion people\u2014is projected to face extreme heat by 2050 if global warming reaches 2.0 \u00b0C above pre-industrial levels, a scenario climate scientists see as increasingly likely as the world surpasses the 1.5 \u00b0C Paris Agreement threshold.",
+        "content": "",
+        "upvotes": 2380,
+        "comments": 202,
+        "media": null,
+        "permalink": "/r/science/comments/1qsfvfz/nearly_half_of_the_worlds_populationabout_379/"
     },
     {
         "id": "1qsdmt9",
         "author": "mvea",
         "title": "Long-term antidepressant effects of psilocybin linked to functional brain changes - a single dose of psilocybin altered the electrical properties of brain cells in rats for months, even after physical changes to the neurons had disappeared.",
         "content": "",
-        "upvotes": 1327,
+        "upvotes": 1345,
         "comments": 45,
         "media": null,
         "permalink": "/r/science/comments/1qsdmt9/longterm_antidepressant_effects_of_psilocybin/"
@@ -34,7 +34,7 @@
         "author": "mvea",
         "title": "Girls are happier than boys at school, new research shows. Understanding why may all boil down to biology. Girls get more of the happy hormone dopamine through social relationships, including with their friends and classmates. Boys get their dopamine through more self-involved behavior.",
         "content": "",
-        "upvotes": 7111,
+        "upvotes": 7126,
         "comments": 814,
         "media": {
             "type": "image",
@@ -47,7 +47,7 @@
         "author": "NoParsleyForYou",
         "title": "New study explains why cancer patients rarely get Alzheimer\u2019s: Tumors secrete a protein (Cystatin C) that crosses the blood-brain barrier and dissolves amyloid plaques.",
         "content": "",
-        "upvotes": 3015,
+        "upvotes": 3036,
         "comments": 90,
         "media": null,
         "permalink": "/r/science/comments/1qs0o5y/new_study_explains_why_cancer_patients_rarely_get/"
@@ -57,8 +57,8 @@
         "author": "smurfyjenkins",
         "title": "Data across thousands of economics seminars, job market talks, and conference presentations show that women are interrupted more than men (even when controlling for relevant characteristics). Negative interruptions and interruptions that cut off the presenter mid-sentence are higher for women.",
         "content": "",
-        "upvotes": 755,
-        "comments": 57,
+        "upvotes": 757,
+        "comments": 58,
         "media": null,
         "permalink": "/r/science/comments/1qs8lt0/data_across_thousands_of_economics_seminars_job/"
     },
@@ -67,17 +67,27 @@
         "author": "Tracheid",
         "title": "Researchers argue that current mechanisms of control in AI and Big Tech bear striking resemblances to historical fascism. The authors propose the term \"technofascism\" to describe how digital governance is intersecting with rising Western authoritarianism.",
         "content": "",
-        "upvotes": 2723,
+        "upvotes": 2734,
         "comments": 59,
         "media": null,
         "permalink": "/r/science/comments/1qrwzuy/researchers_argue_that_current_mechanisms_of/"
+    },
+    {
+        "id": "1qst6l0",
+        "author": "Ok-Lobster7773",
+        "title": "How U.S. Funding Instability and Immigration Policy are Driving a Systematic 'Brain Drain' of International STEM Talent.",
+        "content": "",
+        "upvotes": 29,
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/science/comments/1qst6l0/how_us_funding_instability_and_immigration_policy/"
     },
     {
         "id": "1qrl2wh",
         "author": "mvea",
         "title": "Americans threatened by Trump administration policies appear to be experiencing urges to acquire firearms, carry them, and store them readily accessible. Identifying as Black and liberal beliefs were associated with greater increases in urges to carry firearms because of the 2024 election results.",
         "content": "",
-        "upvotes": 28508,
+        "upvotes": 28513,
         "comments": 2025,
         "media": null,
         "permalink": "/r/science/comments/1qrl2wh/americans_threatened_by_trump_administration/"
@@ -87,7 +97,7 @@
         "author": "sometimeshiny",
         "title": "Chronic stress causes progressive bone loss through sustained glucocorticoid (cortisol) receptor signaling. Effects worsen with prolonged exposure and show limited recovery.",
         "content": "",
-        "upvotes": 392,
+        "upvotes": 391,
         "comments": 9,
         "media": {
             "type": "image",
@@ -100,7 +110,7 @@
         "author": "Wagamaga",
         "title": "Research has verified the first Mediterranean mass grave of the world\u2019s earliest recorded pandemic, providing stark new details about the plague of Justinian that killed millions of people in the Byzantine empire between the sixth and eighth centuries.",
         "content": "",
-        "upvotes": 649,
+        "upvotes": 660,
         "comments": 14,
         "media": {
             "type": "image",
@@ -113,7 +123,7 @@
         "author": "Sciantifa",
         "title": "Laws limiting firearm access for people in acute distress are linked to fewer suicides. \u201cRed flag\u201d laws reduced firearm suicides by 3.79 per 100,000, preventing an estimated 675 deaths across four states in the year following adoption.",
         "content": "",
-        "upvotes": 302,
+        "upvotes": 303,
         "comments": 115,
         "media": null,
         "permalink": "/r/science/comments/1qs5msk/laws_limiting_firearm_access_for_people_in_acute/"
@@ -123,7 +133,7 @@
         "author": "sometimeshiny",
         "title": "Ingested micro and nanoplastics may promote neurodegeneration by disrupting the microbiota\u2013gut\u2013brain axis and increasing systemic inflammation, oxidative stress, and epigenetic dysregulation, a review suggests",
         "content": "",
-        "upvotes": 1826,
+        "upvotes": 1832,
         "comments": 83,
         "media": {
             "type": "image",
@@ -136,7 +146,7 @@
         "author": "sr_local",
         "title": "Elevated lead levels in the blood during childhood (0 to 12 years) were linked with increased depressive symptoms in adolescence",
         "content": "",
-        "upvotes": 99,
+        "upvotes": 100,
         "comments": 4,
         "media": {
             "type": "image",
@@ -149,13 +159,26 @@
         "author": "cindyx7102",
         "title": "The anti\u2010inflammatory and antioxidant properties of dietary polyphenols may mediate protective effects through modulation of gut microbiota, enhancement of intestinal barrier function, and regulation of immune responses, study finds",
         "content": "",
-        "upvotes": 193,
+        "upvotes": 194,
         "comments": 8,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/eFMa-V1uKt_0fEaeLyZatpb8QwmDWeu0cd35rQ-BtGk.jpeg?auto=webp&amp;s=3ccfb02ee1a9d392e35707ff6b7cfc25262c0542"
         },
         "permalink": "/r/science/comments/1qs16lf/the_antiinflammatory_and_antioxidant_properties/"
+    },
+    {
+        "id": "1qst8l0",
+        "author": "ShapeApprehensive937",
+        "title": "Chemical modulation of gut bacterial metabolism induces colanic acid and extends the lifespan of nematode and mammalian hosts",
+        "content": "",
+        "upvotes": 2,
+        "comments": 1,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/21T7qBY7KFq99Lii-vkwoG3sdx9xiZq3mAYGsWAmzuc.png?auto=webp&amp;s=f85dfc81684920b1319a0dd695d6a09de52827a1"
+        },
+        "permalink": "/r/science/comments/1qst8l0/chemical_modulation_of_gut_bacterial_metabolism/"
     },
     {
         "id": "1qse1ki",
@@ -172,7 +195,7 @@
         "author": "Tracheid",
         "title": "Analysis of family stability across 83 nations finds that the type of economic collapse matters. Banking and currency crises predict short-to-medium term increases in divorce, whereas national debt crises are linked to reduced divorce rates, even after controlling for development and inequality.",
         "content": "",
-        "upvotes": 53,
+        "upvotes": 54,
         "comments": 3,
         "media": null,
         "permalink": "/r/science/comments/1qs28jh/analysis_of_family_stability_across_83_nations/"
@@ -182,7 +205,7 @@
         "author": "vfvaetf",
         "title": "NASA Researchers Probe Tangled Magnetospheres of Merging Neutron Stars",
         "content": "",
-        "upvotes": 19,
+        "upvotes": 21,
         "comments": 1,
         "media": {
             "type": "image",
@@ -195,7 +218,7 @@
         "author": "Wagamaga",
         "title": "A new machine learning tool has identified more than 250,000 cancer research papers that may have been produced by so-called \u201cpaper mills\u201d. Selling authorships and entire ready-made research papers, paper mills often use recycled text, awkward phrasing or fabricated data and images.",
         "content": "",
-        "upvotes": 4861,
+        "upvotes": 4872,
         "comments": 144,
         "media": null,
         "permalink": "/r/science/comments/1qr0jz0/a_new_machine_learning_tool_has_identified_more/"
@@ -205,7 +228,7 @@
         "author": "Tracheid",
         "title": "Research indicates that Human Astrovirus, often considered a mild pathogen, is a significant cause of diarrhea in immunocompromised children (detected in 9.8% of pediatric oncology patients), while typically presenting as asymptomatic in healthy children.",
         "content": "",
-        "upvotes": 27,
+        "upvotes": 28,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1qs1y8g/research_indicates_that_human_astrovirus_often/"
@@ -215,7 +238,7 @@
         "author": "MassGen-Research",
         "title": "Study finds fNIRS portable brain scanners can accurately detect cannabis (THC) resting state impairment",
         "content": "",
-        "upvotes": 707,
+        "upvotes": 708,
         "comments": 109,
         "media": null,
         "permalink": "/r/science/comments/1qrf42l/study_finds_fnirs_portable_brain_scanners_can/"
@@ -225,7 +248,7 @@
         "author": "Sciantifa",
         "title": "Researchers in South Korea have developed a new electrode capable of capturing carbon dioxide directly from exhaust gases and converting it into formic acid in a single step, an advancement that could simplify industrial carbon recycling.",
         "content": "",
-        "upvotes": 385,
+        "upvotes": 388,
         "comments": 12,
         "media": null,
         "permalink": "/r/science/comments/1qrk24i/researchers_in_south_korea_have_developed_a_new/"
@@ -235,7 +258,7 @@
         "author": "OhMyOhWhyOh",
         "title": "Clinical Trial: CBD Not Associated With Liver Abnormalities",
         "content": "",
-        "upvotes": 91,
+        "upvotes": 92,
         "comments": 2,
         "media": {
             "type": "image",
@@ -248,7 +271,7 @@
         "author": "mvea",
         "title": "A dream-like psychedelic might help traumatized veterans reset their brains - Researchers found that soldiers who reported profound feelings of unity and sacredness while taking ibogaine experienced lasting relief from post-traumatic stress disorder.",
         "content": "",
-        "upvotes": 1376,
+        "upvotes": 1364,
         "comments": 98,
         "media": {
             "type": "image",
@@ -261,7 +284,7 @@
         "author": "ShapeApprehensive937",
         "title": "Criterion Validity, Scalability and Stability of Scoring on the Bayley-III in Children With Angelman Syndrome",
         "content": "",
-        "upvotes": 5,
+        "upvotes": 4,
         "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1qsb3hj/criterion_validity_scalability_and_stability_of/"
@@ -284,7 +307,7 @@
         "author": "Super_Letterhead381",
         "title": "Mapping brain growth and sex differences across prenatal to postnatal development",
         "content": "",
-        "upvotes": 18,
+        "upvotes": 21,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1qrvep9/mapping_brain_growth_and_sex_differences_across/"
@@ -294,7 +317,7 @@
         "author": "OhMyOhWhyOh",
         "title": "Study: Marijuana Access Associated With \u201cStriking\u201d Decline in Daily Opioid Use by IV Drug Consumers",
         "content": "",
-        "upvotes": 15279,
+        "upvotes": 15286,
         "comments": 457,
         "media": {
             "type": "image",
@@ -307,29 +330,9 @@
         "author": "mvea",
         "title": "Swarms of AI personas mimic humans so well they can infiltrate online communities, shape conversations and tilt elections. Early warning signs include AI-generated deepfakes and fabricated news outlets that influenced recent election debates. AI swarms could tilt the balance of power in democracies.",
         "content": "",
-        "upvotes": 8980,
+        "upvotes": 8987,
         "comments": 404,
         "media": null,
         "permalink": "/r/science/comments/1qqjwz8/swarms_of_ai_personas_mimic_humans_so_well_they/"
-    },
-    {
-        "id": "1qrdgdm",
-        "author": "Dr_Neurol",
-        "title": "Prenatal maternal depression affects an estimated one in five women. A study showed that children exposed to prenatal maternal depression on average have six to ten percentile points more internalising, externalising, ADHD and autism spectrum disorder symptoms than unexposed children.",
-        "content": "",
-        "upvotes": 85,
-        "comments": 6,
-        "media": null,
-        "permalink": "/r/science/comments/1qrdgdm/prenatal_maternal_depression_affects_an_estimated/"
-    },
-    {
-        "id": "1qr4q43",
-        "author": "MistWeaver80",
-        "title": "Early humans in central China may have been making sophisticated stone tools as early as 160,000 years ago, according to research in Nature Communications.",
-        "content": "",
-        "upvotes": 146,
-        "comments": 21,
-        "media": null,
-        "permalink": "/r/science/comments/1qr4q43/early_humans_in_central_china_may_have_been/"
     }
 ]
