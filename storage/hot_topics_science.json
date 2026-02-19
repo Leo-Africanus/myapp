@@ -4,8 +4,8 @@
         "author": "smurfyjenkins",
         "title": "Fifty years ago, Republicans exhibited more relative trust in scientists than Democrats did. The partisan relationship with trust in scientists flipped over time as low-trusting demographic strata (the non-college educated and highly religious) shifted towards the Republican Party.",
         "content": "",
-        "upvotes": 9280,
-        "comments": 275,
+        "upvotes": 9443,
+        "comments": 287,
         "media": null,
         "permalink": "/r/science/comments/1r8hsih/fifty_years_ago_republicans_exhibited_more/"
     },
@@ -14,8 +14,8 @@
         "author": "InsaneSnow45",
         "title": "High IQ men tend to be less conservative than their average peers. Researchers found that adults identified as gifted in childhood largely share the same political outlooks as their non-gifted peers, with one specific exception regarding conservatism in men.",
         "content": "",
-        "upvotes": 17896,
-        "comments": 1098,
+        "upvotes": 17981,
+        "comments": 1102,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/8gR1KMcswiMxhiP3BNNMDifjPjUKM7BtD-442slmLLc.jpeg?auto=webp&amp;s=422b3753b41984b7513787c22734157f0e0f25ef"
@@ -27,8 +27,8 @@
         "author": "unsw",
         "title": "People are overconfident in their ability to distinguish between real faces and AI-generated faces. Study shows that AI technology has improved to a point where the most realistic outputs no longer show obvious flaws and it is harder to identify AI images from reality with cues that used to work",
         "content": "",
-        "upvotes": 770,
-        "comments": 104,
+        "upvotes": 790,
+        "comments": 106,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/IsBwxB0QHYcB1iyzEl673gMuNP68cUaPMie2MVoAnMs.jpeg?auto=webp&amp;s=5e40f988bd598edf149cc014d9f13ecf363da22f"
@@ -40,17 +40,27 @@
         "author": "sometimeshiny",
         "title": "Children carrying the Huntington\u2019s gene mutation show increased cortical volume and superior cognitive performance early in life. The enlarged cortical regions have dense glutamatergic projections to the striatum, which later shows accelerated degeneration preceding clinical disease.",
         "content": "",
-        "upvotes": 634,
-        "comments": 24,
+        "upvotes": 645,
+        "comments": 25,
         "media": null,
         "permalink": "/r/science/comments/1r8mhpo/children_carrying_the_huntingtons_gene_mutation/"
+    },
+    {
+        "id": "1r8typ9",
+        "author": "Wagamaga",
+        "title": "The algorithmic feed on X could be shifting political views toward conservatism. Research found accounts using the 'For You' feed saw more change toward conservative political opinions and priorities, particularly around policy, criminal investigations into Donald Trump and the war in Ukraine",
+        "content": "",
+        "upvotes": 142,
+        "comments": 42,
+        "media": null,
+        "permalink": "/r/science/comments/1r8typ9/the_algorithmic_feed_on_x_could_be_shifting/"
     },
     {
         "id": "1r85gm3",
         "author": "CUAnschutzMed",
         "title": "Extreme endurance running damages red blood cells in ways that may affect their ability to function properly, according to a study published in the American Society of Hematology\u2019s journal Blood Red Cells &amp; Iron.",
         "content": "",
-        "upvotes": 3094,
+        "upvotes": 3097,
         "comments": 121,
         "media": {
             "type": "image",
@@ -63,31 +73,18 @@
         "author": "GeoGeoGeoGeo",
         "title": "Study shows that Earth lies within a narrow \u201cGoldilocks zone\u201d that allows both nitrogen and phosphorus to be present with the right abundances in the mantle. More oxidized or reduced exoplanets may lock these elements in their cores, limiting habitability.",
         "content": "",
-        "upvotes": 102,
-        "comments": 16,
+        "upvotes": 121,
+        "comments": 18,
         "media": null,
         "permalink": "/r/science/comments/1r8smf0/study_shows_that_earth_lies_within_a_narrow/"
-    },
-    {
-        "id": "1r7zuyg",
-        "author": "mvea",
-        "title": "ADHD is frequently stereotyped as a condition affecting school-aged children. A new study indicates that symptoms of inattention are linked to lower cognitive performance on memory and mental processing tasks in older adults, regardless of whether an individual is in their late 50s or early 80s.",
-        "content": "",
-        "upvotes": 3838,
-        "comments": 345,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/uC-8CVB9upqHSM-ZnDLE1sfl_GvViU0oyvOoeN6B_Q4.jpeg?auto=webp&amp;s=e2e39aa7ca1de4e487e3b19d24781bc0f10716a8"
-        },
-        "permalink": "/r/science/comments/1r7zuyg/adhd_is_frequently_stereotyped_as_a_condition/"
     },
     {
         "id": "1r8loo9",
         "author": "icey_sawg0034",
         "title": "Video games may offer small attention benefits for children with ADHD",
         "content": "",
-        "upvotes": 256,
-        "comments": 17,
+        "upvotes": 264,
+        "comments": 19,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/mkk2ynsUscpkGTAGilKGE-GhV53mEyMboCGuulsmL1w.jpeg?auto=webp&amp;s=1a60d5eb4fce17371dad735075d87b4eff41d252"
@@ -95,11 +92,24 @@
         "permalink": "/r/science/comments/1r8loo9/video_games_may_offer_small_attention_benefits/"
     },
     {
+        "id": "1r7zuyg",
+        "author": "mvea",
+        "title": "ADHD is frequently stereotyped as a condition affecting school-aged children. A new study indicates that symptoms of inattention are linked to lower cognitive performance on memory and mental processing tasks in older adults, regardless of whether an individual is in their late 50s or early 80s.",
+        "content": "",
+        "upvotes": 3863,
+        "comments": 346,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/uC-8CVB9upqHSM-ZnDLE1sfl_GvViU0oyvOoeN6B_Q4.jpeg?auto=webp&amp;s=e2e39aa7ca1de4e487e3b19d24781bc0f10716a8"
+        },
+        "permalink": "/r/science/comments/1r7zuyg/adhd_is_frequently_stereotyped_as_a_condition/"
+    },
+    {
         "id": "1r8fkee",
         "author": "SteRoPo",
         "title": "Dogs like Pugs and French Bulldogs have been bred to have \"smushed\" faces. But this trait, called brachycephaly, makes breathing difficult and worsens health. Veterinarians assessed 14 different dog breeds for their risk of breathing problems associated with the trait.",
         "content": "",
-        "upvotes": 344,
+        "upvotes": 338,
         "comments": 25,
         "media": null,
         "permalink": "/r/science/comments/1r8fkee/dogs_like_pugs_and_french_bulldogs_have_been_bred/"
@@ -109,7 +119,7 @@
         "author": "Hrmbee",
         "title": "Deep-sea fish discovered to have novel visual system | Deep-sea fish reveal an alternative developmental trajectory for vertebrate vision",
         "content": "",
-        "upvotes": 309,
+        "upvotes": 316,
         "comments": 2,
         "media": {
             "type": "image",
@@ -122,7 +132,7 @@
         "author": "mvea",
         "title": "New study suggests that reframing depression as a sign of strength, rather than weakness, boosts self-confidence and tangible goal progress. Better acknowledging one\u2019s strength in the face of depression can help. Don\u2019t overlook the strength it often takes to deal with depression.",
         "content": "",
-        "upvotes": 2178,
+        "upvotes": 2183,
         "comments": 133,
         "media": {
             "type": "image",
@@ -135,7 +145,7 @@
         "author": "sr_local",
         "title": "Brainwaves of mothers and children synchronize when playing together \u2013 even in an acquired language",
         "content": "",
-        "upvotes": 535,
+        "upvotes": 536,
         "comments": 9,
         "media": {
             "type": "image",
@@ -148,7 +158,7 @@
         "author": "mvea",
         "title": "Following the 2024 presidential election, fewer gun owners reported possessing firearms to advance political objectives. However, a growing number of owners, particularly Republicans, cited the need for protection at political rallies and protests as a primary reason for owning a gun.",
         "content": "",
-        "upvotes": 225,
+        "upvotes": 224,
         "comments": 121,
         "media": {
             "type": "image",
@@ -161,28 +171,18 @@
         "author": "Creative_soja",
         "title": "Climate change is worsensing synchronous extreme fire weather. When extreme wildfires happen simultaneously across multiple regions, inter-regional coordination becomes difficult because firefighting resources are overstretched.",
         "content": "",
-        "upvotes": 72,
+        "upvotes": 71,
         "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1r8mbv9/climate_change_is_worsensing_synchronous_extreme/"
-    },
-    {
-        "id": "1r8typ9",
-        "author": "Wagamaga",
-        "title": "The algorithmic feed on X could be shifting political views toward conservatism. Research found accounts using the 'For You' feed saw more change toward conservative political opinions and priorities, particularly around policy, criminal investigations into Donald Trump and the war in Ukraine",
-        "content": "",
-        "upvotes": 25,
-        "comments": 7,
-        "media": null,
-        "permalink": "/r/science/comments/1r8typ9/the_algorithmic_feed_on_x_could_be_shifting/"
     },
     {
         "id": "1r7h4hr",
         "author": "mvea",
         "title": "Trump support in 2024 linked to White Americans\u2019 perception of falling to the bottom of the racial hierarchy. These individuals also expressed the strongest opposition to Diversity, Equity, and Inclusion (DEI) initiatives.",
         "content": "",
-        "upvotes": 17911,
-        "comments": 1742,
+        "upvotes": 17921,
+        "comments": 1743,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/foq-b9XvaludYgZOOpBGFHQHqmA6c2QJyjRuwBUQUB8.jpeg?auto=webp&amp;s=c60d1273ea6d09a190672ba25dddbf5c0670dba3"
@@ -194,7 +194,7 @@
         "author": "InsaneSnow45",
         "title": "Scientists have created a three-dimensional \"heart-on-a-chip\" (HOC) that could provide a breakthrough in the fight against the world's leading cause of death, cardiovascular disease.",
         "content": "",
-        "upvotes": 301,
+        "upvotes": 305,
         "comments": 8,
         "media": {
             "type": "image",
@@ -207,7 +207,7 @@
         "author": "sometimeshiny",
         "title": "Toxicant exposure induced germline epigenetic changes that were passed on through 20 generations. These changes were linked to reproductive abnormalities and adult onset disease in rats.",
         "content": "",
-        "upvotes": 53,
+        "upvotes": 54,
         "comments": 6,
         "media": null,
         "permalink": "/r/science/comments/1r8h8x5/toxicant_exposure_induced_germline_epigenetic/"
@@ -217,8 +217,8 @@
         "author": "Tracheid",
         "title": "Theoretical analysis proposes the concept of \"emergent facts\" to describe generative AI outputs, arguing that while these outputs appear coherent and plausible, they remain probabilistic, context-dependent, and epistemically opaque rather than anchored in empirical ground truth",
         "content": "",
-        "upvotes": 106,
-        "comments": 35,
+        "upvotes": 109,
+        "comments": 37,
         "media": null,
         "permalink": "/r/science/comments/1r8ac6r/theoretical_analysis_proposes_the_concept_of/"
     },
@@ -227,7 +227,7 @@
         "author": "scientificamerican",
         "title": "New research on African striped mice found that the caregiving instinct may be rooted in a specific gene",
         "content": "",
-        "upvotes": 57,
+        "upvotes": 58,
         "comments": 3,
         "media": {
             "type": "image",
@@ -240,7 +240,7 @@
         "author": "InsaneSnow45",
         "title": "China Planted So Many Trees Around the Taklamakan Desert It Turned It Into a Carbon Sink. Study suggests the increased vegetation leads to more \u201cevapotranspiration\u201d \u2014 basically, the plants sweat, which can lead to localized cooling and even more rainfall.",
         "content": "",
-        "upvotes": 7218,
+        "upvotes": 7212,
         "comments": 159,
         "media": null,
         "permalink": "/r/science/comments/1r78txo/china_planted_so_many_trees_around_the_taklamakan/"
@@ -263,7 +263,7 @@
         "author": "mvea",
         "title": "Researchers found a strain of bacteria buried under 5000 years of cave ice that is resistant to 10 modern antibiotics. The bacterium also has over 100 genes that are known to be resistance-related. Psychrobacter is known to infect humans and animals, though rarely as it prefers cold environments.",
         "content": "",
-        "upvotes": 9911,
+        "upvotes": 9914,
         "comments": 381,
         "media": {
             "type": "image",
@@ -299,7 +299,7 @@
         "author": "Creative_soja",
         "title": "Amazon rainforest generates US $20 billion worth of rainfall each year. The study estimates that, across the tropics, each square meter of forest contributes about 240 to 300 liters of rainfall. Such estimates could support policy discussions on payments for forest protection.",
         "content": "",
-        "upvotes": 359,
+        "upvotes": 352,
         "comments": 18,
         "media": null,
         "permalink": "/r/science/comments/1r7hn1n/amazon_rainforest_generates_us_20_billion_worth/"
@@ -329,7 +329,7 @@
         "author": "InsaneSnow45",
         "title": "Alcohol drinking habits predict long-term anxiety differently across age groups. Study finds consuming larger amounts of alcohol predicts higher anxiety levels in most adults, drinking more frequently but in smaller amounts is linked to lower anxiety in older populations.",
         "content": "",
-        "upvotes": 436,
+        "upvotes": 444,
         "comments": 41,
         "media": {
             "type": "image",
@@ -342,7 +342,7 @@
         "author": "Sciantifa",
         "title": "Horses need their beauty sleep too: A new study from the University of Helsinki reveals that horses getting more than 30 minutes of REM sleep per night show significantly higher motivation and perseverance in complex learning tasks, while sleep-deprived horses give up much faster on challenges.",
         "content": "",
-        "upvotes": 163,
+        "upvotes": 170,
         "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1r7kfbq/horses_need_their_beauty_sleep_too_a_new_study/"
