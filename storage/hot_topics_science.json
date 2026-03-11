@@ -1,34 +1,11 @@
 [
     {
-        "id": "1rpwcj9",
-        "author": "pubpophealth",
-        "title": "Americans born after 1970 show worsening mortality at younger ages across major causes of death, suggesting the US life expectancy stall may be generational as well as period-driven.",
-        "content": "",
-        "upvotes": 8123,
-        "comments": 423,
-        "media": null,
-        "permalink": "/r/science/comments/1rpwcj9/americans_born_after_1970_show_worsening/"
-    },
-    {
-        "id": "1rpv1zr",
-        "author": "InsaneSnow45",
-        "title": "New analysis shows ideology, not science, drove the global prohibition of psychedelics. Findings suggest that current international drug laws may need to be reevaluated to remove unnecessary barriers to modern medical research.",
-        "content": "",
-        "upvotes": 7568,
-        "comments": 211,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/VEitP5qbxHbWhs5ufKUXb7dNR5LARUpDGz4iiL3AEtc.jpeg?auto=webp&amp;s=dc5d3b473feabd1e6341560c1fdd6dd664c37964"
-        },
-        "permalink": "/r/science/comments/1rpv1zr/new_analysis_shows_ideology_not_science_drove_the/"
-    },
-    {
         "id": "1rqdmyb",
         "author": "mvea",
         "title": "Recreational cannabis laws may displace illegal cannabis markets: US states adopting recreational cannabis laws in addition to medical cannabis laws experienced a 45% relative reduction in average cannabis seizure counts, compared with states that had only medical cannabis laws.",
         "content": "",
-        "upvotes": 589,
-        "comments": 25,
+        "upvotes": 1680,
+        "comments": 73,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/8OwXSonM1gGdOVoZ821z6JNUwdFRJnRjzUpdp47lg-E.jpeg?auto=webp&amp;s=f215e330a18f333026aa430028bb4fb6053c93b1"
@@ -40,28 +17,81 @@
         "author": "mvea",
         "title": "Wegovy may have highest \u2018eye stroke\u2019 and sight loss risk of semaglutide GLP-1 agonists. The risk is almost 5 times higher with Wegovy than it is with Ozempic, and 3 times greater in men than it is in women.",
         "content": "",
-        "upvotes": 567,
-        "comments": 84,
+        "upvotes": 1440,
+        "comments": 118,
         "media": null,
         "permalink": "/r/science/comments/1rqdi9j/wegovy_may_have_highest_eye_stroke_and_sight_loss/"
+    },
+    {
+        "id": "1rpwcj9",
+        "author": "pubpophealth",
+        "title": "Americans born after 1970 show worsening mortality at younger ages across major causes of death, suggesting the US life expectancy stall may be generational as well as period-driven.",
+        "content": "",
+        "upvotes": 9424,
+        "comments": 449,
+        "media": null,
+        "permalink": "/r/science/comments/1rpwcj9/americans_born_after_1970_show_worsening/"
+    },
+    {
+        "id": "1rpv1zr",
+        "author": "InsaneSnow45",
+        "title": "New analysis shows ideology, not science, drove the global prohibition of psychedelics. Findings suggest that current international drug laws may need to be reevaluated to remove unnecessary barriers to modern medical research.",
+        "content": "",
+        "upvotes": 8362,
+        "comments": 218,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/VEitP5qbxHbWhs5ufKUXb7dNR5LARUpDGz4iiL3AEtc.jpeg?auto=webp&amp;s=dc5d3b473feabd1e6341560c1fdd6dd664c37964"
+        },
+        "permalink": "/r/science/comments/1rpv1zr/new_analysis_shows_ideology_not_science_drove_the/"
+    },
+    {
+        "id": "1rqfj3w",
+        "author": "InsaneSnow45",
+        "title": "We Finally Know How Bumblebee Queens Can Survive Underwater For Days. Diapausing bumble bee queens avoid drowning by using underwater respiration, anaerobic metabolism and metabolic depression",
+        "content": "",
+        "upvotes": 428,
+        "comments": 7,
+        "media": null,
+        "permalink": "/r/science/comments/1rqfj3w/we_finally_know_how_bumblebee_queens_can_survive/"
     },
     {
         "id": "1rq2iqp",
         "author": "Sciantifa",
         "title": "Climate change has doubled the time per year that millions face heat so extreme that everyday activities like sweeping are unsafe. A new study shows older adults in some regions now endure unlivable heat for one-third of the year as global warming outpaces human heat regulation.",
         "content": "",
-        "upvotes": 1288,
-        "comments": 70,
+        "upvotes": 1660,
+        "comments": 79,
         "media": null,
         "permalink": "/r/science/comments/1rq2iqp/climate_change_has_doubled_the_time_per_year_that/"
+    },
+    {
+        "id": "1rqepkf",
+        "author": "Sciantifa",
+        "title": "Researchers analyzed 1,737 climate policies across 40 countries to identify what actually works. By filtering out statistical noise, they found 28 \"star players\"\u2014including carbon taxes and massive investment in green tech\u2014that consistently slash emissions and stop wasteful spending.",
+        "content": "",
+        "upvotes": 315,
+        "comments": 4,
+        "media": null,
+        "permalink": "/r/science/comments/1rqepkf/researchers_analyzed_1737_climate_policies_across/"
+    },
+    {
+        "id": "1rqf76u",
+        "author": "Sciantifa",
+        "title": "Pedestrianizing city streets reduces daily noise by 3.1 decibels, a new study of Barcelona\u2019s \"green axes\" shows. Data from acoustic sensors prove that fears of noisy crowds replacing car noise are unfounded, as residents on these calmer streets now use their balconies more often.",
+        "content": "",
+        "upvotes": 218,
+        "comments": 9,
+        "media": null,
+        "permalink": "/r/science/comments/1rqf76u/pedestrianizing_city_streets_reduces_daily_noise/"
     },
     {
         "id": "1rpwlah",
         "author": "Tracheid",
         "title": "People with psychopathic traits don\u2019t lack fear\u2014they actually enjoy it. The findings lend support to the emerging Fear Enjoyment Hypothesis, which proposes that psychopathy is characterized not by an absence of fear, but by an atypical emotional interpretation of fear-related arousal.",
         "content": "",
-        "upvotes": 1253,
-        "comments": 148,
+        "upvotes": 1483,
+        "comments": 152,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/Yea0z87rExAYsepzTqMfY_ndPcqN-C7KsXy_uKGkqZ0.jpeg?auto=webp&amp;s=f79fba8f507e7c6a849380f335569fd6326cf8e0"
@@ -69,32 +99,12 @@
         "permalink": "/r/science/comments/1rpwlah/people_with_psychopathic_traits_dont_lack/"
     },
     {
-        "id": "1rqfj3w",
-        "author": "InsaneSnow45",
-        "title": "We Finally Know How Bumblebee Queens Can Survive Underwater For Days. Diapausing bumble bee queens avoid drowning by using underwater respiration, anaerobic metabolism and metabolic depression",
-        "content": "",
-        "upvotes": 126,
-        "comments": 3,
-        "media": null,
-        "permalink": "/r/science/comments/1rqfj3w/we_finally_know_how_bumblebee_queens_can_survive/"
-    },
-    {
-        "id": "1rqepkf",
-        "author": "Sciantifa",
-        "title": "Researchers analyzed 1,737 climate policies across 40 countries to identify what actually works. By filtering out statistical noise, they found 28 \"star players\"\u2014including carbon taxes and massive investment in green tech\u2014that consistently slash emissions and stop wasteful spending.",
-        "content": "",
-        "upvotes": 127,
-        "comments": 3,
-        "media": null,
-        "permalink": "/r/science/comments/1rqepkf/researchers_analyzed_1737_climate_policies_across/"
-    },
-    {
         "id": "1rpkoz1",
         "author": "Potential_Being_7226",
         "title": "Recent pandemic viruses jumped to humans without prior adaptation. No evidence that SARS-CoV-2 was shaped by selection in a laboratory: UCSD study.",
         "content": "",
-        "upvotes": 6769,
-        "comments": 684,
+        "upvotes": 6963,
+        "comments": 689,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/MK-nj35kHK32S7U8erobX0oJ_3v66YaIpoMuvgIPFlk.png?auto=webp&amp;s=b3418c690829129075d90d5f99d358bf2a131d46"
@@ -102,35 +112,12 @@
         "permalink": "/r/science/comments/1rpkoz1/recent_pandemic_viruses_jumped_to_humans_without/"
     },
     {
-        "id": "1rqf76u",
-        "author": "Sciantifa",
-        "title": "Pedestrianizing city streets reduces daily noise by 3.1 decibels, a new study of Barcelona\u2019s \"green axes\" shows. Data from acoustic sensors prove that fears of noisy crowds replacing car noise are unfounded, as residents on these calmer streets now use their balconies more often.",
-        "content": "",
-        "upvotes": 79,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1rqf76u/pedestrianizing_city_streets_reduces_daily_noise/"
-    },
-    {
-        "id": "1rps1b3",
-        "author": "mvea",
-        "title": "Another study suggests no ties between tylenol in pregnancy and autism. In a study of more than 2 million births, positive associations between maternal acetaminophen prescriptions during pregnancy and ADHD and autism spectrum disorder in offspring became null in sibling-matched analyses.",
-        "content": "",
-        "upvotes": 1212,
-        "comments": 17,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/jQY9JDmE8DyvPxaWXrifKQCGMLSF1-0z-HehvT3sFe8.jpeg?auto=webp&amp;s=adadaf245887321bd012559090628697f91efbc3"
-        },
-        "permalink": "/r/science/comments/1rps1b3/another_study_suggests_no_ties_between_tylenol_in/"
-    },
-    {
         "id": "1rq76bx",
         "author": "Tracheid",
         "title": "Genetic factors drive the link between cognitive ability and socioeconomic status. The findings provide evidence that genetic factors play a larger role in educational and occupational success than environmental conditions.",
         "content": "",
-        "upvotes": 165,
-        "comments": 84,
+        "upvotes": 225,
+        "comments": 106,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/pvmodhHaoDHCwqRYuIZGp_u_3L9mWUnsCPqGNcqqkV4.jpeg?auto=webp&amp;s=9e2e7d54ce86099618b956032fda0069354545a7"
@@ -138,12 +125,25 @@
         "permalink": "/r/science/comments/1rq76bx/genetic_factors_drive_the_link_between_cognitive/"
     },
     {
+        "id": "1rps1b3",
+        "author": "mvea",
+        "title": "Another study suggests no ties between tylenol in pregnancy and autism. In a study of more than 2 million births, positive associations between maternal acetaminophen prescriptions during pregnancy and ADHD and autism spectrum disorder in offspring became null in sibling-matched analyses.",
+        "content": "",
+        "upvotes": 1369,
+        "comments": 20,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/jQY9JDmE8DyvPxaWXrifKQCGMLSF1-0z-HehvT3sFe8.jpeg?auto=webp&amp;s=adadaf245887321bd012559090628697f91efbc3"
+        },
+        "permalink": "/r/science/comments/1rps1b3/another_study_suggests_no_ties_between_tylenol_in/"
+    },
+    {
         "id": "1rq1lda",
         "author": "sr_local",
         "title": "A single session of physical exercise can spawn a boost of neural activity in brain networks that underlie learning and memory",
         "content": "",
-        "upvotes": 215,
-        "comments": 4,
+        "upvotes": 327,
+        "comments": 5,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/5e6wEnEV0mjmGWQshhPDsPNt9MBt0M9tJte41eENeP4.jpeg?auto=webp&amp;s=0bc38b5c1b0ab9ee7f79af3b6ecb3a74b622bdc6"
@@ -151,25 +151,12 @@
         "permalink": "/r/science/comments/1rq1lda/a_single_session_of_physical_exercise_can_spawn_a/"
     },
     {
-        "id": "1rq0232",
-        "author": "Tracheid",
-        "title": "How viral infections disrupt memory and thinking skills",
-        "content": "",
-        "upvotes": 235,
-        "comments": 5,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/6W4uTF0IUJba4Wl9w_5veaSLTVifGBY_uQm_1zGXXbo.jpeg?auto=webp&amp;s=1d09d7b8fab0483ebd9711c2036065e3ada99cba"
-        },
-        "permalink": "/r/science/comments/1rq0232/how_viral_infections_disrupt_memory_and_thinking/"
-    },
-    {
         "id": "1rqbczu",
         "author": "Potential_Being_7226",
         "title": "Higher buprenorphine doses help patients stay in opioid use disorder treatment, new study finds",
         "content": "",
-        "upvotes": 64,
-        "comments": 2,
+        "upvotes": 85,
+        "comments": 4,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/DHUdgz8UQApBq6wkrLwsvkIhvIA8nU69ze-HsCGgp3Y.jpeg?auto=webp&amp;s=3732e746459e0d8c48e7c05d6a9ff45178e227e7"
@@ -177,32 +164,65 @@
         "permalink": "/r/science/comments/1rqbczu/higher_buprenorphine_doses_help_patients_stay_in/"
     },
     {
+        "id": "1rq0232",
+        "author": "Tracheid",
+        "title": "How viral infections disrupt memory and thinking skills",
+        "content": "",
+        "upvotes": 279,
+        "comments": 6,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/6W4uTF0IUJba4Wl9w_5veaSLTVifGBY_uQm_1zGXXbo.jpeg?auto=webp&amp;s=1d09d7b8fab0483ebd9711c2036065e3ada99cba"
+        },
+        "permalink": "/r/science/comments/1rq0232/how_viral_infections_disrupt_memory_and_thinking/"
+    },
+    {
         "id": "1rpyspj",
         "author": "upbeat_teetertottxo",
         "title": "Parkinson's protein linked to 20 times faster Alzheimer's progression in women",
         "content": "",
-        "upvotes": 220,
+        "upvotes": 247,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1rpyspj/parkinsons_protein_linked_to_20_times_faster/"
+    },
+    {
+        "id": "1rqfzel",
+        "author": "ibwitmypigeons",
+        "title": "Lunar and Martian Regolith Simulants Desorb and Weather after Exposure to Bioregenerative Life Support System Effluent",
+        "content": "",
+        "upvotes": 46,
+        "comments": 3,
+        "media": null,
+        "permalink": "/r/science/comments/1rqfzel/lunar_and_martian_regolith_simulants_desorb_and/"
     },
     {
         "id": "1rpyz7i",
         "author": "MassGen-Research",
         "title": "COSMOS Trial Results Show Daily Multivitamin Use May Slow Biological Aging",
         "content": "",
-        "upvotes": 128,
-        "comments": 16,
+        "upvotes": 155,
+        "comments": 18,
         "media": null,
         "permalink": "/r/science/comments/1rpyz7i/cosmos_trial_results_show_daily_multivitamin_use/"
+    },
+    {
+        "id": "1rqd545",
+        "author": "Historical_Psych",
+        "title": "Disassociation from animals and importance of cultural group identity",
+        "content": "",
+        "upvotes": 96,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1rqd545/disassociation_from_animals_and_importance_of/"
     },
     {
         "id": "1rpwxz1",
         "author": "Hrmbee",
         "title": "Flexible feline spines shed light on \u201cfalling cat\u201d problem | Torsional flexibility of the thoracic spine is superior to that of the lumbar spine in cats: Implications for the falling cat problem",
         "content": "",
-        "upvotes": 151,
-        "comments": 9,
+        "upvotes": 178,
+        "comments": 11,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/xgy4_BguNoECP1RrTgJTdMX1ncofEISeaHA1owxeE8U.jpeg?auto=webp&amp;s=879c4ce334dfca56fb7bbc9b557df7e10c98257b"
@@ -210,12 +230,22 @@
         "permalink": "/r/science/comments/1rpwxz1/flexible_feline_spines_shed_light_on_falling_cat/"
     },
     {
+        "id": "1rq88fq",
+        "author": "hesperidex",
+        "title": "New allergy immunotherapy for cross-reactive allergies (food and pollen) based on mRNA and consensus designed allergens",
+        "content": "",
+        "upvotes": 59,
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/science/comments/1rq88fq/new_allergy_immunotherapy_for_crossreactive/"
+    },
+    {
         "id": "1rp0jpj",
         "author": "InsaneSnow45",
         "title": "Open-plan offices increase risk of workplace bullying compared with employees having their own office space. Employers justify open-plans to encourage creative interactions, but research shows that open-plan offices do not promote health, job satisfaction or productivity.",
         "content": "",
-        "upvotes": 15073,
-        "comments": 522,
+        "upvotes": 15170,
+        "comments": 528,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/f9D6yZAVxQCxbmB-nJTcT9rtuolN_WLYi_lfY4zGJts.jpeg?auto=webp&amp;s=cd3a431eb3de4d99a69ef10a4441d9c8f862a860"
@@ -223,44 +253,21 @@
         "permalink": "/r/science/comments/1rp0jpj/openplan_offices_increase_risk_of_workplace/"
     },
     {
-        "id": "1rq88fq",
-        "author": "hesperidex",
-        "title": "New allergy immunotherapy for cross-reactive allergies (food and pollen) based on mRNA and consensus designed allergens",
-        "content": "",
-        "upvotes": 41,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/science/comments/1rq88fq/new_allergy_immunotherapy_for_crossreactive/"
-    },
-    {
         "id": "1rpgrnw",
         "author": "Sciantifa",
         "title": "Physical inactivity causes nearly 5 million deaths yearly, yet one in three adults still misses global activity targets. A new study shows a 40% gap in exercise between wealthier and poorer populations. Experts now see physical activity as a lever for climate resilience and lower emissions.",
         "content": "",
-        "upvotes": 1425,
-        "comments": 125,
+        "upvotes": 1456,
+        "comments": 128,
         "media": null,
         "permalink": "/r/science/comments/1rpgrnw/physical_inactivity_causes_nearly_5_million/"
-    },
-    {
-        "id": "1rq11er",
-        "author": "fchung",
-        "title": "Stormy space weather may be garbling messages from aliens, new research suggests: \u00ab Researchers who listen for signs of non-human life say signals \u2018can slip below detection thresholds, even if it\u2019s there\u2019. \u00bb",
-        "content": "",
-        "upvotes": 47,
-        "comments": 15,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/4Nb5BRcTK6_Fk4oI24K4-IuEZoDC1MLUDUS9nlToHUA.jpeg?auto=webp&amp;s=134a5379581e4e3e0097de866176bacff368807b"
-        },
-        "permalink": "/r/science/comments/1rq11er/stormy_space_weather_may_be_garbling_messages/"
     },
     {
         "id": "1rpz4bd",
         "author": "Hrmbee",
         "title": "An unlikely set of clues helps reconstruct ancient Chinese disasters | Archeological data with AI- and physics-based modeling explain typhoon-induced disasters in inland China around 3000 yr BP",
         "content": "",
-        "upvotes": 78,
+        "upvotes": 94,
         "comments": 2,
         "media": {
             "type": "image",
@@ -269,21 +276,24 @@
         "permalink": "/r/science/comments/1rpz4bd/an_unlikely_set_of_clues_helps_reconstruct/"
     },
     {
-        "id": "1rqfzel",
-        "author": "ibwitmypigeons",
-        "title": "Lunar and Martian Regolith Simulants Desorb and Weather after Exposure to Bioregenerative Life Support System Effluent",
+        "id": "1rq11er",
+        "author": "fchung",
+        "title": "Stormy space weather may be garbling messages from aliens, new research suggests: \u00ab Researchers who listen for signs of non-human life say signals \u2018can slip below detection thresholds, even if it\u2019s there\u2019. \u00bb",
         "content": "",
-        "upvotes": 7,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/science/comments/1rqfzel/lunar_and_martian_regolith_simulants_desorb_and/"
+        "upvotes": 60,
+        "comments": 16,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/4Nb5BRcTK6_Fk4oI24K4-IuEZoDC1MLUDUS9nlToHUA.jpeg?auto=webp&amp;s=134a5379581e4e3e0097de866176bacff368807b"
+        },
+        "permalink": "/r/science/comments/1rq11er/stormy_space_weather_may_be_garbling_messages/"
     },
     {
         "id": "1rp4pgu",
         "author": "InsaneSnow45",
         "title": "Chickpeas Grown in Simulated Moon Dirt Produced Viable Seeds With a Fungal Assist. It turns out that the plants didn\u2019t just sprout. They flowered and produced harvestable seeds.",
         "content": "",
-        "upvotes": 3044,
+        "upvotes": 3080,
         "comments": 51,
         "media": {
             "type": "image",
@@ -296,7 +306,7 @@
         "author": "ekser",
         "title": "Teens who frequently lash out at others may face lasting physical health consequences later in life... The study found that aggressive behavior in early adolescence is linked to faster biological aging and higher body mass index (BMI) by age 30.",
         "content": "",
-        "upvotes": 602,
+        "upvotes": 627,
         "comments": 36,
         "media": null,
         "permalink": "/r/science/comments/1rpijfl/teens_who_frequently_lash_out_at_others_may_face/"
@@ -306,7 +316,7 @@
         "author": "BestRef",
         "title": "Hca-fnd: a hybrid two-tiered approach for fake news detection using machine learning and natural language processing",
         "content": "",
-        "upvotes": 20,
+        "upvotes": 42,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1rq8u4m/hcafnd_a_hybrid_twotiered_approach_for_fake_news/"
@@ -316,8 +326,8 @@
         "author": "mvea",
         "title": "Women with tattoos feel more attractive but experience the same body anxieties in the bedroom. Getting a tattoo often makes young women feel more attractive, but this boost in confidence does not translate into better sexual functioning or improved body image in the bedroom.",
         "content": "",
-        "upvotes": 1321,
-        "comments": 363,
+        "upvotes": 1354,
+        "comments": 365,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/ISj8zryMhVE-DNrmGY_zT4F9qh1gsOGcLLzz-tJHYbs.jpeg?auto=webp&amp;s=2ab64429a1dc4e4fd54603f7ee5b76879fc445c5"
@@ -329,19 +339,9 @@
         "author": "Skoltech_",
         "title": "Russian researchers released a dataset combining EEG &amp; fNIRS from stroke patients. EEG captures electrical activity, fNIRS tracks blood flow \u2014 together revealing how the brain rewires after blood disruption. This helps adjust therapy and prevent reinforcing incorrect compensatory movements.",
         "content": "",
-        "upvotes": 60,
+        "upvotes": 58,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1rpvumi/russian_researchers_released_a_dataset_combining/"
-    },
-    {
-        "id": "1rpyyla",
-        "author": "MassGen-Research",
-        "title": "National Policy to Remedy Harms of Race-Based Kidney Function Estimation Associated with Increased Transplants for Black Patients",
-        "content": "",
-        "upvotes": 51,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1rpyyla/national_policy_to_remedy_harms_of_racebased/"
     }
 ]
