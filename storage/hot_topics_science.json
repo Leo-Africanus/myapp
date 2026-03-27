@@ -1,11 +1,34 @@
 [
     {
+        "id": "1s4lani",
+        "author": "Sciantifa",
+        "title": "AI chatbots are becoming \"sycophants\" to drive engagement, a new study of 11 leading models finds. By constantly flattering users and validating bad behavior (affirming 49% more than humans do), AI is giving harmful advice that can damage real-world relationships and reinforce biases.",
+        "content": "",
+        "upvotes": 2612,
+        "comments": 131,
+        "media": null,
+        "permalink": "/r/science/comments/1s4lani/ai_chatbots_are_becoming_sycophants_to_drive/"
+    },
+    {
+        "id": "1s4j11m",
+        "author": "mvea",
+        "title": "People with higher religiosity, measured by degree of belief, frequency of worship and prayer, and importance of God in one\u2019s life, show significantly higher levels of transphobia and attitudes of harassment towards trans people. Religiosity emerged as the strongest predictor of these attitudes.",
+        "content": "",
+        "upvotes": 3165,
+        "comments": 442,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/BZymTb78qzdVDiiycb9VKlsqayXEfMrl4m11MNoIoUI.jpeg?auto=webp&amp;s=06ba6f013b357c61916030cc1597e14f35be7c5a"
+        },
+        "permalink": "/r/science/comments/1s4j11m/people_with_higher_religiosity_measured_by_degree/"
+    },
+    {
         "id": "1s48fc5",
         "author": "The_Conversation",
         "title": "Scientists may be overestimating the amount of microplastics in the environment due to accidental contamination from lab gloves, which release stearate salts that are structurally similar to polyethylene and difficult to distinguish from plastics using standard vibrational spectroscopy",
         "content": "",
-        "upvotes": 2470,
-        "comments": 204,
+        "upvotes": 7024,
+        "comments": 484,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/ULyjz47k0WvWi46XTH6HLLmWsqFtK59ZGLkrwajGgno.jpeg?auto=webp&amp;s=490826bdac4bc27fdc3ba0faec8d82fcfab43b33"
@@ -13,38 +36,12 @@
         "permalink": "/r/science/comments/1s48fc5/scientists_may_be_overestimating_the_amount_of/"
     },
     {
-        "id": "1s41exx",
-        "author": "Krankenitrate",
-        "title": "COVID vaccines not tied to risk of sudden death, study shows",
-        "content": "",
-        "upvotes": 2520,
-        "comments": 78,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/hnfx1pF8xvG-sBcCjmcEkMS7MN5RSD62HR0hbTBjvco.jpeg?auto=webp&amp;s=b29052ac55ec5e4d3271536769cf360f579b7c2e"
-        },
-        "permalink": "/r/science/comments/1s41exx/covid_vaccines_not_tied_to_risk_of_sudden_death/"
-    },
-    {
-        "id": "1s49lfg",
-        "author": "mvea",
-        "title": "Childhood ADHD medication may reduce psychosis risk. Children treated with methylphenidate before the age of 13 were less likely to go on to develop conditions such as schizophrenia in adulthood. Findings challenge long-standing concerns that stimulant medications may increase the risk of psychosis.",
-        "content": "",
-        "upvotes": 466,
-        "comments": 29,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/F39Aq258z0FLM-woLFUI8fZ6FevvFWendgFkIiHckqM.jpeg?auto=webp&amp;s=e7803c9a0126270027c7bdf96c5891122ff86a6d"
-        },
-        "permalink": "/r/science/comments/1s49lfg/childhood_adhd_medication_may_reduce_psychosis/"
-    },
-    {
         "id": "1s4cfg7",
         "author": "Inevitable-Middle681",
         "title": "Researchers gene-edit the bitterness out of grapefruit",
         "content": "",
-        "upvotes": 329,
-        "comments": 120,
+        "upvotes": 2797,
+        "comments": 574,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/_puWpM7gGUgI1gtlUsreYp5XPiK6qN9mmXfzX5h_P3o.jpeg?auto=webp&amp;s=e008a0e54b138e6ec956e96b33192b4c8915dbe5"
@@ -52,35 +49,100 @@
         "permalink": "/r/science/comments/1s4cfg7/researchers_geneedit_the_bitterness_out_of/"
     },
     {
+        "id": "1s4ewqk",
+        "author": "ChallengeAdept8759",
+        "title": "Scientists captured the first detailed footage of a sperm whale birth and found it wasn't just a family affair \u2014 whales from another pod came to help. This is a behavior typically seen in humans but is rare for other animals, suggesting that sperm whales might be more intelligent than we thought.",
+        "content": "",
+        "upvotes": 1361,
+        "comments": 53,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/rcpMCTSXpJng6dEHszanymWJTyjBStNuPSTMY8PHdvc.jpeg?auto=webp&amp;s=9c2b926d9591524e1381c501cafb8e70ea951b85"
+        },
+        "permalink": "/r/science/comments/1s4ewqk/scientists_captured_the_first_detailed_footage_of/"
+    },
+    {
+        "id": "1s49lfg",
+        "author": "mvea",
+        "title": "Childhood ADHD medication may reduce psychosis risk. Children treated with methylphenidate before the age of 13 were less likely to go on to develop conditions such as schizophrenia in adulthood. Findings challenge long-standing concerns that stimulant medications may increase the risk of psychosis.",
+        "content": "",
+        "upvotes": 1968,
+        "comments": 64,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/F39Aq258z0FLM-woLFUI8fZ6FevvFWendgFkIiHckqM.jpeg?auto=webp&amp;s=e7803c9a0126270027c7bdf96c5891122ff86a6d"
+        },
+        "permalink": "/r/science/comments/1s49lfg/childhood_adhd_medication_may_reduce_psychosis/"
+    },
+    {
+        "id": "1s4lj6v",
+        "author": "InsaneSnow45",
+        "title": "Addiction is linked to inconsistent decision-making, not ignoring consequences. People who regularly use drugs may not simply ignore negative consequences\u2014but may instead struggle to consistently act on them",
+        "content": "",
+        "upvotes": 379,
+        "comments": 38,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/reeTojnJTqUZ3H21rH6AjPvwSteGNSKTmj1nvTOdWHc.jpeg?auto=webp&amp;s=d999ec774616be726d5a2dd65e39fca4f058eab1"
+        },
+        "permalink": "/r/science/comments/1s4lj6v/addiction_is_linked_to_inconsistent/"
+    },
+    {
+        "id": "1s4hvan",
+        "author": "Sciantifa",
+        "title": "Europe has enough agricultural waste and wood scraps to completely replace fossil fuels in road transport, a new study finds. Despite the push for EVs, researchers argue that \"reFuels\" made from residues\u2014not just cooking oil\u2014could decarbonize the millions of combustion vehicles still in use.",
+        "content": "",
+        "upvotes": 452,
+        "comments": 60,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/l5ntV9MM3qyPAO16HhSlkp6R9hvBasbSxPQAkkxyEf8.png?auto=webp&amp;s=ff3ba3623afd211b9a4560f82339b45513e554ae"
+        },
+        "permalink": "/r/science/comments/1s4hvan/europe_has_enough_agricultural_waste_and_wood/"
+    },
+    {
+        "id": "1s41exx",
+        "author": "Krankenitrate",
+        "title": "COVID vaccines not tied to risk of sudden death, study shows",
+        "content": "",
+        "upvotes": 3447,
+        "comments": 97,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/hnfx1pF8xvG-sBcCjmcEkMS7MN5RSD62HR0hbTBjvco.jpeg?auto=webp&amp;s=b29052ac55ec5e4d3271536769cf360f579b7c2e"
+        },
+        "permalink": "/r/science/comments/1s41exx/covid_vaccines_not_tied_to_risk_of_sudden_death/"
+    },
+    {
         "id": "1s3ruuz",
         "author": "mvea",
         "title": "The United States is driving a public health emergency of international concern. Announcing the US withdrawal from the WHO on his first day in office, and cutting a range of aid programmes in the weeks that followed, President Donald Trump is taking actions that are dire for global health.",
         "content": "",
-        "upvotes": 6303,
-        "comments": 287,
+        "upvotes": 7048,
+        "comments": 303,
         "media": null,
         "permalink": "/r/science/comments/1s3ruuz/the_united_states_is_driving_a_public_health/"
     },
     {
-        "id": "1s45hqw",
-        "author": "mvea",
-        "title": "Hiding your true self in a relationship is linked to a higher risk of cheating",
+        "id": "1s4exu9",
+        "author": "InsaneSnow45",
+        "title": "A new study measures the temporal distortions caused by psychedelics. Study helps clarify the psychological mechanisms behind psychedelic experiences and offer insights into how the human brain tracks the passage of seconds.",
         "content": "",
-        "upvotes": 550,
-        "comments": 40,
+        "upvotes": 209,
+        "comments": 9,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/067ZKFlkqA0AwJGPp1_PAoizUU_K4dpP0dmGOwSHNIo.jpeg?auto=webp&amp;s=181f6ded34d0f35a87749b7cb10109f118f2d1b5"
+            "url": "https://external-preview.redd.it/vE8ImHfdZmhVP_2c-MzBMv845L7H20FXdvI-E-CPhjk.jpeg?auto=webp&amp;s=874e5de8b109c6c4efb2192c70b9efc949b5e219"
         },
-        "permalink": "/r/science/comments/1s45hqw/hiding_your_true_self_in_a_relationship_is_linked/"
+        "permalink": "/r/science/comments/1s4exu9/a_new_study_measures_the_temporal_distortions/"
     },
     {
         "id": "1s3jnv4",
         "author": "FLTA",
         "title": "US has caused $10tn worth of climate damage since 1990, research finds",
         "content": "",
-        "upvotes": 15794,
-        "comments": 475,
+        "upvotes": 16546,
+        "comments": 492,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/l3JNxqfWtYZeo2w-1oLRJz-X5gfOHhlnXw0DyuavEog.jpeg?auto=webp&amp;s=91649ec3077835eea0b05746275036a80932d953"
@@ -92,8 +154,8 @@
         "author": "ChhotaSaHydra",
         "title": "Physical inactivity is linked to ~500,000 deaths annually in the U.S., a 2026 study reports. Researchers found low activity levels significantly increase risks of heart disease, diabetes, and early mortality, highlighting sedentary lifestyle as a major and preventable public health risk nationwide.",
         "content": "",
-        "upvotes": 299,
-        "comments": 11,
+        "upvotes": 485,
+        "comments": 23,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/eFMa-V1uKt_0fEaeLyZatpb8QwmDWeu0cd35rQ-BtGk.jpeg?auto=webp&amp;s=3ccfb02ee1a9d392e35707ff6b7cfc25262c0542"
@@ -101,45 +163,25 @@
         "permalink": "/r/science/comments/1s436w9/physical_inactivity_is_linked_to_500000_deaths/"
     },
     {
-        "id": "1s3nv9p",
-        "author": "Creative_soja",
-        "title": "New research suggests that chatting with another human reduces loneliness better than chatting with a highly supportive chatbot.",
+        "id": "1s4f5rf",
+        "author": "Science_News",
+        "title": "Modern apes may have actually evolved in North Africa or the Middle East | A fossil jawbone suggests apes like gorillas, gibbons and humans may arise from Africa's north",
         "content": "",
-        "upvotes": 2302,
-        "comments": 123,
-        "media": null,
-        "permalink": "/r/science/comments/1s3nv9p/new_research_suggests_that_chatting_with_another/"
-    },
-    {
-        "id": "1s3h2od",
-        "author": "fchung",
-        "title": "Scientists tried to clone clones forever. It didn\u2019t end well: \u00ab The practice of cloning clones indefinitely appears to be a reproductive dead end, for now. \u00bb",
-        "content": "",
-        "upvotes": 4372,
-        "comments": 437,
+        "upvotes": 96,
+        "comments": 8,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/avCz23gsBrlZlEriJQnVwvbf5gAoMRbmewHWY8CeR08.jpeg?auto=webp&amp;s=50d62caee049eba69f0fcce88a095ed1bb8d6d1a"
+            "url": "https://external-preview.redd.it/UaIrWdCp0rulViyRM2H2083TdsbuPmpwb832sQouUYE.jpeg?auto=webp&amp;s=1f018a64a7853348038e33ca5313359fe78d08eb"
         },
-        "permalink": "/r/science/comments/1s3h2od/scientists_tried_to_clone_clones_forever_it_didnt/"
-    },
-    {
-        "id": "1s3omk6",
-        "author": "Sciantifa",
-        "title": "Climate model averages may be creating a \"false sense of security\": New research shows that even at 2\u00b0C of warming, worst-case scenarios for droughts, extreme rainfall, and wildfires could be more severe than what is currently expected for a 3\u00b0C or 4\u00b0C world.",
-        "content": "",
-        "upvotes": 1782,
-        "comments": 93,
-        "media": null,
-        "permalink": "/r/science/comments/1s3omk6/climate_model_averages_may_be_creating_a_false/"
+        "permalink": "/r/science/comments/1s4f5rf/modern_apes_may_have_actually_evolved_in_north/"
     },
     {
         "id": "1s47s0w",
         "author": "sr_local",
         "title": "New global study finds human readiness for intergroup violence is driven by two distinct motivations: defensive extremism to protect a group from threats, and offensive extremism to expand group dominance and influence",
         "content": "",
-        "upvotes": 83,
-        "comments": 6,
+        "upvotes": 151,
+        "comments": 8,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/CYA9Az56n66F0JvWXKAYI3ENksT0IavcDXw3GrYWxO4.jpeg?auto=webp&amp;s=75e5fd2752f0083e2b3e95ff043b76b1bb25ded7"
@@ -147,12 +189,81 @@
         "permalink": "/r/science/comments/1s47s0w/new_global_study_finds_human_readiness_for/"
     },
     {
+        "id": "1s4ct1m",
+        "author": "ID2691",
+        "title": "A recent randomized clinical trial showed that mindfulness meditation training was effective in the treatment of Internet Gaming Disorder. The intervention significantly reduced symptoms and was also associated with neural changes in brain connectivity, suggesting improved emotional regulation.",
+        "content": "",
+        "upvotes": 82,
+        "comments": 14,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/K3dRBsjBX5d8jqNb4NZWjAygEfrk0Cze2yrwzWEzwXo.png?auto=webp&amp;s=957c34203eb40ee70da067dfaf3cca107f924977"
+        },
+        "permalink": "/r/science/comments/1s4ct1m/a_recent_randomized_clinical_trial_showed_that/"
+    },
+    {
+        "id": "1s3nv9p",
+        "author": "Creative_soja",
+        "title": "New research suggests that chatting with another human reduces loneliness better than chatting with a highly supportive chatbot.",
+        "content": "",
+        "upvotes": 2488,
+        "comments": 132,
+        "media": null,
+        "permalink": "/r/science/comments/1s3nv9p/new_research_suggests_that_chatting_with_another/"
+    },
+    {
+        "id": "1s3omk6",
+        "author": "Sciantifa",
+        "title": "Climate model averages may be creating a \"false sense of security\": New research shows that even at 2\u00b0C of warming, worst-case scenarios for droughts, extreme rainfall, and wildfires could be more severe than what is currently expected for a 3\u00b0C or 4\u00b0C world.",
+        "content": "",
+        "upvotes": 2050,
+        "comments": 100,
+        "media": null,
+        "permalink": "/r/science/comments/1s3omk6/climate_model_averages_may_be_creating_a_false/"
+    },
+    {
+        "id": "1s3h2od",
+        "author": "fchung",
+        "title": "Scientists tried to clone clones forever. It didn\u2019t end well: \u00ab The practice of cloning clones indefinitely appears to be a reproductive dead end, for now. \u00bb",
+        "content": "",
+        "upvotes": 4637,
+        "comments": 448,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/avCz23gsBrlZlEriJQnVwvbf5gAoMRbmewHWY8CeR08.jpeg?auto=webp&amp;s=50d62caee049eba69f0fcce88a095ed1bb8d6d1a"
+        },
+        "permalink": "/r/science/comments/1s3h2od/scientists_tried_to_clone_clones_forever_it_didnt/"
+    },
+    {
+        "id": "1s49quh",
+        "author": "Hrmbee",
+        "title": "Antibiotic resistance among germs swells during droughts, study suggests | Drought drives elevated antibiotic resistance across soils",
+        "content": "",
+        "upvotes": 80,
+        "comments": 4,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/nRR8is2vapVfNtI7GaU-iWCG2SSBuNRjzjJ83rXSjcE.jpeg?auto=webp&amp;s=42973550575de41773a575f929bddc37339fe30e"
+        },
+        "permalink": "/r/science/comments/1s49quh/antibiotic_resistance_among_germs_swells_during/"
+    },
+    {
+        "id": "1s4gvry",
+        "author": "TheJournalAJDAA",
+        "title": "Co-occurring depression and substance use disorders increase suicide risk\u2014especially for women\u2014according to a review of 47 studies involving 648,000+ participants",
+        "content": "",
+        "upvotes": 40,
+        "comments": 5,
+        "media": null,
+        "permalink": "/r/science/comments/1s4gvry/cooccurring_depression_and_substance_use/"
+    },
+    {
         "id": "1s3ottl",
         "author": "InsaneSnow45",
         "title": "Women experience greater jealousy when their romantic rivals have highly feminine faces. This pattern was also present in lesbian participants, though the strength of the association was significantly weaker.",
         "content": "",
-        "upvotes": 1409,
-        "comments": 82,
+        "upvotes": 1525,
+        "comments": 84,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/oBiqLjvxv0Nagu7WKrsp-0qOz4FbjFYIdD-OVnZUp2I.jpeg?auto=webp&amp;s=08da3cf00f08d521cecd5d6e0d3212bd8259a6f6"
@@ -164,8 +275,8 @@
         "author": "mvea",
         "title": "Liberals see a massive divide in vulnerability between the marginalized and those in power. Conservatives, on the other hand, view vulnerability as a more universal human trait, rating the powerful and the divine as significantly more susceptible to harm than liberals do.",
         "content": "",
-        "upvotes": 7110,
-        "comments": 777,
+        "upvotes": 7174,
+        "comments": 784,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/xutCTk0t-kRPXYDpEuAxr_0sWcmZCWd4DbU6PMj7M3I.jpeg?auto=webp&amp;s=8d2f28c9c3b5d5f73106e1d4cea0175970e7f7db"
@@ -173,38 +284,22 @@
         "permalink": "/r/science/comments/1s372rw/liberals_see_a_massive_divide_in_vulnerability/"
     },
     {
-        "id": "1s49quh",
-        "author": "Hrmbee",
-        "title": "Antibiotic resistance among germs swells during droughts, study suggests | Drought drives elevated antibiotic resistance across soils",
-        "content": "",
-        "upvotes": 37,
-        "comments": 4,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/nRR8is2vapVfNtI7GaU-iWCG2SSBuNRjzjJ83rXSjcE.jpeg?auto=webp&amp;s=42973550575de41773a575f929bddc37339fe30e"
-        },
-        "permalink": "/r/science/comments/1s49quh/antibiotic_resistance_among_germs_swells_during/"
-    },
-    {
-        "id": "1s4cquk",
-        "author": "Accurate_Cry_8937",
-        "title": "Lancet Retracts 1977 Paper on Johnson &amp; Johnson Baby Powder Safety",
+        "id": "1s4dqi1",
+        "author": "Scbadiver",
+        "title": "Cell-type-specific transposon demethylation and TAD remodeling in aging mouse brain: Cell",
         "content": "",
         "upvotes": 22,
-        "comments": 6,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/A9zLoNLulmBSbQ1aUgexscbL4WTzWgoPJYg9U2Y7ip8.jpeg?auto=webp&amp;s=bd7b985e07503cac943a2438f624830f8c7b9efb"
-        },
-        "permalink": "/r/science/comments/1s4cquk/lancet_retracts_1977_paper_on_johnson_johnson/"
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/science/comments/1s4dqi1/celltypespecific_transposon_demethylation_and_tad/"
     },
     {
         "id": "1s3jo29",
         "author": "Litvi",
         "title": "Dogs were man's best friend far earlier than thought. A genetically homogeneous dog population was already widely distributed across Europe &amp; Anatolia at least 14,300\u2009years ago, suggesting dogs were exchanged among genetically &amp; culturally distinct W. Eurasian Late Palaeolithic hunter-gatherer pops.",
         "content": "",
-        "upvotes": 962,
-        "comments": 27,
+        "upvotes": 1037,
+        "comments": 28,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/12MRCZbMG2Q0u8G4joSJUcDtTUEJmrJ4VomuUMy4jzs.jpeg?auto=webp&amp;s=5501b30a6bd84d86625be0e1c3dfa05b4d04c67a"
@@ -216,7 +311,7 @@
         "author": "HeyItsMeUnsaid",
         "title": "Wildfire smoke PM2.5 is linked to ~24,100 deaths annually in the U.S., a 2026 study reports. Researchers found even small increases (0.1 \u00b5g/m\u00b3) raise mortality risk, with no safe exposure level identified, highlighting a growing public health threat as wildfire seasons intensify.",
         "content": "",
-        "upvotes": 57,
+        "upvotes": 61,
         "comments": 1,
         "media": {
             "type": "image",
@@ -225,21 +320,11 @@
         "permalink": "/r/science/comments/1s4300h/wildfire_smoke_pm25_is_linked_to_24100_deaths/"
     },
     {
-        "id": "1s3t5bb",
-        "author": "Sciantifa",
-        "title": "Warming coastal waters are the \"primary driver\" of massive, large-scale humid heat waves. New research found that rising sea temperatures drive up to 64% of these extreme events, suggesting that coastal water heat could now serve as a crucial early warning system for deadly humid heat.",
-        "content": "",
-        "upvotes": 215,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/science/comments/1s3t5bb/warming_coastal_waters_are_the_primary_driver_of/"
-    },
-    {
         "id": "1s37dhx",
         "author": "Wagamaga",
         "title": "Researchers have conducted a comprehensive meta-analysis confirming that exposure to nature\u2014whether real, virtual, or even imagined\u2014significantly reduces negative emotions and boosts brain health.",
         "content": "",
-        "upvotes": 2567,
+        "upvotes": 2636,
         "comments": 57,
         "media": {
             "type": "image",
@@ -248,34 +333,11 @@
         "permalink": "/r/science/comments/1s37dhx/researchers_have_conducted_a_comprehensive/"
     },
     {
-        "id": "1s3eqk4",
-        "author": "MassGen-Research",
-        "title": "The wild west of bodybuilding supplements: Three examples of unregulated compounds widely marketed online",
-        "content": "",
-        "upvotes": 718,
-        "comments": 76,
-        "media": null,
-        "permalink": "/r/science/comments/1s3eqk4/the_wild_west_of_bodybuilding_supplements_three/"
-    },
-    {
-        "id": "1s357pp",
-        "author": "mvea",
-        "title": "Encouraging men to have more frequent ejaculations may boost their fertility. Sperm deteriorates over time as it remains in body. Longer men went without sex, the more their sperm showed signs of DNA damage and oxidative stress, and the more tests rated the sperm as less viable and poorer swimmers.",
-        "content": "",
-        "upvotes": 2710,
-        "comments": 182,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/uESHGxYmfUPiIC0EXFx6dn_J9oSYy3oVLxhjyZ5aqgU.jpeg?auto=webp&amp;s=6b00438c41b558edeb779d58d25dcf6f88501469"
-        },
-        "permalink": "/r/science/comments/1s357pp/encouraging_men_to_have_more_frequent/"
-    },
-    {
         "id": "1s485k8",
         "author": "AgingUS",
         "title": "Age-specific relationship between the modulation of brain dynamics in response to task demands and bimanual performance",
         "content": "",
-        "upvotes": 10,
+        "upvotes": 34,
         "comments": 1,
         "media": {
             "type": "image",
@@ -284,85 +346,26 @@
         "permalink": "/r/science/comments/1s485k8/agespecific_relationship_between_the_modulation/"
     },
     {
-        "id": "1s32eml",
-        "author": "ChhotaSaHydra",
-        "title": "AI decodes brain signals into text with ~70% accuracy. Using non-invasive imaging, researchers translated neural activity into meaningful sentences without implants, offering potential for patients with speech loss, though accuracy, ethics, and privacy concerns remain.",
+        "id": "1s3eqk4",
+        "author": "MassGen-Research",
+        "title": "The wild west of bodybuilding supplements: Three examples of unregulated compounds widely marketed online",
         "content": "",
-        "upvotes": 2084,
-        "comments": 227,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/QRELyCIfQIk0ysIe5W7kh4lVTJ87sVd-iI_FoAs2Ybk.jpeg?auto=webp&amp;s=97b5d4855bc48f43884e3e02c92e5a4f59e92fb4"
-        },
-        "permalink": "/r/science/comments/1s32eml/ai_decodes_brain_signals_into_text_with_70/"
-    },
-    {
-        "id": "1s4ct1m",
-        "author": "ID2691",
-        "title": "A recent randomized clinical trial showed that mindfulness meditation training was effective in the treatment of Internet Gaming Disorder. The intervention significantly reduced symptoms and was also associated with neural changes in brain connectivity, suggesting improved emotional regulation.",
-        "content": "",
-        "upvotes": 2,
-        "comments": 2,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/K3dRBsjBX5d8jqNb4NZWjAygEfrk0Cze2yrwzWEzwXo.png?auto=webp&amp;s=957c34203eb40ee70da067dfaf3cca107f924977"
-        },
-        "permalink": "/r/science/comments/1s4ct1m/a_recent_randomized_clinical_trial_showed_that/"
-    },
-    {
-        "id": "1s3o9vt",
-        "author": "paigejarreau",
-        "title": "Researchers used full genome sequencing to unravel the origins of the hero shrew\u2019s superhero-worthy backbone",
-        "content": "",
-        "upvotes": 73,
-        "comments": 3,
+        "upvotes": 759,
+        "comments": 79,
         "media": null,
-        "permalink": "/r/science/comments/1s3o9vt/researchers_used_full_genome_sequencing_to/"
+        "permalink": "/r/science/comments/1s3eqk4/the_wild_west_of_bodybuilding_supplements_three/"
     },
     {
-        "id": "1s2v0kv",
+        "id": "1s357pp",
         "author": "mvea",
-        "title": "11% rise in maternal deaths in US aid-dependent countries under Republican administrations. Equivalent to 45 extra deaths per 100,000 live births, data analysis indicates this erodes a fifth of fall in global maternal deaths achieved since 1985.",
+        "title": "Encouraging men to have more frequent ejaculations may boost their fertility. Sperm deteriorates over time as it remains in body. Longer men went without sex, the more their sperm showed signs of DNA damage and oxidative stress, and the more tests rated the sperm as less viable and poorer swimmers.",
         "content": "",
-        "upvotes": 2938,
-        "comments": 139,
-        "media": null,
-        "permalink": "/r/science/comments/1s2v0kv/11_rise_in_maternal_deaths_in_us_aiddependent/"
-    },
-    {
-        "id": "1s36q4a",
-        "author": "HeyItsMeUnsaid",
-        "title": "Higher sodium intake (&gt;5 g/day) is linked to ~20% increased risk of cardiovascular disease. Researchers found elevated blood pressure and vascular strain in high-intake groups, though effects varied by age and diet, and causality remains uncertain.",
-        "content": "",
-        "upvotes": 430,
-        "comments": 62,
+        "upvotes": 2748,
+        "comments": 183,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/eFMa-V1uKt_0fEaeLyZatpb8QwmDWeu0cd35rQ-BtGk.jpeg?auto=webp&amp;s=3ccfb02ee1a9d392e35707ff6b7cfc25262c0542"
+            "url": "https://external-preview.redd.it/uESHGxYmfUPiIC0EXFx6dn_J9oSYy3oVLxhjyZ5aqgU.jpeg?auto=webp&amp;s=6b00438c41b558edeb779d58d25dcf6f88501469"
         },
-        "permalink": "/r/science/comments/1s36q4a/higher_sodium_intake_5_gday_is_linked_to_20/"
-    },
-    {
-        "id": "1s2lpco",
-        "author": "NGNResearch",
-        "title": "Managers tend to give more work to employees they perceive as being more intrinsically motivated under the \u201cnaive belief\u201d that those workers will enjoy the extra work, new research shows.",
-        "content": "",
-        "upvotes": 8572,
-        "comments": 312,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/JD4pxZB6ZeIQSchQKA64Jq2zQvPb833Q137xCSRoYLU.jpeg?auto=webp&amp;s=ba77eb33ce3e00428172eb2cfa85931de2fb23a6"
-        },
-        "permalink": "/r/science/comments/1s2lpco/managers_tend_to_give_more_work_to_employees_they/"
-    },
-    {
-        "id": "1s3xlit",
-        "author": "Scbadiver",
-        "title": "Dual FAK and EPHA2 targeting by brigatinib tackles PARP inhibitor adaptive survival response in high-grade serous ovarian cancer | Science Translational Medicine",
-        "content": "",
-        "upvotes": 30,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1s3xlit/dual_fak_and_epha2_targeting_by_brigatinib/"
+        "permalink": "/r/science/comments/1s357pp/encouraging_men_to_have_more_frequent/"
     }
 ]
