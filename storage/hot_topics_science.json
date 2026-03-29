@@ -4,8 +4,8 @@
         "author": "mvea",
         "title": "Women tended to cry more often than men. Women averaged nearly 6 crying episodes a month, while men averaged just under 3. Women were more likely to cry from loneliness or personal disputes with loved ones. Men tended to cry from feelings of helplessness or in reaction to media, such as a sad movie.",
         "content": "",
-        "upvotes": 6321,
-        "comments": 1530,
+        "upvotes": 6803,
+        "comments": 1597,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/5ryIFpIvgzl3BJv76xBusA2TBbMnV7glrHKGBeF6d48.jpeg?auto=webp&amp;s=87a587abf9f58518b27cac0869b4da5377a87970"
@@ -17,8 +17,8 @@
         "author": "Wagamaga",
         "title": "Agent Orange linked to aggressive bone marrow cancer in Vietnam veterans. American soldiers sprayed Agent Orange over the jungles of Vietnam and nearby countries from the air and from the ground, often mixing it with kerosene or fuel, another carcinogen, to help disperse it.",
         "content": "",
-        "upvotes": 4583,
-        "comments": 312,
+        "upvotes": 4846,
+        "comments": 317,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/OOQkbB4lzDdNqI75_ODTGhxroD140WnPi9hRlqwCrO4.jpeg?auto=webp&amp;s=65231ac6205322d31cf41db01cdfd7c29d61f711"
@@ -26,32 +26,32 @@
         "permalink": "/r/science/comments/1s6prjm/agent_orange_linked_to_aggressive_bone_marrow/"
     },
     {
-        "id": "1s6tibp",
-        "author": "mvea",
-        "title": "Global human population has surpassed Earth\u2019s sustainable carrying capacity. The Earth cannot sustain the future human population, or even today\u2019s, without a major overhaul of socio-cultural practices for using land, water, energy, biodiversity, and other resources.",
-        "content": "",
-        "upvotes": 1430,
-        "comments": 422,
-        "media": null,
-        "permalink": "/r/science/comments/1s6tibp/global_human_population_has_surpassed_earths/"
-    },
-    {
         "id": "1s6vbrx",
         "author": "F0urLeafCl0ver",
         "title": "Study shows that including images of the corresponding living animals next to meat dishes on a British university cafeteria menu increases customers' selection of vegetarian meals. The odds of choosing vegetarian meals rose by 22% during the intervention period.",
         "content": "",
-        "upvotes": 1103,
-        "comments": 97,
+        "upvotes": 1375,
+        "comments": 120,
         "media": null,
         "permalink": "/r/science/comments/1s6vbrx/study_shows_that_including_images_of_the/"
+    },
+    {
+        "id": "1s6tibp",
+        "author": "mvea",
+        "title": "Global human population has surpassed Earth\u2019s sustainable carrying capacity. The Earth cannot sustain the future human population, or even today\u2019s, without a major overhaul of socio-cultural practices for using land, water, energy, biodiversity, and other resources.",
+        "content": "",
+        "upvotes": 1602,
+        "comments": 460,
+        "media": null,
+        "permalink": "/r/science/comments/1s6tibp/global_human_population_has_surpassed_earths/"
     },
     {
         "id": "1s6ifs6",
         "author": "mvea",
         "title": "Countries with stronger precarious manhood beliefs (being a \u201creal man\u201d is something that requires constant demonstration through behavior and achievement) tend to have lower national happiness, but also lower GDP, lower life expectancy, lower social support, and heightened perceptions of corruption.",
         "content": "",
-        "upvotes": 8770,
-        "comments": 317,
+        "upvotes": 8874,
+        "comments": 323,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/nEVMEaS6gG1N4NeeFuGE50Q5KPyeY9hztttfsEsBbbQ.jpeg?auto=webp&amp;s=148e471a2c42b45dd0fb8152f09515c89c423fd3"
@@ -59,22 +59,12 @@
         "permalink": "/r/science/comments/1s6ifs6/countries_with_stronger_precarious_manhood/"
     },
     {
-        "id": "1s6a4xq",
-        "author": "Creative_soja",
-        "title": "New study confirms 'private solution trap' in addressing climate change. Wealthy prefers private (adaptation) solutions to protect themselves rather than supporting public (mitigation) solutions. Such behavior worsens wealthy inequality and leave poor unprotected.",
-        "content": "",
-        "upvotes": 4947,
-        "comments": 56,
-        "media": null,
-        "permalink": "/r/science/comments/1s6a4xq/new_study_confirms_private_solution_trap_in/"
-    },
-    {
         "id": "1s6tq8p",
         "author": "sr_local",
         "title": "Implantable 'living pharmacy': tiny device, implantable and engineered with cells, produces a combination of different medicines, can function continuously inside the body for several weeks, potentially aiding in the treatment of chronic diseases",
         "content": "",
-        "upvotes": 222,
-        "comments": 13,
+        "upvotes": 242,
+        "comments": 14,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/gxd5ZQcemUCFCXvO6xNEL2OYieKsekfKE9iJs0w4ETQ.jpeg?auto=webp&amp;s=d6b94b31084accc40c782c209088ef590cf0fd83"
@@ -82,12 +72,22 @@
         "permalink": "/r/science/comments/1s6tq8p/implantable_living_pharmacy_tiny_device/"
     },
     {
+        "id": "1s6a4xq",
+        "author": "Creative_soja",
+        "title": "New study confirms 'private solution trap' in addressing climate change. Wealthy prefers private (adaptation) solutions to protect themselves rather than supporting public (mitigation) solutions. Such behavior worsens wealthy inequality and leave poor unprotected.",
+        "content": "",
+        "upvotes": 4981,
+        "comments": 56,
+        "media": null,
+        "permalink": "/r/science/comments/1s6a4xq/new_study_confirms_private_solution_trap_in/"
+    },
+    {
         "id": "1s6okv7",
         "author": "spreadloveBuddy",
         "title": "Brain scans reveal how poor sleep fuels negative emotions in alcohol addiction",
         "content": "",
-        "upvotes": 493,
-        "comments": 13,
+        "upvotes": 548,
+        "comments": 14,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/NL00Dxl5pGYK2r_itD9drlX56lwAlYIRmhfFR9LF9r8.jpeg?auto=webp&amp;s=092a0a38e602a9d9c7a049dff7ccec095ed9577e"
@@ -99,7 +99,7 @@
         "author": "Krankenitrate",
         "title": "Covid-19 pandemic and vaccination has led to generation of widespread immunity against related sarbecoviruses, creating an immunological barrier to novel sarbecovirus emergence in humans",
         "content": "",
-        "upvotes": 189,
+        "upvotes": 226,
         "comments": 4,
         "media": {
             "type": "image",
@@ -112,30 +112,17 @@
         "author": "Specialist_Ninja2398",
         "title": "A single dose of a new RNA based rabies vaccine given to puppies and kittens at 12weeks old provided complete protection against rabies for over 3 years with no serious adverse effects potentially eliminating the need for yearly boosters.",
         "content": "",
-        "upvotes": 467,
+        "upvotes": 489,
         "comments": 15,
         "media": null,
         "permalink": "/r/science/comments/1s6n8xq/a_single_dose_of_a_new_rna_based_rabies_vaccine/"
-    },
-    {
-        "id": "1s5yqth",
-        "author": "mvea",
-        "title": "People on the political right (but not the political left or center) rated the severity of police violence systematically lower, even when evidence was clear there was disproportionate use of force, if the attack was directed against a person with an immigrant background.",
-        "content": "",
-        "upvotes": 13899,
-        "comments": 609,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/7Lle5sfuy9DTSgIfHzbSzFqQcjSfzhdRvRK6qFmygvc.jpeg?auto=webp&amp;s=7d53c7c09ba47bc0f439829f29e86495d3b18817"
-        },
-        "permalink": "/r/science/comments/1s5yqth/people_on_the_political_right_but_not_the/"
     },
     {
         "id": "1s6y1ch",
         "author": "Sciantifa",
         "title": "Global study finds beef production drives ~40% of agriculture-linked deforestation worldwide, with Brazil leading; analysis across 179 countries shows 121 million hectares cleared (2001\u20132022), identifying cattle as the primary driver of food-related forest loss.",
         "content": "",
-        "upvotes": 51,
+        "upvotes": 78,
         "comments": 1,
         "media": {
             "type": "image",
@@ -144,11 +131,24 @@
         "permalink": "/r/science/comments/1s6y1ch/global_study_finds_beef_production_drives_40_of/"
     },
     {
+        "id": "1s5yqth",
+        "author": "mvea",
+        "title": "People on the political right (but not the political left or center) rated the severity of police violence systematically lower, even when evidence was clear there was disproportionate use of force, if the attack was directed against a person with an immigrant background.",
+        "content": "",
+        "upvotes": 13919,
+        "comments": 609,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/7Lle5sfuy9DTSgIfHzbSzFqQcjSfzhdRvRK6qFmygvc.jpeg?auto=webp&amp;s=7d53c7c09ba47bc0f439829f29e86495d3b18817"
+        },
+        "permalink": "/r/science/comments/1s5yqth/people_on_the_political_right_but_not_the/"
+    },
+    {
         "id": "1s6epyy",
         "author": "Appropriate-Push-668",
         "title": "Scientists discover \"overflow valve\" in cells linked to Parkinson's Disease.Researchers have uncovered how a mysterious ion channel helps cells break down waste, opening new possibilities for treating Parkinson's disease.",
         "content": "",
-        "upvotes": 810,
+        "upvotes": 823,
         "comments": 3,
         "media": null,
         "permalink": "/r/science/comments/1s6epyy/scientists_discover_overflow_valve_in_cells/"
@@ -158,7 +158,7 @@
         "author": "HeyItsMeUnsaid",
         "title": "Astronomers detect water vapor in the atmosphere of an exoplanet 120 light-years away, with temperatures exceeding 900 K, a 2026 study finds, providing new insights into atmospheric chemistry and planetary formation, though conditions remain too extreme to support known forms of life",
         "content": "",
-        "upvotes": 272,
+        "upvotes": 278,
         "comments": 6,
         "media": {
             "type": "image",
@@ -184,7 +184,7 @@
         "author": "chilladipa",
         "title": "Dengue Suppression by Male Wolbachia-Infected Mosquitoes | New England Journal of Medicine",
         "content": "",
-        "upvotes": 33,
+        "upvotes": 30,
         "comments": 3,
         "media": null,
         "permalink": "/r/science/comments/1s6tip7/dengue_suppression_by_male_wolbachiainfected/"
@@ -194,8 +194,8 @@
         "author": "one_five_one",
         "title": "Increases in Kratom-Related Reports to Poison Centers \u2014 National Poison Data System, United States, 2015\u20132025",
         "content": "",
-        "upvotes": 558,
-        "comments": 234,
+        "upvotes": 559,
+        "comments": 238,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/LiI2OqZB_AfX01rKnX9fXYy1lDc7ZKg4b9yaSxiW0F4.jpeg?auto=webp&amp;s=c2b3f8c7e12713953331d4107ee8b326462d5f4d"
@@ -207,7 +207,7 @@
         "author": "mvea",
         "title": "People with social anxiety experience more meaningful interactions in small groups. Adjusting the social environment to feel more controllable tends to help socially anxious individuals get the most out of their daily social exchanges.",
         "content": "",
-        "upvotes": 2761,
+        "upvotes": 2764,
         "comments": 44,
         "media": {
             "type": "image",
@@ -233,7 +233,7 @@
         "author": "Sciantifa",
         "title": "COVID-19 vaccination during pregnancy reduces infant hospitalization risk by 50% in the first two months of life. A study of 146,000 infants also refutes \"immune dysregulation\" claims, finding no increased risk of other infections in babies exposed to the vaccine before birth.",
         "content": "",
-        "upvotes": 1088,
+        "upvotes": 1100,
         "comments": 11,
         "media": null,
         "permalink": "/r/science/comments/1s5zc9p/covid19_vaccination_during_pregnancy_reduces/"
@@ -256,7 +256,7 @@
         "author": "ChhotaSaHydra",
         "title": "Competition between brain circuits improves information processing efficiency and computational performance, Nature Neuroscience study finds, showing that balanced neural competition enhances adaptability and cognition, offering new insights into how the brain optimizes complex tasks",
         "content": "",
-        "upvotes": 55,
+        "upvotes": 52,
         "comments": 1,
         "media": {
             "type": "image",
@@ -269,7 +269,7 @@
         "author": "Sciantifa",
         "title": "Children born after placental abruption face a 4.6x higher risk of cardiovascular death by age 28, a study of 3M births finds. Researchers warn this \"underappreciated\" pregnancy complication is linked to a 3x increase in heart disease hospitalizations for the offspring later in life.",
         "content": "",
-        "upvotes": 4283,
+        "upvotes": 4290,
         "comments": 153,
         "media": null,
         "permalink": "/r/science/comments/1s5mtf7/children_born_after_placental_abruption_face_a/"
@@ -279,7 +279,7 @@
         "author": "Tracheid",
         "title": "A new study has found that narcissism and perfectionism are more closely linked in everyday life than previously thought, with moment-to-moment changes in these traits shaping how people think and feel.",
         "content": "",
-        "upvotes": 672,
+        "upvotes": 670,
         "comments": 37,
         "media": {
             "type": "image",
@@ -292,7 +292,7 @@
         "author": "sr_local",
         "title": "Vaccines among US children (age 2) remained high for most routine immunizations in recent years (2024), but declines in several vaccines\u2014particularly influenza and the hepatitis B\u2014highlight growing gaps in vaccine coverage",
         "content": "",
-        "upvotes": 250,
+        "upvotes": 249,
         "comments": 7,
         "media": {
             "type": "image",
@@ -305,7 +305,7 @@
         "author": "mvea",
         "title": "\u201cDarkness faster than light\u201d: Researchers were able to confirm a prediction from the 1970s that the speed of \u201cdark points\u201d within light waves exceeds the speed of light. They do not carry energy or information, meaning they do not violate Einstein\u2019s principle.",
         "content": "",
-        "upvotes": 3951,
+        "upvotes": 3962,
         "comments": 316,
         "media": null,
         "permalink": "/r/science/comments/1s5hg4d/darkness_faster_than_light_researchers_were_able/"
@@ -315,8 +315,8 @@
         "author": "cakericeandbeans",
         "title": "Depression is linked to a genuine pessimistic bias rather than a realistic view of the world",
         "content": "",
-        "upvotes": 14023,
-        "comments": 1115,
+        "upvotes": 14041,
+        "comments": 1116,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/eC9sEgQRFo-aRbHa-vTT7Z5D9nN8Zc2cuouBB3BmsEY.jpeg?auto=webp&amp;s=afa80f5e281bd5d5235213005a65bef3b0e00ea0"
@@ -328,7 +328,7 @@
         "author": "Hurambuk",
         "title": "Eye drops made from pig semen deliver cancer treatment to mice",
         "content": "",
-        "upvotes": 1890,
+        "upvotes": 1886,
         "comments": 282,
         "media": null,
         "permalink": "/r/science/comments/1s5lhll/eye_drops_made_from_pig_semen_deliver_cancer/"
@@ -338,7 +338,7 @@
         "author": "InsaneSnow45",
         "title": "Psychology researchers identify a key emotional pattern among procrastinators. Findings suggest that procrastination is less about an inability to envision the future and more about managing the negative emotions associated with pursuing goals.",
         "content": "",
-        "upvotes": 5907,
+        "upvotes": 5914,
         "comments": 144,
         "media": {
             "type": "image",
@@ -351,7 +351,7 @@
         "author": "smurfyjenkins",
         "title": "AEJ study: The launch of Tinder \"led to a sharp, persistent increase in sexual activity, but with little corresponding impact on the formation of long-term relationships... Dating outcome inequality, especially among men, rose, alongside rates of sexual assault and STDs.\"",
         "content": "",
-        "upvotes": 2892,
+        "upvotes": 2897,
         "comments": 278,
         "media": null,
         "permalink": "/r/science/comments/1s5hfrt/aej_study_the_launch_of_tinder_led_to_a_sharp/"
