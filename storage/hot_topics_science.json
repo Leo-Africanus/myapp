@@ -27,8 +27,8 @@
         "author": "mvea",
         "title": "Brain scans reveal how a woman voluntarily enters a psychedelic-like trance without drugs. Her brain connectivity fundamentally reorganized during this state: her visual and somatosensory connections decreased, while connectivity in the frontoparietal control regions of the brain increased.",
         "content": "",
-        "upvotes": 5867,
-        "comments": 386,
+        "upvotes": 5964,
+        "comments": 389,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/_a-7kVB3qz-DgjXmJUdYH9pNq4psRhBYyNimSSN20sE.jpeg?auto=webp&amp;s=b19802388ecf21e6f3e1f7fca60ff86336176221"
@@ -40,8 +40,8 @@
         "author": "mvea",
         "title": "A single dose of psilocybin can lead to lasting shifts in a person\u2019s life values, such as an increased appreciation for life and greater self-acceptance. These lasting changes appear to be driven by specific acute effects of the drug, particularly feelings of profound unity and euphoria.",
         "content": "",
-        "upvotes": 22519,
-        "comments": 1328,
+        "upvotes": 22627,
+        "comments": 1334,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/CUAk-sF97KlxyIRWJozweKQb6GTruRdV0mCeDUQblDs.jpeg?auto=webp&amp;s=60d0f602a25c07185944ea0b845d19c98a8f0d79"
@@ -49,31 +49,31 @@
         "permalink": "/r/science/comments/1sc7ne5/a_single_dose_of_psilocybin_can_lead_to_lasting/"
     },
     {
-        "id": "1scp8hv",
-        "author": "Sciantifa",
-        "title": "Meteor impacts on early Earth may have been the \"spark\" for life by creating hydrothermal vent systems in craters. A new review suggests these hot, mineral-rich environments provided the chemical energy and stability needed for the first cells to form, similar to theories about deep-sea vents.",
-        "content": "",
-        "upvotes": 761,
-        "comments": 8,
-        "media": null,
-        "permalink": "/r/science/comments/1scp8hv/meteor_impacts_on_early_earth_may_have_been_the/"
-    },
-    {
         "id": "1scxwe1",
         "author": "Perunamies",
         "title": "A single session of Finnish sauna bathing significantly increases circulating immune cells, such as neutrophils and monocytes, with the effect being more pronounced than changes in inflammatory cytokines (n=51).",
         "content": "",
-        "upvotes": 101,
-        "comments": 7,
+        "upvotes": 200,
+        "comments": 23,
         "media": null,
         "permalink": "/r/science/comments/1scxwe1/a_single_session_of_finnish_sauna_bathing/"
+    },
+    {
+        "id": "1scp8hv",
+        "author": "Sciantifa",
+        "title": "Meteor impacts on early Earth may have been the \"spark\" for life by creating hydrothermal vent systems in craters. A new review suggests these hot, mineral-rich environments provided the chemical energy and stability needed for the first cells to form, similar to theories about deep-sea vents.",
+        "content": "",
+        "upvotes": 789,
+        "comments": 8,
+        "media": null,
+        "permalink": "/r/science/comments/1scp8hv/meteor_impacts_on_early_earth_may_have_been_the/"
     },
     {
         "id": "1scbo4r",
         "author": "Tracheid",
         "title": "Hostile sexism is linked to higher rates of social sabotage and gossip among young adults. Challenging traditional gender norms among youth might not only reduce prejudiced bias but also improve the way young people treat one another.",
         "content": "",
-        "upvotes": 1028,
+        "upvotes": 1039,
         "comments": 58,
         "media": {
             "type": "image",
@@ -86,8 +86,8 @@
         "author": "Tracheid",
         "title": "Study finds link between low birthweight and increased stroke risk in young adults, independent of BMI and gestational age",
         "content": "",
-        "upvotes": 70,
-        "comments": 9,
+        "upvotes": 73,
+        "comments": 10,
         "media": null,
         "permalink": "/r/science/comments/1sctrau/study_finds_link_between_low_birthweight_and/"
     },
@@ -96,7 +96,7 @@
         "author": "Morthra",
         "title": "Milk fat-globules derived from whey protein phospholipid concentrate prevent high-fat diet induced cognitive impairment in wistar rats in a manner associated with increased brain neuronal connectivity and sphingolipid clearance",
         "content": "",
-        "upvotes": 183,
+        "upvotes": 189,
         "comments": 11,
         "media": null,
         "permalink": "/r/science/comments/1scm6el/milk_fatglobules_derived_from_whey_protein/"
@@ -106,7 +106,7 @@
         "author": "sr_local",
         "title": "Neuroscientists have demonstrated for the first time that noninvasive brain stimulation can alter the activity of a critical deep brain region involved in emotion and memory. Paving the way to personalized, noninvasive brain stimulation",
         "content": "",
-        "upvotes": 553,
+        "upvotes": 561,
         "comments": 12,
         "media": {
             "type": "image",
@@ -119,7 +119,7 @@
         "author": "Sciantifa",
         "title": "A decade of ocean surveys reveals that Prochlorococcus, the world's most abundant phytoplankton, could decline by 50% in tropical waters by 2100. The study challenges previous assumptions that these microbes, which produce 20% of Earth's oxygen, would thrive in warmer seas.",
         "content": "",
-        "upvotes": 2482,
+        "upvotes": 2484,
         "comments": 63,
         "media": {
             "type": "image",
@@ -132,7 +132,7 @@
         "author": "Sciantifa",
         "title": "New research reveals that bumblebees can learn and recognize abstract rhythms, an ability previously thought to require large brains. Despite having brains the size of a sesame seed, bees can identify specific patterns across different speeds and even translate them between light and vibration.",
         "content": "",
-        "upvotes": 232,
+        "upvotes": 231,
         "comments": 13,
         "media": null,
         "permalink": "/r/science/comments/1sc89wl/new_research_reveals_that_bumblebees_can_learn/"
@@ -142,7 +142,7 @@
         "author": "Sciantifa",
         "title": "Researchers have developed first-in-class drugs that simultaneously block HIF-1 and HIF-2, the \"master regulators\" of cancer progression. When paired with immunotherapy, these compounds eliminated tumors across four cancer types in mice by stripping away their low-oxygen defenses.",
         "content": "",
-        "upvotes": 2780,
+        "upvotes": 2783,
         "comments": 34,
         "media": null,
         "permalink": "/r/science/comments/1sbppzg/researchers_have_developed_firstinclass_drugs/"
@@ -152,7 +152,7 @@
         "author": "Krankenitrate",
         "title": "Study finds parenthood provides no boost to emotional well-being and it negatively impacts relationship with your spouse",
         "content": "",
-        "upvotes": 13911,
+        "upvotes": 13930,
         "comments": 814,
         "media": null,
         "permalink": "/r/science/comments/1sbd83j/study_finds_parenthood_provides_no_boost_to/"
@@ -162,7 +162,7 @@
         "author": "DavidIsIt",
         "title": "Solving the mystery that could help fusion reactors survive decades of use",
         "content": "",
-        "upvotes": 1001,
+        "upvotes": 1015,
         "comments": 45,
         "media": {
             "type": "image",
@@ -175,7 +175,7 @@
         "author": "InsaneSnow45",
         "title": "This Simple Trick Might Stop Gulls From Nabbing Your Lunch. Researchers have found that sometimes googly eyes are one of a gull's biggest fears.",
         "content": "",
-        "upvotes": 626,
+        "upvotes": 633,
         "comments": 37,
         "media": {
             "type": "image",
@@ -188,7 +188,7 @@
         "author": "sr_local",
         "title": "Occasional heavy drinking may triple the risk of liver damage: those who consume large amounts of alcohol in a single day at least once per month are three times more likely to develop advanced liver fibrosis than individuals who spread out the same total alcohol intake over time",
         "content": "",
-        "upvotes": 5737,
+        "upvotes": 5749,
         "comments": 312,
         "media": {
             "type": "image",
@@ -201,7 +201,7 @@
         "author": "InsaneSnow45",
         "title": "Brain scans shed light on how short videos impair memory and alter neural pathways. Study reveals that fast-paced episodic media formats disrupt the neural systems responsible for integrating details and maintaining cognitive control.",
         "content": "",
-        "upvotes": 6078,
+        "upvotes": 6082,
         "comments": 143,
         "media": {
             "type": "image",
@@ -214,7 +214,7 @@
         "author": "fseersholm",
         "title": "Genetic evidence of a population collapse in France 5,000 years ago",
         "content": "",
-        "upvotes": 3147,
+        "upvotes": 3142,
         "comments": 119,
         "media": {
             "type": "image",
@@ -227,7 +227,7 @@
         "author": "mvea",
         "title": "Gene editing therapy (CRISPR/Cas12a) shows success against severe sickle cell disease - Nearly all patients (27 out of 28 patients) have achieved a functional cure. The results showed that most patients saw key blood cells recover within a month after treatment.",
         "content": "",
-        "upvotes": 1254,
+        "upvotes": 1261,
         "comments": 16,
         "media": {
             "type": "image",
@@ -240,7 +240,7 @@
         "author": "burtzev",
         "title": "Arbitrium phages can manipulate each other\u2019s lysis/lysogeny decisions",
         "content": "",
-        "upvotes": 60,
+        "upvotes": 58,
         "comments": 3,
         "media": null,
         "permalink": "/r/science/comments/1sc2ay0/arbitrium_phages_can_manipulate_each_others/"
@@ -250,7 +250,7 @@
         "author": "IntrepidWolverine517",
         "title": "New study finds evidence of cosmic explosions with missing black holes",
         "content": "",
-        "upvotes": 372,
+        "upvotes": 379,
         "comments": 14,
         "media": {
             "type": "image",
@@ -263,7 +263,7 @@
         "author": "SlaveOfOlympus",
         "title": "Vegetation traps nearly 3x more microplastic than bare ground, but a review of 199 studies warns this is creating a \u2018sink-hazard paradox\u2019 where natural filters turn into toxic hotspots.",
         "content": "",
-        "upvotes": 240,
+        "upvotes": 244,
         "comments": 10,
         "media": {
             "type": "image",
@@ -276,8 +276,8 @@
         "author": "TarantulaCollective",
         "title": "Do Tarantulas Know Where They\u2019re Going - What a New Paper Suggests About Spider Navigation",
         "content": "",
-        "upvotes": 103,
-        "comments": 9,
+        "upvotes": 104,
+        "comments": 10,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/obTPN_Pd94mSZgZL111PTGF8DHD7-uaIa1rOdElQmUM.jpeg?auto=webp&amp;s=bb18cd5f68a7113425ff66f2c38177ff911f0a10"
@@ -289,7 +289,7 @@
         "author": "fchung",
         "title": "Scientists uncover key brain cells most at risk of damage in multiple sclerosis: \u00ab Cedars-Sinai study offers important insights into new ways of protecting the brain from ms and other complex neurological conditions. \u00bb",
         "content": "",
-        "upvotes": 96,
+        "upvotes": 99,
         "comments": 5,
         "media": {
             "type": "image",
@@ -302,7 +302,7 @@
         "author": "ChhotaSaHydra",
         "title": "Studies report that mRNA-based cancer vaccines are being evaluated in clinical trials for melanoma, showing ability to generate tumor-specific immune responses and support immunotherapy approaches in recent oncology research",
         "content": "",
-        "upvotes": 594,
+        "upvotes": 602,
         "comments": 7,
         "media": null,
         "permalink": "/r/science/comments/1sb93d2/studies_report_that_mrnabased_cancer_vaccines_are/"
@@ -312,7 +312,7 @@
         "author": "mvea",
         "title": "Sleep helps the brain to cleanse itself \u2013 and now this process can be measured in humans entirely non-invasively. The brain\u2019s cleansing mechanism is driven by pulsations, natural bodily rhythms that move blood and cerebrospinal fluid through the brain.",
         "content": "",
-        "upvotes": 5454,
+        "upvotes": 5456,
         "comments": 201,
         "media": {
             "type": "image",
@@ -335,7 +335,7 @@
         "author": "smurfyjenkins",
         "title": "New York City's congestion pricing plan successfully reduced pollution and traffic in Manhattan \u2013 8 weeks after the implementation, traffic volumes declined by 10%, resulting in a 16\u201322% drop in emissions.",
         "content": "",
-        "upvotes": 7056,
+        "upvotes": 7053,
         "comments": 263,
         "media": {
             "type": "image",
@@ -348,7 +348,7 @@
         "author": "MistWeaver80",
         "title": "Regular physical activity in midlife cuts risk of early death. Study of more than 11,000 women found that only a few hours of moderate-to-vigorous activity per week had a strong effect.",
         "content": "",
-        "upvotes": 2236,
+        "upvotes": 2229,
         "comments": 39,
         "media": {
             "type": "image",
