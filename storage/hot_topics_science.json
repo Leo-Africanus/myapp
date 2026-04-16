@@ -4,8 +4,8 @@
         "author": "mvea",
         "title": "Scientists reverse brain aging, with a nasal spray: Scientists developed a nasal spray that, with just two doses, dramatically reduced brain inflammation, restored the brain\u2019s cellular power plants and significantly improved memory in mice, within weeks and lasted for months.",
         "content": "",
-        "upvotes": 5264,
-        "comments": 223,
+        "upvotes": 10536,
+        "comments": 391,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/jZTafpK_Oyw26MjvqR8soodEkNf9yvK24_Cyg2BI_T4.jpeg?auto=webp&amp;s=734a29d83c30406a1f3792d6881dd7d6eb8bad17"
@@ -17,8 +17,8 @@
         "author": "mvea",
         "title": "Substantial amount of medical information provided by 5 popular chatbots inaccurate and incomplete, with half of their answers to health questions \u201cproblematic\u201d. Grok generated significantly more highly problematic responses. Gemini generated the fewest highly problematic responses.",
         "content": "",
-        "upvotes": 3529,
-        "comments": 199,
+        "upvotes": 3886,
+        "comments": 203,
         "media": null,
         "permalink": "/r/science/comments/1sm5o8n/substantial_amount_of_medical_information/"
     },
@@ -27,8 +27,8 @@
         "author": "dagilbert1031",
         "title": "Magnetic Bees: In a collaboration between Ecology and Materials Science, we have found that &gt;90% of bees are ferromagnetic and presumably have the capacity to sense the geomagnetic field",
         "content": "",
-        "upvotes": 747,
-        "comments": 11,
+        "upvotes": 1109,
+        "comments": 13,
         "media": null,
         "permalink": "/r/science/comments/1smet6m/magnetic_bees_in_a_collaboration_between_ecology/"
     },
@@ -37,8 +37,8 @@
         "author": "Doug24",
         "title": "Sperm whales\u2019 communication closely parallels human language, study finds",
         "content": "",
-        "upvotes": 3187,
-        "comments": 95,
+        "upvotes": 3658,
+        "comments": 105,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/U4_z_Z7dxz8zVytK0oT22IN9cVOz1nddqy3PGMZ4oKY.jpeg?auto=webp&amp;s=4dfef7684f18275aa334a635c6105bd4eceb0936"
@@ -50,8 +50,8 @@
         "author": "InsaneSnow45",
         "title": "Researchers find DMT provides longer-lasting antidepressant effects than S-ketamine in mice study. Findings highlight the promise of psychedelic compounds as future therapies for severe, treatment-resistant mental health conditions.",
         "content": "",
-        "upvotes": 1051,
-        "comments": 112,
+        "upvotes": 1260,
+        "comments": 114,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/zHJLRvWczxHumb7m4EN_gl-LChp6mviV1PltYrhQ2dI.jpeg?auto=webp&amp;s=1280f089782d27f52f4d05c33612127bfd578350"
@@ -63,8 +63,8 @@
         "author": "InsaneSnow45",
         "title": "Scientists Generated Solar Power After Dark, Thanks to a Trick Using Wood | In a new experiment, reengineered balsa wood stored sunlight as heat.",
         "content": "",
-        "upvotes": 666,
-        "comments": 29,
+        "upvotes": 794,
+        "comments": 31,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/tG0dc8bzgiAkwLA_bVI3AVdxi7AyXP1F2uQLlQ723hs.jpeg?auto=webp&amp;s=06dc29a8acc3ad8c5f0e789e346585d4bb77bd80"
@@ -76,7 +76,7 @@
         "author": "MassGen-Research",
         "title": "New Drug Helps Patients Maintain Platelet Counts During Chemotherapy",
         "content": "",
-        "upvotes": 295,
+        "upvotes": 388,
         "comments": 2,
         "media": {
             "type": "image",
@@ -85,55 +85,65 @@
         "permalink": "/r/science/comments/1smhne6/new_drug_helps_patients_maintain_platelet_counts/"
     },
     {
-        "id": "1slpnli",
-        "author": "Cosmyka",
-        "title": "Global warming is accelerating 5,000 times faster than rice can evolve, threatening the food security of billions. New research warns that by 2070, traditional growing regions like India and Southeast Asia will exceed the 104\u00b0F (40\u00b0C) heat threshold where rice physically ceases to function.",
+        "id": "1smownz",
+        "author": "DeepWaterCurrent",
+        "title": "Large-scale analysis of 15,836 ancient West Eurasians detects consistent trends in allele frequency change, showing many hundreds of alleles under strong directional selection the past 10,000 years, including variants that today predict complex traits such as body fat, schizophrenia, and cognition.",
         "content": "",
-        "upvotes": 14509,
-        "comments": 641,
-        "media": null,
-        "permalink": "/r/science/comments/1slpnli/global_warming_is_accelerating_5000_times_faster/"
+        "upvotes": 158,
+        "comments": 2,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/_6511L47Src65jd1cFFal9rvmZObpT8ocxttwHK6DT8.png?auto=webp&amp;s=eb93245ed9b4e480684cf6b48ce806b7ac28c56a"
+        },
+        "permalink": "/r/science/comments/1smownz/largescale_analysis_of_15836_ancient_west/"
     },
     {
         "id": "1sm12qt",
         "author": "Wagamaga",
         "title": "US Faces $7.8 Billion Measles Risk as Shots Decline, Study Finds. Health Secretary Robert F. Kennedy Jr. has moved to reshape a key federal vaccine advisory panel, raising concerns among public health experts, while the US is already seeing more than 1,700 measles cases this year.",
         "content": "",
-        "upvotes": 1632,
-        "comments": 86,
+        "upvotes": 1772,
+        "comments": 92,
         "media": null,
         "permalink": "/r/science/comments/1sm12qt/us_faces_78_billion_measles_risk_as_shots_decline/"
+    },
+    {
+        "id": "1slpnli",
+        "author": "Cosmyka",
+        "title": "Global warming is accelerating 5,000 times faster than rice can evolve, threatening the food security of billions. New research warns that by 2070, traditional growing regions like India and Southeast Asia will exceed the 104\u00b0F (40\u00b0C) heat threshold where rice physically ceases to function.",
+        "content": "",
+        "upvotes": 14876,
+        "comments": 648,
+        "media": null,
+        "permalink": "/r/science/comments/1slpnli/global_warming_is_accelerating_5000_times_faster/"
+    },
+    {
+        "id": "1smwzge",
+        "author": "rjmsci",
+        "title": "Antibodies targeting amyloid-beta 'probably result in little to no difference in cognitive function' in Alzheimer's disease.",
+        "content": "",
+        "upvotes": 23,
+        "comments": 11,
+        "media": null,
+        "permalink": "/r/science/comments/1smwzge/antibodies_targeting_amyloidbeta_probably_result/"
     },
     {
         "id": "1smmctj",
         "author": "Cosmyka",
         "title": "Rare lung cancers can \"change identity\" to evade treatment, according to a spatial genomics study. Researchers found these tumors evolve from a single cell into hybrid states and create immune-shielded zones, suggesting the disease is widely underdiagnosed.",
         "content": "",
-        "upvotes": 57,
+        "upvotes": 104,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1smmctj/rare_lung_cancers_can_change_identity_to_evade/"
-    },
-    {
-        "id": "1slm6vl",
-        "author": "Tracheid",
-        "title": "New study links watching TikTok \u201cthirst traps\u201d to lower relationship trust and satisfaction. This provides evidence that watching or liking \u201cthirst traps\u201d tends to harm a relationship, especially if the people in the videos look physically different from a person\u2019s actual partner.",
-        "content": "",
-        "upvotes": 5079,
-        "comments": 361,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/NrYI8d-0x220TXMkh8Ssnr_G9q_8FSHSoAqNVLDD7OU.jpeg?auto=webp&amp;s=eebf73828230dd859fecb89071fdd709f1e483b8"
-        },
-        "permalink": "/r/science/comments/1slm6vl/new_study_links_watching_tiktok_thirst_traps_to/"
     },
     {
         "id": "1sm2f3l",
         "author": "universityofturku",
         "title": "Microbes have a far broader potential for biodegrading plastics than previously known. Researchers identified more than 600,000 microbial proteins capable of breaking down natural and synthetic plastics and created an extensive open database on microbial plastic biodegradation.",
         "content": "",
-        "upvotes": 384,
-        "comments": 17,
+        "upvotes": 430,
+        "comments": 19,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/2KQeVuCT4y19rX14gokf3dU6U3QsBv4LKCgsJ9CAcKc.jpeg?auto=webp&amp;s=75055408272dd067d7040de030cb5aa69d09b356"
@@ -141,11 +151,24 @@
         "permalink": "/r/science/comments/1sm2f3l/microbes_have_a_far_broader_potential_for/"
     },
     {
+        "id": "1slm6vl",
+        "author": "Tracheid",
+        "title": "New study links watching TikTok \u201cthirst traps\u201d to lower relationship trust and satisfaction. This provides evidence that watching or liking \u201cthirst traps\u201d tends to harm a relationship, especially if the people in the videos look physically different from a person\u2019s actual partner.",
+        "content": "",
+        "upvotes": 5134,
+        "comments": 363,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/NrYI8d-0x220TXMkh8Ssnr_G9q_8FSHSoAqNVLDD7OU.jpeg?auto=webp&amp;s=eebf73828230dd859fecb89071fdd709f1e483b8"
+        },
+        "permalink": "/r/science/comments/1slm6vl/new_study_links_watching_tiktok_thirst_traps_to/"
+    },
+    {
         "id": "1slmjex",
         "author": "mvea",
         "title": "Viewing sexual intimacy as a sacred experience is linked to higher levels of sexual satisfaction and passion. Spiritual meaning in the bedroom operates by enhancing specific relationship habits, such as open communication and staying present in the moment, rather than just frequency of intimacy.",
         "content": "",
-        "upvotes": 4181,
+        "upvotes": 4259,
         "comments": 166,
         "media": {
             "type": "image",
@@ -158,7 +181,7 @@
         "author": "Cosmyka",
         "title": "Global study of 480,000 wells reveals over 20% of coastal areas face significant groundwater depletion, with some levels dropping 50cm per year. Combined with rising sea levels, this overabstraction threatens to salinize drinking water for 30% of the world's population within 50 years.",
         "content": "",
-        "upvotes": 218,
+        "upvotes": 246,
         "comments": 2,
         "media": {
             "type": "image",
@@ -167,24 +190,11 @@
         "permalink": "/r/science/comments/1sm4ds1/global_study_of_480000_wells_reveals_over_20_of/"
     },
     {
-        "id": "1smownz",
-        "author": "DeepWaterCurrent",
-        "title": "Large-scale analysis of 15,836 ancient West Eurasians detects consistent trends in allele frequency change, showing many hundreds of alleles under strong directional selection the past 10,000 years, including variants that today predict complex traits such as body fat, schizophrenia, and cognition.",
-        "content": "",
-        "upvotes": 20,
-        "comments": 2,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/_6511L47Src65jd1cFFal9rvmZObpT8ocxttwHK6DT8.png?auto=webp&amp;s=eb93245ed9b4e480684cf6b48ce806b7ac28c56a"
-        },
-        "permalink": "/r/science/comments/1smownz/largescale_analysis_of_15836_ancient_west/"
-    },
-    {
         "id": "1sm5gpb",
         "author": "sr_local",
         "title": "Study has found that how people complete cognitive tests \u2014 including the small mistakes they make and the strategies they use \u2014 can predict who will later develop dementia, even years before diagnosis",
         "content": "",
-        "upvotes": 188,
+        "upvotes": 203,
         "comments": 3,
         "media": null,
         "permalink": "/r/science/comments/1sm5gpb/study_has_found_that_how_people_complete/"
@@ -194,7 +204,7 @@
         "author": "PreeOn",
         "title": "Vampire bats in Mexico may feed on CWD-positive deer, spreading disease and posing species-jump threat",
         "content": "",
-        "upvotes": 1593,
+        "upvotes": 1644,
         "comments": 19,
         "media": {
             "type": "image",
@@ -207,7 +217,7 @@
         "author": "PhysiolMM",
         "title": "In people with multiple sclerosis, aerobic training produced the largest reductions in both fatigue severity and fatigue impact among four exercise programs tested in an 8-week randomized trial",
         "content": "",
-        "upvotes": 231,
+        "upvotes": 243,
         "comments": 9,
         "media": null,
         "permalink": "/r/science/comments/1sm0guz/in_people_with_multiple_sclerosis_aerobic/"
@@ -217,8 +227,8 @@
         "author": "mvea",
         "title": "AI could soon allow powerful companies to charge each customer a different price for the same product, based on what they think each individual is willing to pay. AI lets firms tailor prices to each user, raising fairness concerns as consumers may unknowingly pay more than others.",
         "content": "",
-        "upvotes": 9671,
-        "comments": 1033,
+        "upvotes": 9718,
+        "comments": 1038,
         "media": null,
         "permalink": "/r/science/comments/1sl8gw7/ai_could_soon_allow_powerful_companies_to_charge/"
     },
@@ -227,7 +237,7 @@
         "author": "UFOsAreAGIs",
         "title": "Transgenic mouse-derived human monoclonal antibodies targeting EBV gp350 and gp42 provide basis for therapeutic development",
         "content": "",
-        "upvotes": 30,
+        "upvotes": 54,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1smekqu/transgenic_mousederived_human_monoclonal/"
@@ -237,30 +247,27 @@
         "author": "Cosmyka",
         "title": "Warm springs caused by climate change are forcing bees and wasps to hatch earlier, causing summer species to lose up to 34% of their body mass and depleting the vital fat reserves of spring species, especially those in cooler regions, according to a large-scale study of 15,000 insects.",
         "content": "",
-        "upvotes": 566,
+        "upvotes": 618,
         "comments": 21,
         "media": null,
         "permalink": "/r/science/comments/1sloupq/warm_springs_caused_by_climate_change_are_forcing/"
     },
     {
-        "id": "1sl7gh8",
-        "author": "Wagamaga",
-        "title": "In California, Texas and Iowa, cancer rates are 4-8% higher in areas with more industrial animal agriculture. Factory farms produce massive amounts of manure. Iowa\u2019s hogs alone produce an estimated 110 billion pounds of manure each year",
+        "id": "1smxdzt",
+        "author": "Square-Ad913",
+        "title": "Clinical effectiveness of Ya-Tha-Pra-Sen remedy for pain relief: A systematic review and meta-analysis of randomized controlled trials",
         "content": "",
-        "upvotes": 2995,
-        "comments": 40,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/b1OafcoA0QLLK7hFk-e2BBy2pUP6gy_vytuMJ-ELEAw.png?auto=webp&amp;s=e0531f35e5aa4622058f660bc637be5b4ebd4a61"
-        },
-        "permalink": "/r/science/comments/1sl7gh8/in_california_texas_and_iowa_cancer_rates_are_48/"
+        "upvotes": 0,
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/science/comments/1smxdzt/clinical_effectiveness_of_yathaprasen_remedy_for/"
     },
     {
         "id": "1sm9gt4",
         "author": "Oncotarget",
         "title": "Epigenetic dysregulation and biological function of PDX1 in prostate cancer",
         "content": "",
-        "upvotes": 33,
+        "upvotes": 54,
         "comments": 1,
         "media": {
             "type": "image",
@@ -269,11 +276,24 @@
         "permalink": "/r/science/comments/1sm9gt4/epigenetic_dysregulation_and_biological_function/"
     },
     {
+        "id": "1sl7gh8",
+        "author": "Wagamaga",
+        "title": "In California, Texas and Iowa, cancer rates are 4-8% higher in areas with more industrial animal agriculture. Factory farms produce massive amounts of manure. Iowa\u2019s hogs alone produce an estimated 110 billion pounds of manure each year",
+        "content": "",
+        "upvotes": 3013,
+        "comments": 41,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/b1OafcoA0QLLK7hFk-e2BBy2pUP6gy_vytuMJ-ELEAw.png?auto=webp&amp;s=e0531f35e5aa4622058f660bc637be5b4ebd4a61"
+        },
+        "permalink": "/r/science/comments/1sl7gh8/in_california_texas_and_iowa_cancer_rates_are_48/"
+    },
+    {
         "id": "1sm7dzh",
         "author": "AgingUS",
         "title": "A manually curated gene\u2013phenotype catalogue for progeroid syndromes and premature aging",
         "content": "",
-        "upvotes": 27,
+        "upvotes": 49,
         "comments": 1,
         "media": {
             "type": "image",
@@ -286,7 +306,7 @@
         "author": "0xIAmGame",
         "title": "Nutritional Strategies and Aging: Current Evidence and Future Directions",
         "content": "",
-        "upvotes": 39,
+        "upvotes": 50,
         "comments": 3,
         "media": {
             "type": "image",
@@ -299,7 +319,7 @@
         "author": "sfgate",
         "title": "Study finds at least 18% mortality rate for gray whales entering San Francisco Bay",
         "content": "",
-        "upvotes": 255,
+        "upvotes": 265,
         "comments": 3,
         "media": {
             "type": "image",
@@ -312,7 +332,7 @@
         "author": "InsaneSnow45",
         "title": "Ketone esters show promise as a new treatment for alcohol use disorder. Study found that a single dose of the supplement significantly reduced alcohol cravings in participants with alcohol use disorder and shifted brain energy use from glucose to ketones.",
         "content": "",
-        "upvotes": 1029,
+        "upvotes": 1041,
         "comments": 71,
         "media": {
             "type": "image",
@@ -325,38 +345,12 @@
         "author": "Inevitable-Middle681",
         "title": "The oldest known evidence of stitched clothing",
         "content": "",
-        "upvotes": 351,
+        "upvotes": 359,
         "comments": 25,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/atFbFEXAbU9i_ikNgFePvNfdv13K5YZfL5ur3HNe4D0.jpeg?auto=webp&amp;s=81a9afe6f81535d320cf6bf21434fc068cca207a"
         },
         "permalink": "/r/science/comments/1sliyjb/the_oldest_known_evidence_of_stitched_clothing/"
-    },
-    {
-        "id": "1sle1fm",
-        "author": "NGNResearch",
-        "title": "Highway construction is intensifying the urban heat island effect, the force behind a widening temperature divide between urban and rural communities.",
-        "content": "",
-        "upvotes": 455,
-        "comments": 5,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/1XFe_PYVSe6XVjXzhsmL5ITAUXHzjAIZs4Qijc5nTcU.jpeg?auto=webp&amp;s=4d1a87fc9f47d4160873da93bab14b31f50dc214"
-        },
-        "permalink": "/r/science/comments/1sle1fm/highway_construction_is_intensifying_the_urban/"
-    },
-    {
-        "id": "1sm27qm",
-        "author": "CESRA_highlights",
-        "title": "Connecting kinetic modelling and X-ray observations the researchers constrains poorly understood turbulent solar flare acceleration regions",
-        "content": "",
-        "upvotes": 30,
-        "comments": 1,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/joanSpS6vLo9zNvpO-473HGO2HyW3V8k8fX96w43H7E.jpeg?auto=webp&amp;s=eb8ce17a51043d592c16d1c0f7c0193ca3fedb01"
-        },
-        "permalink": "/r/science/comments/1sm27qm/connecting_kinetic_modelling_and_xray/"
     }
 ]
