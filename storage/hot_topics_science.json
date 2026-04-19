@@ -1,11 +1,60 @@
 [
     {
+        "id": "1sprlts",
+        "author": "mvea",
+        "title": "When autistic people ask AI programs for life advice, mentioning their diagnosis prompts these systems to recommend highly conservative choices like skipping social events or avoiding romance. This shift in advice reveals a hidden tension where the technology relies heavily on stereotypes.",
+        "content": "",
+        "upvotes": 8351,
+        "comments": 441,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/7t6uFAjQW3GRk9EAa22gn1up0QdwNDSIYHgtad2tdSg.jpeg?auto=webp&amp;s=7c13e8ce6dcea0af4bdbc94d360163d7b8248aa3"
+        },
+        "permalink": "/r/science/comments/1sprlts/when_autistic_people_ask_ai_programs_for_life/"
+    },
+    {
+        "id": "1spucwj",
+        "author": "mvea",
+        "title": "New study reveals how political bias conditions the impact of conspiracy thinking. Almost 80% of Republicans with the highest levels of conspiracism endorsed the conspiracy theory that Democratic operatives were behind assassination attempt against Donald Trump in 2024.",
+        "content": "",
+        "upvotes": 710,
+        "comments": 116,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/WSJlQ6yWCFQvxXUPR8FmMuc0a9uAsG2iqZYw8zAPd6g.jpeg?auto=webp&amp;s=8fb08be54f7a4f9ff9005819e060efdc351e9c57"
+        },
+        "permalink": "/r/science/comments/1spucwj/new_study_reveals_how_political_bias_conditions/"
+    },
+    {
+        "id": "1sps8v5",
+        "author": "sr_local",
+        "title": "GLP-1 medicine improves liver health, independently of weight loss: Semaglutide acts directly on a subset of liver cells, improving organ function and clinical trials show that patients who lose very little weight experience the same reductions in liver inflammation",
+        "content": "",
+        "upvotes": 345,
+        "comments": 10,
+        "media": null,
+        "permalink": "/r/science/comments/1sps8v5/glp1_medicine_improves_liver_health_independently/"
+    },
+    {
+        "id": "1spx340",
+        "author": "Cosmyka",
+        "title": "Taking gabapentinoids alongside benzodiazepines is associated with a 100% increase in drug poisoning hospitalization risk, while co-prescription with opioids shows a 30% increase. A study of 16,000 patients warns that these drugs may enhance the sedative effects of other medications.",
+        "content": "",
+        "upvotes": 138,
+        "comments": 12,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/MF7LsXQ5FWTFE-vHnEeR8f3a-NRTGkuL4n9m9R_16Tw.png?auto=webp&amp;s=47fe6719df8536c94207b1ac3dd294fdf858246f"
+        },
+        "permalink": "/r/science/comments/1spx340/taking_gabapentinoids_alongside_benzodiazepines/"
+    },
+    {
         "id": "1sp9grt",
         "author": "mvea",
         "title": "Published research in the social sciences has leaned consistently to the political left for more than six decades. The findings indicate that this leftward tilt has grown stronger over time, particularly regarding social and cultural issues.",
         "content": "",
-        "upvotes": 2785,
-        "comments": 678,
+        "upvotes": 3504,
+        "comments": 796,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/_mh0EEzkKv-sciEG3kh74M-1toJZJAwsdq4WUmZDy4c.jpeg?auto=webp&amp;s=70baaa340e32373779f09830dd441d2873fd87ca"
@@ -17,8 +66,8 @@
         "author": "mvea",
         "title": "Obesity drugs, which include semaglutide and tirzepatide, may be making patients lose more than just fat - these drugs may cause patients to lose more muscle mass. However, it's likely that muscle loss is part of weight loss more generally, rather than a side-effect of Ozempic-like drugs.",
         "content": "",
-        "upvotes": 5376,
-        "comments": 605,
+        "upvotes": 5646,
+        "comments": 613,
         "media": null,
         "permalink": "/r/science/comments/1sowhg5/obesity_drugs_which_include_semaglutide_and/"
     },
@@ -27,8 +76,8 @@
         "author": "James_Fortis",
         "title": "Long-term supplementation with plant-based protein, compared with animal-based protein, did not result in differences in body composition, muscle strength, physical performance, or cardiometabolic risk parameters, meta-analysis of 18 randomized controlled trials finds",
         "content": "",
-        "upvotes": 3197,
-        "comments": 329,
+        "upvotes": 3433,
+        "comments": 346,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/khN2hnR4TIkRGLh5BA5jIJcgoeL1MMwLMG-ovvsj0PA.jpeg?auto=webp&amp;s=addc443f94556d24f08e1627f91599973272a1a5"
@@ -36,24 +85,11 @@
         "permalink": "/r/science/comments/1soxll7/longterm_supplementation_with_plantbased_protein/"
     },
     {
-        "id": "1sow79y",
-        "author": "mvea",
-        "title": "There are parallels between current environment and the 1930s (geopolitical tensions, political polarization, trade conflicts, and regional wars). Japanese study found that international economic and political shocks can weaken democratic checks and drive elites to align with authoritarian power.",
-        "content": "",
-        "upvotes": 2083,
-        "comments": 52,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/UN6YG0O8EolwmrzCIacioQ2qy2vZfmjDTULIef4t6SY.jpeg?auto=webp&amp;s=6a5ec49581f9826c3f478fd5801d640ac6c7a747"
-        },
-        "permalink": "/r/science/comments/1sow79y/there_are_parallels_between_current_environment/"
-    },
-    {
         "id": "1spdb9w",
         "author": "Cosmyka",
         "title": "Large \"warm-bodied\" fish like tuna and sharks require four times more energy than cold-bodied species to survive. New research reveals a scaling mismatch where heat production outpaces heat loss as they grow, creating an \"overheating predicament\" that threatens these predators as oceans warm.",
         "content": "",
-        "upvotes": 241,
+        "upvotes": 357,
         "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1spdb9w/large_warmbodied_fish_like_tuna_and_sharks/"
@@ -63,18 +99,31 @@
         "author": "Cosmyka",
         "title": "A study of 7,500 adolescents who attempted to quit vaping identified high nicotine dependence, emotional regulation challenges, and fear of failure as the primary barriers to cessation. Data collected in Quebec schools (2022-2023) show that female participants reported significantly more difficulty.",
         "content": "",
-        "upvotes": 170,
-        "comments": 13,
+        "upvotes": 275,
+        "comments": 27,
         "media": null,
         "permalink": "/r/science/comments/1spdjer/a_study_of_7500_adolescents_who_attempted_to_quit/"
+    },
+    {
+        "id": "1sow79y",
+        "author": "mvea",
+        "title": "There are parallels between current environment and the 1930s (geopolitical tensions, political polarization, trade conflicts, and regional wars). Japanese study found that international economic and political shocks can weaken democratic checks and drive elites to align with authoritarian power.",
+        "content": "",
+        "upvotes": 2280,
+        "comments": 53,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/UN6YG0O8EolwmrzCIacioQ2qy2vZfmjDTULIef4t6SY.jpeg?auto=webp&amp;s=6a5ec49581f9826c3f478fd5801d640ac6c7a747"
+        },
+        "permalink": "/r/science/comments/1sow79y/there_are_parallels_between_current_environment/"
     },
     {
         "id": "1sowt7o",
         "author": "sr_local",
         "title": "The gut microbiome may play a role in regulating the acute stress response: higher microbial diversity has been associated with stronger hormonal and subjectively perceived stress reactivity",
         "content": "",
-        "upvotes": 1247,
-        "comments": 27,
+        "upvotes": 1387,
+        "comments": 29,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/TdUWeIg9yvTeWmLcMeLz01QCTqzamam_jaQhCXl0SqI.jpeg?auto=webp&amp;s=c38addd6e5ac39f20373d81611468433b74c58f9"
@@ -86,8 +135,8 @@
         "author": "koobcam_boy",
         "title": "Cough monitoring shows that most chronic cough patients fail to achieve satisfactory symptom control, highlighting a substantial unmet need for effective treatments for refractory unexplained chronic cough.",
         "content": "",
-        "upvotes": 368,
-        "comments": 22,
+        "upvotes": 421,
+        "comments": 23,
         "media": null,
         "permalink": "/r/science/comments/1sp3zx0/cough_monitoring_shows_that_most_chronic_cough/"
     },
@@ -96,7 +145,7 @@
         "author": "Cosmyka",
         "title": "Climate change is eroding the \"nighttime lull\" that helps firefighters contain wildfires. A study of 9,000 blazes across North America found that fire-conducive hours have increased by 36% since the 1970s, with \"round-the-clock\" burning conditions jumping by 232% in some northern regions.",
         "content": "",
-        "upvotes": 654,
+        "upvotes": 781,
         "comments": 4,
         "media": null,
         "permalink": "/r/science/comments/1soydpz/climate_change_is_eroding_the_nighttime_lull_that/"
@@ -106,8 +155,8 @@
         "author": "Tracheid",
         "title": "An 18-year-long study finds that people tend to procrastinate less as they move through young adulthood. This study reveals that procrastination is not only a short-term habit but a meaningful predictor of how people perform across multiple domains of life over nearly two decades.",
         "content": "",
-        "upvotes": 1846,
-        "comments": 110,
+        "upvotes": 1937,
+        "comments": 112,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/p0famjT1-Yf0SXhJA51_ZpfryaYf_MRXs9QGMUWRzz4.jpeg?auto=webp&amp;s=63526ebe1c97676a71f1bbf20ee462e77e6b4ca0"
@@ -115,21 +164,11 @@
         "permalink": "/r/science/comments/1sopo17/an_18yearlong_study_finds_that_people_tend_to/"
     },
     {
-        "id": "1spo5zq",
-        "author": "wikirank",
-        "title": "Wikilambda the ultimate: the Wikimedia foundation\u2019s search for the perfect language",
-        "content": "",
-        "upvotes": 7,
-        "comments": 3,
-        "media": null,
-        "permalink": "/r/science/comments/1spo5zq/wikilambda_the_ultimate_the_wikimedia_foundations/"
-    },
-    {
         "id": "1soq46o",
         "author": "Tracheid",
         "title": "Scientists find evidence some Alzheimer\u2019s symptoms may begin outside the brain",
         "content": "",
-        "upvotes": 602,
+        "upvotes": 643,
         "comments": 4,
         "media": {
             "type": "image",
@@ -142,8 +181,8 @@
         "author": "fchung",
         "title": "Does what you know affect what you see: \u00ab This long-debated question has been investigated in a number of studies, with some suggesting that prior knowledge, emotions, and desires can influence visual perceptions. \u00bb",
         "content": "",
-        "upvotes": 63,
-        "comments": 7,
+        "upvotes": 81,
+        "comments": 9,
         "media": null,
         "permalink": "/r/science/comments/1sp2m40/does_what_you_know_affect_what_you_see_this/"
     },
@@ -152,8 +191,8 @@
         "author": "paigejarreau",
         "title": "New study show that honey bees can detect viruses including deformed wing virus in their food sources, but in field tests they actually prefer food sources laced with virus.",
         "content": "",
-        "upvotes": 1590,
-        "comments": 43,
+        "upvotes": 1642,
+        "comments": 51,
         "media": null,
         "permalink": "/r/science/comments/1soep6s/new_study_show_that_honey_bees_can_detect_viruses/"
     },
@@ -162,7 +201,7 @@
         "author": "dumnezero",
         "title": "Functionally rich crop rotations increase calorie and macronutrient outputs across Europe",
         "content": "",
-        "upvotes": 141,
+        "upvotes": 158,
         "comments": 3,
         "media": {
             "type": "image",
@@ -175,8 +214,8 @@
         "author": "mvea",
         "title": "In many cultures, women tend to prefer partners with financial resources. Men tend to prioritize youth and physical beauty. New findings provide evidence that the traditional tendency for women to prefer wealthier partners might fade as women gain more economic power.",
         "content": "",
-        "upvotes": 13716,
-        "comments": 1322,
+        "upvotes": 13801,
+        "comments": 1329,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/46lHAALFm-xwLSj7QBFCaZoGGi_K_bxHmnHxVV7C0iY.jpeg?auto=webp&amp;s=533919df180fb4dd5bb4f8d659eac88a09cb898a"
@@ -188,8 +227,8 @@
         "author": "mvea",
         "title": "Fish living downstream of wastewater treatment plants are accumulating antidepressants, opioids and other drugs of abuse in their bodies. Fentanyl, methadone and venlafaxine were detected in small fish living in rivers that receive urban wastewater.",
         "content": "",
-        "upvotes": 4655,
-        "comments": 163,
+        "upvotes": 4704,
+        "comments": 167,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/kEXxGEFRavH5rPFpeiGVhM51Fhc3jAubql34evmEm7E.jpeg?auto=webp&amp;s=0997b8994e978f850eb181346dda2b7a7ccbc20a"
@@ -201,8 +240,8 @@
         "author": "Wagamaga",
         "title": "As we approach death, our dreams become more emotional and symbolic. Terminally ill people are commonly reunited with lost loved ones in their dreams and have visions of doors, stairways and light, which are said to help them accept the dying process",
         "content": "",
-        "upvotes": 7263,
-        "comments": 187,
+        "upvotes": 7334,
+        "comments": 189,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/mNr0HxZecXxnfKNcoww4r5EfADpVD7NJgP081qVgZB4.jpeg?auto=webp&amp;s=329516fbcdd7354f9eeeee1be17490aebd66af74"
@@ -214,7 +253,7 @@
         "author": "ddx-me",
         "title": "Department of Veterans Affairs trial of 11 AI scribe vendors versus 3 human-written clinic notes over 5 simulated patient cases: humans had higher quality clinic notes across all domains and all cases",
         "content": "",
-        "upvotes": 1021,
+        "upvotes": 1038,
         "comments": 27,
         "media": null,
         "permalink": "/r/science/comments/1so7gej/department_of_veterans_affairs_trial_of_11_ai/"
@@ -224,8 +263,8 @@
         "author": "Cosmyka",
         "title": "Extreme heat is not yet triggering mass migration in the U.S.; instead, it is slowing population growth by making hot areas less attractive to newcomers. A new study finds that economic opportunity and housing costs remain the primary drivers of where Americans move, even as temperatures rise.",
         "content": "",
-        "upvotes": 1375,
-        "comments": 89,
+        "upvotes": 1398,
+        "comments": 92,
         "media": null,
         "permalink": "/r/science/comments/1so3l8y/extreme_heat_is_not_yet_triggering_mass_migration/"
     },
@@ -234,7 +273,7 @@
         "author": "Super_Letterhead381",
         "title": "A new taxon of saurischian dinosaur from the Coelophysis Quarry of New Mexico, USA (Triassic: latest Norian or Rhaetian) highlights herrerasaurian diversity in the latest Triassic",
         "content": "",
-        "upvotes": 55,
+        "upvotes": 59,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1sorwxd/a_new_taxon_of_saurischian_dinosaur_from_the/"
@@ -244,7 +283,7 @@
         "author": "USCDornsifeNews",
         "title": "Scientists test gravity on cosmic scales and find it behaves as expected, strengthening the case for dark matter",
         "content": "",
-        "upvotes": 649,
+        "upvotes": 650,
         "comments": 16,
         "media": {
             "type": "image",
@@ -257,7 +296,7 @@
         "author": "shiruken",
         "title": "Newly discovered bacterial defense system challenges genetic code's central dogma: Stanford University team describes a bacterial enzyme that synthesizes DNA without a nucleic acid template, using its own structure as a guide",
         "content": "",
-        "upvotes": 454,
+        "upvotes": 455,
         "comments": 23,
         "media": null,
         "permalink": "/r/science/comments/1so4cpw/newly_discovered_bacterial_defense_system/"
@@ -267,8 +306,8 @@
         "author": "Cosmyka",
         "title": "Common silicones from engine oil and cosmetics are far more prevalent in the atmosphere than expected, making up to 4.3% of organic aerosol mass. This stable pollutant is now omnipresent in urban and rural air, potentially impacting both human health and cloud formation.",
         "content": "",
-        "upvotes": 5718,
-        "comments": 92,
+        "upvotes": 5748,
+        "comments": 94,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/KU68DdUUA0HYPOD-dytPhMZ4uOANbi8opoZhff7nXJM.jpeg?auto=webp&amp;s=118371c4b444fefe5b8bde24db526d6b3180a2fd"
@@ -280,7 +319,7 @@
         "author": "sr_local",
         "title": "People who consume ultra-processed foods have worse muscle health: a diet high in ultra-processed foods is associated with higher amounts of fat stored inside thigh muscles, regardless of calorie or fat intake, physical activity or sociodemographic factors",
         "content": "",
-        "upvotes": 454,
+        "upvotes": 461,
         "comments": 91,
         "media": null,
         "permalink": "/r/science/comments/1snzt2z/people_who_consume_ultraprocessed_foods_have/"
@@ -290,8 +329,8 @@
         "author": "azonetwork",
         "title": "Longer Ranges Unlocked for Hydrogen Vehicles",
         "content": "",
-        "upvotes": 514,
-        "comments": 180,
+        "upvotes": 535,
+        "comments": 181,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/rSkHh6vWsRtVH40cFfKlXziIrXZO_m2RZGJtMQZLz0Y.jpeg?auto=webp&amp;s=af8ccaf2df0279b7d79ee201ef24eaec005a943c"
@@ -303,45 +342,9 @@
         "author": "mvea",
         "title": "Trials of psychedelics for mental health may be invalid, because it's fairly obvious to patients whether they've been given a psychedelic or a placebo. Blinding failed more than 90% of the time in the studies of psilocybin, LSD and DMT, and 85% of the time in studies of MDMA.",
         "content": "",
-        "upvotes": 1966,
+        "upvotes": 1980,
         "comments": 360,
         "media": null,
         "permalink": "/r/science/comments/1snnein/trials_of_psychedelics_for_mental_health_may_be/"
-    },
-    {
-        "id": "1snv1df",
-        "author": "CoffeeTeaJournal",
-        "title": "A 2026 prospective cohort study of over 276,000 adults found that moderate daily consumption of tea (2-3 cups) is associated with a 33% lower risk of developing lung cancer, while coffee (2-3 cups) is linked to a 23% lower risk.",
-        "content": "",
-        "upvotes": 463,
-        "comments": 49,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/eFMa-V1uKt_0fEaeLyZatpb8QwmDWeu0cd35rQ-BtGk.jpeg?auto=webp&amp;s=3ccfb02ee1a9d392e35707ff6b7cfc25262c0542"
-        },
-        "permalink": "/r/science/comments/1snv1df/a_2026_prospective_cohort_study_of_over_276000/"
-    },
-    {
-        "id": "1so5w86",
-        "author": "fchung",
-        "title": "Neurobiologists hack brain circuits tied to placebo pain relief: \u00ab Researchers demonstrate that placebo pain relief generalizes across different types of pain, offering hope for opioid-free pain management strategies. \u00bb",
-        "content": "",
-        "upvotes": 109,
-        "comments": 9,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/wZ9VBODYdSHBbCR5WzkxuXJGT1QCnvTvhf6Sc4zXlGU.jpeg?auto=webp&amp;s=355dc3542659d82131f98af1a1aaf479d8970903"
-        },
-        "permalink": "/r/science/comments/1so5w86/neurobiologists_hack_brain_circuits_tied_to/"
-    },
-    {
-        "id": "1snuxxk",
-        "author": "ludwig_scientist",
-        "title": "A rare genetic disorder (ADCY5) causing severe involuntary nighttime movements, often misdiagnosed as cerebral palsy, was treated with a high-dose caffeine. A 32-year-old patient had his exhausting night attacks stop with zero side effects.",
-        "content": "",
-        "upvotes": 366,
-        "comments": 12,
-        "media": null,
-        "permalink": "/r/science/comments/1snuxxk/a_rare_genetic_disorder_adcy5_causing_severe/"
     }
 ]
