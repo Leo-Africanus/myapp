@@ -1,11 +1,31 @@
 [
     {
+        "id": "1t0cfm2",
+        "author": "mvea",
+        "title": "Measles was declared eliminated in the US in 2000. The CDC established 7 indicators of measles elimination status to ensure it remained on track. A new study finds that the US has missed 4 of the 7 criteria, with the others at risk. US measles elimination status will be reevaluated in November 2026.",
+        "content": "",
+        "upvotes": 5058,
+        "comments": 77,
+        "media": null,
+        "permalink": "/r/science/comments/1t0cfm2/measles_was_declared_eliminated_in_the_us_in_2000/"
+    },
+    {
+        "id": "1t0f5o3",
+        "author": "Penis_Envy_Peter",
+        "title": "Concerns about the health effects of industrially produced seed oils are without scientific foundation.",
+        "content": "",
+        "upvotes": 875,
+        "comments": 165,
+        "media": null,
+        "permalink": "/r/science/comments/1t0f5o3/concerns_about_the_health_effects_of_industrially/"
+    },
+    {
         "id": "1sztg7m",
         "author": "mvea",
         "title": "Gold digging is strongly linked to psychopathy and dark personality traits, study finds. People who engage in this behavior actively sacrifice emotional intimacy to extract financial resources from their partners.",
         "content": "",
-        "upvotes": 4548,
-        "comments": 368,
+        "upvotes": 8082,
+        "comments": 559,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/1EDGekMfJMRGtLidcDJi2YjWB5cWYBARnzrq8lfTCCk.jpeg?auto=webp&amp;s=8d6992bb14a5c99e9cfd013f0e83228d8a4285b1"
@@ -17,8 +37,8 @@
         "author": "sr_local",
         "title": "Coffee may help protect the body from aging: new research suggests that compounds in coffee may work, in part, by activating a receptor in the body known as NR4A1 \u2014 a protein increasingly recognized for its role in aging, stress response and disease",
         "content": "",
-        "upvotes": 1206,
-        "comments": 116,
+        "upvotes": 2723,
+        "comments": 180,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/7yEAcqEWfT9gx96hmnP5vaLk6Gt0g0CcQG_bXgcgYGw.jpeg?auto=webp&amp;s=4596a3375935350a9ad5d5c68a26c595e5c5310a"
@@ -26,25 +46,22 @@
         "permalink": "/r/science/comments/1szv3uk/coffee_may_help_protect_the_body_from_aging_new/"
     },
     {
-        "id": "1szd2ei",
-        "author": "mvea",
-        "title": "Knee surgery for cartilage damage does not benefit patients, study suggests. People with meniscus tears who underwent surgery had poorer knee function and worse osteoarthritis after 10 years than those who did not.",
+        "id": "1t06bxa",
+        "author": "belledenuit",
+        "title": "New study shows that people who had an out-of-hospital cardiac arrest at night had substantially worse outcomes than those treated during the day; this was not only explained by slower ambulance response",
         "content": "",
-        "upvotes": 14878,
-        "comments": 896,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/sJsfUaVgBBSPDd6ZWnn4OxE8_NlDdCqzlmLguuJ1m3M.jpeg?auto=webp&amp;s=d8a503f7ad2378b90e475ccd6a1f9caae8b03960"
-        },
-        "permalink": "/r/science/comments/1szd2ei/knee_surgery_for_cartilage_damage_does_not/"
+        "upvotes": 414,
+        "comments": 23,
+        "media": null,
+        "permalink": "/r/science/comments/1t06bxa/new_study_shows_that_people_who_had_an/"
     },
     {
         "id": "1szu5n7",
         "author": "mvea",
         "title": "Americans support cannabis rescheduling, study finds. Findings, which come as the Trump administration last week reclassified state-licensed medical marijuana from a Schedule I drug to a less dangerous Schedule III, suggest the public would like to see even more reform.",
         "content": "",
-        "upvotes": 541,
-        "comments": 16,
+        "upvotes": 1545,
+        "comments": 53,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/H9T4WUy_HyN0i5FvVrQsNN6ZfU51hSHom-VBb_fC7FQ.jpeg?auto=webp&amp;s=e307d088cced1002f77457ff7322b59aa9353a4a"
@@ -52,12 +69,71 @@
         "permalink": "/r/science/comments/1szu5n7/americans_support_cannabis_rescheduling_study/"
     },
     {
+        "id": "1t0466r",
+        "author": "paigejarreau",
+        "title": "A first-year \"Becoming a Scientist\" seminar course for college students improves retention and GPAs",
+        "content": "",
+        "upvotes": 473,
+        "comments": 5,
+        "media": null,
+        "permalink": "/r/science/comments/1t0466r/a_firstyear_becoming_a_scientist_seminar_course/"
+    },
+    {
+        "id": "1szd2ei",
+        "author": "mvea",
+        "title": "Knee surgery for cartilage damage does not benefit patients, study suggests. People with meniscus tears who underwent surgery had poorer knee function and worse osteoarthritis after 10 years than those who did not.",
+        "content": "",
+        "upvotes": 16601,
+        "comments": 966,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/sJsfUaVgBBSPDd6ZWnn4OxE8_NlDdCqzlmLguuJ1m3M.jpeg?auto=webp&amp;s=d8a503f7ad2378b90e475ccd6a1f9caae8b03960"
+        },
+        "permalink": "/r/science/comments/1szd2ei/knee_surgery_for_cartilage_damage_does_not/"
+    },
+    {
+        "id": "1t01q8r",
+        "author": "Wagamaga",
+        "title": "Research shows that more than half of people receiving systemic anticancer treatment had a history of obesity, compared with only around one in four who were classified as obese at the time their treatment began.",
+        "content": "",
+        "upvotes": 291,
+        "comments": 12,
+        "media": null,
+        "permalink": "/r/science/comments/1t01q8r/research_shows_that_more_than_half_of_people/"
+    },
+    {
+        "id": "1t099fr",
+        "author": "Jxntb733",
+        "title": "AMA 2026 survey shows 80%+ of physicians now use AI, boosting efficiency and diagnostics but raising privacy and skill-loss concerns",
+        "content": "",
+        "upvotes": 63,
+        "comments": 2,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/jvHCj6Ck-AYZdYhfgxX0Sl5iPJDygYxtcx-jwfwd3KA.jpeg?auto=webp&amp;s=f8d1e9e4012b17d8dbca7a9ecf386b0ac7f15bf4"
+        },
+        "permalink": "/r/science/comments/1t099fr/ama_2026_survey_shows_80_of_physicians_now_use_ai/"
+    },
+    {
+        "id": "1szxcmp",
+        "author": "Clear_Polish23",
+        "title": "Science debunks the fashion myth that vertical stripes are always slimming. Findings offer practical insights into how simple geometric patterns alter our visual judgment of the human figure.",
+        "content": "",
+        "upvotes": 191,
+        "comments": 20,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/LfA7GfwOBKxX-ILHKOm0W2doxORfpYKBKI0JnkET54s.jpeg?auto=webp&amp;s=1143e9f27e5acd1d48e2bd6b11606a35a0a37911"
+        },
+        "permalink": "/r/science/comments/1szxcmp/science_debunks_the_fashion_myth_that_vertical/"
+    },
+    {
         "id": "1szf7db",
         "author": "TheJournalAJDAA",
         "title": "Mortality from alcohol-induced hypertension has risen drastically in the U.S. from 1999-2020, with forecasts predicting an even higher spike in rates by 2030.",
         "content": "",
-        "upvotes": 1686,
-        "comments": 156,
+        "upvotes": 2094,
+        "comments": 187,
         "media": null,
         "permalink": "/r/science/comments/1szf7db/mortality_from_alcoholinduced_hypertension_has/"
     },
@@ -66,8 +142,8 @@
         "author": "mvea",
         "title": "City birds appear to be more afraid of women than men, and scientists have no idea why. Men could get about a meter closer to birds than women could before the animals flew away, regardless of what the men and women were wearing, what their height was or how they tried to approach the creatures.",
         "content": "",
-        "upvotes": 21492,
-        "comments": 1786,
+        "upvotes": 21996,
+        "comments": 1829,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/DoQg3qGub7xvQovhnfD-CYBUCIu3DDSHA9TmY-cpVNw.jpeg?auto=webp&amp;s=7b320f63517baeea8adf291f4116abfcaa2b110e"
@@ -75,25 +151,22 @@
         "permalink": "/r/science/comments/1syw4ov/city_birds_appear_to_be_more_afraid_of_women_than/"
     },
     {
-        "id": "1szxcmp",
-        "author": "Clear_Polish23",
-        "title": "Science debunks the fashion myth that vertical stripes are always slimming. Findings offer practical insights into how simple geometric patterns alter our visual judgment of the human figure.",
+        "id": "1t00f5h",
+        "author": "iamphilosofie",
+        "title": "New study finds medications used by ME/CFS specialists may be underutilized to treat ME/CFS in primary care and details treatment options clinicians may consider",
         "content": "",
-        "upvotes": 77,
-        "comments": 9,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/LfA7GfwOBKxX-ILHKOm0W2doxORfpYKBKI0JnkET54s.jpeg?auto=webp&amp;s=1143e9f27e5acd1d48e2bd6b11606a35a0a37911"
-        },
-        "permalink": "/r/science/comments/1szxcmp/science_debunks_the_fashion_myth_that_vertical/"
+        "upvotes": 55,
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/science/comments/1t00f5h/new_study_finds_medications_used_by_mecfs/"
     },
     {
         "id": "1sywsf7",
         "author": "mvea",
         "title": "After President Donald Trump was elected in 2024, Democratic supporters reported decrease in well-being, optimism, personal control, and institutional trust, while also experiencing higher cynicism. In contrast, Republican supporters experienced changes in the opposite direction.",
         "content": "",
-        "upvotes": 6799,
-        "comments": 707,
+        "upvotes": 7110,
+        "comments": 728,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/E0aWhMCrkmz7HPE5vpUDqNJxY7dRmFlTXWgGMLvJWMk.jpeg?auto=webp&amp;s=67f3ee1f9cba6a365bd922803402b3a8e949811e"
@@ -105,18 +178,31 @@
         "author": "geoff199",
         "title": "Narcissism runs in families, but it is almost entirely due to genetics, according to a new extended twin family analysis.  The study found no evidence of environmental sources of narcissism shared within families.",
         "content": "",
-        "upvotes": 3496,
-        "comments": 276,
+        "upvotes": 3760,
+        "comments": 298,
         "media": null,
         "permalink": "/r/science/comments/1sz1c1m/narcissism_runs_in_families_but_it_is_almost/"
+    },
+    {
+        "id": "1szt6eh",
+        "author": "uniofwarwick",
+        "title": "Amorphous intermediates and discovery of a kinetic polymorph of BiVO4 from heating V+Bi+Zn single-source precursors - Nature Communications",
+        "content": "",
+        "upvotes": 71,
+        "comments": 4,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/7y75Y-3lbUH7EY4IA7fSTiP2OhwcYYC7WNfvrmX0dag.png?auto=webp&amp;s=8eae0fc5e0215815e09a5b599cc98afd618720f9"
+        },
+        "permalink": "/r/science/comments/1szt6eh/amorphous_intermediates_and_discovery_of_a/"
     },
     {
         "id": "1syzchv",
         "author": "Wagamaga",
         "title": "Research has found the earliest 'protodogs' actually had larger brains than their wolf relatives, probably a result of adapting to living alongside us, but by 5,000 years ago, that increase had reversed dramatically, and dogs' brains were now 46% smaller than wolves'.",
         "content": "",
-        "upvotes": 1999,
-        "comments": 120,
+        "upvotes": 2327,
+        "comments": 135,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/7VCiTaXrvB1QsncCQf7fODKr_ij2dDsnyIHC1lrWitQ.jpeg?auto=webp&amp;s=ff5c85c9a309ca3dfd30b0cf6e26cfacaf5e2df5"
@@ -124,11 +210,21 @@
         "permalink": "/r/science/comments/1syzchv/research_has_found_the_earliest_protodogs/"
     },
     {
+        "id": "1sz5iwr",
+        "author": "Wagamaga",
+        "title": "Research found nearly one in three women experiences depressive, anxiety, and/or insomnia symptoms around menopausal transition, underscoring the need for routine mental health screening and integrated multidisciplinary care",
+        "content": "",
+        "upvotes": 923,
+        "comments": 40,
+        "media": null,
+        "permalink": "/r/science/comments/1sz5iwr/research_found_nearly_one_in_three_women/"
+    },
+    {
         "id": "1sz220l",
         "author": "Wagamaga",
         "title": "Research has found that listening to music with another person increases the moment-to-moment similarity of subjective pleasure and enhances neural alignment. The findings help explain how music acts as a powerful tool for social bonding and collective emotional experiences.",
         "content": "",
-        "upvotes": 1151,
+        "upvotes": 1266,
         "comments": 8,
         "media": {
             "type": "image",
@@ -137,44 +233,11 @@
         "permalink": "/r/science/comments/1sz220l/research_has_found_that_listening_to_music_with/"
     },
     {
-        "id": "1sz5iwr",
-        "author": "Wagamaga",
-        "title": "Research found nearly one in three women experiences depressive, anxiety, and/or insomnia symptoms around menopausal transition, underscoring the need for routine mental health screening and integrated multidisciplinary care",
-        "content": "",
-        "upvotes": 770,
-        "comments": 39,
-        "media": null,
-        "permalink": "/r/science/comments/1sz5iwr/research_found_nearly_one_in_three_women/"
-    },
-    {
-        "id": "1szapxj",
-        "author": "Hrmbee",
-        "title": "Grads from diverse classes get higher salaries | Racial diversity in higher education is associated with higher student salaries",
-        "content": "",
-        "upvotes": 376,
-        "comments": 34,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/ts245KEZEEj4Kie17iZmEJ5Qd0IUttmWMtqYPEorigo.jpeg?auto=webp&amp;s=2c71d9712c7b75cd2674cbaa3f5029debaaa18e9"
-        },
-        "permalink": "/r/science/comments/1szapxj/grads_from_diverse_classes_get_higher_salaries/"
-    },
-    {
-        "id": "1t00f5h",
-        "author": "iamphilosofie",
-        "title": "New study finds medications used by ME/CFS specialists may be underutilized to treat ME/CFS in primary care and details treatment options clinicians may consider",
-        "content": "",
-        "upvotes": 11,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1t00f5h/new_study_finds_medications_used_by_mecfs/"
-    },
-    {
         "id": "1szp4e5",
         "author": "CESRA_highlights",
         "title": "Signatures of Large-scale Magnetic Field Disturbances and Switchbacks in Interplanetary Type III Radio Bursts",
         "content": "",
-        "upvotes": 53,
+        "upvotes": 68,
         "comments": 2,
         "media": {
             "type": "image",
@@ -183,25 +246,25 @@
         "permalink": "/r/science/comments/1szp4e5/signatures_of_largescale_magnetic_field/"
     },
     {
-        "id": "1szt6eh",
-        "author": "uniofwarwick",
-        "title": "Amorphous intermediates and discovery of a kinetic polymorph of BiVO4 from heating V+Bi+Zn single-source precursors - Nature Communications",
+        "id": "1szapxj",
+        "author": "Hrmbee",
+        "title": "Grads from diverse classes get higher salaries | Racial diversity in higher education is associated with higher student salaries",
         "content": "",
-        "upvotes": 46,
-        "comments": 3,
+        "upvotes": 463,
+        "comments": 38,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/7y75Y-3lbUH7EY4IA7fSTiP2OhwcYYC7WNfvrmX0dag.png?auto=webp&amp;s=8eae0fc5e0215815e09a5b599cc98afd618720f9"
+            "url": "https://external-preview.redd.it/ts245KEZEEj4Kie17iZmEJ5Qd0IUttmWMtqYPEorigo.jpeg?auto=webp&amp;s=2c71d9712c7b75cd2674cbaa3f5029debaaa18e9"
         },
-        "permalink": "/r/science/comments/1szt6eh/amorphous_intermediates_and_discovery_of_a/"
+        "permalink": "/r/science/comments/1szapxj/grads_from_diverse_classes_get_higher_salaries/"
     },
     {
         "id": "1syj9bz",
         "author": "unsw",
         "title": "Study suggests yawning may help move cerebrospinal fluid and venous blood out of the skull, potentially playing a role in cleaning brain fluid",
         "content": "",
-        "upvotes": 12063,
-        "comments": 329,
+        "upvotes": 12310,
+        "comments": 333,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/nG25tCUsz42dblC755FMmVWPG-T_hXEo48nGljd0gZM.jpeg?auto=webp&amp;s=0ff350874eafba171705cfdee6350aecea688f22"
@@ -213,27 +276,17 @@
         "author": "Jxntb733",
         "title": "\"Show us the evidence for the value of medical AI\" - Nature Medicine calls for stronger evidence of clinical value.",
         "content": "",
-        "upvotes": 797,
-        "comments": 104,
+        "upvotes": 877,
+        "comments": 110,
         "media": null,
         "permalink": "/r/science/comments/1syx7ea/show_us_the_evidence_for_the_value_of_medical_ai/"
-    },
-    {
-        "id": "1t01q8r",
-        "author": "Wagamaga",
-        "title": "Research shows that more than half of people receiving systemic anticancer treatment had a history of obesity, compared with only around one in four who were classified as obese at the time their treatment began.",
-        "content": "",
-        "upvotes": 4,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/science/comments/1t01q8r/research_shows_that_more_than_half_of_people/"
     },
     {
         "id": "1szkyna",
         "author": "ChhotaSaHydra",
         "title": "Hybrid deep learning framework integrating convolutional neural networks and attention mechanisms demonstrates high accuracy in detecting and classifying brain tumors from MRI datasets under semi-supervised training conditions",
         "content": "",
-        "upvotes": 42,
+        "upvotes": 66,
         "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1szkyna/hybrid_deep_learning_framework_integrating/"
@@ -243,8 +296,8 @@
         "author": "fchung",
         "title": "Heartbeat\u2019s mechanical force found to suppress tumour growth: \u00ab An international study reveals how mechanical forces in cardiac tissue inhibit cancer cell proliferation. \u00bb",
         "content": "",
-        "upvotes": 138,
-        "comments": 6,
+        "upvotes": 170,
+        "comments": 7,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/1bNtVAOghE9fENAOTabD-gpJ7twZR99ceEjtDdvdg-s.jpeg?auto=webp&amp;s=696e444a01e8f8c252fdcf917d39f35b98f5ada4"
@@ -256,7 +309,7 @@
         "author": "sr_local",
         "title": "Babies exposed to high amounts of air pollution in the womb show slower signs of development (worse language and motor development) at 18 months than those exposed to lower levels",
         "content": "",
-        "upvotes": 257,
+        "upvotes": 308,
         "comments": 11,
         "media": {
             "type": "image",
@@ -265,21 +318,11 @@
         "permalink": "/r/science/comments/1syxrqd/babies_exposed_to_high_amounts_of_air_pollution/"
     },
     {
-        "id": "1sz0do4",
-        "author": "Kate_foodlover",
-        "title": "100,000-Year-Old Neanderthal Fossils in Poland Reveal Unexpected Genetic Connections. First multi-individual Neanderthal mitogenomes from north of the Carpathians",
-        "content": "",
-        "upvotes": 142,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/science/comments/1sz0do4/100000yearold_neanderthal_fossils_in_poland/"
-    },
-    {
         "id": "1sz755c",
         "author": "MistWeaver80",
         "title": "The politics of playful primates. Apes, monkeys and their relatives that live in despotic societies are less likely to clown around as adults.",
         "content": "",
-        "upvotes": 67,
+        "upvotes": 81,
         "comments": 2,
         "media": {
             "type": "image",
@@ -288,78 +331,26 @@
         "permalink": "/r/science/comments/1sz755c/the_politics_of_playful_primates_apes_monkeys_and/"
     },
     {
+        "id": "1sz0do4",
+        "author": "Kate_foodlover",
+        "title": "100,000-Year-Old Neanderthal Fossils in Poland Reveal Unexpected Genetic Connections. First multi-individual Neanderthal mitogenomes from north of the Carpathians",
+        "content": "",
+        "upvotes": 164,
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/science/comments/1sz0do4/100000yearold_neanderthal_fossils_in_poland/"
+    },
+    {
         "id": "1sygh9d",
         "author": "Cosmyka",
         "title": "Machine learning analysis of 40 years of data reveals that deep-ocean heat is shifting toward Antarctica, a scenario previously only predicted by models. Researchers found that \"Circumpolar Deep Water\" is expanding, threatening to melt ice shelves from below and disrupt global currents.",
         "content": "",
-        "upvotes": 2467,
-        "comments": 57,
+        "upvotes": 2524,
+        "comments": 59,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/PAc4b-HTLaEsI6PWMashNv-AzneGjI9q1sBpEAIGiKo.png?auto=webp&amp;s=0f34bf9d36afd6dc6fdd86b4af372e960f9a9a24"
         },
         "permalink": "/r/science/comments/1sygh9d/machine_learning_analysis_of_40_years_of_data/"
-    },
-    {
-        "id": "1sz3o3a",
-        "author": "PrincetonEngineers",
-        "title": "A 3D network of biological neurons enmeshed with microscopic electrodes was trained to distinguish between patterns of electrical pulses using neural networking techniques [Nature Electronics]",
-        "content": "",
-        "upvotes": 54,
-        "comments": 3,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/JARmX-h1Dn5LbjGmAZ2icUHskKBdrd1g-ZhnJcueX74.png?auto=webp&amp;s=85d1f1414b13528d2f9e1611e16d4120592db80b"
-        },
-        "permalink": "/r/science/comments/1sz3o3a/a_3d_network_of_biological_neurons_enmeshed_with/"
-    },
-    {
-        "id": "1syx0bf",
-        "author": "Clear_Polish23",
-        "title": "Many scorpion species carry zinc and other heavy metals in their pincers and stingers | Study highlights that metal enrichment has strongly diversified in relation to how different species have evolved to use their pincers and stingers.",
-        "content": "",
-        "upvotes": 107,
-        "comments": 11,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/EgvkLeWbpiO103F2WJDid2uMdEHgxDD0mU49SJudAhE.jpeg?auto=webp&amp;s=05d929207c6af4313d725a7058e5d0b9b537b9a8"
-        },
-        "permalink": "/r/science/comments/1syx0bf/many_scorpion_species_carry_zinc_and_other_heavy/"
-    },
-    {
-        "id": "1syyae2",
-        "author": "ChhotaSaHydra",
-        "title": "Astrocytes in the basolateral amygdala are found to contribute to fear memory retrieval and extinction in mice, with calcium signaling in astrocytes supporting neuronal representations associated with learned fear responses",
-        "content": "",
-        "upvotes": 71,
-        "comments": 7,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/jigrAKp2oBsAaOU9WfLcdGNuaQKiT1r-C6oTUsTS3l8.png?auto=webp&amp;s=66ba9c160a6b7d7dca134d49bb870b817ade2a71"
-        },
-        "permalink": "/r/science/comments/1syyae2/astrocytes_in_the_basolateral_amygdala_are_found/"
-    },
-    {
-        "id": "1sz1198",
-        "author": "TheMicrobiomeBio",
-        "title": "Microbiome and skin health: a systematic review of nutraceutical interventions, disease severity, inflammation, and gut microbiota",
-        "content": "",
-        "upvotes": 51,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/science/comments/1sz1198/microbiome_and_skin_health_a_systematic_review_of/"
-    },
-    {
-        "id": "1sxykf5",
-        "author": "mvea",
-        "title": "People who follow \"new right\" media with conservative bias (Breitbart, Newsmax, Zero Hedge) were more than twice as likely to be vaccine hesitant. They also rely on alternative health providers, social media health influencers, alternative health newsletters (Children's Health Defense).",
-        "content": "",
-        "upvotes": 5046,
-        "comments": 362,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/9kd7BZD4Wsh_I68Cw-acYWEgsasB8bFJg4kY7bApXao.jpeg?auto=webp&amp;s=14b100d26cf982bc28d43bb1aeb386d0f5b568a2"
-        },
-        "permalink": "/r/science/comments/1sxykf5/people_who_follow_new_right_media_with/"
     }
 ]
