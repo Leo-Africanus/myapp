@@ -1,24 +1,21 @@
 [
     {
-        "id": "1thib9m",
-        "author": "mvea",
-        "title": "Last September, President Donald Trump, Robert F. Kennedy Jr, and other health officials declared they had uncovered a new treatment for autism spectrum disorder (ASD): leucovorin. A new study shows that plenty of families believed them, despite the lack of data supporting the drug\u2019s effectiveness.",
+        "id": "1ti030p",
+        "author": "smurfyjenkins",
+        "title": "Contrary to the rhetoric of anti-wind groups, there is no evidence that proximity to wind turbines leads to adverse health outcomes [Data: longitudinal health surveys of 120,000+ households and consumer spending records of people living near wind turbines].",
         "content": "",
-        "upvotes": 11215,
-        "comments": 874,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/TFVDyjDp1xyjY2GkYbCotxtZ36W3BTGWPdahhoaZuOQ.jpeg?auto=webp&amp;s=566a0bcd3057885cde8721e6d367c117db63f16d"
-        },
-        "permalink": "/r/science/comments/1thib9m/last_september_president_donald_trump_robert_f/"
+        "upvotes": 1862,
+        "comments": 123,
+        "media": null,
+        "permalink": "/r/science/comments/1ti030p/contrary_to_the_rhetoric_of_antiwind_groups_there/"
     },
     {
         "id": "1thkv67",
         "author": "mvea",
         "title": "US state-level abortion bans are associated with a reduction in evidence-based medical care for miscarriage management. This means more women were forced to carry pregnancies that weren\u2019t viable, potentially putting their health and fertility at risk and prolonging the grief of a lost pregnancy.",
         "content": "",
-        "upvotes": 6008,
-        "comments": 174,
+        "upvotes": 10773,
+        "comments": 275,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/Mw2v2gwuxyQ1QG__tkWPofy5t7a8JuEVyh-54de6DeE.jpeg?auto=webp&amp;s=993456a1e128f796337ce6062cdc866075e41cf2"
@@ -26,12 +23,61 @@
         "permalink": "/r/science/comments/1thkv67/us_statelevel_abortion_bans_are_associated_with_a/"
     },
     {
+        "id": "1ti13y3",
+        "author": "mvea",
+        "title": "Grokipedia was launched by Elon Musk last October with a promise that the AI-written encyclopedia systematically \u201cfixes\u201d left-leaning biases in Wikipedia. New study found Grokipedia is selectively drawing on more-right leaning news sources on the topics of religion, history, literature and art.",
+        "content": "",
+        "upvotes": 1570,
+        "comments": 166,
+        "media": null,
+        "permalink": "/r/science/comments/1ti13y3/grokipedia_was_launched_by_elon_musk_last_october/"
+    },
+    {
+        "id": "1thib9m",
+        "author": "mvea",
+        "title": "Last September, President Donald Trump, Robert F. Kennedy Jr, and other health officials declared they had uncovered a new treatment for autism spectrum disorder (ASD): leucovorin. A new study shows that plenty of families believed them, despite the lack of data supporting the drug\u2019s effectiveness.",
+        "content": "",
+        "upvotes": 15689,
+        "comments": 1034,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/TFVDyjDp1xyjY2GkYbCotxtZ36W3BTGWPdahhoaZuOQ.jpeg?auto=webp&amp;s=566a0bcd3057885cde8721e6d367c117db63f16d"
+        },
+        "permalink": "/r/science/comments/1thib9m/last_september_president_donald_trump_robert_f/"
+    },
+    {
+        "id": "1ti1b7z",
+        "author": "erikrolfsen",
+        "title": "Kids who take risks at play make faster, smarter decisions in traffic",
+        "content": "",
+        "upvotes": 278,
+        "comments": 27,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/_1wObRpzI-LmYqY3PsJuYyqQBZwIMYaI1tMKDTvVtsQ.jpeg?auto=webp&amp;s=c954e0682fcd283018d73525030ad06089d156bf"
+        },
+        "permalink": "/r/science/comments/1ti1b7z/kids_who_take_risks_at_play_make_faster_smarter/"
+    },
+    {
+        "id": "1ti9mud",
+        "author": "FreeHugs23",
+        "title": "Taking psychedelic substances with a romantic partner is associated with a deeper sense of mutual understanding and enhanced relationship quality. In contrast, using these substances alone might leave partners out of sync, potentially contributing to relationship dissolution later on.",
+        "content": "",
+        "upvotes": 98,
+        "comments": 5,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/enoGUa26S_d8XyLDDElPgwdiPvvaoL7B--wASdDCD7U.jpeg?auto=webp&amp;s=265a49aa3a3a46e9306499f3b10aac297e5ad8d0"
+        },
+        "permalink": "/r/science/comments/1ti9mud/taking_psychedelic_substances_with_a_romantic/"
+    },
+    {
         "id": "1thmkvz",
         "author": "Hrmbee",
         "title": "Turning down the heat from data centers | Data Center Waste Heat as an Emerging Urban Thermal Hazard: First Field Measurements of Neighborhood-Scale Air Temperature Impacts Open Access",
         "content": "",
-        "upvotes": 569,
-        "comments": 23,
+        "upvotes": 1072,
+        "comments": 33,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/hoiYddbSjuj0yl_qj91p1dyw1NkBd4JFQ7PkMDDS7MA.jpeg?auto=webp&amp;s=a925ccfe9e49759e4af9244bd4b1f5af3de6de32"
@@ -39,12 +85,25 @@
         "permalink": "/r/science/comments/1thmkvz/turning_down_the_heat_from_data_centers_data/"
     },
     {
+        "id": "1thq3kf",
+        "author": "Science_News",
+        "title": "Damaged DNA can spread between human cells via tubelike structures. If tumors use this DNA transfer trick, harmful mutations could potentially spread from cancer cells to healthy cells.",
+        "content": "",
+        "upvotes": 494,
+        "comments": 10,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/kiF3PfHD4pbovhR7TIK4nmCqO4q5TMgjGt9BlKtRIks.jpeg?auto=webp&amp;s=28f244650b3ea560267e2fdec8ccbd460dc548d1"
+        },
+        "permalink": "/r/science/comments/1thq3kf/damaged_dna_can_spread_between_human_cells_via/"
+    },
+    {
         "id": "1thj0v4",
         "author": "Wagamaga",
         "title": "Short exposures to common air pollutants shown to have distinct impacts on lung function and brain activity. Neurological diseases have been increasing for decades and there is now a greater appreciation that long term exposure to elevated levels of air pollution are associated in dementia risk",
         "content": "",
-        "upvotes": 528,
-        "comments": 39,
+        "upvotes": 1146,
+        "comments": 49,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/ruFVJcmHph668xNHkstMlmUXGuPG9FqIlAGhLIpjxy0.jpeg?auto=webp&amp;s=4102be99c682d6c3c1f41fed46025a5757f52cde"
@@ -56,8 +115,8 @@
         "author": "sr_local",
         "title": "Obesity rates plateaued or slightly declined in several high-income countries, while obesity continued rising across most low-income and middle-income countries despite already surpassing prevalence levels seen in wealthier nations, according to data from 232 million people between 1980 and 2024",
         "content": "",
-        "upvotes": 292,
-        "comments": 80,
+        "upvotes": 690,
+        "comments": 123,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/uWB3jMGKrwpJ5y0xWywkoa2EIP2RLxtaI2gCnEtAuXw.png?auto=webp&amp;s=a71672b79cfdcc82b771b9388d5e14674480232f"
@@ -65,38 +124,35 @@
         "permalink": "/r/science/comments/1thlbq2/obesity_rates_plateaued_or_slightly_declined_in/"
     },
     {
-        "id": "1thq3kf",
-        "author": "Science_News",
-        "title": "Damaged DNA can spread between human cells via tubelike structures. If tumors use this DNA transfer trick, harmful mutations could potentially spread from cancer cells to healthy cells.",
+        "id": "1thyrti",
+        "author": "Super_Letterhead381",
+        "title": "Cognitive and behavioural effects of high-fat, high-sugar diet reversal: a systematic review and meta-analysis of animal studies",
         "content": "",
-        "upvotes": 144,
-        "comments": 5,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/kiF3PfHD4pbovhR7TIK4nmCqO4q5TMgjGt9BlKtRIks.jpeg?auto=webp&amp;s=28f244650b3ea560267e2fdec8ccbd460dc548d1"
-        },
-        "permalink": "/r/science/comments/1thq3kf/damaged_dna_can_spread_between_human_cells_via/"
+        "upvotes": 98,
+        "comments": 4,
+        "media": null,
+        "permalink": "/r/science/comments/1thyrti/cognitive_and_behavioural_effects_of_highfat/"
     },
     {
-        "id": "1th3jsj",
-        "author": "FreeHugs23",
-        "title": "White Americans who feel they are on the losing side of politics are more likely to oppose economic redistribution programs. Study finds this effect only appears when people compare their political standing directly to that of racial minorities.",
+        "id": "1ti8kdu",
+        "author": "chota-kaka",
+        "title": "How a super El Ni\u00f1o could trigger global famine",
         "content": "",
-        "upvotes": 2453,
-        "comments": 482,
+        "upvotes": 28,
+        "comments": 4,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/CY11nGqkpexGdXMWHryblOyHhXCuUOn67ce7rdlImMQ.jpeg?auto=webp&amp;s=4c6f136fd129f1b4522c2f9c5d8546e3ea5fc381"
+            "url": "https://external-preview.redd.it/tP_n0nJcePnbkHlso2rqQVHLofx4krlwcOUxOhhMuc8.jpeg?auto=webp&amp;s=29b87e0f4ee943d31b9412edd0f115b84e5cdde2"
         },
-        "permalink": "/r/science/comments/1th3jsj/white_americans_who_feel_they_are_on_the_losing/"
+        "permalink": "/r/science/comments/1ti8kdu/how_a_super_el_ni\u00f1o_could_trigger_global_famine/"
     },
     {
         "id": "1thhpu2",
         "author": "UniOfManchester",
         "title": "Feeling like you belong at school - and having good relationships with teachers - can actually protect teenagers\u2019 mental health",
         "content": "",
-        "upvotes": 296,
-        "comments": 19,
+        "upvotes": 506,
+        "comments": 23,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/lsjtq2SPtrPSXYFBul5b3ZWjX3bA81qyik9pKg-riXA.jpeg?auto=webp&amp;s=47ef0c62e8a245d0bfe8e3457d644dd18439f173"
@@ -104,25 +160,12 @@
         "permalink": "/r/science/comments/1thhpu2/feeling_like_you_belong_at_school_and_having_good/"
     },
     {
-        "id": "1th1vzf",
-        "author": "mvea",
-        "title": "Prescriptions for ivermectin and another antiparasitic drug among cancer patients shot up after actor Mel Gibson discussed an unproven treatment on Joe Rogan's popular podcast, according to a new study.",
-        "content": "",
-        "upvotes": 2321,
-        "comments": 236,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/dkwOzTCA2mzEm7u_CbS5inmWSPldBQxQXsBHXLIMrSw.jpeg?auto=webp&amp;s=59bf97a60e339980d333c3e043b9b0f28313fd6a"
-        },
-        "permalink": "/r/science/comments/1th1vzf/prescriptions_for_ivermectin_and_another/"
-    },
-    {
         "id": "1thio5h",
         "author": "Doug24",
         "title": "Scientists discover that dopamine receptors act as traffic signals to guide migrating brain cells",
         "content": "",
-        "upvotes": 130,
-        "comments": 3,
+        "upvotes": 348,
+        "comments": 9,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/XChkx13sSARmaQiZUDQEgtG5A3c1dCiRQjF-vxMjq-Q.jpeg?auto=webp&amp;s=a1f28dd66af9f835b60b3ba419ee0c18635e8d21"
@@ -130,22 +173,64 @@
         "permalink": "/r/science/comments/1thio5h/scientists_discover_that_dopamine_receptors_act/"
     },
     {
-        "id": "1thtigd",
-        "author": "ObligationSlight8771",
-        "title": "Boy\u2019s brain tumor tied to gene therapy",
+        "id": "1th3jsj",
+        "author": "FreeHugs23",
+        "title": "White Americans who feel they are on the losing side of politics are more likely to oppose economic redistribution programs. Study finds this effect only appears when people compare their political standing directly to that of racial minorities.",
         "content": "",
-        "upvotes": 41,
-        "comments": 8,
-        "media": null,
-        "permalink": "/r/science/comments/1thtigd/boys_brain_tumor_tied_to_gene_therapy/"
+        "upvotes": 2969,
+        "comments": 530,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/CY11nGqkpexGdXMWHryblOyHhXCuUOn67ce7rdlImMQ.jpeg?auto=webp&amp;s=4c6f136fd129f1b4522c2f9c5d8546e3ea5fc381"
+        },
+        "permalink": "/r/science/comments/1th3jsj/white_americans_who_feel_they_are_on_the_losing/"
+    },
+    {
+        "id": "1thx046",
+        "author": "GeoGeoGeoGeo",
+        "title": "SwRI findings reconsider the existence of Europa\u2019s vapor plumes. \"Our reanalysis took our original 99.9% confidence in the plumes\u2019 existence and reduced it to less than 90% confidence... That\u2019s simply not enough evidence to support the certainty of claims we made at the time.\u201d",
+        "content": "",
+        "upvotes": 60,
+        "comments": 3,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/HdYPhpT6EpYjrCq5Yjio-b1x_kyOYni42441N_nbM3U.jpeg?auto=webp&amp;s=a1e1d82600390bc6fd2fe7b40a2a638a14431f5d"
+        },
+        "permalink": "/r/science/comments/1thx046/swri_findings_reconsider_the_existence_of_europas/"
+    },
+    {
+        "id": "1th1vzf",
+        "author": "mvea",
+        "title": "Prescriptions for ivermectin and another antiparasitic drug among cancer patients shot up after actor Mel Gibson discussed an unproven treatment on Joe Rogan's popular podcast, according to a new study.",
+        "content": "",
+        "upvotes": 2569,
+        "comments": 256,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/dkwOzTCA2mzEm7u_CbS5inmWSPldBQxQXsBHXLIMrSw.jpeg?auto=webp&amp;s=59bf97a60e339980d333c3e043b9b0f28313fd6a"
+        },
+        "permalink": "/r/science/comments/1th1vzf/prescriptions_for_ivermectin_and_another/"
+    },
+    {
+        "id": "1thoa2u",
+        "author": "AgingUS",
+        "title": "Public health in the age of longevity interventions: from prevention to system-wide resilience",
+        "content": "",
+        "upvotes": 57,
+        "comments": 6,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/QuQChkkDWofuMDrDx2iwEFULgmWGF4GwDTotJ1B2TII.png?auto=webp&amp;s=cd49b31e6a6aee288c1bc1e7d398da898325bf56"
+        },
+        "permalink": "/r/science/comments/1thoa2u/public_health_in_the_age_of_longevity/"
     },
     {
         "id": "1tgjdgk",
         "author": "crix_22",
         "title": "ADHD and Rejection Sensitivity: A qualitative study explores how the anticipation of rejection causes more psychological distress than the actual events, driving a \"vicious circle\" of emotional masking, bodily pain, and social withdrawal. (n=5)",
         "content": "",
-        "upvotes": 6430,
-        "comments": 315,
+        "upvotes": 6846,
+        "comments": 339,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/aSISGxWfVXVx2cgOVNCi79PA2BDXqK5LIxRrsyoCp5o.png?auto=webp&amp;s=669c5af2051118b3882901f1d918b98753a399ea"
@@ -157,8 +242,8 @@
         "author": "mvea",
         "title": "Scientists expected both liberals and conservatives to be reluctant to promote rhetoric associated with the opposing political side, but this was more consistent among liberals. Conservatives appeared relatively willing to support causes aligned with their views regardless of the moral framing used.",
         "content": "",
-        "upvotes": 7216,
-        "comments": 1452,
+        "upvotes": 7355,
+        "comments": 1469,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/0FRqyPKv-G6oHKyKO1VgIqTTKjAPjcCC_m1dUXhhpKU.jpeg?auto=webp&amp;s=bbd2d959a734c58390c602cada61549dc2683ce1"
@@ -166,68 +251,32 @@
         "permalink": "/r/science/comments/1tgib2b/scientists_expected_both_liberals_and/"
     },
     {
-        "id": "1thoa2u",
-        "author": "AgingUS",
-        "title": "Public health in the age of longevity interventions: from prevention to system-wide resilience",
+        "id": "1thlzcl",
+        "author": "ICAMH_Research",
+        "title": "The effect of collective trauma on craving for cannabis and tobacco",
         "content": "",
-        "upvotes": 43,
-        "comments": 4,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/QuQChkkDWofuMDrDx2iwEFULgmWGF4GwDTotJ1B2TII.png?auto=webp&amp;s=cd49b31e6a6aee288c1bc1e7d398da898325bf56"
-        },
-        "permalink": "/r/science/comments/1thoa2u/public_health_in_the_age_of_longevity/"
-    },
-    {
-        "id": "1th3173",
-        "author": "[deleted]",
-        "title": "Rising seas are consuming coastal farmlands twice as fast as forests, despite farmers' efforts to build levees. A new study reveals that over 25,000 acres of Mid-Atlantic cropland have been lost to saltwater intrusion, as annual crops lack the resilience of trees.",
-        "content": "",
-        "upvotes": 619,
-        "comments": 11,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/YhxJxkyCLvo2xcL0kaKuQKZ9yPqcUPa4Ui10V7-ymuQ.png?auto=webp&amp;s=00d4bab86a6148e2bc46da89640236cacb456e5a"
-        },
-        "permalink": "/r/science/comments/1th3173/rising_seas_are_consuming_coastal_farmlands_twice/"
+        "upvotes": 52,
+        "comments": 26,
+        "media": null,
+        "permalink": "/r/science/comments/1thlzcl/the_effect_of_collective_trauma_on_craving_for/"
     },
     {
         "id": "1tgj2wu",
         "author": "Wagamaga",
         "title": "Student wellbeing drops after move to high school. Researchers found wellbeing declined across every measured domain, including happiness, optimism, perseverance, emotional regulation, cognitive engagement and life satisfaction, while sadness and worry increased.",
         "content": "",
-        "upvotes": 4169,
-        "comments": 325,
+        "upvotes": 4378,
+        "comments": 333,
         "media": null,
         "permalink": "/r/science/comments/1tgj2wu/student_wellbeing_drops_after_move_to_high_school/"
-    },
-    {
-        "id": "1thlzcl",
-        "author": "ICAMH_Research",
-        "title": "The effect of collective trauma on craving for cannabis and tobacco",
-        "content": "",
-        "upvotes": 40,
-        "comments": 9,
-        "media": null,
-        "permalink": "/r/science/comments/1thlzcl/the_effect_of_collective_trauma_on_craving_for/"
-    },
-    {
-        "id": "1tgnoqm",
-        "author": "[deleted]",
-        "title": "Global rivers are losing oxygen, with 78.8% experiencing sustained deoxygenation over the last 40 years. A new study shows climate warming is the main driver, with tropical rivers emerging as the most vulnerable hotspots for severe hypoxia.",
-        "content": "",
-        "upvotes": 1559,
-        "comments": 9,
-        "media": null,
-        "permalink": "/r/science/comments/1tgnoqm/global_rivers_are_losing_oxygen_with_788/"
     },
     {
         "id": "1th7jh5",
         "author": "Dizzy_Slip",
         "title": "Is Meat Industry Affiliation Associated With Study Conclusion in Nutrition Research.  A Meta-Research Review",
         "content": "",
-        "upvotes": 158,
-        "comments": 14,
+        "upvotes": 180,
+        "comments": 23,
         "media": null,
         "permalink": "/r/science/comments/1th7jh5/is_meat_industry_affiliation_associated_with/"
     },
@@ -236,8 +285,8 @@
         "author": "MassGen-Research",
         "title": "AI model known as ECG2Stroke can predict the risk of a stroke up to 10 years into the future using a 10-second ECG test",
         "content": "",
-        "upvotes": 764,
-        "comments": 83,
+        "upvotes": 826,
+        "comments": 90,
         "media": null,
         "permalink": "/r/science/comments/1tgrrap/ai_model_known_as_ecg2stroke_can_predict_the_risk/"
     },
@@ -246,8 +295,8 @@
         "author": "FreeHugs23",
         "title": "Magic mushrooms could be effective treatment for cocaine addiction, study shows. Participants who got single dose of psilocybin were more likely to abstain from cocaine than those who got placebo",
         "content": "",
-        "upvotes": 1714,
-        "comments": 88,
+        "upvotes": 1799,
+        "comments": 91,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/DMTQnyezUDPxk2GaSYTfQft7kFZPHzXyufTPdqtKa6I.jpeg?auto=webp&amp;s=cd42b505b8b341b4e3676b7af13f26b4e8b0e43c"
@@ -259,7 +308,7 @@
         "author": "sr_local",
         "title": "Long-term exposure to air pollution from traffic, industry, and wildfires linked to to worse cognitive function and small but visible brain damage, with higher effects observed in women",
         "content": "",
-        "upvotes": 1371,
+        "upvotes": 1455,
         "comments": 22,
         "media": {
             "type": "image",
@@ -268,22 +317,12 @@
         "permalink": "/r/science/comments/1tgkxpa/longterm_exposure_to_air_pollution_from_traffic/"
     },
     {
-        "id": "1tgnlgj",
-        "author": "[deleted]",
-        "title": "A next-generation CAR T-cell therapy successfully eliminates glioblastoma brain tumors in preclinical trials. The treatment targets a protein called uPAR, destroying both the deadly cancer cells and the supportive infrastructure that fuels them.",
-        "content": "",
-        "upvotes": 530,
-        "comments": 15,
-        "media": null,
-        "permalink": "/r/science/comments/1tgnlgj/a_nextgeneration_car_tcell_therapy_successfully/"
-    },
-    {
         "id": "1tg7h1r",
         "author": "mvea",
         "title": "Racial resentment plays a major role in driving conservative political beliefs among White Americans who are not religiously conservative. Harboring racial resentment provides evidence of a conservative political shift among White religious moderates, liberals, and nonreligious individuals.",
         "content": "",
-        "upvotes": 6262,
-        "comments": 743,
+        "upvotes": 6333,
+        "comments": 778,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/zd2p0RdysHFgLLUPjVlR8POAr7xrvdYDQATs8JLGiGg.jpeg?auto=webp&amp;s=838774fbed289b8b67a120b1bb21a2c68cd44378"
@@ -295,7 +334,7 @@
         "author": "paigejarreau",
         "title": "A new study explores what makes a science story engaging. The researchers found vivid imagery and details about character motivations and emotions don't have a significant effect, but reader perceptions of story quality and emotional transportation do.",
         "content": "",
-        "upvotes": 143,
+        "upvotes": 147,
         "comments": 6,
         "media": {
             "type": "image",
@@ -308,7 +347,7 @@
         "author": "PrincetonEngineers",
         "title": "Inspired by a long-living deep-sea sponge, a new 3-D printing technique combines thin layers of polymer and mortar to create a composite construction material that is 187 times more fracture resistant than similar concrete [Advanced Materials]",
         "content": "",
-        "upvotes": 236,
+        "upvotes": 260,
         "comments": 6,
         "media": {
             "type": "image",
@@ -321,51 +360,12 @@
         "author": "mvea",
         "title": "Early-career researchers do more \u2018disruptive\u2019 science than veterans. Analysis of millions of scientists shows that older researchers tend to stick with ideas from their past. This phenomenon, the nostalgia effect, can hold back scientific innovation, as scientists get hung up on ideas from the past.",
         "content": "",
-        "upvotes": 2999,
-        "comments": 66,
+        "upvotes": 3051,
+        "comments": 69,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/coM1KL36ronidMNMBnqiwMzMW6zIiIPPusVuxOqHEBQ.jpeg?auto=webp&amp;s=23134b8ca6bcc8a5c78f221818d8ac42fd642f7c"
         },
         "permalink": "/r/science/comments/1tg21t5/earlycareer_researchers_do_more_disruptive/"
-    },
-    {
-        "id": "1tg4j5h",
-        "author": "[deleted]",
-        "title": "Traffic pollution increases chronic kidney disease hospitalizations up to 4x. A 10-year study shows that vehicle emissions (PM2.5) enter the bloodstream, triggering kidney inflammation and premature organ aging.",
-        "content": "",
-        "upvotes": 1244,
-        "comments": 39,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/2I-gckJ6FScQZ9i9YvOqYNW5Qo0UPMVNiWc7I3zmP1Y.png?auto=webp&amp;s=9a16452f585acb21d6be746f7ec9fa43cf947b38"
-        },
-        "permalink": "/r/science/comments/1tg4j5h/traffic_pollution_increases_chronic_kidney/"
-    },
-    {
-        "id": "1tflddp",
-        "author": "mvea",
-        "title": "Feeling empty after finishing a video game (post-game depression) is a real phenomenon. A recent study has found that many video game players experience a specific sense of emptiness and sadness after finishing highly engaging games.",
-        "content": "",
-        "upvotes": 17504,
-        "comments": 1144,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/2do_YN0hYnAQX_gaRF7QAd2EN1MKDpPpeiu9siqWJiM.jpeg?auto=webp&amp;s=e59534409099d4de456b4557678907cc2e364bf5"
-        },
-        "permalink": "/r/science/comments/1tflddp/feeling_empty_after_finishing_a_video_game/"
-    },
-    {
-        "id": "1tg6w9w",
-        "author": "[deleted]",
-        "title": "By 2023, the transition to new energy vehicles in China led to reductions of 23.80% in particles with a diameter of 2.5 \u03bcm or less (8.97 \u00b5g m\u22123) and 30.67% in carbon monoxide (0.26 mg m\u22123), resulting in the prevention of approximately 262,000 non-accidental deaths and 75,000 all-cause deaths.",
-        "content": "",
-        "upvotes": 755,
-        "comments": 25,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/wReJj5LK19mycb5uzW3--JgL1cADZkFZLWLlup3d-uo.png?auto=webp&amp;s=40005a94e9960e1c09152dad4313a0091c40abf9"
-        },
-        "permalink": "/r/science/comments/1tg6w9w/by_2023_the_transition_to_new_energy_vehicles_in/"
     }
 ]
