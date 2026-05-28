@@ -4,7 +4,7 @@
         "author": "ScienceModerator",
         "title": "Notice: Cornell survey to study community norms and participation in r/science",
         "content": "We are partnering with researchers from Cornell University on a survey that will help us understand the relationship between community norms, technology, and participation. As part of their recruitment process, they are messaging a random sample of people who have interacted with the community in different ways. You may receive a chat message from their bot, u/civilservantbot, if you participated in r/science in the past 6 months.\n\nIf you received a message and don\u2019t want to participate, please feel free to ignore it. They will send one more reminder message on June 2nd. You can ignore that too.\n\nIf you want to participate, the survey takes 15 minutes to complete and will ask questions about your participation in , why you participate(d), your perception of its community norms, your experience with algorithmically generated content and recommender systems, and demographic questions. You will not be asked for personal identifiable information and your username cannot be connected to your survey responses.\n\nIf you have any questions about the study, please reach out to the lead researcher, [Dr. Sarah Gilbert](https://reddit.com/user/SarahAGilbert/) on Reddit via DM or email at [sag284@cornell.edu](mailto:sag284@cornell.edu).\n\nIf you are interested in participating but did not receive a message, Dr. Gilbert will be making a public post with the survey link in a few days, once the messages have all been sent.",
-        "upvotes": 56,
+        "upvotes": 62,
         "comments": 0,
         "media": null,
         "permalink": "/r/science/comments/1tochso/notice_cornell_survey_to_study_community_norms/"
@@ -14,18 +14,31 @@
         "author": "shiruken",
         "title": "RETRACTED: Longitudinal Data From the KETO-CTA Study: Plaque Predicts Plaque, ApoB Does Not",
         "content": "We wish to inform the [r/science](https://www.reddit.com/r/science/) community of an article submitted to the subreddit that has since been retracted by the journal. The submission garnered broad exposure on [r/science](https://www.reddit.com/r/science/) and significant social media coverage. Per [our rules](https://www.reddit.com/r/science/wiki/rules/#wiki_retractions), the flair on this submission has been updated with \"RETRACTED\". The submission has also been added to our [wiki of retracted submissions](https://www.reddit.com/r/science/wiki/retractions/#wiki_retractions).\n\n\\--\n\nReddit Submission: [Keto diet's high cholesterol may not be a factor in heart disease, suggests study which followed 100 healthy people on the keto diet for 1 year. They had elevated levels of LDL cholesterol and ApoB but no increased heart disease risk. Only those with plaques in arteries had more plaque build-up.](https://www.reddit.com/r/science/comments/1jymuy7/keto_diets_high_cholesterol_may_not_be_a_factor/)\n\nThe article [\"Longitudinal Data From the KETO-CTA Study: Plaque Predicts Plaque, ApoB Does Not\"](https://doi.org/10.1016/j.jacadv.2025.101686) has been retracted from *JACC: Advances* as of March 11, 2026. Numerous concerns were raised shortly after publication, including a [Letter to the Editor](https://doi.org/10.1016/j.jacadv.2025.101861) in May 2025 that highlighted \"selective reporting\" of data, questionable statistical analysis, and too short a timeframe for the study. An [Expression of Concern](https://doi.org/10.1016/j.jacadv.2026.102607) was eventually issued by the Editors in January 2026 to report that the study was undergoing further review.\n\nThe article was ultimately retracted at the request of the authors and the Editors. The methodological concerns were judged to have impacted the reliability of the data and were too great to be corrected with a corrigendum. Several authors have recently submitted a preprint reporting a re-analysis of the data that allegedly addresses the various concerns.\n\n* Retraction Watch: [Widely criticized keto diet study retracted](https://retractionwatch.com/2026/05/22/widely-criticized-keto-diet-study-retracted/)\n* WIRED: [How One Keto Trial Set Off a New War in the Nutrition World](https://www.wired.com/story/how-one-trial-set-off-a-new-war-in-the-nutrition-world-keto-cholesterol-fat/)\n\n\\--\n\nShould you encounter a submission on [r/science](https://www.reddit.com/r/science/) that has been retracted, please notify the moderators [via Modmail](https://www.reddit.com/message/compose?to=%2Fr%2Fscience&amp;subject=Retraction).",
-        "upvotes": 411,
-        "comments": 27,
+        "upvotes": 413,
+        "comments": 28,
         "media": null,
         "permalink": "/r/science/comments/1tkpgaf/retracted_longitudinal_data_from_the_ketocta/"
+    },
+    {
+        "id": "1tpjj2h",
+        "author": "mvea",
+        "title": "Caffeine may cause \u201cshallow\u201d sleep, the body may spend eight hours in bed, but the brain may fail to fully regenerate. Caffeine improves alertness and reduces sensation of fatigue, but its effects may sometimes resemble \u201cborrowing energy\u201d at the expense of nighttime regeneration.",
+        "content": "",
+        "upvotes": 4894,
+        "comments": 240,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/yW-E7h-YXXqn69ga9gqxZo8lqeAX5WCNyCmjVnsDrf4.jpeg?auto=webp&amp;s=2368646fdf990de0696c4a6c6d300a0a7c6632d3"
+        },
+        "permalink": "/r/science/comments/1tpjj2h/caffeine_may_cause_shallow_sleep_the_body_may/"
     },
     {
         "id": "1tpa5oh",
         "author": "FreeHugs23",
         "title": "The United States is facing a severe and growing shortage of medical doctors who specialize in adult mental health care. Research provides evidence that the demand for these medical professionals will sharply increase over the next decade while the available supply decreases.",
         "content": "",
-        "upvotes": 1420,
-        "comments": 146,
+        "upvotes": 6556,
+        "comments": 470,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/jrFkD_YTbzp5ZhCRu4e5YLfGAXXxGAAndIC0tpfLy3Y.jpeg?auto=webp&amp;s=8a7170e37ec6979c7cd797966305d0d1db76cd7f"
@@ -37,8 +50,8 @@
         "author": "Wagamaga",
         "title": "Attack on Iran\u2019s oil released as much pollution as a volcano. Nearly 30,000 tons of the toxic gas spread across the Middle East within days. Local residents reported immediate health impacts, such as respiratory distress, skin irritation, and a \"bitter taste\" in the mouth",
         "content": "",
-        "upvotes": 2696,
-        "comments": 43,
+        "upvotes": 4051,
+        "comments": 61,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/8NpLzswa7I0niz3N8WWLNOq-AYVNd3AOKhznAsPmI0Y.jpeg?auto=webp&amp;s=8ac43703ce0bfe9d6d2f2848620c03bbe3590ade"
@@ -50,8 +63,8 @@
         "author": "ajp9039",
         "title": "New method turns ocean water into drinking water, without waste",
         "content": "",
-        "upvotes": 1110,
-        "comments": 70,
+        "upvotes": 1684,
+        "comments": 101,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/alfNmYOsK-774kmeLuWaG7IT41_YQWxI8IOfKABlmJI.jpeg?auto=webp&amp;s=4df20bd878a09de6f6a23a0d7001125fbe03d581"
@@ -59,25 +72,45 @@
         "permalink": "/r/science/comments/1tp5mic/new_method_turns_ocean_water_into_drinking_water/"
     },
     {
-        "id": "1tpcdnd",
-        "author": "sfgate",
-        "title": "Study finds PFAS contamination in up to 50% of California surface water samples",
+        "id": "1tph7u1",
+        "author": "Curious_Suchit",
+        "title": "A single infusion of an experimental gene-editing drug seemed to reduce LDL long-term in a small trial.",
         "content": "",
-        "upvotes": 379,
-        "comments": 20,
+        "upvotes": 195,
+        "comments": 5,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/zC7qgLMQIZXo39dVvHkKICT8blCMh4XJX6NVxd9fj9k.jpeg?auto=webp&amp;s=3207c11249a71eadcc83c0228732e55956ed3cdc"
+            "url": "https://external-preview.redd.it/1BCoktJ2bFMbFrk2l-A6VQpvlm1_rDE3KPPRPWh-wqc.jpeg?auto=webp&amp;s=478d5ea8c94e79d84a2458c7f17d5e64ba7e1608"
         },
-        "permalink": "/r/science/comments/1tpcdnd/study_finds_pfas_contamination_in_up_to_50_of/"
+        "permalink": "/r/science/comments/1tph7u1/a_single_infusion_of_an_experimental_geneediting/"
+    },
+    {
+        "id": "1tph3ol",
+        "author": "IFLScience-1",
+        "title": "A 15th-Century Surgeon\u2019s Tools Still Carried Traces of Anesthetic 600 Years Later",
+        "content": "",
+        "upvotes": 176,
+        "comments": 3,
+        "media": null,
+        "permalink": "/r/science/comments/1tph3ol/a_15thcentury_surgeons_tools_still_carried_traces/"
+    },
+    {
+        "id": "1tp8dnq",
+        "author": "sr_local",
+        "title": "A simple urine test may help identify children at risk for autism sooner than current assessments: researchers have developed a new screening tool to test urine for 17 microbial metabolites in children ages 2 to 11 years",
+        "content": "",
+        "upvotes": 420,
+        "comments": 61,
+        "media": null,
+        "permalink": "/r/science/comments/1tp8dnq/a_simple_urine_test_may_help_identify_children_at/"
     },
     {
         "id": "1toryiy",
         "author": "No_Idea_Guy",
         "title": "Women\u2019s faces rated more attractive even by other women, study finds",
         "content": "",
-        "upvotes": 3525,
-        "comments": 770,
+        "upvotes": 4261,
+        "comments": 850,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/rg6oX-0qywje6igFP3iF6WbWJCut0qKmfz9vuJvOVIY.jpeg?auto=webp&amp;s=ce0231ac82baeb986fbe879ece89a67276437746"
@@ -85,48 +118,12 @@
         "permalink": "/r/science/comments/1toryiy/womens_faces_rated_more_attractive_even_by_other/"
     },
     {
-        "id": "1toh20z",
-        "author": "mvea",
-        "title": "Voters use left and right political labels as mental shortcuts, not strict policy matches. This mismatch was especially common among people who identified as right-leaning. The data showed that 43% of self-identified right-leaning voters actually supported mostly left-leaning policies.",
-        "content": "",
-        "upvotes": 19729,
-        "comments": 853,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/FDNqxIqZQvO5hnvrzdSvsXAxnku9E2QgOQ_H6XYCdMc.jpeg?auto=webp&amp;s=5fb37ffd7fb0531c45ab3d82ea25244ac57dbba4"
-        },
-        "permalink": "/r/science/comments/1toh20z/voters_use_left_and_right_political_labels_as/"
-    },
-    {
-        "id": "1tp6m60",
-        "author": "mvea",
-        "title": "Climate crisis is accelerating antibiotic resistance across world. Climate change linked to 10% rise in salmonella antibiotic resistance genes between 1940 and 2023. It can influence how bacteria survive, mutate and spread, potentially increasing the exchange of antibiotic resistance genes.",
-        "content": "",
-        "upvotes": 322,
-        "comments": 6,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/yP1hAA6h6dS7OXnaRTUub2BDhraQ9RZrDi2HYDL5Ak8.jpeg?auto=webp&amp;s=ac49302fb31158b36bb4918bd80f3408ff2e628d"
-        },
-        "permalink": "/r/science/comments/1tp6m60/climate_crisis_is_accelerating_antibiotic/"
-    },
-    {
-        "id": "1tp8dnq",
-        "author": "sr_local",
-        "title": "A simple urine test may help identify children at risk for autism sooner than current assessments: researchers have developed a new screening tool to test urine for 17 microbial metabolites in children ages 2 to 11 years",
-        "content": "",
-        "upvotes": 165,
-        "comments": 30,
-        "media": null,
-        "permalink": "/r/science/comments/1tp8dnq/a_simple_urine_test_may_help_identify_children_at/"
-    },
-    {
         "id": "1tp7dl8",
         "author": "Cad_Lin",
         "title": "Political comments get deleted, hidden, or pushed down the feed every day. An essay analyzing four platforms argues these moves are rarely traceable to any single actor \u2014 and that this opacity is how platforms quietly control what political debate looks like.",
         "content": "",
-        "upvotes": 175,
-        "comments": 27,
+        "upvotes": 421,
+        "comments": 46,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/lCLSivv_oK6pyB3kckjiPYNVTN32LYoyPfHI67FJEHw.png?auto=webp&amp;s=314a76a1604c9c9f357d1d87edd75e3e05d5ecdc"
@@ -134,12 +131,38 @@
         "permalink": "/r/science/comments/1tp7dl8/political_comments_get_deleted_hidden_or_pushed/"
     },
     {
+        "id": "1toh20z",
+        "author": "mvea",
+        "title": "Voters use left and right political labels as mental shortcuts, not strict policy matches. This mismatch was especially common among people who identified as right-leaning. The data showed that 43% of self-identified right-leaning voters actually supported mostly left-leaning policies.",
+        "content": "",
+        "upvotes": 20654,
+        "comments": 890,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/FDNqxIqZQvO5hnvrzdSvsXAxnku9E2QgOQ_H6XYCdMc.jpeg?auto=webp&amp;s=5fb37ffd7fb0531c45ab3d82ea25244ac57dbba4"
+        },
+        "permalink": "/r/science/comments/1toh20z/voters_use_left_and_right_political_labels_as/"
+    },
+    {
+        "id": "1tpfocs",
+        "author": "fchung",
+        "title": "AI model links tumor mutations to treatment response: \u00ab Model uses tumor DNA to predict immunotherapy and chemotherapy outcomes across multiple cancers. \u00bb",
+        "content": "",
+        "upvotes": 117,
+        "comments": 5,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/Xue-4JJO2IGj3UIb9xkZwTNSHcw--_56fCUVyNpilbU.png?auto=webp&amp;s=1a8426413a316b6bd3ce0b1636a460ef0366654f"
+        },
+        "permalink": "/r/science/comments/1tpfocs/ai_model_links_tumor_mutations_to_treatment/"
+    },
+    {
         "id": "1topllm",
         "author": "crix_22",
         "title": "Evolutionary Anthropology: \"Burn Selection: How Fire Injury Shaped Human Evolution.\"  A new study argues that over a million years of domestic fire use exposed humans to recurring fire burn injury, driving accelerated genetic evolution in our wound-healing and inflammatory pathways.",
         "content": "",
-        "upvotes": 1306,
-        "comments": 44,
+        "upvotes": 1479,
+        "comments": 55,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/eFMa-V1uKt_0fEaeLyZatpb8QwmDWeu0cd35rQ-BtGk.jpeg?auto=webp&amp;s=3ccfb02ee1a9d392e35707ff6b7cfc25262c0542"
@@ -151,8 +174,8 @@
         "author": "mvea",
         "title": "Study finds many college students abandon their free speech ideals under ideological pressure. Most undergraduates believe marginalized communities deserve extra protection from offensive speech, though these values often waiver when students are pushed by their own strong political ideologies.",
         "content": "",
-        "upvotes": 818,
-        "comments": 280,
+        "upvotes": 957,
+        "comments": 327,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/l5_Lz5TMqAYGRTCubOrBIahpp1nrK3DwN9qFJ_H7S10.jpeg?auto=webp&amp;s=c47892e2dc364b486117792d7d7530f4170fa9e4"
@@ -164,8 +187,8 @@
         "author": "mvea",
         "title": "Autistic Australians three times more likely to be homeless. Autistic people are often trying extremely hard to do the right thing, but services are not built for their communication styles, sensory needs or responses to pressure.",
         "content": "",
-        "upvotes": 7733,
-        "comments": 217,
+        "upvotes": 7923,
+        "comments": 219,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/lnd9_XQNko6VsWGvf6CXH2eDN0eKNgGCnAj5tkCidnE.jpeg?auto=webp&amp;s=1dcdb779c4aada5653a4a66c79e8a8c896d6a5cf"
@@ -177,8 +200,8 @@
         "author": "FreeHugs23",
         "title": "Fantasizing about someone else during sex is common and doesn\u2019t necessarily signal relationship trouble. Study suggests that sexual imagination is heavily influenced by a person\u2019s immediate environment rather than just their internal desires.",
         "content": "",
-        "upvotes": 5024,
-        "comments": 470,
+        "upvotes": 5221,
+        "comments": 475,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/WQ-6AKcMBfKUroPe2jkF93mM55Tp10Zad_4pSYrz_l8.jpeg?auto=webp&amp;s=76d279d67816f0709e9cf15712c8562d82d5264b"
@@ -190,7 +213,7 @@
         "author": "Similar_Detective861",
         "title": "Scientists develop a breakthrough nanoscale, room-temperature circuit capable of generating and processing light-based information on a single chip.",
         "content": "",
-        "upvotes": 153,
+        "upvotes": 200,
         "comments": 5,
         "media": {
             "type": "image",
@@ -203,8 +226,8 @@
         "author": "Similar_Detective861",
         "title": "Researchers develop an \"intelligent tattoo\" to detect skin cancer before it appears. Validated in preclinical studies, the minimally invasive technology could transform the early detection of micro-melanomas.",
         "content": "",
-        "upvotes": 72,
-        "comments": 2,
+        "upvotes": 101,
+        "comments": 4,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/od4ZZo_TpA82MTaKLisQw4DGkjrQS7OQSjRJhdjKPPo.jpeg?auto=webp&amp;s=b40c02af37a1e8925d008297ceddfc7713bf6e5d"
@@ -216,8 +239,8 @@
         "author": "logicalgamernow",
         "title": "The cognitive difference between amateur and expert chess players",
         "content": "",
-        "upvotes": 160,
-        "comments": 48,
+        "upvotes": 207,
+        "comments": 60,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/4zp3C1dH2QQfuBRyqcYqCeeCR38W8JaJ2ROcsDC90v8.jpeg?auto=webp&amp;s=46b3152f0e420009578802b01511211226c5e2fd"
@@ -225,24 +248,21 @@
         "permalink": "/r/science/comments/1tows7b/the_cognitive_difference_between_amateur_and/"
     },
     {
-        "id": "1to9x11",
-        "author": "Science_News",
-        "title": "Scuba divers may be beating up coral reefs more than they think | Video analyses of divers show that more than 80 percent of damaging physical contact with the reef is unintended or simply unnoticed",
-        "content": "",
-        "upvotes": 2374,
-        "comments": 50,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/mOK_E_16D6UyADNfVeJnHacLfZr41DHIxDJfCWsFKvk.jpeg?auto=webp&amp;s=26023a80cc8b353a87b3c069e191756319d87e16"
-        },
-        "permalink": "/r/science/comments/1to9x11/scuba_divers_may_be_beating_up_coral_reefs_more/"
+        "id": "1tpbtq7",
+        "author": "SarahAGilbert",
+        "title": "Participate in a Cornell survey to study community norms and participation in r/science",
+        "content": "We are a group of researchers at Cornell University who are working with the mods of r/science on a survey that will help us understand the relationship between community norms, technology, and participation. We are posting this to invite you to take the survey, which you can access here:\n\n**https://cornell.ca1.qualtrics.com/jfe/form/SV_eyqUlb6L2ZNqnno**\n\nThe survey will take approximately 15 minutes to complete and will ask questions about your participation patterns in r/science, why you participate(d), your perception of its community norms, your experience with algorithmically generated content and recommender systems, and demographic questions. We will not ask you for personally identifiable information. The survey has been approved by Cornell\u2019s IRB, IRB0149466. \n\n**Please note:** We have been using multiple recruitment methods to help us reach as many people as possible so that we can ensure that our results are valid. That means we have been randomly sampling people who have participated in the community (including people who have had posts removed or been banned), and we have also taken out ads targeted to users of r/science. **If you have already completed that survey, do not do it again!** It is the same survey, and we thank you for your participation. \n\nWe are particularly interested in hearing your feedback if you are just a lurker. It\u2019s hard to capture the perspectives of lurkers and you are also an integral part of online communities. \n\nIf you have any questions or concerns, please reach out to me on Reddit via DM, email sag284@cornell.edu, or in this thread. Or, you can contact Cornell\u2019s Institutional Review Board (IRB) for Human Participants at https://researchservices.cornell.edu/offices/IRB.  \n\nWe will share survey results on r/science and our website at citizensandtech.org",
+        "upvotes": 29,
+        "comments": 9,
+        "media": null,
+        "permalink": "/r/science/comments/1tpbtq7/participate_in_a_cornell_survey_to_study/"
     },
     {
         "id": "1tp8j0n",
         "author": "AgingUS",
         "title": "The mediating role of DNA methylation clocks in associations of race, ethnicity, education, income, and occupation with mortality: findings from NHANES 1999-2002",
         "content": "",
-        "upvotes": 20,
+        "upvotes": 41,
         "comments": 2,
         "media": {
             "type": "image",
@@ -251,12 +271,35 @@
         "permalink": "/r/science/comments/1tp8j0n/the_mediating_role_of_dna_methylation_clocks_in/"
     },
     {
+        "id": "1to9x11",
+        "author": "Science_News",
+        "title": "Scuba divers may be beating up coral reefs more than they think | Video analyses of divers show that more than 80 percent of damaging physical contact with the reef is unintended or simply unnoticed",
+        "content": "",
+        "upvotes": 2508,
+        "comments": 50,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/mOK_E_16D6UyADNfVeJnHacLfZr41DHIxDJfCWsFKvk.jpeg?auto=webp&amp;s=26023a80cc8b353a87b3c069e191756319d87e16"
+        },
+        "permalink": "/r/science/comments/1to9x11/scuba_divers_may_be_beating_up_coral_reefs_more/"
+    },
+    {
+        "id": "1tpj5i5",
+        "author": "Lost_Detail1728",
+        "title": "Biomolecular Condensates as Protein Degradation Tools for Intracellular Targets",
+        "content": "",
+        "upvotes": 7,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1tpj5i5/biomolecular_condensates_as_protein_degradation/"
+    },
+    {
         "id": "1tomgig",
         "author": "CUAnschutzMed",
         "title": "A new study published today in iScience suggests that stress experienced by a father before conception may influence an offspring\u2019s growth by altering small molecular signals in sperm.",
         "content": "",
-        "upvotes": 382,
-        "comments": 9,
+        "upvotes": 426,
+        "comments": 12,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/x5h8FIphmYQfoUV3HWDpVktCxnDnH0Uo7FedeMneFUQ.png?auto=webp&amp;s=e07421e25dc428b2f68d22c01fe16867fef8ae52"
@@ -268,28 +311,18 @@
         "author": "Co_OpQuestions",
         "title": "Abortion bans in 14 states lead to 9.2% increase in pregnancy-associated deaths of women.",
         "content": "",
-        "upvotes": 34707,
-        "comments": 1207,
+        "upvotes": 35267,
+        "comments": 1221,
         "media": null,
         "permalink": "/r/science/comments/1tnot4v/abortion_bans_in_14_states_lead_to_92_increase_in/"
-    },
-    {
-        "id": "1tpbtq7",
-        "author": "SarahAGilbert",
-        "title": "Participate in a Cornell survey to study community norms and participation in r/science",
-        "content": "We are a group of researchers at Cornell University who are working with the mods of r/science on a survey that will help us understand the relationship between community norms, technology, and participation. We are posting this to invite you to take the survey, which you can access here:\n\n**https://cornell.ca1.qualtrics.com/jfe/form/SV_eyqUlb6L2ZNqnno**\n\nThe survey will take approximately 15 minutes to complete and will ask questions about your participation patterns in r/science, why you participate(d), your perception of its community norms, your experience with algorithmically generated content and recommender systems, and demographic questions. We will not ask you for personally identifiable information. The survey has been approved by Cornell\u2019s IRB, IRB0149466. \n\n**Please note:** We have been using multiple recruitment methods to help us reach as many people as possible so that we can ensure that our results are valid. That means we have been randomly sampling people who have participated in the community (including people who have had posts removed or been banned), and we have also taken out ads targeted to users of r/science. **If you have already completed that survey, do not do it again!** It is the same survey, and we thank you for your participation. \n\nWe are particularly interested in hearing your feedback if you are just a lurker. It\u2019s hard to capture the perspectives of lurkers and you are also an integral part of online communities. \n\nIf you have any questions or concerns, please reach out to me on Reddit via DM, email sag284@cornell.edu, or in this thread. Or, you can contact Cornell\u2019s Institutional Review Board (IRB) for Human Participants at https://researchservices.cornell.edu/offices/IRB.  \n\nWe will share survey results on r/science and our website at citizensandtech.org",
-        "upvotes": 6,
-        "comments": 4,
-        "media": null,
-        "permalink": "/r/science/comments/1tpbtq7/participate_in_a_cornell_survey_to_study/"
     },
     {
         "id": "1to750e",
         "author": "memorialmonorail",
         "title": "Drinking tomato-soy juice loaded with lycopene and soy isoflavones lowered pro-inflammatory proteins in healthy adults with obesity after 4 weeks, a study found. With NIH funding, the researchers are now testing whether the juice reduces inflammation in people with pancreatitis.",
         "content": "",
-        "upvotes": 951,
-        "comments": 84,
+        "upvotes": 1025,
+        "comments": 89,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/b9mWgxrcvkllwiOPxugul4Cu1aSjJB9h9SWfdS8TX2k.jpeg?auto=webp&amp;s=6d25ae5824667cf6807f0949e770cf59402451f3"
@@ -301,8 +334,8 @@
         "author": "sr_local",
         "title": "Scientists have discovered a way to convert widely used plastics into new materials (by replacing oxygen with sulfur) with distinct properties that degrade more rapidly",
         "content": "",
-        "upvotes": 782,
-        "comments": 19,
+        "upvotes": 814,
+        "comments": 21,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/tqLjp1LIK8nbi7ZEyopu-hOwJ6uNgTPPArEF0nHQric.jpeg?auto=webp&amp;s=a16c29f2ac39abea0c45f05809bf1a9358e68fcb"
@@ -314,8 +347,8 @@
         "author": "zOxydrOp",
         "title": "The ketogenic diet may protect against Alzheimer's, Parkinson's, and Huntington's disease by providing neurons with alternative fuel and reducing neuroinflammation \u2014 but patient adherence and long-term safety remain major barriers to clinical use",
         "content": "",
-        "upvotes": 480,
-        "comments": 123,
+        "upvotes": 526,
+        "comments": 130,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/dLRckvyVr6iD9RRe9dFvwmFXDKBkHGFF4j112_sKvlo.png?auto=webp&amp;s=b1eef1ecdf7eb7d52e928504d655e09771926a77"
@@ -323,49 +356,16 @@
         "permalink": "/r/science/comments/1to5lnm/the_ketogenic_diet_may_protect_against_alzheimers/"
     },
     {
-        "id": "1totgzt",
-        "author": "cheungngo",
-        "title": "Frontiers | Case Report: Oral glutamatergic augmentation for trauma-related disorders with fluoxetine-/bupropion-potentiated dextromethorphan \u00b1 piracetam: a four-patient case series",
-        "content": "",
-        "upvotes": 49,
-        "comments": 3,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/DSJOgkZQnZvqyfbYe5XTXTNFlIKPPVFUl8pvW_4VDJ8.jpeg?auto=webp&amp;s=f609860bb5a650e52bde0ce3ab6ac7a1efb3583c"
-        },
-        "permalink": "/r/science/comments/1totgzt/frontiers_case_report_oral_glutamatergic/"
-    },
-    {
         "id": "1to4xue",
         "author": "FreeHugs23",
         "title": "Scientists create wearable ultrasound to continuously monitor babies in womb. Team hope the UPatch \u2013 at present a proof-of-concept device \u2013 will aid early detection of complications and prevent stillbirths.",
         "content": "",
-        "upvotes": 485,
-        "comments": 71,
+        "upvotes": 499,
+        "comments": 72,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/M8fU78jNuBz4lQETU4zSK8oF-vxGtiv8unIvQiid33E.jpeg?auto=webp&amp;s=a89f081f23a1810e6a867efa1a3fdb68943581c6"
         },
         "permalink": "/r/science/comments/1to4xue/scientists_create_wearable_ultrasound_to/"
-    },
-    {
-        "id": "1todnji",
-        "author": "amesydragon",
-        "title": "Cousins of early humans may have evolved distinct styles of walking upright. Two hominin fossils from southern Africa (one with a more flexed posture at the knees, ankles, and hips for climbing, and one with denser leg bones for weight bearing) highlight different evolutionary paths to bipedalism.",
-        "content": "",
-        "upvotes": 159,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/science/comments/1todnji/cousins_of_early_humans_may_have_evolved_distinct/"
-    },
-    {
-        "id": "1tnrcuy",
-        "author": "mvea",
-        "title": "Latino Republicans' support for GOP has intensified at a time when it is publicly championing policies perceived as hostile to Latinos and people of color. New study found they interpret their Republican partisanship as recognizing which party is a better steward of their personal commitments.",
-        "content": "",
-        "upvotes": 2718,
-        "comments": 466,
-        "media": null,
-        "permalink": "/r/science/comments/1tnrcuy/latino_republicans_support_for_gop_has/"
     }
 ]
