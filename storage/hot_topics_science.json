@@ -4,7 +4,7 @@
         "author": "ScienceModerator",
         "title": "Notice: Cornell survey to study community norms and participation in r/science",
         "content": "We are partnering with researchers from Cornell University on a survey that will help us understand the relationship between community norms, technology, and participation. As part of their recruitment process, they are messaging a random sample of people who have interacted with the community in different ways. You may receive a chat message from their bot, u/civilservantbot, if you participated in r/science in the past 6 months.\n\nIf you received a message and don\u2019t want to participate, please feel free to ignore it. They will send one more reminder message on June 2nd. You can ignore that too.\n\nIf you want to participate, the survey takes 15 minutes to complete and will ask questions about your participation in , why you participate(d), your perception of its community norms, your experience with algorithmically generated content and recommender systems, and demographic questions. You will not be asked for personal identifiable information and your username cannot be connected to your survey responses.\n\nIf you have any questions about the study, please reach out to the lead researcher, [Dr. Sarah Gilbert](https://reddit.com/user/SarahAGilbert/) on Reddit via DM or email at [sag284@cornell.edu](mailto:sag284@cornell.edu).\n\nIf you are interested in participating but did not receive a message, Dr. Gilbert will be making a public post with the survey link in a few days, once the messages have all been sent.",
-        "upvotes": 61,
+        "upvotes": 64,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1tochso/notice_cornell_survey_to_study_community_norms/"
@@ -14,18 +14,44 @@
         "author": "mvea",
         "title": "Authoritarians do not support democracy, populists support democracy as much as non-populists, and radical right-wing citizens are less likely to support \u2018democracy\u2019 than moderate citizens, finds a new study of 14,000 Western Europeans.",
         "content": "",
-        "upvotes": 743,
-        "comments": 91,
+        "upvotes": 1933,
+        "comments": 261,
         "media": null,
         "permalink": "/r/science/comments/1tqlcun/authoritarians_do_not_support_democracy_populists/"
+    },
+    {
+        "id": "1tqy2n3",
+        "author": "mvea",
+        "title": "High-puff e-cigarettes may become more toxic with use. Researchers warn that repeated vaping can create harmful byproducts linked to lung cell damage. Heavily used high-puff electronic cigarettes may contain higher levels of harmful chemicals than fresh e-cigarettes.",
+        "content": "",
+        "upvotes": 164,
+        "comments": 20,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/zqcxDrsho5GYvZlOD3iakE58GGatRLr52cmWpPKfRXA.jpeg?auto=webp&amp;s=d593549b6194d7596f54d9451944613cd46dced7"
+        },
+        "permalink": "/r/science/comments/1tqy2n3/highpuff_ecigarettes_may_become_more_toxic_with/"
+    },
+    {
+        "id": "1tqxyab",
+        "author": "Faaaaaaaaaaaah",
+        "title": "Scientists Develop Injectable Biomaterial That Repairs Heart Attack Damage from Inside Out",
+        "content": "",
+        "upvotes": 96,
+        "comments": 5,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/uXt2885qKdTLBQKnEeYUkoZmsV19OKHpQ5rbo2VqWrY.jpeg?auto=webp&amp;s=4d79c063c88ddc26971f4bcd787cac8043d4af7f"
+        },
+        "permalink": "/r/science/comments/1tqxyab/scientists_develop_injectable_biomaterial_that/"
     },
     {
         "id": "1tq1n2z",
         "author": "mvea",
         "title": "Men\u2019s sexual desire peaks around age 40, large new study finds. Men report substantially higher sexual desire than women. Sexual desire declined with age, more steeply for women, and it was associated with a bisexual or pansexual orientation, recent childbirth, and relationship satisfaction.",
         "content": "",
-        "upvotes": 5665,
-        "comments": 361,
+        "upvotes": 6188,
+        "comments": 372,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/0Q8gi4vEOI0nZUC8zPCMt8NgB0G_vP43MTJXDj_wKpg.jpeg?auto=webp&amp;s=e6ef6a731ef03b54a07579e1f12b64fe9301733f"
@@ -33,12 +59,22 @@
         "permalink": "/r/science/comments/1tq1n2z/mens_sexual_desire_peaks_around_age_40_large_new/"
     },
     {
+        "id": "1tq78p2",
+        "author": "SlothSpeedRunning",
+        "title": "Mathematicians are challenging the idea that dark energy is responsible for the accelerating expansion of the universe. A new paper provides mathematical proof that instabilities inherent in the Einstein-Euler equations imply that the current model of the expanding universe is not viable.",
+        "content": "",
+        "upvotes": 2153,
+        "comments": 137,
+        "media": null,
+        "permalink": "/r/science/comments/1tq78p2/mathematicians_are_challenging_the_idea_that_dark/"
+    },
+    {
         "id": "1tq0ko5",
         "author": "Wagamaga",
         "title": "Children of 9/11 first responders are experiencing impacts to their mental health. Researchers say the study is an example of how intergenerational trauma can be passed down even when children do not experience the same traumatic event.",
         "content": "",
-        "upvotes": 4235,
-        "comments": 114,
+        "upvotes": 4810,
+        "comments": 122,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/nQRYvWVTP7jpNNn61LtJQT2KgVbJWZpOZumaUuIV7eg.png?auto=webp&amp;s=981c778517cc935f89d14b7d8322e6e056c73416"
@@ -46,22 +82,12 @@
         "permalink": "/r/science/comments/1tq0ko5/children_of_911_first_responders_are_experiencing/"
     },
     {
-        "id": "1tq78p2",
-        "author": "SlothSpeedRunning",
-        "title": "Mathematicians are challenging the idea that dark energy is responsible for the accelerating expansion of the universe. A new paper provides mathematical proof that instabilities inherent in the Einstein-Euler equations imply that the current model of the expanding universe is not viable.",
-        "content": "",
-        "upvotes": 1736,
-        "comments": 122,
-        "media": null,
-        "permalink": "/r/science/comments/1tq78p2/mathematicians_are_challenging_the_idea_that_dark/"
-    },
-    {
         "id": "1tq6lqx",
         "author": "Science_News",
         "title": "Mosquitoes exposed to the insect repellent DEET can learn to associate the off-putting chemical with food",
         "content": "",
-        "upvotes": 1177,
-        "comments": 33,
+        "upvotes": 1534,
+        "comments": 36,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/nrXAZ5TunuTyGEO_CkB-gyyihFG5GnZG3R_JLcE2Elk.jpeg?auto=webp&amp;s=9df2c547f97519781270f0835782493b008df0af"
@@ -69,12 +95,22 @@
         "permalink": "/r/science/comments/1tq6lqx/mosquitoes_exposed_to_the_insect_repellent_deet/"
     },
     {
+        "id": "1tqy9fr",
+        "author": "Wagamaga",
+        "title": "Widely used \u2018gold standard\u2019 for identifying mental health conditions not as reliable as previously believed. Research found in some cases, individuals were identified as having different diagnoses when interviews were repeated just days apart",
+        "content": "",
+        "upvotes": 40,
+        "comments": 5,
+        "media": null,
+        "permalink": "/r/science/comments/1tqy9fr/widely_used_gold_standard_for_identifying_mental/"
+    },
+    {
         "id": "1tqj1iz",
         "author": "sfgate",
         "title": "UCSF researchers find Alzheimer\u2019s-linked blood markers may predict midlife cognitive decline",
         "content": "",
-        "upvotes": 166,
-        "comments": 7,
+        "upvotes": 244,
+        "comments": 8,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/-Lim6jaya__cs03ENF2L_HcNqEHd5ymRmO8E_IqPP2w.jpeg?auto=webp&amp;s=e7e666551be33c3ee05a63f20a8c0e169f8a77d4"
@@ -86,18 +122,48 @@
         "author": "Hurry_Ferris02",
         "title": "Outdoor exposure alleviates anxiety more effectively than indoor exposure. Indoor exposure exerts indirect effects through environmental perception, whereas outdoor exposure operates via a dual mediation of environmental perception and behavioral intention.",
         "content": "",
-        "upvotes": 87,
+        "upvotes": 151,
         "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1tqlv8j/outdoor_exposure_alleviates_anxiety_more/"
+    },
+    {
+        "id": "1tqtza9",
+        "author": "wise_karlaz",
+        "title": "Intermittent fasting alters brain chemistry and body awareness, boosting mood for some but triggering anxiety and irritability in those with underlying psychological vulnerabilities",
+        "content": "",
+        "upvotes": 37,
+        "comments": 4,
+        "media": null,
+        "permalink": "/r/science/comments/1tqtza9/intermittent_fasting_alters_brain_chemistry_and/"
+    },
+    {
+        "id": "1tqt5yy",
+        "author": "mightx",
+        "title": "Researchers at Charles University's Second Faculty of Medicine found that novel \"stress-test\" memory exams can detect Alzheimer's years earlier than standard tests",
+        "content": "",
+        "upvotes": 43,
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/science/comments/1tqt5yy/researchers_at_charles_universitys_second_faculty/"
+    },
+    {
+        "id": "1tq1jwe",
+        "author": "These-Film-2386",
+        "title": "Lab-grown brain-spinal cord model shows \u2018irreversible\u2019 nerve damage may be reversed",
+        "content": "",
+        "upvotes": 1203,
+        "comments": 11,
+        "media": null,
+        "permalink": "/r/science/comments/1tq1jwe/labgrown_brainspinal_cord_model_shows/"
     },
     {
         "id": "1tpz4ke",
         "author": "mvea",
         "title": "Social class narcissism linked to anti-psychiatry conspiracy theories. Holding an exaggerated sense of superiority about one\u2019s social class tends to foster belief in conspiracy theories regarding psychological help.",
         "content": "",
-        "upvotes": 1243,
-        "comments": 80,
+        "upvotes": 1390,
+        "comments": 82,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/6Qiu73GaPg2A1l0a1WJ7ZtHHAaMZErSSeV5IvrRC7pk.jpeg?auto=webp&amp;s=5066dabd97acaf12161cbfc34eed113c92351846"
@@ -105,44 +171,34 @@
         "permalink": "/r/science/comments/1tpz4ke/social_class_narcissism_linked_to_antipsychiatry/"
     },
     {
-        "id": "1tq1jwe",
-        "author": "These-Film-2386",
-        "title": "Lab-grown brain-spinal cord model shows \u2018irreversible\u2019 nerve damage may be reversed",
+        "id": "1tqxj4i",
+        "author": "IdyllicSafeguard",
+        "title": "New species of spiny mouse (Mus dumbara) described from Sri Lanka based on 2004 specimens, following unsuccessful field surveys in 2014 and 2015.",
         "content": "",
-        "upvotes": 800,
-        "comments": 7,
-        "media": null,
-        "permalink": "/r/science/comments/1tq1jwe/labgrown_brainspinal_cord_model_shows/"
+        "upvotes": 14,
+        "comments": 2,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/2NQjHACxSGbhUaHuRxiY1hxjdCLwfKS_xDdMswgua3I.png?auto=webp&amp;s=0a1668246c2a260f0f21168aba9d0b6b76891c62"
+        },
+        "permalink": "/r/science/comments/1tqxj4i/new_species_of_spiny_mouse_mus_dumbara_described/"
     },
     {
         "id": "1tq4qxr",
         "author": "Krankenitrate",
         "title": "Large language models pass a standard three-party Turing test meaning that participants were no better (and in some cases worse) than chance at selecting between a human and a machine.",
         "content": "",
-        "upvotes": 407,
-        "comments": 127,
+        "upvotes": 522,
+        "comments": 147,
         "media": null,
         "permalink": "/r/science/comments/1tq4qxr/large_language_models_pass_a_standard_threeparty/"
-    },
-    {
-        "id": "1tpjj2h",
-        "author": "mvea",
-        "title": "Caffeine may cause \u201cshallow\u201d sleep, the body may spend eight hours in bed, but the brain may fail to fully regenerate. Caffeine improves alertness and reduces sensation of fatigue, but its effects may sometimes resemble \u201cborrowing energy\u201d at the expense of nighttime regeneration.",
-        "content": "",
-        "upvotes": 9603,
-        "comments": 439,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/yW-E7h-YXXqn69ga9gqxZo8lqeAX5WCNyCmjVnsDrf4.jpeg?auto=webp&amp;s=2368646fdf990de0696c4a6c6d300a0a7c6632d3"
-        },
-        "permalink": "/r/science/comments/1tpjj2h/caffeine_may_cause_shallow_sleep_the_body_may/"
     },
     {
         "id": "1tqbtp7",
         "author": "Science_News",
         "title": "New research in pigeons suggests that iron-laden liver immune cells may act as a navigation mechanism for the birds",
         "content": "",
-        "upvotes": 154,
+        "upvotes": 196,
         "comments": 11,
         "media": {
             "type": "image",
@@ -151,21 +207,47 @@
         "permalink": "/r/science/comments/1tqbtp7/new_research_in_pigeons_suggests_that_ironladen/"
     },
     {
+        "id": "1tpjj2h",
+        "author": "mvea",
+        "title": "Caffeine may cause \u201cshallow\u201d sleep, the body may spend eight hours in bed, but the brain may fail to fully regenerate. Caffeine improves alertness and reduces sensation of fatigue, but its effects may sometimes resemble \u201cborrowing energy\u201d at the expense of nighttime regeneration.",
+        "content": "",
+        "upvotes": 9864,
+        "comments": 442,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/yW-E7h-YXXqn69ga9gqxZo8lqeAX5WCNyCmjVnsDrf4.jpeg?auto=webp&amp;s=2368646fdf990de0696c4a6c6d300a0a7c6632d3"
+        },
+        "permalink": "/r/science/comments/1tpjj2h/caffeine_may_cause_shallow_sleep_the_body_may/"
+    },
+    {
         "id": "1tq1dvd",
         "author": "sr_local",
         "title": "Cannabis use does not reduce testosterone levels in young men and may even increase its testicular synthesis. However, this increase in hormone levels cannot be directly linked to fertility",
         "content": "",
-        "upvotes": 454,
-        "comments": 59,
+        "upvotes": 518,
+        "comments": 62,
         "media": null,
         "permalink": "/r/science/comments/1tq1dvd/cannabis_use_does_not_reduce_testosterone_levels/"
+    },
+    {
+        "id": "1tqts5w",
+        "author": "wise_karlaz",
+        "title": "Sea buckthorn is rich in bioactive compounds like polyphenols and omega fatty acids that show potential in fighting inflammation, protecting the heart and brain, and managing diabetes, making it a highly promising ingredient for future functional foods and natural medicines",
+        "content": "",
+        "upvotes": 11,
+        "comments": 1,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/vQJ4qTIgt0uj8QbiQeVfIVn8aG_Sx-UzB91CuZ_HAeU.jpeg?auto=webp&amp;s=8b61478423da7114f8081c04fee96452439fba6a"
+        },
+        "permalink": "/r/science/comments/1tqts5w/sea_buckthorn_is_rich_in_bioactive_compounds_like/"
     },
     {
         "id": "1tqaylj",
         "author": "NGNResearch",
         "title": "New research shows why we love live music: brain synchronization. Live performance tunes brainwaves to music, or in other words, just as a musician tunes their instrument to a pitch, our brains do some tuning as well.",
         "content": "",
-        "upvotes": 105,
+        "upvotes": 128,
         "comments": 2,
         "media": {
             "type": "image",
@@ -178,8 +260,8 @@
         "author": "URochester_Hajim",
         "title": "Researchers combine MRI imaging and physics-informed AI to measure how quickly fluid flows across the brain",
         "content": "",
-        "upvotes": 111,
-        "comments": 21,
+        "upvotes": 160,
+        "comments": 22,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/Au_vawmuEbkAl_3oTAwzSztI-Huo8719Q7r0WLvSziw.jpeg?auto=webp&amp;s=d212d3ef24d381ae47de5dde451493cf8d29a1a3"
@@ -191,8 +273,8 @@
         "author": "FreeHugs23",
         "title": "The United States is facing a severe and growing shortage of medical doctors who specialize in adult mental health care. Research provides evidence that the demand for these medical professionals will sharply increase over the next decade while the available supply decreases.",
         "content": "",
-        "upvotes": 8802,
-        "comments": 554,
+        "upvotes": 8952,
+        "comments": 563,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/jrFkD_YTbzp5ZhCRu4e5YLfGAXXxGAAndIC0tpfLy3Y.jpeg?auto=webp&amp;s=8a7170e37ec6979c7cd797966305d0d1db76cd7f"
@@ -204,17 +286,27 @@
         "author": "cheungngo",
         "title": "A Glutamatergic Regimen as a candidate for primary and secondary prevention of Alzheimer's disease onset",
         "content": "",
-        "upvotes": 57,
+        "upvotes": 72,
         "comments": 7,
         "media": null,
         "permalink": "/r/science/comments/1tq99f2/a_glutamatergic_regimen_as_a_candidate_for/"
+    },
+    {
+        "id": "1tqxlha",
+        "author": "uniofwarwick",
+        "title": "Reading between the Rings: Observed Dust Ring Properties as Probes of Planet Masses",
+        "content": "",
+        "upvotes": 2,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1tqxlha/reading_between_the_rings_observed_dust_ring/"
     },
     {
         "id": "1tqit79",
         "author": "YaleCompSocialSci",
         "title": "Engagement-based algorithms amplify intergroup, emotional, moral content, new algorithm can reduce it. Example of industry-independent social media algorithm study (Nature)",
         "content": "",
-        "upvotes": 13,
+        "upvotes": 15,
         "comments": 2,
         "media": {
             "type": "image",
@@ -237,117 +329,19 @@
         "author": "HeinieKaboobler",
         "title": "Conspiracy believers both resist and adapt in dangerous circumstances",
         "content": "",
-        "upvotes": 38,
-        "comments": 4,
+        "upvotes": 47,
+        "comments": 5,
         "media": null,
         "permalink": "/r/science/comments/1tq5fuw/conspiracy_believers_both_resist_and_adapt_in/"
     },
     {
-        "id": "1tp3fhj",
-        "author": "Wagamaga",
-        "title": "Attack on Iran\u2019s oil released as much pollution as a volcano. Nearly 30,000 tons of the toxic gas spread across the Middle East within days. Local residents reported immediate health impacts, such as respiratory distress, skin irritation, and a \"bitter taste\" in the mouth",
+        "id": "1tqyofj",
+        "author": "YanSci",
+        "title": "A magnesium-gallate metal-organic framework (Mg-gallate MOF) achieves an atmospheric water capture capacity of 170 mg/g at 0.2% relative humidity",
         "content": "",
-        "upvotes": 4929,
-        "comments": 76,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/8NpLzswa7I0niz3N8WWLNOq-AYVNd3AOKhznAsPmI0Y.jpeg?auto=webp&amp;s=8ac43703ce0bfe9d6d2f2848620c03bbe3590ade"
-        },
-        "permalink": "/r/science/comments/1tp3fhj/attack_on_irans_oil_released_as_much_pollution_as/"
-    },
-    {
-        "id": "1tpv889",
-        "author": "QldBrainInst",
-        "title": "Researchers have found that ferroptosis, a type of cell death linked to iron and oxidative stress, plays an unexpected role in the healthy brain by influencing how many newborn neurons survive in the hippocampus, a region critical for learning and memory.",
-        "content": "",
-        "upvotes": 151,
-        "comments": 1,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/rXerFFqOCmTC01CO7Fp9BUFyMRqPCuUZWAuQg06mzWo.png?auto=webp&amp;s=cdc441f56fb5b66483cfdfd2583b0f1e543d93dd"
-        },
-        "permalink": "/r/science/comments/1tpv889/researchers_have_found_that_ferroptosis_a_type_of/"
-    },
-    {
-        "id": "1tp5mic",
-        "author": "ajp9039",
-        "title": "New method turns ocean water into drinking water, without waste",
-        "content": "",
-        "upvotes": 2170,
-        "comments": 114,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/alfNmYOsK-774kmeLuWaG7IT41_YQWxI8IOfKABlmJI.jpeg?auto=webp&amp;s=4df20bd878a09de6f6a23a0d7001125fbe03d581"
-        },
-        "permalink": "/r/science/comments/1tp5mic/new_method_turns_ocean_water_into_drinking_water/"
-    },
-    {
-        "id": "1tq42ys",
-        "author": "universityofga",
-        "title": "Rattlesnakes face increased risk of deadly infections",
-        "content": "",
-        "upvotes": 24,
-        "comments": 1,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/xopQMHgoRQNpQTKP3SOoJ2yhKewjwqrX2lH-AQEwTWo.jpeg?auto=webp&amp;s=a6721d753e69ec7a7f77f3c2f84e8c222a53fa66"
-        },
-        "permalink": "/r/science/comments/1tq42ys/rattlesnakes_face_increased_risk_of_deadly/"
-    },
-    {
-        "id": "1tq0jui",
-        "author": "iamphilosofie",
-        "title": "Family Physician Administrative Workload per Patient Visit Increased Substantially Over 11 Years in Canada. Referral rates per patient visit increased by 57% and laboratory tests by 29%, while the rate of prescriptions per patient contact stayed about the same.",
-        "content": "",
-        "upvotes": 30,
+        "upvotes": 0,
         "comments": 2,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/kQ3yUYigZ5AY6MBnVKMMQr57x_HTwMp2DjRD8NwXgRg.jpeg?auto=webp&amp;s=929f1e5f2837ceb8f1bc0349a7efb0001a297fb0"
-        },
-        "permalink": "/r/science/comments/1tq0jui/family_physician_administrative_workload_per/"
-    },
-    {
-        "id": "1tph3ol",
-        "author": "IFLScience-1",
-        "title": "A 15th-Century Surgeon\u2019s Tools Still Carried Traces of Anesthetic 600 Years Later",
-        "content": "",
-        "upvotes": 506,
-        "comments": 10,
         "media": null,
-        "permalink": "/r/science/comments/1tph3ol/a_15thcentury_surgeons_tools_still_carried_traces/"
-    },
-    {
-        "id": "1tpvc9i",
-        "author": "Similar_Detective861",
-        "title": "Adults with intellectual and developmental disabilities or cerebral palsy experience higher fall-injury risk at younger ages",
-        "content": "",
-        "upvotes": 64,
-        "comments": 7,
-        "media": null,
-        "permalink": "/r/science/comments/1tpvc9i/adults_with_intellectual_and_developmental/"
-    },
-    {
-        "id": "1tq16wg",
-        "author": "filmguy_1987",
-        "title": "[Nature Nanotechnology 2026] Aerosol jet-printed MoS2/graphene memristors produce biologically realistic action potentials that successfully activate living Purkinje neurons.",
-        "content": "",
-        "upvotes": 22,
-        "comments": 4,
-        "media": null,
-        "permalink": "/r/science/comments/1tq16wg/nature_nanotechnology_2026_aerosol_jetprinted/"
-    },
-    {
-        "id": "1tph7u1",
-        "author": "Curious_Suchit",
-        "title": "A single infusion of an experimental gene-editing drug seemed to reduce LDL long-term in a small trial.",
-        "content": "",
-        "upvotes": 339,
-        "comments": 8,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/1BCoktJ2bFMbFrk2l-A6VQpvlm1_rDE3KPPRPWh-wqc.jpeg?auto=webp&amp;s=478d5ea8c94e79d84a2458c7f17d5e64ba7e1608"
-        },
-        "permalink": "/r/science/comments/1tph7u1/a_single_infusion_of_an_experimental_geneediting/"
+        "permalink": "/r/science/comments/1tqyofj/a_magnesiumgallate_metalorganic_framework/"
     }
 ]
