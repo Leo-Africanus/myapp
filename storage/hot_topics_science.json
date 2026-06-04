@@ -4,18 +4,31 @@
         "author": "ScienceModerator",
         "title": "Notice: Cornell survey to study community norms and participation in r/science",
         "content": "We are partnering with researchers from Cornell University on a survey that will help us understand the relationship between community norms, technology, and participation. As part of their recruitment process, they are messaging a random sample of people who have interacted with the community in different ways. You may receive a chat message from their bot, u/civilservantbot, if you participated in r/science in the past 6 months.\n\nIf you received a message and don\u2019t want to participate, please feel free to ignore it. They will send one more reminder message on June 2nd. You can ignore that too.\n\nIf you want to participate, the survey takes 15 minutes to complete and will ask questions about your participation in , why you participate(d), your perception of its community norms, your experience with algorithmically generated content and recommender systems, and demographic questions. You will not be asked for personal identifiable information and your username cannot be connected to your survey responses.\n\nIf you have any questions about the study, please reach out to the lead researcher, [Dr. Sarah Gilbert](https://reddit.com/user/SarahAGilbert/) on Reddit via DM or email at [sag284@cornell.edu](mailto:sag284@cornell.edu).\n\nIf you are interested in participating but did not receive a message, Dr. Gilbert will be making a public post with the survey link in a few days, once the messages have all been sent.",
-        "upvotes": 73,
+        "upvotes": 77,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1tochso/notice_cornell_survey_to_study_community_norms/"
+    },
+    {
+        "id": "1tw5fzr",
+        "author": "mvea",
+        "title": "Party affiliation matters when it comes to dating in the US. Democrats are distinguished by their reluctance to date supporters of the other party rather than by a preference for fellow Democrats. Republicans, by contrast, both favour fellow Republicans and avoid Democratic partners.",
+        "content": "",
+        "upvotes": 2042,
+        "comments": 444,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/TJagnrzELdkg1a24xD6JQ87qVtYLNKfziejT4B_zE2U.jpeg?auto=webp&amp;s=b92e1b00b4652bef28772780ef51eb57760a61db"
+        },
+        "permalink": "/r/science/comments/1tw5fzr/party_affiliation_matters_when_it_comes_to_dating/"
     },
     {
         "id": "1tvjq25",
         "author": "wordsappearing",
         "title": "Case report: transient return of speech and continence in advanced dementia patient after 5g psilocybin mushrooms",
         "content": "",
-        "upvotes": 8538,
-        "comments": 503,
+        "upvotes": 10624,
+        "comments": 576,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/-GJaqtE2BOF3YXG1uxsmqmDw3kcO3psCrVi_0bum1M8.jpeg?auto=webp&amp;s=bb0a05d8955eec8f6a08e734f448cb74af16fba8"
@@ -23,22 +36,12 @@
         "permalink": "/r/science/comments/1tvjq25/case_report_transient_return_of_speech_and/"
     },
     {
-        "id": "1tvlx99",
-        "author": "Wagamaga",
-        "title": "Fresh concerns have been raised over long-term use of antidepressants,  revealing limited benefits and higher health risks. The research highlights growing evidence of risks associated with long-term use, including sexual dysfunction, emotional numbing, cognitive impairment, weight gain",
-        "content": "",
-        "upvotes": 2224,
-        "comments": 509,
-        "media": null,
-        "permalink": "/r/science/comments/1tvlx99/fresh_concerns_have_been_raised_over_longterm_use/"
-    },
-    {
         "id": "1tvp52c",
         "author": "mvea",
         "title": "Men, more than women, view cross-sex friendships as potential mating opportunities, supporting the popular belief that men are more likely than women to feel they have been friend-zoned. Study found that men attempt to woo their female friends by paying more for shared bills when going out together.",
         "content": "",
-        "upvotes": 1339,
-        "comments": 132,
+        "upvotes": 2718,
+        "comments": 222,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/XJB1M0JKELlTeiQTtYINnEpXwiaMoCoIIsAEe5O151M.jpeg?auto=webp&amp;s=9a825ef8d1c14be134eb78b3e9c43ada2dd85264"
@@ -46,12 +49,45 @@
         "permalink": "/r/science/comments/1tvp52c/men_more_than_women_view_crosssex_friendships_as/"
     },
     {
+        "id": "1tvptdu",
+        "author": "Similar_Detective861",
+        "title": "New study reveals top AI models (GPT-4o, Claude 3.5, Gemini 2.5) completely fail the classic \"Stroop\" psychological attention test, exposing a fundamental limitation in artificial reasoning.",
+        "content": "",
+        "upvotes": 1927,
+        "comments": 307,
+        "media": null,
+        "permalink": "/r/science/comments/1tvptdu/new_study_reveals_top_ai_models_gpt4o_claude_35/"
+    },
+    {
+        "id": "1tvlx99",
+        "author": "Wagamaga",
+        "title": "Fresh concerns have been raised over long-term use of antidepressants,  revealing limited benefits and higher health risks. The research highlights growing evidence of risks associated with long-term use, including sexual dysfunction, emotional numbing, cognitive impairment, weight gain",
+        "content": "",
+        "upvotes": 3093,
+        "comments": 634,
+        "media": null,
+        "permalink": "/r/science/comments/1tvlx99/fresh_concerns_have_been_raised_over_longterm_use/"
+    },
+    {
+        "id": "1tw6k2u",
+        "author": "FreeHugs23",
+        "title": "Psychopathy and Machiavellianism often look identical, but daily behavior suggests otherwise. Study shows that while these antagonistic personality styles look nearly indistinguishable on standard tests, they actually trigger highly distinct psychological states in everyday life.",
+        "content": "",
+        "upvotes": 283,
+        "comments": 25,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/swcMz3hXL8K7t8k4tYVc9WNy7orm0QqMAD4utTFH0_A.jpeg?auto=webp&amp;s=fa0d180f81733522476fb1317005f806db092838"
+        },
+        "permalink": "/r/science/comments/1tw6k2u/psychopathy_and_machiavellianism_often_look/"
+    },
+    {
         "id": "1tvifk9",
         "author": "yahoonews",
         "title": "Yeast has been growing in the guts of frozen mummy called Oetzi the Iceman for thousands of years, scientists have discovered, telling AFP they used it to make a sourdough bread and publishing their findings in Springer Nature's Microbiome journal.",
         "content": "",
-        "upvotes": 3380,
-        "comments": 276,
+        "upvotes": 4376,
+        "comments": 318,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/h8CrdSXcT4tNTHCdQhDsoBFqsTAnU6RSmogVedN8zFo.jpeg?auto=webp&amp;s=f7b3463926acd21b9b013e6ecc854d194f9fcbab"
@@ -59,22 +95,12 @@
         "permalink": "/r/science/comments/1tvifk9/yeast_has_been_growing_in_the_guts_of_frozen/"
     },
     {
-        "id": "1tvptdu",
-        "author": "Similar_Detective861",
-        "title": "New study reveals top AI models (GPT-4o, Claude 3.5, Gemini 2.5) completely fail the classic \"Stroop\" psychological attention test, exposing a fundamental limitation in artificial reasoning.",
-        "content": "",
-        "upvotes": 1108,
-        "comments": 230,
-        "media": null,
-        "permalink": "/r/science/comments/1tvptdu/new_study_reveals_top_ai_models_gpt4o_claude_35/"
-    },
-    {
         "id": "1tvoc6b",
         "author": "mvea",
         "title": "Semaglutide, a GLP-1 weight loss drug, slowed biological aging across multiple epigenetic clocks in a randomized, double-blind, placebo-controlled clinical trial in patients with HIV, suggesting that the drug may influence aging-related biology across multiple body systems.",
         "content": "",
-        "upvotes": 876,
-        "comments": 91,
+        "upvotes": 1372,
+        "comments": 128,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/pWyVbBa8k5eyVxdGvFq3E2qGFptpZE6MIhif1_MUXEQ.jpeg?auto=webp&amp;s=bbfb434c4627c5d8593c56346634d8255d4e2724"
@@ -82,12 +108,22 @@
         "permalink": "/r/science/comments/1tvoc6b/semaglutide_a_glp1_weight_loss_drug_slowed/"
     },
     {
+        "id": "1tvyjzl",
+        "author": "yadidya_b",
+        "title": "We improved NASA's SWOT ocean satellite measurements by 60% by showing that the \"unpredictable\" component of underwater tidal waves is actually predictable",
+        "content": "",
+        "upvotes": 378,
+        "comments": 7,
+        "media": null,
+        "permalink": "/r/science/comments/1tvyjzl/we_improved_nasas_swot_ocean_satellite/"
+    },
+    {
         "id": "1tv59mt",
         "author": "TylerFortier_Photo",
         "title": "Physicists Just Achieved 'Perfect Randomness' For The First Time Ever | Using quantum entanglement, \"the result is a system capable of generating certifiably perfect randomness, even when starting with flawed or imperfect randomness\"",
         "content": "",
-        "upvotes": 11869,
-        "comments": 772,
+        "upvotes": 12336,
+        "comments": 784,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/-W-ed7IOSu8tAVePLu-62WVoQghKXElbnkSiS52oDtU.jpeg?auto=webp&amp;s=3ce66bf2ea8edb3ab2b2f95fc8045dbdf3a51a24"
@@ -99,8 +135,8 @@
         "author": "TylerFortier_Photo",
         "title": "The scope of long COVID is bigger than we think, Mass. researchers say | \"New research from Mass General Brigham suggests that at least 10 million Americans have long COVID \u2014 but have not been diagnosed\"",
         "content": "",
-        "upvotes": 7238,
-        "comments": 820,
+        "upvotes": 7727,
+        "comments": 872,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/UujqMsEPvsMRlx9_66JnivK1xogd6JbIiJhkXBPxuqk.jpeg?auto=webp&amp;s=d700b69e94cb015637841c499086a1d4cc262d40"
@@ -108,24 +144,11 @@
         "permalink": "/r/science/comments/1tv5sfi/the_scope_of_long_covid_is_bigger_than_we_think/"
     },
     {
-        "id": "1tvpwam",
-        "author": "Similar_Detective861",
-        "title": "Study finds that \"dark brown carbon\" emitted by wildfires has a surprisingly strong global warming effect, especially when it settles on snow and ice.",
-        "content": "",
-        "upvotes": 170,
-        "comments": 4,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/gc8F8PcUwN_qFh3GK8KSPB4O07GuzAH80uRavHBCXsw.png?auto=webp&amp;s=367ac7cc09ce478dda7ed3bc242fe355294281d3"
-        },
-        "permalink": "/r/science/comments/1tvpwam/study_finds_that_dark_brown_carbon_emitted_by/"
-    },
-    {
         "id": "1tvpxng",
         "author": "Hrmbee",
         "title": "When they\u2019re being eaten, bean plants release chemicals that draw in parasitic wasps | A plant immune receptor mediates tritrophic interactions by linking caterpillar detection to predator recruitment",
         "content": "",
-        "upvotes": 155,
+        "upvotes": 283,
         "comments": 7,
         "media": {
             "type": "image",
@@ -134,12 +157,25 @@
         "permalink": "/r/science/comments/1tvpxng/when_theyre_being_eaten_bean_plants_release/"
     },
     {
+        "id": "1tvpwam",
+        "author": "Similar_Detective861",
+        "title": "Study finds that \"dark brown carbon\" emitted by wildfires has a surprisingly strong global warming effect, especially when it settles on snow and ice.",
+        "content": "",
+        "upvotes": 275,
+        "comments": 5,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/gc8F8PcUwN_qFh3GK8KSPB4O07GuzAH80uRavHBCXsw.png?auto=webp&amp;s=367ac7cc09ce478dda7ed3bc242fe355294281d3"
+        },
+        "permalink": "/r/science/comments/1tvpwam/study_finds_that_dark_brown_carbon_emitted_by/"
+    },
+    {
         "id": "1tvsapu",
         "author": "Science_News",
         "title": "Queen-cell wax helps shape honeybee queen development, challenging the idea that royal jelly alone makes a queen, a new study suggests",
         "content": "",
-        "upvotes": 116,
-        "comments": 2,
+        "upvotes": 210,
+        "comments": 4,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/d7x4I4RXlf6V47TWcEojDF1jrGK9lDJhDXQUsIIJf3s.jpeg?auto=webp&amp;s=f0cc53eceb529bc3249acc0b09be295bc5668377"
@@ -151,8 +187,8 @@
         "author": "fchung",
         "title": "Research shows plants such as canola, tomatoes and rice reduce iron uptake when stressed by drought: \u00ab Study could also have implications for global food security and human nutrition. \u00bb",
         "content": "",
-        "upvotes": 79,
-        "comments": 3,
+        "upvotes": 160,
+        "comments": 4,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/HAMB_mvqsVq97Zy1oGjWejRx9mUnIThH-Z43dbhFHeE.jpeg?auto=webp&amp;s=4b2cde0919a41916979fd0a2296e5ce793bdc8f1"
@@ -160,21 +196,11 @@
         "permalink": "/r/science/comments/1tvtbsi/research_shows_plants_such_as_canola_tomatoes_and/"
     },
     {
-        "id": "1tv6wm7",
-        "author": "mvea",
-        "title": "Trans fats found naturally in dairy foods such as milk, butter and cheese do not increase the risk of heart disease or type 2 diabetes, a new study has found. Unlike industrial trans fats, which are strongly linked to heart disease, those found in dairy appear to pose no risk.",
-        "content": "",
-        "upvotes": 1531,
-        "comments": 88,
-        "media": null,
-        "permalink": "/r/science/comments/1tv6wm7/trans_fats_found_naturally_in_dairy_foods_such_as/"
-    },
-    {
         "id": "1tvq8zf",
         "author": "Similar_Detective861",
         "title": "Researchers have successfully mimicked the electrical behavior of biological heart muscle cells using a new type of conductive plastic, paving the way for revolutionary bioelectronics and advanced treatments for cardiac diseases.",
         "content": "",
-        "upvotes": 75,
+        "upvotes": 128,
         "comments": 6,
         "media": {
             "type": "image",
@@ -183,22 +209,32 @@
         "permalink": "/r/science/comments/1tvq8zf/researchers_have_successfully_mimicked_the/"
     },
     {
-        "id": "1tvyjzl",
-        "author": "yadidya_b",
-        "title": "We improved NASA's SWOT ocean satellite measurements by 60% by showing that the \"unpredictable\" component of underwater tidal waves is actually predictable",
+        "id": "1tv6wm7",
+        "author": "mvea",
+        "title": "Trans fats found naturally in dairy foods such as milk, butter and cheese do not increase the risk of heart disease or type 2 diabetes, a new study has found. Unlike industrial trans fats, which are strongly linked to heart disease, those found in dairy appear to pose no risk.",
         "content": "",
-        "upvotes": 32,
-        "comments": 1,
+        "upvotes": 1643,
+        "comments": 99,
         "media": null,
-        "permalink": "/r/science/comments/1tvyjzl/we_improved_nasas_swot_ocean_satellite/"
+        "permalink": "/r/science/comments/1tv6wm7/trans_fats_found_naturally_in_dairy_foods_such_as/"
+    },
+    {
+        "id": "1tvlz6h",
+        "author": "Wagamaga",
+        "title": "New Analysis Confirms Benefits of Childhood Flu Vaccines. For every 100 children between the ages of 2 and 5 who receive the vaccine in a given flu season, there are between nine and 14 fewer cases of influenza in that age group.",
+        "content": "",
+        "upvotes": 133,
+        "comments": 5,
+        "media": null,
+        "permalink": "/r/science/comments/1tvlz6h/new_analysis_confirms_benefits_of_childhood_flu/"
     },
     {
         "id": "1tunmn9",
         "author": "mvea",
         "title": "Interest in \u2018toxic\u2019 measles treatment surges after Joe Rogan podcasts: Vaccination is the only proven way to prevent measles but alternatives like Vitamin A and cod-liver oil (which has Vit A) have been promoted by Joe Rogan. America\u2019s Poison Centres reported a 39% increase in Vitamin A exposures.",
         "content": "",
-        "upvotes": 12493,
-        "comments": 774,
+        "upvotes": 12705,
+        "comments": 776,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/CDCZpseTEG67WXliEGeTk3vJuvt2NRpkzac_CpclLsE.png?auto=webp&amp;s=d3046671178929f237387c70fd70ba886ca16a41"
@@ -206,44 +242,21 @@
         "permalink": "/r/science/comments/1tunmn9/interest_in_toxic_measles_treatment_surges_after/"
     },
     {
-        "id": "1tvlz6h",
-        "author": "Wagamaga",
-        "title": "New Analysis Confirms Benefits of Childhood Flu Vaccines. For every 100 children between the ages of 2 and 5 who receive the vaccine in a given flu season, there are between nine and 14 fewer cases of influenza in that age group.",
-        "content": "",
-        "upvotes": 83,
-        "comments": 3,
-        "media": null,
-        "permalink": "/r/science/comments/1tvlz6h/new_analysis_confirms_benefits_of_childhood_flu/"
-    },
-    {
         "id": "1tvjxgl",
         "author": "sr_local",
         "title": "Hunger makes food easier and more vivid to imagine: in two studies, hungry participants visualized food smells, flavors, and textures faster and more vividly than when they were full, suggesting that bodily state can intensify cravings and influence eating decisions",
         "content": "",
-        "upvotes": 111,
+        "upvotes": 168,
         "comments": 5,
         "media": null,
         "permalink": "/r/science/comments/1tvjxgl/hunger_makes_food_easier_and_more_vivid_to/"
-    },
-    {
-        "id": "1tvewn2",
-        "author": "Super_Letterhead381",
-        "title": "Deoxygenation in the equatorial Panthalassan Ocean predated the end-Triassic mass extinction",
-        "content": "",
-        "upvotes": 126,
-        "comments": 5,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/WN4W6q1Olud_vgz8eiFXx6FHsx8N947OcLG7-RznJZk.png?auto=webp&amp;s=34da66ae1c58b758b7495df119a6fb2a2a51cfc6"
-        },
-        "permalink": "/r/science/comments/1tvewn2/deoxygenation_in_the_equatorial_panthalassan/"
     },
     {
         "id": "1tvrdnv",
         "author": "AgingUS",
         "title": "Extracellular vesicles released by senescent myoblasts affect recipient cells via miRNA-target interactions",
         "content": "",
-        "upvotes": 15,
+        "upvotes": 29,
         "comments": 1,
         "media": {
             "type": "image",
@@ -252,12 +265,25 @@
         "permalink": "/r/science/comments/1tvrdnv/extracellular_vesicles_released_by_senescent/"
     },
     {
+        "id": "1tvewn2",
+        "author": "Super_Letterhead381",
+        "title": "Deoxygenation in the equatorial Panthalassan Ocean predated the end-Triassic mass extinction",
+        "content": "",
+        "upvotes": 146,
+        "comments": 5,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/WN4W6q1Olud_vgz8eiFXx6FHsx8N947OcLG7-RznJZk.png?auto=webp&amp;s=34da66ae1c58b758b7495df119a6fb2a2a51cfc6"
+        },
+        "permalink": "/r/science/comments/1tvewn2/deoxygenation_in_the_equatorial_panthalassan/"
+    },
+    {
         "id": "1tvsxsk",
         "author": "ConserveChange",
         "title": "Local community stewardship of cultural keystone species enhances nature's contributions to people.",
         "content": "",
-        "upvotes": 13,
-        "comments": 1,
+        "upvotes": 15,
+        "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1tvsxsk/local_community_stewardship_of_cultural_keystone/"
     },
@@ -266,8 +292,8 @@
         "author": "Wagamaga",
         "title": "Nearly 1 in 5 US adolescents and young adults now seek mental health advice from artificial intelligence (AI) chatbots, raising concerns about how these tools are reshaping the treatment ecosystem, largely without clinician or parent awarenes",
         "content": "",
-        "upvotes": 1596,
-        "comments": 196,
+        "upvotes": 1639,
+        "comments": 201,
         "media": null,
         "permalink": "/r/science/comments/1tunora/nearly_1_in_5_us_adolescents_and_young_adults_now/"
     },
@@ -276,7 +302,7 @@
         "author": "sr_local",
         "title": "Researchers uncovered the first evidence that deep brain stimulation (DBS) can remodel white matter pathways in the brain and alter communication across large-scale neural networks, this may explain how the therapy helps patients recover from severe depression",
         "content": "",
-        "upvotes": 1091,
+        "upvotes": 1133,
         "comments": 14,
         "media": {
             "type": "image",
@@ -285,25 +311,12 @@
         "permalink": "/r/science/comments/1tuov14/researchers_uncovered_the_first_evidence_that/"
     },
     {
-        "id": "1tubt9n",
-        "author": "mvea",
-        "title": "A higher percentage of MAGA Republicans (52.2%) than of strong Democrats (32.1%) believed political violence is usually or always justified to achieve at least one political objective. A small increase was observed in the belief that the U.S. may experience civil war in the coming years.",
-        "content": "",
-        "upvotes": 5407,
-        "comments": 643,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/OsrAVYkW_JjeESpQ66LOcgFOD0vJIAeVvRNtqIiCZNI.jpeg?auto=webp&amp;s=addebd7f58ede0412a7fd3336794b86d1a6611c4"
-        },
-        "permalink": "/r/science/comments/1tubt9n/a_higher_percentage_of_maga_republicans_522_than/"
-    },
-    {
         "id": "1turgj1",
         "author": "Hrmbee",
         "title": "Cats respond more reliably to silver vine than to catnip, despite catnip\u2019s abundant active compounds | Free-Roaming and Captive Cats Prefer Silver Vine to Catnip for Self-Anointing",
         "content": "",
-        "upvotes": 473,
-        "comments": 15,
+        "upvotes": 512,
+        "comments": 16,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/jYLtoFfwN5wdqXGadCFMNrcmKaIMsFJ6MgLy_MIC8vk.jpeg?auto=webp&amp;s=739ff60ba93a8d102e836f4944f800d0ce81f9bc"
@@ -311,12 +324,25 @@
         "permalink": "/r/science/comments/1turgj1/cats_respond_more_reliably_to_silver_vine_than_to/"
     },
     {
+        "id": "1tubt9n",
+        "author": "mvea",
+        "title": "A higher percentage of MAGA Republicans (52.2%) than of strong Democrats (32.1%) believed political violence is usually or always justified to achieve at least one political objective. A small increase was observed in the belief that the U.S. may experience civil war in the coming years.",
+        "content": "",
+        "upvotes": 5460,
+        "comments": 646,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/OsrAVYkW_JjeESpQ66LOcgFOD0vJIAeVvRNtqIiCZNI.jpeg?auto=webp&amp;s=addebd7f58ede0412a7fd3336794b86d1a6611c4"
+        },
+        "permalink": "/r/science/comments/1tubt9n/a_higher_percentage_of_maga_republicans_522_than/"
+    },
+    {
         "id": "1tv0jns",
         "author": "Scbadiver",
         "title": "Magnetoelectric microrobots for spinal cord injury regeneration | Nature Materials",
         "content": "",
-        "upvotes": 119,
-        "comments": 4,
+        "upvotes": 130,
+        "comments": 5,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/ykA7sytyMZ5LGe2m3LGMoMvDDOgx46cdZrSqucgADlM.png?auto=webp&amp;s=15cbadfe84df5486d5bd77f37b4457b8063f393f"
@@ -328,35 +354,12 @@
         "author": "mvea",
         "title": "New study found Republican voters continue to penalize candidates for being gay and for being even slightly gender nonconforming. Among Democratic and young voters, the anti-gay penalty has partly vanished and partly shifted to penalizing candidates who look or sound slightly gender nonconforming.",
         "content": "",
-        "upvotes": 3687,
-        "comments": 223,
+        "upvotes": 3716,
+        "comments": 227,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/jkkHwGL-L0f3rMJmzZCJICH8FaQvonx_wNA7VKqxMWM.jpeg?auto=webp&amp;s=141bb7b1ff613e2b97c329385fd69e1bc661a519"
         },
         "permalink": "/r/science/comments/1tu4trp/new_study_found_republican_voters_continue_to/"
-    },
-    {
-        "id": "1tu1fvx",
-        "author": "FreeHugs23",
-        "title": "Women who run the relationship prefer looks over money in romantic partners. Study suggests that what women look for in a mate adapts to their level of power and control within a partnership.",
-        "content": "",
-        "upvotes": 4134,
-        "comments": 339,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/Or_v-zMmEYK9SX-dM4fRGzlpqK7C7w57FKexzu4Rl3c.jpeg?auto=webp&amp;s=2440220e175c64ce2c7ffd90624f0d2f97342367"
-        },
-        "permalink": "/r/science/comments/1tu1fvx/women_who_run_the_relationship_prefer_looks_over/"
-    },
-    {
-        "id": "1tuksjo",
-        "author": "Similar_Detective861",
-        "title": "Researchers develop a real-time, bedside brain monitor that continuously analyzes cerebrospinal fluid for biomarkers. The system detects infections in brain-injury patients significantly earlier than standard lab tests, allowing for much faster, life-saving interventions.",
-        "content": "",
-        "upvotes": 263,
-        "comments": 4,
-        "media": null,
-        "permalink": "/r/science/comments/1tuksjo/researchers_develop_a_realtime_bedside_brain/"
     }
 ]
