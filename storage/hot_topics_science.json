@@ -4,7 +4,7 @@
         "author": "ScienceModerator",
         "title": "Notice: Cornell survey to study community norms and participation in r/science",
         "content": "We are partnering with researchers from Cornell University on a survey that will help us understand the relationship between community norms, technology, and participation. As part of their recruitment process, they are messaging a random sample of people who have interacted with the community in different ways. You may receive a chat message from their bot, u/civilservantbot, if you participated in r/science in the past 6 months.\n\nIf you received a message and don\u2019t want to participate, please feel free to ignore it. They will send one more reminder message on June 2nd. You can ignore that too.\n\nIf you want to participate, the survey takes 15 minutes to complete and will ask questions about your participation in , why you participate(d), your perception of its community norms, your experience with algorithmically generated content and recommender systems, and demographic questions. You will not be asked for personal identifiable information and your username cannot be connected to your survey responses.\n\nIf you have any questions about the study, please reach out to the lead researcher, [Dr. Sarah Gilbert](https://reddit.com/user/SarahAGilbert/) on Reddit via DM or email at [sag284@cornell.edu](mailto:sag284@cornell.edu).\n\nIf you are interested in participating but did not receive a message, Dr. Gilbert will be making a public post with the survey link in a few days, once the messages have all been sent.",
-        "upvotes": 70,
+        "upvotes": 72,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1tochso/notice_cornell_survey_to_study_community_norms/"
@@ -14,8 +14,8 @@
         "author": "mvea",
         "title": "Political anger fuels support for violence mainly when voters feel ignored by the system. When people believe the government is responsive, this acts as a buffer against endorsing political violence. The study involved both Democrats and Republicans during the 2024 US presidential election.",
         "content": "",
-        "upvotes": 804,
-        "comments": 75,
+        "upvotes": 1371,
+        "comments": 87,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/sGDxfqEsRRaIQ-ynBww1lWMg6Og02oPXVtdZaJ7iBpE.jpeg?auto=webp&amp;s=16775c93bfd42ce9cbbc25c3d143cf95bd40e28e"
@@ -23,51 +23,12 @@
         "permalink": "/r/science/comments/1txz0o0/political_anger_fuels_support_for_violence_mainly/"
     },
     {
-        "id": "1txlyqt",
-        "author": "mvea",
-        "title": "Christian beliefs in divinely ordained roles for men and women are strongly tied to support for national population growth and restrictions on reproductive rights. These religious views shape not only family dynamics but also preferences for government policies.",
-        "content": "",
-        "upvotes": 3204,
-        "comments": 604,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/qkW46bUgZ72mIVJ2JVyVugFFjNDAOx0CiPJ-MOsV7yg.jpeg?auto=webp&amp;s=371ef3507f2039c3c13ef4d2a2687eb30ddc3d50"
-        },
-        "permalink": "/r/science/comments/1txlyqt/christian_beliefs_in_divinely_ordained_roles_for/"
-    },
-    {
-        "id": "1txi43c",
-        "author": "Wagamaga",
-        "title": "Researchers have found that people who ate more ultra-processed foods have worse health outcomes, even after accounting for the overall nutritional quality of the foods. They were also more likely to have conditions such as diabetes, metabolic syndrome, and cancer",
-        "content": "",
-        "upvotes": 4374,
-        "comments": 557,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/NlSQ1Ic0geVJEkh0I3nl_qBKK1dJervs99W_CPgying.jpeg?auto=webp&amp;s=05f91c9268ac9deb2684fa0daf3ff6ce1147e66f"
-        },
-        "permalink": "/r/science/comments/1txi43c/researchers_have_found_that_people_who_ate_more/"
-    },
-    {
-        "id": "1txwpey",
-        "author": "fchung",
-        "title": "Growing a new \u2018leaf\u2019 that harnesses sun, water and CO2 to make liquid fuel: \u00ab A research team led by Yale chemists has taken the ability of science to mimic photosynthesis to a new level, with a standalone device that produces methanol. \u00bb",
-        "content": "",
-        "upvotes": 707,
-        "comments": 17,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/3p4XJ6Nmiv2bLAaYsRhwjRNAi8lRYNTazllZ7zT4mOo.jpeg?auto=webp&amp;s=7995070a5b8e2b21cba6030c4080cc961914e065"
-        },
-        "permalink": "/r/science/comments/1txwpey/growing_a_new_leaf_that_harnesses_sun_water_and/"
-    },
-    {
         "id": "1ty60dp",
         "author": "TylerFortier_Photo",
         "title": "Scientists have developed a new \u201ctranscriptomic clock\u201d that measures biological age by analyzing gene activity, can estimate a person\u2019s chronological age, but also expected mortality risk",
         "content": "",
-        "upvotes": 63,
-        "comments": 2,
+        "upvotes": 335,
+        "comments": 12,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/FGpcjpiUZ0uQ8eh83EashQ8bb9T4sVkp-IIuURBw9cU.png?auto=webp&amp;s=37552d0a27b50cab340dcdd386f538111b05ecd3"
@@ -75,12 +36,51 @@
         "permalink": "/r/science/comments/1ty60dp/scientists_have_developed_a_new_transcriptomic/"
     },
     {
+        "id": "1txlyqt",
+        "author": "mvea",
+        "title": "Christian beliefs in divinely ordained roles for men and women are strongly tied to support for national population growth and restrictions on reproductive rights. These religious views shape not only family dynamics but also preferences for government policies.",
+        "content": "",
+        "upvotes": 3656,
+        "comments": 623,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/qkW46bUgZ72mIVJ2JVyVugFFjNDAOx0CiPJ-MOsV7yg.jpeg?auto=webp&amp;s=371ef3507f2039c3c13ef4d2a2687eb30ddc3d50"
+        },
+        "permalink": "/r/science/comments/1txlyqt/christian_beliefs_in_divinely_ordained_roles_for/"
+    },
+    {
+        "id": "1txwpey",
+        "author": "fchung",
+        "title": "Growing a new \u2018leaf\u2019 that harnesses sun, water and CO2 to make liquid fuel: \u00ab A research team led by Yale chemists has taken the ability of science to mimic photosynthesis to a new level, with a standalone device that produces methanol. \u00bb",
+        "content": "",
+        "upvotes": 1033,
+        "comments": 32,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/3p4XJ6Nmiv2bLAaYsRhwjRNAi8lRYNTazllZ7zT4mOo.jpeg?auto=webp&amp;s=7995070a5b8e2b21cba6030c4080cc961914e065"
+        },
+        "permalink": "/r/science/comments/1txwpey/growing_a_new_leaf_that_harnesses_sun_water_and/"
+    },
+    {
+        "id": "1txi43c",
+        "author": "Wagamaga",
+        "title": "Researchers have found that people who ate more ultra-processed foods have worse health outcomes, even after accounting for the overall nutritional quality of the foods. They were also more likely to have conditions such as diabetes, metabolic syndrome, and cancer",
+        "content": "",
+        "upvotes": 4768,
+        "comments": 587,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/NlSQ1Ic0geVJEkh0I3nl_qBKK1dJervs99W_CPgying.jpeg?auto=webp&amp;s=05f91c9268ac9deb2684fa0daf3ff6ce1147e66f"
+        },
+        "permalink": "/r/science/comments/1txi43c/researchers_have_found_that_people_who_ate_more/"
+    },
+    {
         "id": "1txvisp",
         "author": "upbeat_teetertottxo",
         "title": "A Blood Test May Detect the Conditions That Lead to Lung Cancer Years Before It Appears",
         "content": "",
-        "upvotes": 209,
-        "comments": 1,
+        "upvotes": 245,
+        "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1txvisp/a_blood_test_may_detect_the_conditions_that_lead/"
     },
@@ -89,8 +89,8 @@
         "author": "Similar_Detective861",
         "title": "Scientists discover a new species of four-\"winged\" microraptor dinosaur, Jian changmaensis, that likely glided like a flying squirrel and targeted prehistoric birds 120 million years ago.",
         "content": "",
-        "upvotes": 459,
-        "comments": 5,
+        "upvotes": 509,
+        "comments": 6,
         "media": null,
         "permalink": "/r/science/comments/1txkuhx/scientists_discover_a_new_species_of_fourwinged/"
     },
@@ -99,27 +99,17 @@
         "author": "mvea",
         "title": "Abortion restrictions associated with lower female medical school applicant numbers. Eight years of national data showed that the proportion of female medical school applicants grew more slowly in states with restrictive abortion policies after Roe v. Wade reversal.",
         "content": "",
-        "upvotes": 2881,
-        "comments": 74,
+        "upvotes": 3087,
+        "comments": 76,
         "media": null,
         "permalink": "/r/science/comments/1tx78bu/abortion_restrictions_associated_with_lower/"
-    },
-    {
-        "id": "1txlacn",
-        "author": "Similar_Detective861",
-        "title": "Researchers pinpoint the exact origin of microscopic \"charge noise\" in spin qubit quantum processors, unlocking a major breakthrough for stable, error-corrected quantum computing.",
-        "content": "",
-        "upvotes": 297,
-        "comments": 5,
-        "media": null,
-        "permalink": "/r/science/comments/1txlacn/researchers_pinpoint_the_exact_origin_of/"
     },
     {
         "id": "1txi5wy",
         "author": "sr_local",
         "title": "A father's obesity, diet, stress and mental health before and during parenthood may shape a child's lifelong risk of obesity and metabolic disease through changes in sperm health and biological markers",
         "content": "",
-        "upvotes": 437,
+        "upvotes": 506,
         "comments": 3,
         "media": {
             "type": "image",
@@ -128,52 +118,75 @@
         "permalink": "/r/science/comments/1txi5wy/a_fathers_obesity_diet_stress_and_mental_health/"
     },
     {
+        "id": "1txlacn",
+        "author": "Similar_Detective861",
+        "title": "Researchers pinpoint the exact origin of microscopic \"charge noise\" in spin qubit quantum processors, unlocking a major breakthrough for stable, error-corrected quantum computing.",
+        "content": "",
+        "upvotes": 334,
+        "comments": 5,
+        "media": null,
+        "permalink": "/r/science/comments/1txlacn/researchers_pinpoint_the_exact_origin_of/"
+    },
+    {
         "id": "1txtl7a",
         "author": "Scbadiver",
         "title": "Ambient-pressure conversion of plastic waste to jet fuel cycloalkanes by tandem hydropyrolysis and vapour-phase hydrogenation | Nature Energy",
         "content": "",
-        "upvotes": 77,
+        "upvotes": 95,
         "comments": 4,
         "media": null,
         "permalink": "/r/science/comments/1txtl7a/ambientpressure_conversion_of_plastic_waste_to/"
-    },
-    {
-        "id": "1twopdi",
-        "author": "mvea",
-        "title": "Adults with ADHD may pay high price to mask traits and fit in. More than 91% of adults with ADHD reported hiding, suppressing or compensating for ADHD traits. They may pretend to pay attention, suppress their urge to fidget, rehearse conversations or over-prepare for meetings to fit social norms.",
-        "content": "",
-        "upvotes": 22700,
-        "comments": 1720,
-        "media": null,
-        "permalink": "/r/science/comments/1twopdi/adults_with_adhd_may_pay_high_price_to_mask/"
     },
     {
         "id": "1txkxsv",
         "author": "Similar_Detective861",
         "title": "Durham University study surveying 1,470 parents reveals a severe lack of safety guidance at the point of purchase for baby carriers and slings, increasing risks of positional asphyxia.",
         "content": "",
-        "upvotes": 170,
-        "comments": 12,
+        "upvotes": 209,
+        "comments": 13,
         "media": null,
         "permalink": "/r/science/comments/1txkxsv/durham_university_study_surveying_1470_parents/"
+    },
+    {
+        "id": "1twopdi",
+        "author": "mvea",
+        "title": "Adults with ADHD may pay high price to mask traits and fit in. More than 91% of adults with ADHD reported hiding, suppressing or compensating for ADHD traits. They may pretend to pay attention, suppress their urge to fidget, rehearse conversations or over-prepare for meetings to fit social norms.",
+        "content": "",
+        "upvotes": 23055,
+        "comments": 1736,
+        "media": null,
+        "permalink": "/r/science/comments/1twopdi/adults_with_adhd_may_pay_high_price_to_mask/"
     },
     {
         "id": "1txploi",
         "author": "zillagod2000",
         "title": "Correlation between gold and mercury in human blood among individuals in northwestern Tanzania",
         "content": "",
-        "upvotes": 87,
+        "upvotes": 100,
         "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1txploi/correlation_between_gold_and_mercury_in_human/"
+    },
+    {
+        "id": "1tyd907",
+        "author": "mvea",
+        "title": "People with higher autistic traits may use the act of naming their emotions as a way to cope with their intense dislike of unpredictability. This strategy, known as affect labeling, appears to help reduce anxiety by making vague internal feelings feel more structured.",
+        "content": "",
+        "upvotes": 1,
+        "comments": 2,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/eBkWbBSmNay_9DJTjvKN1ZHfO6xnIUwyCIRba2DXpEI.jpeg?auto=webp&amp;s=7dd243f6f35685c4fb604455ff73f5fc3007128f"
+        },
+        "permalink": "/r/science/comments/1tyd907/people_with_higher_autistic_traits_may_use_the/"
     },
     {
         "id": "1twoahp",
         "author": "mvea",
         "title": "Fear and social pressure are \u2018overarming\u2019 the US. As more people arm, others feel compelled to do the same as chances of confronting someone with a gun increases. The fear of being the only unarmed person in a confrontation is enough, on its own, to push gun ownership well past the social optimum.",
         "content": "",
-        "upvotes": 3317,
-        "comments": 1060,
+        "upvotes": 3352,
+        "comments": 1067,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/x8gFVz1LaWQ2YXPGQVudUP0cgGzvlcc9ki6tiGIqlXQ.jpeg?auto=webp&amp;s=3a5b6a2d71f7f4f0b5557ef2535bbefd5090550f"
@@ -185,8 +198,8 @@
         "author": "Science_News",
         "title": "Astronomers have found evidence of a mild wind blowing from the supermassive black hole at the center of the Milky Way | Observations of a cone-shaped path leading away from Sagittarius A* suggest that a hot wind is blowing from the black hole",
         "content": "",
-        "upvotes": 2124,
-        "comments": 69,
+        "upvotes": 2231,
+        "comments": 71,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/0YhPkTequx2-MX5vvZA6jBV2ZCsZIB6PPVPP3pvGCLE.jpeg?auto=webp&amp;s=b93087b52845592d355177c79cd05b7bad74db2d"
@@ -198,7 +211,7 @@
         "author": "BICEPS_NUS",
         "title": "Magnetic Reprogramming of Macrophages Stimulates Phagocytosis of Breast Cancer Cells via a TRPC1\u2010STING Inflammatory Axis - Sukumar - 2026 - Smart Medicine - Wiley Online Library",
         "content": "",
-        "upvotes": 49,
+        "upvotes": 58,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1txfd2a/magnetic_reprogramming_of_macrophages_stimulates/"
@@ -208,7 +221,7 @@
         "author": "Wagamaga",
         "title": "Big tobacco uses cigarette playbook to help sell ultra-processed foods. Research sheds new light on how ultra-processed foods came to dominate the U.S. food supply, contributing to epidemics of childhood obesity and metabolic diseases such as type 2 diabetes and fatty liver",
         "content": "",
-        "upvotes": 2144,
+        "upvotes": 2189,
         "comments": 74,
         "media": null,
         "permalink": "/r/science/comments/1twkf19/big_tobacco_uses_cigarette_playbook_to_help_sell/"
@@ -218,7 +231,7 @@
         "author": "RadiationStuff",
         "title": "A ten-country study on public perceptions of 5G EMF emissions reports on who feels exposed, and why, concluding that when the public assesses RF-EMF exposure, they often rely on heuristics (e.g., more sources imply more exposure) that guide them correctly.",
         "content": "",
-        "upvotes": 29,
+        "upvotes": 45,
         "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1txh3xg/a_tencountry_study_on_public_perceptions_of_5g/"
@@ -228,8 +241,8 @@
         "author": "pubpophealth",
         "title": "Longer exposure to drought was linked to worse memory and verbal learning over time among nearly 7,000 older adults in Mexico, and the association was not explained by nutrition or mental health",
         "content": "",
-        "upvotes": 300,
-        "comments": 5,
+        "upvotes": 315,
+        "comments": 6,
         "media": null,
         "permalink": "/r/science/comments/1tx0bxf/longer_exposure_to_drought_was_linked_to_worse/"
     },
@@ -238,8 +251,8 @@
         "author": "HeinieKaboobler",
         "title": "Planning to hit the gym with friends offers an extra boost. A new paper reveals that planning exercise with others, rather than alone, may help you do more in your work out",
         "content": "",
-        "upvotes": 408,
-        "comments": 24,
+        "upvotes": 424,
+        "comments": 25,
         "media": null,
         "permalink": "/r/science/comments/1twt4dg/planning_to_hit_the_gym_with_friends_offers_an/"
     },
@@ -248,8 +261,8 @@
         "author": "UniOfManchester",
         "title": "World\u2019s largest scorpion revealed from 415-million-year-old fossils",
         "content": "",
-        "upvotes": 1079,
-        "comments": 61,
+        "upvotes": 1129,
+        "comments": 62,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/Mf1m3FTE3j6HMr-yDpEYkul0jTJkR07_r5XikJ4IsBs.png?auto=webp&amp;s=7cfa9b96d2a0c0c55af3a0630cf23df79587e3d6"
@@ -257,21 +270,11 @@
         "permalink": "/r/science/comments/1twkcj3/worlds_largest_scorpion_revealed_from/"
     },
     {
-        "id": "1twkl6w",
-        "author": "Wagamaga",
-        "title": "A new study of more than 16,000 people who sought help from a nationwide abortion and miscarriage hotline found demand for confidential clinical support surged both before and after the U.S. Supreme Court decision that overturned federal abortion protections.",
-        "content": "",
-        "upvotes": 909,
-        "comments": 4,
-        "media": null,
-        "permalink": "/r/science/comments/1twkl6w/a_new_study_of_more_than_16000_people_who_sought/"
-    },
-    {
         "id": "1twxxq1",
         "author": "Hrmbee",
         "title": "Spontaneous problem-solving in bumble bees | Scientists found bees could solve an insect version of the classic \u201cbox-and-banana\u201d problem",
         "content": "",
-        "upvotes": 201,
+        "upvotes": 210,
         "comments": 10,
         "media": {
             "type": "image",
@@ -280,11 +283,21 @@
         "permalink": "/r/science/comments/1twxxq1/spontaneous_problemsolving_in_bumble_bees/"
     },
     {
+        "id": "1twkl6w",
+        "author": "Wagamaga",
+        "title": "A new study of more than 16,000 people who sought help from a nationwide abortion and miscarriage hotline found demand for confidential clinical support surged both before and after the U.S. Supreme Court decision that overturned federal abortion protections.",
+        "content": "",
+        "upvotes": 942,
+        "comments": 4,
+        "media": null,
+        "permalink": "/r/science/comments/1twkl6w/a_new_study_of_more_than_16000_people_who_sought/"
+    },
+    {
         "id": "1txb4xg",
         "author": "Super_Letterhead381",
         "title": "From Highlands to Henge: Refining the Provenance and Transport Pathways of Stonehenge's Altar Stone",
         "content": "",
-        "upvotes": 28,
+        "upvotes": 30,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1txb4xg/from_highlands_to_henge_refining_the_provenance/"
@@ -294,8 +307,8 @@
         "author": "sr_local",
         "title": "Study shows increasing histamine levels enhances episodic learning and memory retrieval, suggesting potential psychiatric therapy benefits under high workload conditions",
         "content": "",
-        "upvotes": 572,
-        "comments": 41,
+        "upvotes": 586,
+        "comments": 42,
         "media": null,
         "permalink": "/r/science/comments/1twlmwc/study_shows_increasing_histamine_levels_enhances/"
     },
@@ -304,8 +317,8 @@
         "author": "mvea",
         "title": "Party affiliation matters when it comes to dating in the US. Democrats are distinguished by their reluctance to date supporters of the other party rather than by a preference for fellow Democrats. Republicans, by contrast, both favour fellow Republicans and avoid Democratic partners.",
         "content": "",
-        "upvotes": 4675,
-        "comments": 847,
+        "upvotes": 4690,
+        "comments": 851,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/TJagnrzELdkg1a24xD6JQ87qVtYLNKfziejT4B_zE2U.jpeg?auto=webp&amp;s=b92e1b00b4652bef28772780ef51eb57760a61db"
@@ -317,22 +330,12 @@
         "author": "Doug24",
         "title": "Physical fitness is linked to brain health in young adults, but the effects differ by sex",
         "content": "",
-        "upvotes": 381,
+        "upvotes": 399,
         "comments": 22,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/YCTKf-__6jIFxRzrrf2I8S842MwVe4DPaOwkEKKOB2k.jpeg?auto=webp&amp;s=df8c6f60f5108d3a8ff10a3b63a6d1d8d2a9243d"
         },
         "permalink": "/r/science/comments/1twj39f/physical_fitness_is_linked_to_brain_health_in/"
-    },
-    {
-        "id": "1twun2q",
-        "author": "Jxntb733",
-        "title": "Device could sniff out fusion reactors secretly making material for a nuclear bomb",
-        "content": "",
-        "upvotes": 58,
-        "comments": 11,
-        "media": null,
-        "permalink": "/r/science/comments/1twun2q/device_could_sniff_out_fusion_reactors_secretly/"
     }
 ]
