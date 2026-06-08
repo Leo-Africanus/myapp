@@ -4,7 +4,7 @@
         "author": "ScienceModerator",
         "title": "Notice: Cornell survey to study community norms and participation in r/science",
         "content": "We are partnering with researchers from Cornell University on a survey that will help us understand the relationship between community norms, technology, and participation. As part of their recruitment process, they are messaging a random sample of people who have interacted with the community in different ways. You may receive a chat message from their bot, u/civilservantbot, if you participated in r/science in the past 6 months.\n\nIf you received a message and don\u2019t want to participate, please feel free to ignore it. They will send one more reminder message on June 2nd. You can ignore that too.\n\nIf you want to participate, the survey takes 15 minutes to complete and will ask questions about your participation in , why you participate(d), your perception of its community norms, your experience with algorithmically generated content and recommender systems, and demographic questions. You will not be asked for personal identifiable information and your username cannot be connected to your survey responses.\n\nIf you have any questions about the study, please reach out to the lead researcher, [Dr. Sarah Gilbert](https://reddit.com/user/SarahAGilbert/) on Reddit via DM or email at [sag284@cornell.edu](mailto:sag284@cornell.edu).\n\nIf you are interested in participating but did not receive a message, Dr. Gilbert will be making a public post with the survey link in a few days, once the messages have all been sent.",
-        "upvotes": 74,
+        "upvotes": 70,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1tochso/notice_cornell_survey_to_study_community_norms/"
@@ -14,8 +14,8 @@
         "author": "mvea",
         "title": "It may one day be possible to reap some of the benefits of sleep without ever closing our eyes. Stimulating specific brain activity in awake mice led to some of the same effects as deep sleep, including a boost in memory.",
         "content": "",
-        "upvotes": 623,
-        "comments": 60,
+        "upvotes": 2025,
+        "comments": 166,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/8Kg1gmQPeGUkRnQd-1N8sSdeqmIDR-sTROXlSaOqlQA.jpeg?auto=webp&amp;s=2601bf19f9408d98bb877e39d6f5d81a96c3afc4"
@@ -23,25 +23,25 @@
         "permalink": "/r/science/comments/1u04n3b/it_may_one_day_be_possible_to_reap_some_of_the/"
     },
     {
-        "id": "1tzwpxp",
-        "author": "QldBrainInst",
-        "title": "A University of Queensland (UQ) research team has developed a novel intranasal formulation of clozapine that could transform the treatment of schizophrenia, potentially reducing the serious side effects of this medication.",
+        "id": "1u0clw3",
+        "author": "Wagamaga",
+        "title": "Popular GLP-1 drugs such as semaglutide may do far more than help with diabetes and weight loss\u2014they could also fight addiction itself. Research found risks were lower across every major substance examined, including alcohol (18%), cannabis (14%), cocaine (20%), nicotine (20%), and opioids (25%).",
         "content": "",
-        "upvotes": 1597,
-        "comments": 18,
+        "upvotes": 600,
+        "comments": 77,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/0Bb7GtOVe9G4ITRyQRpZMU3vqJ4OjhBOoV08X2mm4cQ.jpeg?auto=webp&amp;s=76975b8e010d21e16491259f19b871a961d0d0a9"
+            "url": "https://external-preview.redd.it/CIs1Ey1iHLjl_yk9U2cPMqyEXhjDEBeW1RyWfN27SuQ.jpeg?auto=webp&amp;s=a51319cf72781d45ba2aee78d1d5967bf98cab35"
         },
-        "permalink": "/r/science/comments/1tzwpxp/a_university_of_queensland_uq_research_team_has/"
+        "permalink": "/r/science/comments/1u0clw3/popular_glp1_drugs_such_as_semaglutide_may_do_far/"
     },
     {
         "id": "1u04r2p",
         "author": "sr_local",
         "title": "Increased outdoor playtime in children between ages 2 and 4 linked to lower odds of emotional and behavioral difficulties in later childhood, with each additional play day per week raising chances of healthy mental health symptoms through age 8 by 6-14%",
         "content": "",
-        "upvotes": 256,
-        "comments": 6,
+        "upvotes": 1158,
+        "comments": 10,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/WK-GOpM5Uf5gYuuwNbEoob-lDxpQPwLlWS1tcGWwNTY.jpeg?auto=webp&amp;s=382f4c4c84d4a55fda9fefe3bf160b6b2e17f6f8"
@@ -49,12 +49,87 @@
         "permalink": "/r/science/comments/1u04r2p/increased_outdoor_playtime_in_children_between/"
     },
     {
+        "id": "1u0cdp9",
+        "author": "Science_News",
+        "title": "An experimental antibody may help people on GLP-1 meds preserve muscle mass",
+        "content": "",
+        "upvotes": 453,
+        "comments": 120,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/r52-euh173WfTvZtIApj89QHWHB99bYzdEMfqpE_i8g.jpeg?auto=webp&amp;s=f27d4e333977f033affa143f2f919f4994f43d80"
+        },
+        "permalink": "/r/science/comments/1u0cdp9/an_experimental_antibody_may_help_people_on_glp1/"
+    },
+    {
+        "id": "1u07mr5",
+        "author": "Wagamaga",
+        "title": "Researchers have developed an AI tool called AIDD that distinguishes between Alzheimer\u2019s disease and dementia with Lewy bodies with near-perfect accuracy. Alzheimer\u2019s disease and related dementias are expected to more than double by 2060",
+        "content": "",
+        "upvotes": 426,
+        "comments": 27,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/1Ktep5rJDJ_SaUHIFUZN9a4lYiaFjTNynfU1UqzCkgo.jpeg?auto=webp&amp;s=97ed79077f1106dd606da72224a66c2fed69896e"
+        },
+        "permalink": "/r/science/comments/1u07mr5/researchers_have_developed_an_ai_tool_called_aidd/"
+    },
+    {
+        "id": "1tzwpxp",
+        "author": "QldBrainInst",
+        "title": "A University of Queensland (UQ) research team has developed a novel intranasal formulation of clozapine that could transform the treatment of schizophrenia, potentially reducing the serious side effects of this medication.",
+        "content": "",
+        "upvotes": 2114,
+        "comments": 21,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/0Bb7GtOVe9G4ITRyQRpZMU3vqJ4OjhBOoV08X2mm4cQ.jpeg?auto=webp&amp;s=76975b8e010d21e16491259f19b871a961d0d0a9"
+        },
+        "permalink": "/r/science/comments/1tzwpxp/a_university_of_queensland_uq_research_team_has/"
+    },
+    {
+        "id": "1u0ecfj",
+        "author": "OhMyOhWhyOh",
+        "title": "Clinical Trial: Cannabis Oil Provides \u201cClinically Meaningful\u201d Improvements in Fibromyalgia Symptoms",
+        "content": "",
+        "upvotes": 127,
+        "comments": 8,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/gslT94WOzZlLeOyc6OuYt0_nDjwzyzZd1uCppiw5jIs.png?auto=webp&amp;s=2539c50ab95c7a833e959df4e89342291f9084a7"
+        },
+        "permalink": "/r/science/comments/1u0ecfj/clinical_trial_cannabis_oil_provides_clinically/"
+    },
+    {
+        "id": "1u06glu",
+        "author": "mvea",
+        "title": "\u201cCompound 10\u201d is a new chemical compound which could slow down the progression of Alzheimer\u2019s disease. Tested first on mice, the typical death of nerve cells seen in dementia is significantly slower, and the animals survive for longer. The active ingredient also shows anti-ageing effects.",
+        "content": "",
+        "upvotes": 249,
+        "comments": 15,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/mOrl_n6ft1ib39ixe-l3QATAINGlTUTcctbn0k_2mpQ.jpeg?auto=webp&amp;s=8c473b23c03f8d526e76ec975771dd04ac10a09c"
+        },
+        "permalink": "/r/science/comments/1u06glu/compound_10_is_a_new_chemical_compound_which/"
+    },
+    {
+        "id": "1u0ao6a",
+        "author": "MassGen-Research",
+        "title": "Delirium After Surgery Is a Strong Predictor of Cognitive Decline in Older Adults",
+        "content": "",
+        "upvotes": 136,
+        "comments": 7,
+        "media": null,
+        "permalink": "/r/science/comments/1u0ao6a/delirium_after_surgery_is_a_strong_predictor_of/"
+    },
+    {
         "id": "1tzhaq6",
         "author": "mvea",
         "title": "GLP-1 weight loss drugs linked to lower breast cancer incidence in large cohort study. Study of more than 110,000 women found that those who took GLP-1 medications were about 30% less likely to develop breast cancer than those who did not take GLP-1 medications.",
         "content": "",
-        "upvotes": 4183,
-        "comments": 237,
+        "upvotes": 4489,
+        "comments": 242,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/tLPtNYCsmzxR1a9j3RrQqZv7KwsRKPHWHxCJxziSNK4.png?auto=webp&amp;s=0077a05124439718c8b8f92af2695794c0ad1f70"
@@ -62,25 +137,12 @@
         "permalink": "/r/science/comments/1tzhaq6/glp1_weight_loss_drugs_linked_to_lower_breast/"
     },
     {
-        "id": "1tzsh2s",
-        "author": "TylerFortier_Photo",
-        "title": "A group of brain cells have been found to act as a \u201cdisappointment meter\u201d | Researchers describe a specific group of neurons in the mouse brain that become active when the animal anticipates a reward but earns less than expected, or nothing at all.",
-        "content": "",
-        "upvotes": 590,
-        "comments": 10,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/BuiowP68eeZ9J8-VUwq4vALDSBexhK8ecSsf8Dw2yvw.png?auto=webp&amp;s=fea72559a155b49b91b49ae15dadd0210b746a21"
-        },
-        "permalink": "/r/science/comments/1tzsh2s/a_group_of_brain_cells_have_been_found_to_act_as/"
-    },
-    {
         "id": "1u027fb",
         "author": "mareacaspica",
         "title": "Jumping spiders inspire ultra-efficient 3D camera",
         "content": "",
-        "upvotes": 100,
-        "comments": 6,
+        "upvotes": 201,
+        "comments": 9,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/VfCD2fl9ahGQuC8DIYuMQM8nY9oXSMd3F2APWm0RETw.jpeg?auto=webp&amp;s=2f4e17db7c3ad242bfa7a16244b285f7e57f8376"
@@ -88,12 +150,25 @@
         "permalink": "/r/science/comments/1u027fb/jumping_spiders_inspire_ultraefficient_3d_camera/"
     },
     {
+        "id": "1tzsh2s",
+        "author": "TylerFortier_Photo",
+        "title": "A group of brain cells have been found to act as a \u201cdisappointment meter\u201d | Researchers describe a specific group of neurons in the mouse brain that become active when the animal anticipates a reward but earns less than expected, or nothing at all.",
+        "content": "",
+        "upvotes": 707,
+        "comments": 12,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/BuiowP68eeZ9J8-VUwq4vALDSBexhK8ecSsf8Dw2yvw.png?auto=webp&amp;s=fea72559a155b49b91b49ae15dadd0210b746a21"
+        },
+        "permalink": "/r/science/comments/1tzsh2s/a_group_of_brain_cells_have_been_found_to_act_as/"
+    },
+    {
         "id": "1tz9c7j",
         "author": "sr_local",
         "title": "A review of 73 studies has highlighted growing evidence that diet in the early years of life may shape how well the brain develops: \u201cA poorer diet in the first years of life was linked to lower intelligence years later, in adolescence\u201d",
         "content": "",
-        "upvotes": 5539,
-        "comments": 110,
+        "upvotes": 5913,
+        "comments": 114,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/qnRXkl30vZ3Py3KyG0HukFfUqIAzgC6n65CnG9K4lKc.jpeg?auto=webp&amp;s=be45ebc327d1c581bde78e4fec262503fdad2f03"
@@ -101,12 +176,25 @@
         "permalink": "/r/science/comments/1tz9c7j/a_review_of_73_studies_has_highlighted_growing/"
     },
     {
+        "id": "1u0e00t",
+        "author": "Oncotarget",
+        "title": "The anticancer effects of PCAIs in pancreatic cancer cells involve MAPK and PI3K/AKT pathways hyperactivation",
+        "content": "",
+        "upvotes": 25,
+        "comments": 1,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/DYiUQAqzAy9SzDpKTZWkZyyR7evwu4ZoCOZcgSCu6gw.png?auto=webp&amp;s=b32ff502db679cb44311e42c03a342c6339386a5"
+        },
+        "permalink": "/r/science/comments/1u0e00t/the_anticancer_effects_of_pcais_in_pancreatic/"
+    },
+    {
         "id": "1tzalyd",
         "author": "mvea",
         "title": "Triple-action diabetes jab shown to reduce blood sugar and body weight. Retatrutide is designed to control appetite and blood sugar but also increase body\u2019s energy expenditure, unlike other drugs. The triple hormone drug mimics three gut hormones: GLP-1, GIP and glucagon.",
         "content": "",
-        "upvotes": 1229,
-        "comments": 137,
+        "upvotes": 1329,
+        "comments": 141,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/bz5loruuPqAcjliH03ESVWgblWbcH5I41ZD102YKCr8.jpeg?auto=webp&amp;s=7d1f567e482fb0a191d579d74020fb2c51190d97"
@@ -118,8 +206,8 @@
         "author": "Shiny-Tie-126",
         "title": "JWST measures mass of a dormant black hole from the early universe, 6 billion times the mass of our Sun, 10 billion light-years away",
         "content": "",
-        "upvotes": 611,
-        "comments": 16,
+        "upvotes": 659,
+        "comments": 18,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/1OBB7UC2VK1TG5jwuIcx-Iq00UwNUg3e3sGrYjvop4I.jpeg?auto=webp&amp;s=e3eaf89a929c046a76b68556303408ee30baba1a"
@@ -127,35 +215,35 @@
         "permalink": "/r/science/comments/1tzfoxq/jwst_measures_mass_of_a_dormant_black_hole_from/"
     },
     {
-        "id": "1u06glu",
-        "author": "mvea",
-        "title": "\u201cCompound 10\u201d is a new chemical compound which could slow down the progression of Alzheimer\u2019s disease. Tested first on mice, the typical death of nerve cells seen in dementia is significantly slower, and the animals survive for longer. The active ingredient also shows anti-ageing effects.",
-        "content": "",
-        "upvotes": 9,
-        "comments": 3,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/mOrl_n6ft1ib39ixe-l3QATAINGlTUTcctbn0k_2mpQ.jpeg?auto=webp&amp;s=8c473b23c03f8d526e76ec975771dd04ac10a09c"
-        },
-        "permalink": "/r/science/comments/1u06glu/compound_10_is_a_new_chemical_compound_which/"
-    },
-    {
         "id": "1tyy0vb",
         "author": "mvea",
         "title": "Florida\u2019s \u2018war on woke\u2019 reframed responsible investment as a threat to \u2018everyday people\u2019. Fossil fuel companies were a major force behind the Florida\u2019s move to stop banks and pension funds from investing in companies that prioritised environmental and social governance, new research found.",
         "content": "",
-        "upvotes": 4478,
+        "upvotes": 4584,
         "comments": 74,
         "media": null,
         "permalink": "/r/science/comments/1tyy0vb/floridas_war_on_woke_reframed_responsible/"
+    },
+    {
+        "id": "1u0g6wu",
+        "author": "fchung",
+        "title": "Plants could be used to grow medicines in space, study shows: \u00ab UC San Diego engineers are growing plants in simulated space conditions to explore their potential for producing pharmaceuticals in space. \u00bb",
+        "content": "",
+        "upvotes": 6,
+        "comments": 3,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/_qxGyXaDmEx5IUkDmJlQW8ODeagMJ9gfD2jX9a6gMt0.jpeg?auto=webp&amp;s=cf67ea259c311322bb5e2b2a9633280fc4445a9b"
+        },
+        "permalink": "/r/science/comments/1u0g6wu/plants_could_be_used_to_grow_medicines_in_space/"
     },
     {
         "id": "1tyziky",
         "author": "Krankenitrate",
         "title": "AI-designed universal coronavirus vaccine passes first human trial",
         "content": "",
-        "upvotes": 1784,
-        "comments": 231,
+        "upvotes": 1854,
+        "comments": 241,
         "media": null,
         "permalink": "/r/science/comments/1tyziky/aidesigned_universal_coronavirus_vaccine_passes/"
     },
@@ -164,8 +252,8 @@
         "author": "James_Fortis",
         "title": "Researchers examined 260 healthy women aged 18\u201330 for links between plant-based diets and bone density. The two were not independently associated, suggesting the diets in young adulthood are unlikely to compromise peak bone mass development.",
         "content": "",
-        "upvotes": 288,
-        "comments": 13,
+        "upvotes": 294,
+        "comments": 14,
         "media": null,
         "permalink": "/r/science/comments/1tza0fl/researchers_examined_260_healthy_women_aged_1830/"
     },
@@ -184,8 +272,8 @@
         "author": "mvea",
         "title": "Mental health is emerging as a source of political identity, particularly among younger (Gen Z) and more liberal Americans. They believe people with mental illness should work together to change laws unfair to them and tend to support increased healthcare, education, and welfare spending.",
         "content": "",
-        "upvotes": 10506,
-        "comments": 595,
+        "upvotes": 10590,
+        "comments": 601,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/gAa9hm96BGYDnfv6CjwRYcWhCvoNgRIoSRHmRDlidBE.jpeg?auto=webp&amp;s=88b4f27ef582fe8127c361e6f8e62b290a602fdb"
@@ -197,8 +285,8 @@
         "author": "Similar_Detective861",
         "title": "Not having children isn't linked to lower happiness, but having more than you wanted is, a recent study in the Journal of Personality suggests.",
         "content": "",
-        "upvotes": 3871,
-        "comments": 279,
+        "upvotes": 3938,
+        "comments": 288,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/UFhxizI_bJLcUEJpVAZaBJnMgyIyEnrOPLb5XxuVYDY.jpeg?auto=webp&amp;s=d9f8e882909871f366b06a0872a58eb7a7868a64"
@@ -210,8 +298,8 @@
         "author": "mvea",
         "title": "Strong approval of the National Rifle Association is linked to support for political violence. Approvers were also more likely to support conspiracy theories, right-wing extremist groups, QAnon, and agree with Christian nationalist beliefs, like government declaring the country a Christian nation.",
         "content": "",
-        "upvotes": 2331,
-        "comments": 339,
+        "upvotes": 2361,
+        "comments": 356,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/DrOuqmUlU6n7E1LDCNumKjENO-l3AuV_GqE58PlNrCs.jpeg?auto=webp&amp;s=5bd14e4c7a34b3bf76e68a85fb2734b62f3ba103"
@@ -223,8 +311,8 @@
         "author": "GreenFrogus",
         "title": "Genetically engineered hookworms can now secrete human therapeutic antibodies directly into their host's circulation, offering a potential single-dose, years-long drug delivery platform",
         "content": "",
-        "upvotes": 1950,
-        "comments": 156,
+        "upvotes": 2014,
+        "comments": 164,
         "media": null,
         "permalink": "/r/science/comments/1tyie0n/genetically_engineered_hookworms_can_now_secrete/"
     },
@@ -233,7 +321,7 @@
         "author": "Super_Letterhead381",
         "title": "Rise of modern marine fishes captured in an early Paleocene Lagerst\u00e4tte",
         "content": "",
-        "upvotes": 55,
+        "upvotes": 49,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1tz3ss1/rise_of_modern_marine_fishes_captured_in_an_early/"
@@ -243,7 +331,7 @@
         "author": "fchung",
         "title": "Electrical pulses reverse aging in sea squirts: \u00ab Findings point toward new strategies for protecting species from environmental shifts and could also have implications for mitigating age-related decline in humans. \u00bb",
         "content": "",
-        "upvotes": 231,
+        "upvotes": 238,
         "comments": 4,
         "media": {
             "type": "image",
@@ -256,107 +344,22 @@
         "author": "CmichPsychedelics",
         "title": "Major life changes following psychedelic use: A retrospective survey among people using psychedelics naturalistically",
         "content": "",
-        "upvotes": 501,
-        "comments": 66,
+        "upvotes": 512,
+        "comments": 70,
         "media": null,
         "permalink": "/r/science/comments/1tyka5u/major_life_changes_following_psychedelic_use_a/"
     },
     {
-        "id": "1tylae2",
-        "author": "Similar_Detective861",
-        "title": "Baby leaffooted bugs must play \u2018game of roulette\u2019 to find survival partners before time runs out. They must acquire their obligate bacterial symbiont from the soil within a tight developmental window, or they experience a permanent collapse in survivorship and physical development.",
+        "id": "1u0a2ib",
+        "author": "Hrmbee",
+        "title": "People love working from home but new study suggests this causes increased social isolation, anxiety, and depression | Home alone: Remote work, isolation, and mental health",
         "content": "",
-        "upvotes": 188,
-        "comments": 5,
+        "upvotes": 0,
+        "comments": 66,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/QRnsqp1rBgEXZ1SSMJRsnHMjQpmysC5-NgmrUq6Hf3Q.jpeg?auto=webp&amp;s=f6c0ac87fb763ff29fc43a1d00a08b012c1b67d4"
+            "url": "https://external-preview.redd.it/v3wE8ikb2EMiPdGwzp7Krl-izEuKYEycMWOmlKJO-lo.jpeg?auto=webp&amp;s=fcc5b3d2e5430671686b9e22948724dd1fce4378"
         },
-        "permalink": "/r/science/comments/1tylae2/baby_leaffooted_bugs_must_play_game_of_roulette/"
-    },
-    {
-        "id": "1tyhiyt",
-        "author": "TearDownTheBlochwall",
-        "title": "Engineered living materials harness the activity of microorganisms to imbue synthetic matter with previously unknown functionalities. In this work, ETH researchers introduce a 3D printing strategy to manufacture complex-shaped mechanoluminescent objects using dinoflagellates embedded in hydrogels.",
-        "content": "",
-        "upvotes": 135,
-        "comments": 10,
-        "media": null,
-        "permalink": "/r/science/comments/1tyhiyt/engineered_living_materials_harness_the_activity/"
-    },
-    {
-        "id": "1tylnbc",
-        "author": "FunnyGamer97",
-        "title": "UNM researchers use new machine learning method to detect self-harm history hidden in veterans\u2019 medical records | Study of over 1.3 million patients found that diagnosis codes captured only about one-fourth of clinically documented self-harm history.",
-        "content": "",
-        "upvotes": 79,
-        "comments": 6,
-        "media": null,
-        "permalink": "/r/science/comments/1tylnbc/unm_researchers_use_new_machine_learning_method/"
-    },
-    {
-        "id": "1ty60dp",
-        "author": "TylerFortier_Photo",
-        "title": "Scientists have developed a new \u201ctranscriptomic clock\u201d that measures biological age by analyzing gene activity, can estimate a person\u2019s chronological age, but also expected mortality risk",
-        "content": "",
-        "upvotes": 855,
-        "comments": 24,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/FGpcjpiUZ0uQ8eh83EashQ8bb9T4sVkp-IIuURBw9cU.png?auto=webp&amp;s=37552d0a27b50cab340dcdd386f538111b05ecd3"
-        },
-        "permalink": "/r/science/comments/1ty60dp/scientists_have_developed_a_new_transcriptomic/"
-    },
-    {
-        "id": "1txz0o0",
-        "author": "mvea",
-        "title": "Political anger fuels support for violence mainly when voters feel ignored by the system. When people believe the government is responsive, this acts as a buffer against endorsing political violence. The study involved both Democrats and Republicans during the 2024 US presidential election.",
-        "content": "",
-        "upvotes": 2120,
-        "comments": 106,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/sGDxfqEsRRaIQ-ynBww1lWMg6Og02oPXVtdZaJ7iBpE.jpeg?auto=webp&amp;s=16775c93bfd42ce9cbbc25c3d143cf95bd40e28e"
-        },
-        "permalink": "/r/science/comments/1txz0o0/political_anger_fuels_support_for_violence_mainly/"
-    },
-    {
-        "id": "1txwpey",
-        "author": "fchung",
-        "title": "Growing a new \u2018leaf\u2019 that harnesses sun, water and CO2 to make liquid fuel: \u00ab A research team led by Yale chemists has taken the ability of science to mimic photosynthesis to a new level, with a standalone device that produces methanol. \u00bb",
-        "content": "",
-        "upvotes": 1571,
-        "comments": 39,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/3p4XJ6Nmiv2bLAaYsRhwjRNAi8lRYNTazllZ7zT4mOo.jpeg?auto=webp&amp;s=7995070a5b8e2b21cba6030c4080cc961914e065"
-        },
-        "permalink": "/r/science/comments/1txwpey/growing_a_new_leaf_that_harnesses_sun_water_and/"
-    },
-    {
-        "id": "1txlyqt",
-        "author": "mvea",
-        "title": "Christian beliefs in divinely ordained roles for men and women are strongly tied to support for national population growth and restrictions on reproductive rights. These religious views shape not only family dynamics but also preferences for government policies.",
-        "content": "",
-        "upvotes": 4289,
-        "comments": 692,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/qkW46bUgZ72mIVJ2JVyVugFFjNDAOx0CiPJ-MOsV7yg.jpeg?auto=webp&amp;s=371ef3507f2039c3c13ef4d2a2687eb30ddc3d50"
-        },
-        "permalink": "/r/science/comments/1txlyqt/christian_beliefs_in_divinely_ordained_roles_for/"
-    },
-    {
-        "id": "1txi43c",
-        "author": "Wagamaga",
-        "title": "Researchers have found that people who ate more ultra-processed foods have worse health outcomes, even after accounting for the overall nutritional quality of the foods. They were also more likely to have conditions such as diabetes, metabolic syndrome, and cancer",
-        "content": "",
-        "upvotes": 5477,
-        "comments": 645,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/NlSQ1Ic0geVJEkh0I3nl_qBKK1dJervs99W_CPgying.jpeg?auto=webp&amp;s=05f91c9268ac9deb2684fa0daf3ff6ce1147e66f"
-        },
-        "permalink": "/r/science/comments/1txi43c/researchers_have_found_that_people_who_ate_more/"
+        "permalink": "/r/science/comments/1u0a2ib/people_love_working_from_home_but_new_study/"
     }
 ]
