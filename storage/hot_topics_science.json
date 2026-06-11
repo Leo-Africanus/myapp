@@ -4,31 +4,51 @@
         "author": "ScienceModerator",
         "title": "Notice: Cornell survey to study community norms and participation in r/science",
         "content": "We are partnering with researchers from Cornell University on a survey that will help us understand the relationship between community norms, technology, and participation. As part of their recruitment process, they are messaging a random sample of people who have interacted with the community in different ways. You may receive a chat message from their bot, u/civilservantbot, if you participated in r/science in the past 6 months.\n\nIf you received a message and don\u2019t want to participate, please feel free to ignore it. They will send one more reminder message on June 2nd. You can ignore that too.\n\nIf you want to participate, the survey takes 15 minutes to complete and will ask questions about your participation in , why you participate(d), your perception of its community norms, your experience with algorithmically generated content and recommender systems, and demographic questions. You will not be asked for personal identifiable information and your username cannot be connected to your survey responses.\n\nIf you have any questions about the study, please reach out to the lead researcher, [Dr. Sarah Gilbert](https://reddit.com/user/SarahAGilbert/) on Reddit via DM or email at [sag284@cornell.edu](mailto:sag284@cornell.edu).\n\nIf you are interested in participating but did not receive a message, Dr. Gilbert will be making a public post with the survey link in a few days, once the messages have all been sent.",
-        "upvotes": 76,
+        "upvotes": 73,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1tochso/notice_cornell_survey_to_study_community_norms/"
     },
     {
-        "id": "1u1zcvu",
-        "author": "sr_local",
-        "title": "People have a natural tendency to turn to the left and walk in an anticlockwise direction, a bias observed across countries, ages and sexes, but reason is unclear",
+        "id": "1u2rwof",
+        "author": "garrthes",
+        "title": "Scientists discover deep-sea whale graveyard at 6,000 meters, where carcasses up to 5 million years old support a previously unknown ecosystem",
         "content": "",
-        "upvotes": 9874,
-        "comments": 852,
+        "upvotes": 3610,
+        "comments": 45,
+        "media": null,
+        "permalink": "/r/science/comments/1u2rwof/scientists_discover_deepsea_whale_graveyard_at/"
+    },
+    {
+        "id": "1u2ukvh",
+        "author": "bisikletci",
+        "title": "Efficacy of vitamin D supplementation in patients diagnosed with depression: a dose\u2013response meta-analysis of randomized controlled trials",
+        "content": "",
+        "upvotes": 546,
+        "comments": 97,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/w2Ww8LXwB9xE7JVjtIMa90k51eJ1KmzaSONu85rUTF8.jpeg?auto=webp&amp;s=f6812d066f756919dbf3d8e72a250a95f6cbf084"
+            "url": "https://external-preview.redd.it/YThia7U9XMJWAiMcT_n8dS_DoUaNrfZ_m6rKFudN0lY.png?auto=webp&amp;s=47273265a73e9de4a0d0c75cc4ece4c166ea3893"
         },
-        "permalink": "/r/science/comments/1u1zcvu/people_have_a_natural_tendency_to_turn_to_the/"
+        "permalink": "/r/science/comments/1u2ukvh/efficacy_of_vitamin_d_supplementation_in_patients/"
+    },
+    {
+        "id": "1u2wld4",
+        "author": "mvea",
+        "title": "Study Confirms Safety of Pregnancy Painkillers: new research found that taking paracetamol (Acamol/Tylenol) or Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) such as ibuprofen (Advil/Nurofen) does not increase the risk of birth defects. Based on analysis of over 264,000 pregnancies over 20 years.",
+        "content": "",
+        "upvotes": 181,
+        "comments": 7,
+        "media": null,
+        "permalink": "/r/science/comments/1u2wld4/study_confirms_safety_of_pregnancy_painkillers/"
     },
     {
         "id": "1u2bsg8",
         "author": "fchung",
         "title": "New CRISPR technique selectively shreds cancer cells, including \u201cundruggable\u201d cancers: \u00ab Innovative chromatin shredding technique shown to selectively destroy cancer cells carrying a mutation found in nearly half of all cancer cases. \u00bb",
         "content": "",
-        "upvotes": 1789,
-        "comments": 24,
+        "upvotes": 2772,
+        "comments": 38,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/kmBptZFvI0ag5KMzTh97mr1Ck6yex5VQZFCoccXLH2U.jpeg?auto=webp&amp;s=4000d491cb689147da8c6d34f2f5b4ab3c024ceb"
@@ -36,12 +56,38 @@
         "permalink": "/r/science/comments/1u2bsg8/new_crispr_technique_selectively_shreds_cancer/"
     },
     {
+        "id": "1u2wc4c",
+        "author": "sr_local",
+        "title": "Higher vitamin C levels linked to greater gray matter volume and stronger default mode network connectivity (which is associated with attention and autobiographical memory) in a study of 2,044 adults over 64, suggesting a potential role in preserving cognitive function during aging",
+        "content": "",
+        "upvotes": 143,
+        "comments": 11,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/Xpl_AkvUxRjkMABdhEf4QiOSJrxTTSnLuChkGrbBTKQ.jpeg?auto=webp&amp;s=12a4bfa058a564b8013411a80a426d16d21a7006"
+        },
+        "permalink": "/r/science/comments/1u2wc4c/higher_vitamin_c_levels_linked_to_greater_gray/"
+    },
+    {
+        "id": "1u1zcvu",
+        "author": "sr_local",
+        "title": "People have a natural tendency to turn to the left and walk in an anticlockwise direction, a bias observed across countries, ages and sexes, but reason is unclear",
+        "content": "",
+        "upvotes": 11081,
+        "comments": 910,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/w2Ww8LXwB9xE7JVjtIMa90k51eJ1KmzaSONu85rUTF8.jpeg?auto=webp&amp;s=f6812d066f756919dbf3d8e72a250a95f6cbf084"
+        },
+        "permalink": "/r/science/comments/1u1zcvu/people_have_a_natural_tendency_to_turn_to_the/"
+    },
+    {
         "id": "1u2eifw",
         "author": "mvea",
         "title": "Classroom settings and the behavioral expectations of formal schooling are more of an evolutionary mismatch for boys than girls because of sex differences in physical activity levels and social relations. This results in boys being disproportionately identified as having behavioral difficulties.",
         "content": "",
-        "upvotes": 1128,
-        "comments": 523,
+        "upvotes": 1536,
+        "comments": 616,
         "media": null,
         "permalink": "/r/science/comments/1u2eifw/classroom_settings_and_the_behavioral/"
     },
@@ -50,8 +96,8 @@
         "author": "mvea",
         "title": "People who prioritize free speech are more racially tolerant, not less. Highly educated respondents exhibiting tolerance rates higher than those with lowest education levels. People who value free speech are more tolerant of almost every group tested, but are less tolerant of right-wing extremists.",
         "content": "",
-        "upvotes": 3251,
-        "comments": 406,
+        "upvotes": 3757,
+        "comments": 425,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/l5_Lz5TMqAYGRTCubOrBIahpp1nrK3DwN9qFJ_H7S10.jpeg?auto=webp&amp;s=c47892e2dc364b486117792d7d7530f4170fa9e4"
@@ -63,18 +109,28 @@
         "author": "MassGen-Research",
         "title": "New GLP-1 Oral Pill Lowers Blood Sugar and Reduces Bodyweight",
         "content": "",
-        "upvotes": 317,
-        "comments": 47,
+        "upvotes": 572,
+        "comments": 81,
         "media": null,
         "permalink": "/r/science/comments/1u2ezu3/new_glp1_oral_pill_lowers_blood_sugar_and_reduces/"
+    },
+    {
+        "id": "1u2fncu",
+        "author": "nimicdoareu",
+        "title": "Human migration has surged since 2000 \u2014 these maps reveal where people are going",
+        "content": "",
+        "upvotes": 144,
+        "comments": 22,
+        "media": null,
+        "permalink": "/r/science/comments/1u2fncu/human_migration_has_surged_since_2000_these_maps/"
     },
     {
         "id": "1u25adu",
         "author": "IEEESpectrum",
         "title": "Scientists have developed a pacemaker that works without requiring surgery for battery replacement, using ultrasound waves",
         "content": "",
-        "upvotes": 345,
-        "comments": 5,
+        "upvotes": 434,
+        "comments": 8,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/XD4LXGLXRchxSTNP2jc_qjXmp9XU_n38obbxweQfgX0.jpeg?auto=webp&amp;s=edab2de0febafc2e5533674d006863d79ed6de40"
@@ -82,11 +138,34 @@
         "permalink": "/r/science/comments/1u25adu/scientists_have_developed_a_pacemaker_that_works/"
     },
     {
+        "id": "1u2t3wy",
+        "author": "tommos",
+        "title": "JUNO detector publishes first data on neutrino oscillation",
+        "content": "",
+        "upvotes": 18,
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/science/comments/1u2t3wy/juno_detector_publishes_first_data_on_neutrino/"
+    },
+    {
+        "id": "1u23rvq",
+        "author": "Shiny-Tie-126",
+        "title": "Galaxy-killing wind discovered in the early universe, this wind could quickly blow away all the fuel for new stars, which may explain why there are far more massive 'dead' galaxies than expected in the early universe",
+        "content": "",
+        "upvotes": 376,
+        "comments": 11,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/Hl9cfn-UXe_XvOWtiNRN1xQZphiGOmX7nNY7_gjc5us.jpeg?auto=webp&amp;s=b2624cf38f5c451de34396eea78d7ea4522451e9"
+        },
+        "permalink": "/r/science/comments/1u23rvq/galaxykilling_wind_discovered_in_the_early/"
+    },
+    {
         "id": "1u23lv2",
         "author": "JohnHammond94",
         "title": "Pollinators in peril: scientists reveal the hidden human health costs of the world\u2019s disappearing bees | Bees",
         "content": "",
-        "upvotes": 307,
+        "upvotes": 387,
         "comments": 4,
         "media": {
             "type": "image",
@@ -95,35 +174,25 @@
         "permalink": "/r/science/comments/1u23lv2/pollinators_in_peril_scientists_reveal_the_hidden/"
     },
     {
-        "id": "1u23rvq",
-        "author": "Shiny-Tie-126",
-        "title": "Galaxy-killing wind discovered in the early universe, this wind could quickly blow away all the fuel for new stars, which may explain why there are far more massive 'dead' galaxies than expected in the early universe",
+        "id": "1u2dnhq",
+        "author": "Hrmbee",
+        "title": "Animal, plant, fungal DNA in squirrel latrine paints picture of Arctic grasslands in Age of Mammoths | Ground squirrel coprolites preserve complex archives of ancient environmental DNA over 700,000 years",
         "content": "",
-        "upvotes": 266,
-        "comments": 10,
+        "upvotes": 92,
+        "comments": 4,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/Hl9cfn-UXe_XvOWtiNRN1xQZphiGOmX7nNY7_gjc5us.jpeg?auto=webp&amp;s=b2624cf38f5c451de34396eea78d7ea4522451e9"
+            "url": "https://external-preview.redd.it/iwyeK5G660BxpxvzTd5TcAg8HsfjzQ6BATNmb1vPvrQ.jpeg?auto=webp&amp;s=ae94cdcf3d8706275bc7216ef741b5d05a0e1c6d"
         },
-        "permalink": "/r/science/comments/1u23rvq/galaxykilling_wind_discovered_in_the_early/"
-    },
-    {
-        "id": "1u2fncu",
-        "author": "nimicdoareu",
-        "title": "Human migration has surged since 2000 \u2014 these maps reveal where people are going",
-        "content": "",
-        "upvotes": 74,
-        "comments": 13,
-        "media": null,
-        "permalink": "/r/science/comments/1u2fncu/human_migration_has_surged_since_2000_these_maps/"
+        "permalink": "/r/science/comments/1u2dnhq/animal_plant_fungal_dna_in_squirrel_latrine/"
     },
     {
         "id": "1u1n2t8",
         "author": "mvea",
         "title": "Study links joint pain supplement to accelerating dementia: New research has found an association between taking glucosamine, a popular over-the-counter supplement used for joint pain, and a higher likelihood of progressing from mild cognitive impairment to Alzheimer\u2019s disease.",
         "content": "",
-        "upvotes": 2952,
-        "comments": 73,
+        "upvotes": 3211,
+        "comments": 89,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/trTGSMn6vCSd_0gzdHyCgts1UqY52TnN1LRoRyfHlrM.jpeg?auto=webp&amp;s=5b9c9eae54c3d20ffd390794308f9d634e942d2d"
@@ -135,8 +204,8 @@
         "author": "CUAnschutzMed",
         "title": "Researchers have published a proof-of-concept study demonstrating that injectable semaglutide may offer meaningful reproductive benefits for women with polyendocrine metabolic ovarian syndrome, (PMOS) formerly known as PCOS",
         "content": "",
-        "upvotes": 4522,
-        "comments": 218,
+        "upvotes": 4681,
+        "comments": 223,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/5yB19lqY7V54dNopz9T30Jqxw7wzuYnXQk9dczzfufU.png?auto=webp&amp;s=c6af27ccdfa857de66fb8f1cb18ec7b5cec65771"
@@ -144,54 +213,44 @@
         "permalink": "/r/science/comments/1u1jr02/researchers_have_published_a_proofofconcept_study/"
     },
     {
+        "id": "1u2qxlg",
+        "author": "0xIAmGame",
+        "title": "How your attachment style is linked to the way you experience being alone",
+        "content": "",
+        "upvotes": 14,
+        "comments": 12,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/DLr4yqv-sOU63pGWqvtXcmMYzGJ_mOTWh1O2hqi8EeU.jpeg?auto=webp&amp;s=9e6d540be3324f33698e5e30fdf6312f7aacbd8b"
+        },
+        "permalink": "/r/science/comments/1u2qxlg/how_your_attachment_style_is_linked_to_the_way/"
+    },
+    {
         "id": "1u2ep93",
         "author": "MassGen-Research",
         "title": "Statin Use Linked to Lower Risk of Frailty in Older Veterans",
         "content": "",
-        "upvotes": 52,
+        "upvotes": 61,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1u2ep93/statin_use_linked_to_lower_risk_of_frailty_in/"
-    },
-    {
-        "id": "1u2dnhq",
-        "author": "Hrmbee",
-        "title": "Animal, plant, fungal DNA in squirrel latrine paints picture of Arctic grasslands in Age of Mammoths | Ground squirrel coprolites preserve complex archives of ancient environmental DNA over 700,000 years",
-        "content": "",
-        "upvotes": 55,
-        "comments": 2,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/iwyeK5G660BxpxvzTd5TcAg8HsfjzQ6BATNmb1vPvrQ.jpeg?auto=webp&amp;s=ae94cdcf3d8706275bc7216ef741b5d05a0e1c6d"
-        },
-        "permalink": "/r/science/comments/1u2dnhq/animal_plant_fungal_dna_in_squirrel_latrine/"
     },
     {
         "id": "1u25yeh",
         "author": "Complete-Secret-431",
         "title": "Human gross anatomy study identifies lymphatic vessels at the CNS\u2013PNS boundary in the cervical spine, introduces \u201cCerebrolymph\u201d hypothesis of brain drainage",
         "content": "",
-        "upvotes": 112,
+        "upvotes": 139,
         "comments": 3,
         "media": null,
         "permalink": "/r/science/comments/1u25yeh/human_gross_anatomy_study_identifies_lymphatic/"
-    },
-    {
-        "id": "1u1z2aj",
-        "author": "Wagamaga",
-        "title": "Canada faces surge in social anxiety. Research revealed that nearly 14% of Canadian adults have experienced social anxiety at some point in their lives, up from just over 8% in 2002. Authors hypothesize that recent social changes, such as increased use of social media may be contributing to the rise",
-        "content": "",
-        "upvotes": 197,
-        "comments": 40,
-        "media": null,
-        "permalink": "/r/science/comments/1u1z2aj/canada_faces_surge_in_social_anxiety_research/"
     },
     {
         "id": "1u2d5ev",
         "author": "_Bigbangtheory-",
         "title": "Taiwan\u2019s \u2018Heaven Sword\u2019 revealed as East Asia\u2019s tallest tree",
         "content": "",
-        "upvotes": 27,
+        "upvotes": 47,
         "comments": 1,
         "media": {
             "type": "image",
@@ -200,12 +259,32 @@
         "permalink": "/r/science/comments/1u2d5ev/taiwans_heaven_sword_revealed_as_east_asias/"
     },
     {
+        "id": "1u1z2aj",
+        "author": "Wagamaga",
+        "title": "Canada faces surge in social anxiety. Research revealed that nearly 14% of Canadian adults have experienced social anxiety at some point in their lives, up from just over 8% in 2002. Authors hypothesize that recent social changes, such as increased use of social media may be contributing to the rise",
+        "content": "",
+        "upvotes": 237,
+        "comments": 44,
+        "media": null,
+        "permalink": "/r/science/comments/1u1z2aj/canada_faces_surge_in_social_anxiety_research/"
+    },
+    {
+        "id": "1u1yzas",
+        "author": "Wagamaga",
+        "title": "Exposure to Moderate Levels of Air Pollution And Heart Damage. Research found for each increase in long-term PM2.5 of 1 microgram per cubic meter, there was an 11% increase in calcium build-up in the coronary arteries, 13% greater odds of more plaque and 23% greater odds of obstructive disease.",
+        "content": "",
+        "upvotes": 143,
+        "comments": 7,
+        "media": null,
+        "permalink": "/r/science/comments/1u1yzas/exposure_to_moderate_levels_of_air_pollution_and/"
+    },
+    {
         "id": "1u1f0mm",
         "author": "FreeHugs23",
         "title": "Narcissism and dark personality traits predict a strong desire for cosmetic surgery. Study identified a predictable relationship between darker personality characteristics and a favorable attitude toward aesthetic surgery.",
         "content": "",
-        "upvotes": 2405,
-        "comments": 138,
+        "upvotes": 2516,
+        "comments": 148,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/ikhIyUcWR7RIrmYO4o5Fn08MylpMROntZoAj2l5hJ3Q.jpeg?auto=webp&amp;s=625efad3e7ca98fda34e5f1da46ae9acd597a522"
@@ -217,8 +296,8 @@
         "author": "mvea",
         "title": "Sexism is often a stronger predictor of political attitudes than a voter\u2019s actual gender. A voter\u2019s level of sexism is a significant predictor of their political attitudes and voting choices. Prejudice shape everything from support for right-wing candidates to opinions on climate policy.",
         "content": "",
-        "upvotes": 9959,
-        "comments": 804,
+        "upvotes": 10070,
+        "comments": 812,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/TbZzPfKkCbwrGzKEYfkQwOlVH_CXNCg9zK-MlC4vQcc.jpeg?auto=webp&amp;s=17c0113ba72c8f1aab74e0696d36c7bdfd9c523a"
@@ -226,32 +305,32 @@
         "permalink": "/r/science/comments/1u1389n/sexism_is_often_a_stronger_predictor_of_political/"
     },
     {
-        "id": "1u1yzas",
-        "author": "Wagamaga",
-        "title": "Exposure to Moderate Levels of Air Pollution And Heart Damage. Research found for each increase in long-term PM2.5 of 1 microgram per cubic meter, there was an 11% increase in calcium build-up in the coronary arteries, 13% greater odds of more plaque and 23% greater odds of obstructive disease.",
-        "content": "",
-        "upvotes": 119,
-        "comments": 5,
-        "media": null,
-        "permalink": "/r/science/comments/1u1yzas/exposure_to_moderate_levels_of_air_pollution_and/"
-    },
-    {
         "id": "1u1vbov",
         "author": "Skoltech_",
         "title": "Breast milk fatty acids are perfectly tailored to newborn brains, varying by species, a new multi-university study shows. Humans have the strongest link, especially in the prefrontal cortex. Findings will help engineer formulas that match human milk.",
         "content": "",
-        "upvotes": 180,
+        "upvotes": 205,
         "comments": 5,
         "media": null,
         "permalink": "/r/science/comments/1u1vbov/breast_milk_fatty_acids_are_perfectly_tailored_to/"
+    },
+    {
+        "id": "1u29boe",
+        "author": "chilladipa",
+        "title": "Musculoskeletal Outcomes of Glucagon\u2010Like Peptide\u20101 Receptor Agonists Versus Other Antiobesity Agents in Nondiabetic Adults",
+        "content": "",
+        "upvotes": 34,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1u29boe/musculoskeletal_outcomes_of_glucagonlike_peptide1/"
     },
     {
         "id": "1u10rfb",
         "author": "mvea",
         "title": "Even low alcohol consumption is linked to cancer, heart disease, and premature death, with increased risk above 1 drink per day for both men and women. It turns out that 2 drinks per day, considered \u2018moderate\u2019, is associated with a substantially elevated risk of a premature death caused by alcohol.",
         "content": "",
-        "upvotes": 8999,
-        "comments": 1321,
+        "upvotes": 9106,
+        "comments": 1323,
         "media": null,
         "permalink": "/r/science/comments/1u10rfb/even_low_alcohol_consumption_is_linked_to_cancer/"
     },
@@ -260,94 +339,9 @@
         "author": "MayLikePepsi",
         "title": "Generative AI and exacerbated suicide risk among vulnerable populations",
         "content": "",
-        "upvotes": 42,
+        "upvotes": 44,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1u23zfo/generative_ai_and_exacerbated_suicide_risk_among/"
-    },
-    {
-        "id": "1u29boe",
-        "author": "chilladipa",
-        "title": "Musculoskeletal Outcomes of Glucagon\u2010Like Peptide\u20101 Receptor Agonists Versus Other Antiobesity Agents in Nondiabetic Adults",
-        "content": "",
-        "upvotes": 22,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1u29boe/musculoskeletal_outcomes_of_glucagonlike_peptide1/"
-    },
-    {
-        "id": "1u1wm24",
-        "author": "yahoonews",
-        "title": "Researchers have discovered dozens of 7,000-year-old headless human skeletons in southwestern Slovakia. Evidence suggests the bodies were deliberately buried after death, potentially reflecting a Neolithic mortuary practice.",
-        "content": "",
-        "upvotes": 95,
-        "comments": 6,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/d38m5p4DuGpxvKKf3aH5Vav197noxhxijHMOo_u9Tfc.jpeg?auto=webp&amp;s=29f53c9b8f1cd903c59d8e0e10816aa213bf2ce3"
-        },
-        "permalink": "/r/science/comments/1u1wm24/researchers_have_discovered_dozens_of_7000yearold/"
-    },
-    {
-        "id": "1u21lc6",
-        "author": "rustoo",
-        "title": "Study shows that the perception of immigrants' participation in the healthcare system may increase public preferences for high-income immigrants.",
-        "content": "",
-        "upvotes": 38,
-        "comments": 5,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/_BUGdxuOoRMXv7URslNHYUBhMzpUwaCYrHJ53Whcs9c.png?auto=webp&amp;s=fcdf9929c6a017ea4bab8449527ffa434be09060"
-        },
-        "permalink": "/r/science/comments/1u21lc6/study_shows_that_the_perception_of_immigrants/"
-    },
-    {
-        "id": "1u23zao",
-        "author": "AgingUS",
-        "title": "Transcriptional programs diverge in aging mouse and human skeletal muscle",
-        "content": "",
-        "upvotes": 23,
-        "comments": 1,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/ZLOhNQ14mAeFEyeQGSaEJLltsQjU0XuwAk2e4M9zALw.png?auto=webp&amp;s=62a8a62c201cda681bf89f2394395848f279f383"
-        },
-        "permalink": "/r/science/comments/1u23zao/transcriptional_programs_diverge_in_aging_mouse/"
-    },
-    {
-        "id": "1u1l2d3",
-        "author": "cnn",
-        "title": "Iron Age woman likely had her brains scooped out before burial, study suggests",
-        "content": "",
-        "upvotes": 358,
-        "comments": 39,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/4pb_yC0mtAUdzQ1R0LfTtMqanK60BJTxW7CrxMhtslM.jpeg?auto=webp&amp;s=79643fcaf64dd05fa0f8e804c14f734e79e8e0f3"
-        },
-        "permalink": "/r/science/comments/1u1l2d3/iron_age_woman_likely_had_her_brains_scooped_out/"
-    },
-    {
-        "id": "1u223u0",
-        "author": "whitehole_86",
-        "title": "Study finds AI agents that mimic collaboration between developers and performance engineers can identify software settings that affect performance with 70.5% accuracy across seven open-source projects, outperforming state-of-the-art methods and reducing the need for manual analysis",
-        "content": "",
-        "upvotes": 20,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/science/comments/1u223u0/study_finds_ai_agents_that_mimic_collaboration/"
-    },
-    {
-        "id": "1u13a4g",
-        "author": "Hrmbee",
-        "title": "Conflicts on rise globally, highest level since WWII, data shows | Organized violence 1989\u20132025, and violent political protests",
-        "content": "",
-        "upvotes": 1395,
-        "comments": 81,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/tZIqzhfJDFldaXgxBvZOoORD27qwHlrCBynGMQDjuNs.png?auto=webp&amp;s=0bb79a0545cfee6fdfeb838615278cada43c93bb"
-        },
-        "permalink": "/r/science/comments/1u13a4g/conflicts_on_rise_globally_highest_level_since/"
     }
 ]
