@@ -4,7 +4,7 @@
         "author": "ScienceModerator",
         "title": "Notice: Cornell survey to study community norms and participation in r/science",
         "content": "We are partnering with researchers from Cornell University on a survey that will help us understand the relationship between community norms, technology, and participation. As part of their recruitment process, they are messaging a random sample of people who have interacted with the community in different ways. You may receive a chat message from their bot, u/civilservantbot, if you participated in r/science in the past 6 months.\n\nIf you received a message and don\u2019t want to participate, please feel free to ignore it. They will send one more reminder message on June 2nd. You can ignore that too.\n\nIf you want to participate, the survey takes 15 minutes to complete and will ask questions about your participation in , why you participate(d), your perception of its community norms, your experience with algorithmically generated content and recommender systems, and demographic questions. You will not be asked for personal identifiable information and your username cannot be connected to your survey responses.\n\nIf you have any questions about the study, please reach out to the lead researcher, [Dr. Sarah Gilbert](https://reddit.com/user/SarahAGilbert/) on Reddit via DM or email at [sag284@cornell.edu](mailto:sag284@cornell.edu).\n\nIf you are interested in participating but did not receive a message, Dr. Gilbert will be making a public post with the survey link in a few days, once the messages have all been sent.",
-        "upvotes": 73,
+        "upvotes": 78,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1tochso/notice_cornell_survey_to_study_community_norms/"
@@ -14,31 +14,18 @@
         "author": "mvea",
         "title": "Employer points systems, which penalize American workers for absences regardless of reason, are strongly associated with presenteeism, practice of showing up to work while sick. This undermines public health benefits of paid sick leave laws even in jurisdictions where protections are on the books.",
         "content": "",
-        "upvotes": 2340,
-        "comments": 79,
+        "upvotes": 4209,
+        "comments": 134,
         "media": null,
         "permalink": "/r/science/comments/1u3e7wt/employer_points_systems_which_penalize_american/"
-    },
-    {
-        "id": "1u302h8",
-        "author": "mvea",
-        "title": "Highly intelligent people are more likely to ditch old habits for better ideas, study finds.",
-        "content": "",
-        "upvotes": 12065,
-        "comments": 379,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/RHTqlo8r39oVV0Blq-ItwMwNuAywmx68iKO6kAOmvT0.jpeg?auto=webp&amp;s=27116ba769f0ff07e3d82e1c0c8bfdbb50fdf07f"
-        },
-        "permalink": "/r/science/comments/1u302h8/highly_intelligent_people_are_more_likely_to/"
     },
     {
         "id": "1u3cspj",
         "author": "NinjaDiscoJesus",
         "title": "Four days of extreme rain killed 7% of world's rarest orangutans, study says",
         "content": "",
-        "upvotes": 1528,
-        "comments": 30,
+        "upvotes": 2657,
+        "comments": 42,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/QpeDHasnbRZMk8eYxT1M8IHCzsrkRfhMwMjRHRA3iwY.jpeg?auto=webp&amp;s=f7e551e84ec51e3d3dcdb6ac94a30ab644bf1eec"
@@ -46,32 +33,71 @@
         "permalink": "/r/science/comments/1u3cspj/four_days_of_extreme_rain_killed_7_of_worlds/"
     },
     {
-        "id": "1u2rwof",
-        "author": "garrthes",
-        "title": "Scientists discover deep-sea whale graveyard at 6,000 meters, where carcasses up to 5 million years old support a previously unknown ecosystem",
+        "id": "1u302h8",
+        "author": "mvea",
+        "title": "Highly intelligent people are more likely to ditch old habits for better ideas, study finds.",
         "content": "",
-        "upvotes": 14193,
-        "comments": 166,
-        "media": null,
-        "permalink": "/r/science/comments/1u2rwof/scientists_discover_deepsea_whale_graveyard_at/"
+        "upvotes": 13659,
+        "comments": 413,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/RHTqlo8r39oVV0Blq-ItwMwNuAywmx68iKO6kAOmvT0.jpeg?auto=webp&amp;s=27116ba769f0ff07e3d82e1c0c8bfdbb50fdf07f"
+        },
+        "permalink": "/r/science/comments/1u302h8/highly_intelligent_people_are_more_likely_to/"
+    },
+    {
+        "id": "1u3segw",
+        "author": "sr_local",
+        "title": "Scientists have developed a vaccine that enables the immune system to swiftly neutralize fentanyl, and new emerging synthetic fentanyl analogs, before they reach the brain in the first place",
+        "content": "",
+        "upvotes": 230,
+        "comments": 26,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/JmHa1iZCplvYw5szh-dKr9NTUYOXMWUWaJxelpMIE00.jpeg?auto=webp&amp;s=3f31dc1564a261548a92124498e25429a768e1e7"
+        },
+        "permalink": "/r/science/comments/1u3segw/scientists_have_developed_a_vaccine_that_enables/"
+    },
+    {
+        "id": "1u3lr7z",
+        "author": "DereChen",
+        "title": "Engineers at UT Austin are making a jacket that pulls drinking water from the air",
+        "content": "",
+        "upvotes": 381,
+        "comments": 58,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/1W4CludtlOEQhcjyly8zh8_2SPdTeDYlvvXLOnQdZHQ.jpeg?auto=webp&amp;s=10b801c996878ab2c7ddb6bc738fff190235ffa1"
+        },
+        "permalink": "/r/science/comments/1u3lr7z/engineers_at_ut_austin_are_making_a_jacket_that/"
     },
     {
         "id": "1u2wld4",
         "author": "mvea",
         "title": "Study Confirms Safety of Pregnancy Painkillers: new research found that taking paracetamol (Acamol/Tylenol) or Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) such as ibuprofen (Advil/Nurofen) does not increase the risk of birth defects. Based on analysis of over 264,000 pregnancies over 20 years.",
         "content": "",
-        "upvotes": 4720,
+        "upvotes": 5088,
         "comments": 89,
         "media": null,
         "permalink": "/r/science/comments/1u2wld4/study_confirms_safety_of_pregnancy_painkillers/"
+    },
+    {
+        "id": "1u2rwof",
+        "author": "garrthes",
+        "title": "Scientists discover deep-sea whale graveyard at 6,000 meters, where carcasses up to 5 million years old support a previously unknown ecosystem",
+        "content": "",
+        "upvotes": 15102,
+        "comments": 174,
+        "media": null,
+        "permalink": "/r/science/comments/1u2rwof/scientists_discover_deepsea_whale_graveyard_at/"
     },
     {
         "id": "1u2wc4c",
         "author": "sr_local",
         "title": "Higher vitamin C levels linked to greater gray matter volume and stronger default mode network connectivity (which is associated with attention and autobiographical memory) in a study of 2,044 adults over 64, suggesting a potential role in preserving cognitive function during aging",
         "content": "",
-        "upvotes": 2627,
-        "comments": 53,
+        "upvotes": 3063,
+        "comments": 55,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/Xpl_AkvUxRjkMABdhEf4QiOSJrxTTSnLuChkGrbBTKQ.jpeg?auto=webp&amp;s=12a4bfa058a564b8013411a80a426d16d21a7006"
@@ -79,12 +105,25 @@
         "permalink": "/r/science/comments/1u2wc4c/higher_vitamin_c_levels_linked_to_greater_gray/"
     },
     {
+        "id": "1u3pzo2",
+        "author": "marketrent",
+        "title": "Elusive deep-sea goblin shark seen alive for the first time \u2014 \u2018They have this incredible mouth that kind of protrudes down from the head, and does a kind of slingshot feeding thing\u2019",
+        "content": "",
+        "upvotes": 60,
+        "comments": 12,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/G3oKE22cTPBcpiJd5mfIDqytyX6G4zm9jcn6kbEysYI.jpeg?auto=webp&amp;s=8a628cbb46fa92b45702adbdcd18ad1e11555755"
+        },
+        "permalink": "/r/science/comments/1u3pzo2/elusive_deepsea_goblin_shark_seen_alive_for_the/"
+    },
+    {
         "id": "1u2yhw7",
         "author": "Wagamaga",
         "title": "People in Los Angeles who use illicit fentanyl regularly consume quantities of the drug equivalent to morphine doses hundreds of times higher than fentanyl doses used in hospitals. This use is far beyond what addiction treatment protocols were designed to addres",
         "content": "",
-        "upvotes": 1316,
-        "comments": 170,
+        "upvotes": 1513,
+        "comments": 179,
         "media": null,
         "permalink": "/r/science/comments/1u2yhw7/people_in_los_angeles_who_use_illicit_fentanyl/"
     },
@@ -93,8 +132,8 @@
         "author": "bisikletci",
         "title": "Meta-analysis of Vitamin D RCTs for diagnosed depression - supplementation significantly outperformed placebo for symptoms of depression",
         "content": "",
-        "upvotes": 533,
-        "comments": 49,
+        "upvotes": 674,
+        "comments": 63,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/YThia7U9XMJWAiMcT_n8dS_DoUaNrfZ_m6rKFudN0lY.png?auto=webp&amp;s=47273265a73e9de4a0d0c75cc4ece4c166ea3893"
@@ -106,7 +145,7 @@
         "author": "Wagamaga",
         "title": "Research has found four minutes of daily resistance training can quadruple fitness in older adults. These changes point to related improvements in daily life fitness, such as standing up from a chair, climbing stairs and walking",
         "content": "",
-        "upvotes": 948,
+        "upvotes": 1126,
         "comments": 15,
         "media": {
             "type": "image",
@@ -115,22 +154,12 @@
         "permalink": "/r/science/comments/1u2yb86/research_has_found_four_minutes_of_daily/"
     },
     {
-        "id": "1u344vp",
-        "author": "MassGen-Research",
-        "title": "People with Traumatic Brain Injury More Likely to Die from Brain Cancer Than General Population",
-        "content": "",
-        "upvotes": 419,
-        "comments": 27,
-        "media": null,
-        "permalink": "/r/science/comments/1u344vp/people_with_traumatic_brain_injury_more_likely_to/"
-    },
-    {
         "id": "1u38rly",
         "author": "FreeHugs23",
         "title": "Dark triad personality traits carry distinct physical signatures in the brain. These anatomical variations suggest that while abrasive personality traits share biological roots, they also carry unique signatures in the human brain.",
         "content": "",
-        "upvotes": 208,
-        "comments": 23,
+        "upvotes": 307,
+        "comments": 34,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/MuDwHZ5v6Ki6YKZ1Obp4yQAF6wNLTIBvGM9LChtIJY0.jpeg?auto=webp&amp;s=7d68757d67782c3dde0099bdc09f829e18eee6e6"
@@ -138,12 +167,22 @@
         "permalink": "/r/science/comments/1u38rly/dark_triad_personality_traits_carry_distinct/"
     },
     {
+        "id": "1u344vp",
+        "author": "MassGen-Research",
+        "title": "People with Traumatic Brain Injury More Likely to Die from Brain Cancer Than General Population",
+        "content": "",
+        "upvotes": 495,
+        "comments": 28,
+        "media": null,
+        "permalink": "/r/science/comments/1u344vp/people_with_traumatic_brain_injury_more_likely_to/"
+    },
+    {
         "id": "1u2y0e1",
         "author": "superanth",
         "title": "Physicists Discover How Slime Mold 'Makes Decisions' Without a Brain",
         "content": "",
-        "upvotes": 371,
-        "comments": 12,
+        "upvotes": 470,
+        "comments": 14,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/l0sWcRPkZIbdy6JZwsvxcA5cgIPeGi38G5x8K7xeGmQ.jpeg?auto=webp&amp;s=de607ec56765218ff818bd63d153cf5d3a2d32ce"
@@ -155,18 +194,28 @@
         "author": "HeinieKaboobler",
         "title": "Narcissistic and schizoid traits steer fantasy content: The \u201cfirst, solid\u201d investigation of how personality traits influence our fantasies publishes its findings.",
         "content": "",
-        "upvotes": 73,
-        "comments": 23,
+        "upvotes": 91,
+        "comments": 25,
         "media": null,
         "permalink": "/r/science/comments/1u350vx/narcissistic_and_schizoid_traits_steer_fantasy/"
+    },
+    {
+        "id": "1u3nx7q",
+        "author": "koushik_roy",
+        "title": "Compensatory Fatty Acid Metabolism and Hepatic Gene Expression in African Catfish (Clarias gariepinus) Fed Marine-Ingredient-Free Circular Diets Low in EPA and DHA",
+        "content": "",
+        "upvotes": 6,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1u3nx7q/compensatory_fatty_acid_metabolism_and_hepatic/"
     },
     {
         "id": "1u2bsg8",
         "author": "fchung",
         "title": "New CRISPR technique selectively shreds cancer cells, including \u201cundruggable\u201d cancers: \u00ab Innovative chromatin shredding technique shown to selectively destroy cancer cells carrying a mutation found in nearly half of all cancer cases. \u00bb",
         "content": "",
-        "upvotes": 3299,
-        "comments": 41,
+        "upvotes": 3372,
+        "comments": 42,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/kmBptZFvI0ag5KMzTh97mr1Ck6yex5VQZFCoccXLH2U.jpeg?auto=webp&amp;s=4000d491cb689147da8c6d34f2f5b4ab3c024ceb"
@@ -178,7 +227,7 @@
         "author": "PrincetonEngineers",
         "title": "Researchers have harnessed AI to study how drugs shape biomolecular condensates, tiny blob-like structures within cells that drive gene-regulation processes and are linked to diseases such as Alzheimer's and cancer [Cell]",
         "content": "",
-        "upvotes": 47,
+        "upvotes": 60,
         "comments": 3,
         "media": {
             "type": "image",
@@ -191,8 +240,8 @@
         "author": "mvea",
         "title": "Classroom settings and the behavioral expectations of formal schooling are more of an evolutionary mismatch for boys than girls because of sex differences in physical activity levels and social relations. This results in boys being disproportionately identified as having behavioral difficulties.",
         "content": "",
-        "upvotes": 1781,
-        "comments": 689,
+        "upvotes": 1800,
+        "comments": 706,
         "media": null,
         "permalink": "/r/science/comments/1u2eifw/classroom_settings_and_the_behavioral/"
     },
@@ -201,8 +250,8 @@
         "author": "sr_local",
         "title": "People have a natural tendency to turn to the left and walk in an anticlockwise direction, a bias observed across countries, ages and sexes, but reason is unclear",
         "content": "",
-        "upvotes": 12314,
-        "comments": 969,
+        "upvotes": 12527,
+        "comments": 980,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/w2Ww8LXwB9xE7JVjtIMa90k51eJ1KmzaSONu85rUTF8.jpeg?auto=webp&amp;s=f6812d066f756919dbf3d8e72a250a95f6cbf084"
@@ -210,25 +259,12 @@
         "permalink": "/r/science/comments/1u1zcvu/people_have_a_natural_tendency_to_turn_to_the/"
     },
     {
-        "id": "1u3fc2z",
-        "author": "Cad_Lin",
-        "title": "An essay argues that in English-language literature, aesthetic choices like ambiguity, fragmented syntax, and the choreopoem form function as methods of social critique rather than decoration, and proposes a classroom pedagogy built on careful listening.",
-        "content": "",
-        "upvotes": 8,
-        "comments": 2,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/lCLSivv_oK6pyB3kckjiPYNVTN32LYoyPfHI67FJEHw.png?auto=webp&amp;s=314a76a1604c9c9f357d1d87edd75e3e05d5ecdc"
-        },
-        "permalink": "/r/science/comments/1u3fc2z/an_essay_argues_that_in_englishlanguage/"
-    },
-    {
         "id": "1u2yip9",
         "author": "MayLikePepsi",
         "title": "New research shows how generative AI may intensify suicide risk among children and adolescents through thwarted belongingness, perceived burdensomeness, and capability for lethal self-injury",
         "content": "",
-        "upvotes": 55,
-        "comments": 7,
+        "upvotes": 62,
+        "comments": 8,
         "media": null,
         "permalink": "/r/science/comments/1u2yip9/new_research_shows_how_generative_ai_may/"
     },
@@ -237,8 +273,8 @@
         "author": "mvea",
         "title": "People who prioritize free speech are more racially tolerant, not less. Highly educated respondents exhibiting tolerance rates higher than those with lowest education levels. People who value free speech are more tolerant of almost every group tested, but are less tolerant of right-wing extremists.",
         "content": "",
-        "upvotes": 4077,
-        "comments": 451,
+        "upvotes": 4108,
+        "comments": 454,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/l5_Lz5TMqAYGRTCubOrBIahpp1nrK3DwN9qFJ_H7S10.jpeg?auto=webp&amp;s=c47892e2dc364b486117792d7d7530f4170fa9e4"
@@ -250,18 +286,31 @@
         "author": "MassGen-Research",
         "title": "New GLP-1 Oral Pill Lowers Blood Sugar and Reduces Bodyweight",
         "content": "",
-        "upvotes": 772,
-        "comments": 113,
+        "upvotes": 804,
+        "comments": 117,
         "media": null,
         "permalink": "/r/science/comments/1u2ezu3/new_glp1_oral_pill_lowers_blood_sugar_and_reduces/"
+    },
+    {
+        "id": "1u3fc2z",
+        "author": "Cad_Lin",
+        "title": "An essay argues that in English-language literature, aesthetic choices like ambiguity, fragmented syntax, and the choreopoem form function as methods of social critique rather than decoration, and proposes a classroom pedagogy built on careful listening.",
+        "content": "",
+        "upvotes": 6,
+        "comments": 2,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/lCLSivv_oK6pyB3kckjiPYNVTN32LYoyPfHI67FJEHw.png?auto=webp&amp;s=314a76a1604c9c9f357d1d87edd75e3e05d5ecdc"
+        },
+        "permalink": "/r/science/comments/1u3fc2z/an_essay_argues_that_in_englishlanguage/"
     },
     {
         "id": "1u2t3wy",
         "author": "tommos",
         "title": "JUNO detector publishes first data on neutrino oscillation",
         "content": "",
-        "upvotes": 40,
-        "comments": 3,
+        "upvotes": 48,
+        "comments": 4,
         "media": null,
         "permalink": "/r/science/comments/1u2t3wy/juno_detector_publishes_first_data_on_neutrino/"
     },
@@ -270,7 +319,7 @@
         "author": "nimicdoareu",
         "title": "Human migration has surged since 2000 \u2014 these maps reveal where people are going",
         "content": "",
-        "upvotes": 178,
+        "upvotes": 181,
         "comments": 31,
         "media": null,
         "permalink": "/r/science/comments/1u2fncu/human_migration_has_surged_since_2000_these_maps/"
@@ -280,7 +329,7 @@
         "author": "IEEESpectrum",
         "title": "Scientists have developed a pacemaker that works without requiring surgery for battery replacement, using ultrasound waves",
         "content": "",
-        "upvotes": 493,
+        "upvotes": 496,
         "comments": 11,
         "media": {
             "type": "image",
@@ -293,64 +342,12 @@
         "author": "JohnHammond94",
         "title": "Pollinators in peril: scientists reveal the hidden human health costs of the world\u2019s disappearing bees | Bees",
         "content": "",
-        "upvotes": 427,
+        "upvotes": 442,
         "comments": 6,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/tMxGh-_kpo8ijS4qwueid7Z3qz9ZwkdDCwjzbj7iHAw.jpeg?auto=webp&amp;s=217ee8fac388527d404f5d91590fe5c2f89146bf"
         },
         "permalink": "/r/science/comments/1u23lv2/pollinators_in_peril_scientists_reveal_the_hidden/"
-    },
-    {
-        "id": "1u23rvq",
-        "author": "Shiny-Tie-126",
-        "title": "Galaxy-killing wind discovered in the early universe, this wind could quickly blow away all the fuel for new stars, which may explain why there are far more massive 'dead' galaxies than expected in the early universe",
-        "content": "",
-        "upvotes": 420,
-        "comments": 13,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/Hl9cfn-UXe_XvOWtiNRN1xQZphiGOmX7nNY7_gjc5us.jpeg?auto=webp&amp;s=b2624cf38f5c451de34396eea78d7ea4522451e9"
-        },
-        "permalink": "/r/science/comments/1u23rvq/galaxykilling_wind_discovered_in_the_early/"
-    },
-    {
-        "id": "1u2dnhq",
-        "author": "Hrmbee",
-        "title": "Animal, plant, fungal DNA in squirrel latrine paints picture of Arctic grasslands in Age of Mammoths | Ground squirrel coprolites preserve complex archives of ancient environmental DNA over 700,000 years",
-        "content": "",
-        "upvotes": 113,
-        "comments": 4,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/iwyeK5G660BxpxvzTd5TcAg8HsfjzQ6BATNmb1vPvrQ.jpeg?auto=webp&amp;s=ae94cdcf3d8706275bc7216ef741b5d05a0e1c6d"
-        },
-        "permalink": "/r/science/comments/1u2dnhq/animal_plant_fungal_dna_in_squirrel_latrine/"
-    },
-    {
-        "id": "1u1n2t8",
-        "author": "mvea",
-        "title": "Study links joint pain supplement to accelerating dementia: New research has found an association between taking glucosamine, a popular over-the-counter supplement used for joint pain, and a higher likelihood of progressing from mild cognitive impairment to Alzheimer\u2019s disease.",
-        "content": "",
-        "upvotes": 3373,
-        "comments": 92,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/trTGSMn6vCSd_0gzdHyCgts1UqY52TnN1LRoRyfHlrM.jpeg?auto=webp&amp;s=5b9c9eae54c3d20ffd390794308f9d634e942d2d"
-        },
-        "permalink": "/r/science/comments/1u1n2t8/study_links_joint_pain_supplement_to_accelerating/"
-    },
-    {
-        "id": "1u1jr02",
-        "author": "CUAnschutzMed",
-        "title": "Researchers have published a proof-of-concept study demonstrating that injectable semaglutide may offer meaningful reproductive benefits for women with polyendocrine metabolic ovarian syndrome, (PMOS) formerly known as PCOS",
-        "content": "",
-        "upvotes": 4903,
-        "comments": 229,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/5yB19lqY7V54dNopz9T30Jqxw7wzuYnXQk9dczzfufU.png?auto=webp&amp;s=c6af27ccdfa857de66fb8f1cb18ec7b5cec65771"
-        },
-        "permalink": "/r/science/comments/1u1jr02/researchers_have_published_a_proofofconcept_study/"
     }
 ]
