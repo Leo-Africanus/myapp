@@ -4,7 +4,7 @@
         "author": "ScienceModerator",
         "title": "Notice: Cornell survey to study community norms and participation in r/science",
         "content": "We are partnering with researchers from Cornell University on a survey that will help us understand the relationship between community norms, technology, and participation. As part of their recruitment process, they are messaging a random sample of people who have interacted with the community in different ways. You may receive a chat message from their bot, u/civilservantbot, if you participated in r/science in the past 6 months.\n\nIf you received a message and don\u2019t want to participate, please feel free to ignore it. They will send one more reminder message on June 2nd. You can ignore that too.\n\nIf you want to participate, the survey takes 15 minutes to complete and will ask questions about your participation in , why you participate(d), your perception of its community norms, your experience with algorithmically generated content and recommender systems, and demographic questions. You will not be asked for personal identifiable information and your username cannot be connected to your survey responses.\n\nIf you have any questions about the study, please reach out to the lead researcher, [Dr. Sarah Gilbert](https://reddit.com/user/SarahAGilbert/) on Reddit via DM or email at [sag284@cornell.edu](mailto:sag284@cornell.edu).\n\nIf you are interested in participating but did not receive a message, Dr. Gilbert will be making a public post with the survey link in a few days, once the messages have all been sent.",
-        "upvotes": 76,
+        "upvotes": 71,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1tochso/notice_cornell_survey_to_study_community_norms/"
@@ -14,8 +14,8 @@
         "author": "mvea",
         "title": "A third grader\u2019s afternoon restlessness predicts their chances of finishing college. Children who can sustain their behavioral control for longer periods tend to achieve more in high school and complete more years of education as adults.",
         "content": "",
-        "upvotes": 1495,
-        "comments": 78,
+        "upvotes": 2690,
+        "comments": 114,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/fUfXpdAAmXlUIy17U9J1swG-GzCOV9juIzvKPf8az6k.jpeg?auto=webp&amp;s=db6864d7ed0c51cd50594aab9abd06bf9c6f0aa8"
@@ -27,8 +27,8 @@
         "author": "mvea",
         "title": "Being seen as unattractive as a teen is linked to an earlier death for women, but not for men. Physical attractiveness could serve as an observable indicator of underlying health and physiological resilience.",
         "content": "",
-        "upvotes": 7525,
-        "comments": 553,
+        "upvotes": 8308,
+        "comments": 588,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/_3dWrr3xQcnrZrVA8LY2GBtQKKOhfF8atQ4sCS53oZY.jpeg?auto=webp&amp;s=28e05323070fb68ab522d84cb0cadd23aae3225c"
@@ -36,12 +36,58 @@
         "permalink": "/r/science/comments/1u4rxyh/being_seen_as_unattractive_as_a_teen_is_linked_to/"
     },
     {
+        "id": "1u5h9cw",
+        "author": "mvea",
+        "title": "A single dose of psilocybin, paired with psychological support, provides months of relief from chronic suicidal thoughts in new study. Psychedelic-assisted therapy tends to offer lasting relief for individuals who have not responded to standard psychiatric treatments.",
+        "content": "",
+        "upvotes": 150,
+        "comments": 12,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/rpEnhmhqvknjv6CYuSP8oudSJfPJyv9-ED3wywPnv8c.jpeg?auto=webp&amp;s=3d8e0c0554e42593f1a0286cfaf531b58b484227"
+        },
+        "permalink": "/r/science/comments/1u5h9cw/a_single_dose_of_psilocybin_paired_with/"
+    },
+    {
+        "id": "1u59wwr",
+        "author": "Krankenitrate",
+        "title": "A personalized mRNA cancer vaccine continued to reduce the risk of recurrence and distant spread in resected high-risk melanoma at five years of follow-up, according to updated results from a randomized phase 2b trial",
+        "content": "",
+        "upvotes": 515,
+        "comments": 6,
+        "media": null,
+        "permalink": "/r/science/comments/1u59wwr/a_personalized_mrna_cancer_vaccine_continued_to/"
+    },
+    {
+        "id": "1u5c6d9",
+        "author": "fchung",
+        "title": "A breakthrough in electron microscopy delivers sharper images of our body\u2019s tiniest proteins: \u00ab UC Berkeley physicists have introduced phase contrast to the electron microscope, allowing scientists to see much smaller molecules and smaller structures inside cells. \u00bb",
+        "content": "",
+        "upvotes": 356,
+        "comments": 4,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/paK334Ls5nyIZgAcKrfqh5aCG0QImhAtTDor-ZulgJA.jpeg?auto=webp&amp;s=73377bcb2580892b0a63a6b0ceaa096601cf8399"
+        },
+        "permalink": "/r/science/comments/1u5c6d9/a_breakthrough_in_electron_microscopy_delivers/"
+    },
+    {
+        "id": "1u54g87",
+        "author": "Legal-Ambition2359",
+        "title": "More photosynthesis does not mean more growth. Plant growth occurs at lower temperatures and lower water deficit moments early in the morning, rather than in peak solar radiation during mid day.",
+        "content": "",
+        "upvotes": 539,
+        "comments": 14,
+        "media": null,
+        "permalink": "/r/science/comments/1u54g87/more_photosynthesis_does_not_mean_more_growth/"
+    },
+    {
         "id": "1u4n28f",
         "author": "mvea",
         "title": "Cognitive benefits of reading physical books: Reading comic books on physical paper helps brain absorb and connect story details more easily than reading on a digital tablet. Physical books provide spatial and tactile cues that lower brain\u2019s workload when trying recall plot points later.",
         "content": "",
-        "upvotes": 5152,
-        "comments": 179,
+        "upvotes": 5556,
+        "comments": 191,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/50ctTT5g5krytDzUVgwbWTz1G7jrrhfWmuUh25GG6Z4.jpeg?auto=webp&amp;s=9164ac446635e188a37feed6838f81c797febc3a"
@@ -49,31 +95,11 @@
         "permalink": "/r/science/comments/1u4n28f/cognitive_benefits_of_reading_physical_books/"
     },
     {
-        "id": "1u54g87",
-        "author": "Legal-Ambition2359",
-        "title": "More photosynthesis does not mean more growth. Plant growth occurs at lower temperatures and lower water deficit moments early in the morning, rather than in peak solar radiation during mid day.",
-        "content": "",
-        "upvotes": 368,
-        "comments": 9,
-        "media": null,
-        "permalink": "/r/science/comments/1u54g87/more_photosynthesis_does_not_mean_more_growth/"
-    },
-    {
-        "id": "1u59wwr",
-        "author": "Krankenitrate",
-        "title": "A personalized mRNA cancer vaccine continued to reduce the risk of recurrence and distant spread in resected high-risk melanoma at five years of follow-up, according to updated results from a randomized phase 2b trial",
-        "content": "",
-        "upvotes": 142,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1u59wwr/a_personalized_mrna_cancer_vaccine_continued_to/"
-    },
-    {
         "id": "1u4o0b9",
         "author": "Wagamaga",
         "title": "Research has found social inequality is linked to faster biological aging. Evidence of accelerated biological aging associated with social disadvantage is already visible in children, indicating that social inequality can shape biology from a young age.",
         "content": "",
-        "upvotes": 1615,
+        "upvotes": 1771,
         "comments": 29,
         "media": {
             "type": "image",
@@ -86,8 +112,8 @@
         "author": "marketrent",
         "title": "Scientists finally solved the mystery of how Venus flytraps snap shut \u2014 Molecular mechanism may inspire new techniques to help soft robots and other smart materials move without muscles",
         "content": "",
-        "upvotes": 1095,
-        "comments": 11,
+        "upvotes": 1237,
+        "comments": 12,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/RYelSeuV9zVBc96-prjygPyvgrZHaFii0x6Io7uO5Rc.jpeg?auto=webp&amp;s=f14f5310b2c6ad4e8851473ae112972cd2c5f240"
@@ -99,8 +125,8 @@
         "author": "sr_local",
         "title": "Detectable traces of acute sleep deprivation found in saliva could improve safety measures in high-risk professions and on the road, using just a single saliva sample",
         "content": "",
-        "upvotes": 880,
-        "comments": 47,
+        "upvotes": 1165,
+        "comments": 49,
         "media": null,
         "permalink": "/r/science/comments/1u4o9gs/detectable_traces_of_acute_sleep_deprivation/"
     },
@@ -109,8 +135,8 @@
         "author": "mvea",
         "title": "Democrats rejected Trump\u2019s speaking style more than Republicans rejected Harris\u2019s. Voters show different levels of tolerance toward opposing political candidates, with Donald Trump facing significantly more rejection from rival voters than Kamala Harris.",
         "content": "",
-        "upvotes": 6731,
-        "comments": 1072,
+        "upvotes": 6836,
+        "comments": 1087,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/MnQ1HIhTEfFAkA0YfNxNhy6T1S-pkP_ks5aR1S7VmVQ.jpeg?auto=webp&amp;s=acfe8696b8426e068dfdf60cdb31740721149f02"
@@ -122,8 +148,8 @@
         "author": "RegularParamedic9994",
         "title": "Among 649 environmental, behavioral, health, and socioeconomic factors examined in nearly 10,000 children, socioeconomic status (SES) showed the strongest associations with brain organization. Most associations had the same underlying brain pattern as SES, centered on primary motor/sensory cortex.",
         "content": "",
-        "upvotes": 592,
-        "comments": 21,
+        "upvotes": 622,
+        "comments": 22,
         "media": null,
         "permalink": "/r/science/comments/1u4hoef/among_649_environmental_behavioral_health_and/"
     },
@@ -132,7 +158,7 @@
         "author": "mvea",
         "title": "Depression isn\u2019t just in the head: Scientists find altered genetic activity in white blood cells. This provides evidence that the biological footprints of depression extend well beyond the brain and into the immune system, offering a whole-body perspective on the condition.",
         "content": "",
-        "upvotes": 12714,
+        "upvotes": 12818,
         "comments": 233,
         "media": {
             "type": "image",
@@ -145,30 +171,17 @@
         "author": "Krankenitrate",
         "title": "mRNA-based tuberculosis vaccines BNT164a1 and BNT164b1 are immunogenic, well tolerated and efficacious in rodent models",
         "content": "",
-        "upvotes": 242,
+        "upvotes": 260,
         "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1u4j4xc/mrnabased_tuberculosis_vaccines_bnt164a1_and/"
-    },
-    {
-        "id": "1u3zso9",
-        "author": "TylerFortier_Photo",
-        "title": "In a biggest study of it's kind (693,869 people), it identified 74 locations in the genome where genetic differences were linked to anxiety symptoms. Around half of these have been reported in\u202fprevious\u202f anxiety genome wide association studies, but the remainder (39 of the loci)\u202fwere novel.",
-        "content": "",
-        "upvotes": 1156,
-        "comments": 14,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/uoCx6A0XisNlY-3P0THuYahfdKZRIItBGRjfbdOKWfQ.jpeg?auto=webp&amp;s=669f40f3ad8de66b8eb070ab28765b58aa9983e4"
-        },
-        "permalink": "/r/science/comments/1u3zso9/in_a_biggest_study_of_its_kind_693869_people_it/"
     },
     {
         "id": "1u4d5wb",
         "author": "a_h_arm",
         "title": "Improved embryo freezing technique could preserve endangered species",
         "content": "",
-        "upvotes": 223,
+        "upvotes": 227,
         "comments": 3,
         "media": {
             "type": "image",
@@ -177,12 +190,25 @@
         "permalink": "/r/science/comments/1u4d5wb/improved_embryo_freezing_technique_could_preserve/"
     },
     {
+        "id": "1u3zso9",
+        "author": "TylerFortier_Photo",
+        "title": "In a biggest study of it's kind (693,869 people), it identified 74 locations in the genome where genetic differences were linked to anxiety symptoms. Around half of these have been reported in\u202fprevious\u202f anxiety genome wide association studies, but the remainder (39 of the loci)\u202fwere novel.",
+        "content": "",
+        "upvotes": 1168,
+        "comments": 14,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/uoCx6A0XisNlY-3P0THuYahfdKZRIItBGRjfbdOKWfQ.jpeg?auto=webp&amp;s=669f40f3ad8de66b8eb070ab28765b58aa9983e4"
+        },
+        "permalink": "/r/science/comments/1u3zso9/in_a_biggest_study_of_its_kind_693869_people_it/"
+    },
+    {
         "id": "1u40qov",
         "author": "Penis_Envy_Peter",
         "title": "Plant-Based Diets, Ultra-Processed Foods, and Risks of Mortality and Major Chronic Diseases",
         "content": "",
-        "upvotes": 740,
-        "comments": 51,
+        "upvotes": 748,
+        "comments": 56,
         "media": null,
         "permalink": "/r/science/comments/1u40qov/plantbased_diets_ultraprocessed_foods_and_risks/"
     },
@@ -191,7 +217,7 @@
         "author": "Oncotarget",
         "title": "A randomized double-blind placebo-controlled phase I/II clinical trial of a human papillomavirus therapeutic vaccine, PepCan, for reducing head and neck squamous cell carcinoma recurrence",
         "content": "",
-        "upvotes": 121,
+        "upvotes": 124,
         "comments": 4,
         "media": {
             "type": "image",
@@ -204,8 +230,8 @@
         "author": "pubpophealth",
         "title": "In 15% of 196 NASA spaceflight missions from Apollo through 2024, crew experienced infections around launch, yet none led to a medical evacuation, severe in-orbit illness, or long-term health effects under NASA's pre-flight quarantine program",
         "content": "",
-        "upvotes": 149,
-        "comments": 4,
+        "upvotes": 154,
+        "comments": 5,
         "media": null,
         "permalink": "/r/science/comments/1u456f2/in_15_of_196_nasa_spaceflight_missions_from/"
     },
@@ -214,8 +240,8 @@
         "author": "mvea",
         "title": "Employer points systems, which penalize American workers for absences regardless of reason, are strongly associated with presenteeism, practice of showing up to work while sick. This undermines public health benefits of paid sick leave laws even in jurisdictions where protections are on the books.",
         "content": "",
-        "upvotes": 6761,
-        "comments": 227,
+        "upvotes": 6792,
+        "comments": 230,
         "media": null,
         "permalink": "/r/science/comments/1u3e7wt/employer_points_systems_which_penalize_american/"
     },
@@ -224,7 +250,7 @@
         "author": "NinjaDiscoJesus",
         "title": "Four days of extreme rain killed 7% of world's rarest orangutans, study says",
         "content": "",
-        "upvotes": 5049,
+        "upvotes": 5123,
         "comments": 63,
         "media": {
             "type": "image",
@@ -237,8 +263,8 @@
         "author": "DereChen",
         "title": "Engineers at UT Austin are making a jacket that pulls drinking water from the air",
         "content": "",
-        "upvotes": 1120,
-        "comments": 111,
+        "upvotes": 1134,
+        "comments": 112,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/1W4CludtlOEQhcjyly8zh8_2SPdTeDYlvvXLOnQdZHQ.jpeg?auto=webp&amp;s=10b801c996878ab2c7ddb6bc738fff190235ffa1"
@@ -250,7 +276,7 @@
         "author": "marketrent",
         "title": "Elusive deep-sea goblin shark seen alive for the first time \u2014 \u2018They have this incredible mouth that kind of protrudes down from the head, and does a kind of slingshot feeding thing\u2019",
         "content": "",
-        "upvotes": 502,
+        "upvotes": 504,
         "comments": 28,
         "media": {
             "type": "image",
@@ -263,8 +289,8 @@
         "author": "mvea",
         "title": "Highly intelligent people are more likely to ditch old habits for better ideas, study finds.",
         "content": "",
-        "upvotes": 16025,
-        "comments": 484,
+        "upvotes": 16120,
+        "comments": 486,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/RHTqlo8r39oVV0Blq-ItwMwNuAywmx68iKO6kAOmvT0.jpeg?auto=webp&amp;s=27116ba769f0ff07e3d82e1c0c8bfdbb50fdf07f"
@@ -276,7 +302,7 @@
         "author": "LethisXia",
         "title": "Evolutionary origins of manakins\u2019 dazzling dances: A shift to a fruit diet may have paved the way for the evolution of spectacular displays in manakins",
         "content": "",
-        "upvotes": 90,
+        "upvotes": 94,
         "comments": 1,
         "media": {
             "type": "image",
@@ -289,8 +315,8 @@
         "author": "garrthes",
         "title": "Scientists discover deep-sea whale graveyard at 6,000 meters, where carcasses up to 5 million years old support a previously unknown ecosystem",
         "content": "",
-        "upvotes": 16900,
-        "comments": 188,
+        "upvotes": 16982,
+        "comments": 189,
         "media": null,
         "permalink": "/r/science/comments/1u2rwof/scientists_discover_deepsea_whale_graveyard_at/"
     },
@@ -299,7 +325,7 @@
         "author": "mvea",
         "title": "Study Confirms Safety of Pregnancy Painkillers: new research found that taking paracetamol (Acamol/Tylenol) or Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) such as ibuprofen (Advil/Nurofen) does not increase the risk of birth defects. Based on analysis of over 264,000 pregnancies over 20 years.",
         "content": "",
-        "upvotes": 5524,
+        "upvotes": 5534,
         "comments": 90,
         "media": null,
         "permalink": "/r/science/comments/1u2wld4/study_confirms_safety_of_pregnancy_painkillers/"
@@ -309,7 +335,7 @@
         "author": "sr_local",
         "title": "Higher vitamin C levels linked to greater gray matter volume and stronger default mode network connectivity (which is associated with attention and autobiographical memory) in a study of 2,044 adults over 64, suggesting a potential role in preserving cognitive function during aging",
         "content": "",
-        "upvotes": 3730,
+        "upvotes": 3750,
         "comments": 58,
         "media": {
             "type": "image",
@@ -322,35 +348,9 @@
         "author": "Wagamaga",
         "title": "People in Los Angeles who use illicit fentanyl regularly consume quantities of the drug equivalent to morphine doses hundreds of times higher than fentanyl doses used in hospitals. This use is far beyond what addiction treatment protocols were designed to addres",
         "content": "",
-        "upvotes": 1928,
-        "comments": 199,
+        "upvotes": 1943,
+        "comments": 200,
         "media": null,
         "permalink": "/r/science/comments/1u2yhw7/people_in_los_angeles_who_use_illicit_fentanyl/"
-    },
-    {
-        "id": "1u34gc1",
-        "author": "bisikletci",
-        "title": "Meta-analysis of Vitamin D RCTs for diagnosed depression - supplementation significantly outperformed placebo for symptoms of depression",
-        "content": "",
-        "upvotes": 903,
-        "comments": 75,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/YThia7U9XMJWAiMcT_n8dS_DoUaNrfZ_m6rKFudN0lY.png?auto=webp&amp;s=47273265a73e9de4a0d0c75cc4ece4c166ea3893"
-        },
-        "permalink": "/r/science/comments/1u34gc1/metaanalysis_of_vitamin_d_rcts_for_diagnosed/"
-    },
-    {
-        "id": "1u38rly",
-        "author": "FreeHugs23",
-        "title": "Dark triad personality traits carry distinct physical signatures in the brain. These anatomical variations suggest that while abrasive personality traits share biological roots, they also carry unique signatures in the human brain.",
-        "content": "",
-        "upvotes": 534,
-        "comments": 38,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/MuDwHZ5v6Ki6YKZ1Obp4yQAF6wNLTIBvGM9LChtIJY0.jpeg?auto=webp&amp;s=7d68757d67782c3dde0099bdc09f829e18eee6e6"
-        },
-        "permalink": "/r/science/comments/1u38rly/dark_triad_personality_traits_carry_distinct/"
     }
 ]
