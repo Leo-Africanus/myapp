@@ -1,11 +1,24 @@
 [
     {
+        "id": "1u7agls",
+        "author": "sr_local",
+        "title": "Women rate their sleep quality lower than men, despite sleeping better. This is because they estimate their night-time awakenings more accurately than men, who tend to underestimate their frequency of wakefulness",
+        "content": "",
+        "upvotes": 2036,
+        "comments": 116,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/WVoehnbzOPBJI9dLDMSu29fbncdkkkdu987X4rqzQEU.jpeg?auto=webp&amp;s=0321a32125a9c45c5b0b3658cb8da8eb17ae9b98"
+        },
+        "permalink": "/r/science/comments/1u7agls/women_rate_their_sleep_quality_lower_than_men/"
+    },
+    {
         "id": "1u6wbie",
         "author": "mvea",
         "title": "Engaging in physical and mental self-pleasure before going to bed is associated with falling asleep faster, enjoying better sleep quality, and experiencing more positive emotions upon waking.",
         "content": "",
-        "upvotes": 9916,
-        "comments": 482,
+        "upvotes": 17051,
+        "comments": 702,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/g2qB02pR54PEF5E7f4rQ3ijxUjJZHBTa2jhx2TNlxKc.jpeg?auto=webp&amp;s=74fcf88cc81783cbd1438e16e3d51211e4909fa0"
@@ -17,8 +30,8 @@
         "author": "mvea",
         "title": "Given permission to use AI, most college students show surprising restraint in their final essays. Students largely rely on AI for brainstorming and research rather than having it write essays for them wholesale.",
         "content": "",
-        "upvotes": 5591,
-        "comments": 400,
+        "upvotes": 6876,
+        "comments": 429,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/whh29X92WS9vwEscePCzTi1g14j2tT_O2cO3yNnKAIk.jpeg?auto=webp&amp;s=f0a9b951ceb8528e756e870d7f9c9a19e9fb66d6"
@@ -26,35 +39,25 @@
         "permalink": "/r/science/comments/1u6rgjo/given_permission_to_use_ai_most_college_students/"
     },
     {
-        "id": "1u6deyv",
+        "id": "1u7am1p",
         "author": "mvea",
-        "title": "New compound repairs vital waste-clearing pump at blood-brain barrier, restores memory and clears toxic Alzheimer\u2019s proteins. The brain can finally clear out trapped waste. Over 56 days in an Alzheimer\u2019s mouse model, it reduced toxic amyloid-beta by 42% and improved spatial learning by nearly 44%.",
+        "title": "Study challenges the belief that high IQ autistic individuals always struggle with daily tasks. First, autistic people can learn life skills. Second, IQ alone is not a good way to understand a person\u2019s strengths, challenges, and growth potential.",
         "content": "",
-        "upvotes": 13969,
-        "comments": 314,
-        "media": null,
-        "permalink": "/r/science/comments/1u6deyv/new_compound_repairs_vital_wasteclearing_pump_at/"
-    },
-    {
-        "id": "1u6q8yu",
-        "author": "sfgate",
-        "title": "Stanford study finds prescribed burns could reduce California wildfire smoke pollution by 10% over a decade",
-        "content": "",
-        "upvotes": 1945,
-        "comments": 50,
+        "upvotes": 358,
+        "comments": 57,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/8JK2cT77lOLp8ov3eOhaU9D3XYQ4lo-iDirT-UYRm_w.jpeg?auto=webp&amp;s=a8e52af3d3d7354123dbd1c612e499cb439419fc"
+            "url": "https://external-preview.redd.it/sm6HNDCMiIrISksefVL9f5OUQZdu6jBuSKpfPYDlr3E.jpeg?auto=webp&amp;s=4645313fc2b536e1fd42d252c98bc838374864b7"
         },
-        "permalink": "/r/science/comments/1u6q8yu/stanford_study_finds_prescribed_burns_could/"
+        "permalink": "/r/science/comments/1u7am1p/study_challenges_the_belief_that_high_iq_autistic/"
     },
     {
         "id": "1u72os3",
         "author": "shiruken",
         "title": "Updated seasonal COVID-19 vaccines continue to significantly lower the risk of post-viral cardiovascular complications. The 2024-2025 formulation reduced major adverse cardiac events by 38% in a cohort study of over one million US veterans.",
         "content": "",
-        "upvotes": 212,
-        "comments": 2,
+        "upvotes": 1096,
+        "comments": 19,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/6pG6PAV3qcd3VxEkw6EJoUGDsKz03bZWNCXt3b-x-PQ.jpeg?auto=webp&amp;s=506fb72dd59dfab2d4120ebc07429760c86950bc"
@@ -62,12 +65,35 @@
         "permalink": "/r/science/comments/1u72os3/updated_seasonal_covid19_vaccines_continue_to/"
     },
     {
+        "id": "1u6q8yu",
+        "author": "sfgate",
+        "title": "Stanford study finds prescribed burns could reduce California wildfire smoke pollution by 10% over a decade",
+        "content": "",
+        "upvotes": 2507,
+        "comments": 57,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/8JK2cT77lOLp8ov3eOhaU9D3XYQ4lo-iDirT-UYRm_w.jpeg?auto=webp&amp;s=a8e52af3d3d7354123dbd1c612e499cb439419fc"
+        },
+        "permalink": "/r/science/comments/1u6q8yu/stanford_study_finds_prescribed_burns_could/"
+    },
+    {
+        "id": "1u6deyv",
+        "author": "mvea",
+        "title": "New compound repairs vital waste-clearing pump at blood-brain barrier, restores memory and clears toxic Alzheimer\u2019s proteins. The brain can finally clear out trapped waste. Over 56 days in an Alzheimer\u2019s mouse model, it reduced toxic amyloid-beta by 42% and improved spatial learning by nearly 44%.",
+        "content": "",
+        "upvotes": 14717,
+        "comments": 321,
+        "media": null,
+        "permalink": "/r/science/comments/1u6deyv/new_compound_repairs_vital_wasteclearing_pump_at/"
+    },
+    {
         "id": "1u6urft",
         "author": "OhMyOhWhyOh",
         "title": "Study: Patients With Hypermobility Disorders Experience Less Pain, Consume Fewer Opioids Following Medical Cannabis Treatment",
         "content": "",
-        "upvotes": 524,
-        "comments": 31,
+        "upvotes": 762,
+        "comments": 39,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/aHWspetMlAb-M8-V9ZrNP3rVJdk39wOaPZB_Qima52M.jpeg?auto=webp&amp;s=f8130569c25ad2f7c82571d9c3f539a48547d9b2"
@@ -75,12 +101,32 @@
         "permalink": "/r/science/comments/1u6urft/study_patients_with_hypermobility_disorders/"
     },
     {
+        "id": "1u7b7fl",
+        "author": "Wagamaga",
+        "title": "Common weed killer and pregnancy. Research found for every moderate increase in AMPA levels, researchers found 10.6% lower estriol levels during pregnancy. A similar increase in glyphosate was linked to 8.3% lower estriol levels. AMPA was also linked to higher levels of the thyroid hormone T3.",
+        "content": "",
+        "upvotes": 49,
+        "comments": 3,
+        "media": null,
+        "permalink": "/r/science/comments/1u7b7fl/common_weed_killer_and_pregnancy_research_found/"
+    },
+    {
+        "id": "1u7b24b",
+        "author": "Wagamaga",
+        "title": "When citizens feel a bigger tax pinch, political corruption goes down and voter turnout rises. Every 1% increase in tax burden is associated with a 4.3% decrease in convictions for crimes such as bribery, election crimes, conflict of interest and extortion in the subsequent year",
+        "content": "",
+        "upvotes": 27,
+        "comments": 4,
+        "media": null,
+        "permalink": "/r/science/comments/1u7b24b/when_citizens_feel_a_bigger_tax_pinch_political/"
+    },
+    {
         "id": "1u6gg0z",
         "author": "MassGen-Research",
         "title": "Study Finds Students with Highest Distress Use AI for Mental Health at Elevated Rates",
         "content": "",
-        "upvotes": 769,
-        "comments": 90,
+        "upvotes": 842,
+        "comments": 91,
         "media": null,
         "permalink": "/r/science/comments/1u6gg0z/study_finds_students_with_highest_distress_use_ai/"
     },
@@ -89,8 +135,8 @@
         "author": "ludwig_scientist",
         "title": "Intermittent fasting helps people of all ages lose weight, but it also causes significant muscle loss in older adults and unexpectedly raises bad LDL cholesterol",
         "content": "",
-        "upvotes": 2492,
-        "comments": 86,
+        "upvotes": 2641,
+        "comments": 90,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/b_PBqoUgVTJ2AOoIQzhgwERhcwuQLl_WBcOhPzEPCm8.jpeg?auto=webp&amp;s=65f30ceaef7fe8c838e9b4b4bcbf18c5ac86511f"
@@ -102,18 +148,44 @@
         "author": "CurtisLeow",
         "title": "Overview of the physics basis for the ARC fusion power plant from the Journal of Plasma Physics",
         "content": "",
-        "upvotes": 82,
-        "comments": 4,
+        "upvotes": 102,
+        "comments": 5,
         "media": null,
         "permalink": "/r/science/comments/1u6t2aw/overview_of_the_physics_basis_for_the_arc_fusion/"
+    },
+    {
+        "id": "1u6q5ic",
+        "author": "MassGen-Research",
+        "title": "Researchers Identify Brain Circuit that Drives Growth of Pediatric Brain Tumors",
+        "content": "",
+        "upvotes": 123,
+        "comments": 1,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/WTlFWneG4yYx-saW-FQooVfjNXoHnfVV48GWbjVgL6I.png?auto=webp&amp;s=5af673ab4ec692b5a641f2ef44b26d15b7fad2db"
+        },
+        "permalink": "/r/science/comments/1u6q5ic/researchers_identify_brain_circuit_that_drives/"
+    },
+    {
+        "id": "1u6l8o2",
+        "author": "UCBerkeley",
+        "title": "Researchers find warming temperatures could increase dengue fever risk in California",
+        "content": "",
+        "upvotes": 196,
+        "comments": 2,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/xuKM6C9Ar0nFOk49piI4HvsHtjb_48t5EqJyvMEr4Ps.jpeg?auto=webp&amp;s=c09c828759b0381de74c217102dde207f39bed87"
+        },
+        "permalink": "/r/science/comments/1u6l8o2/researchers_find_warming_temperatures_could/"
     },
     {
         "id": "1u5qoyo",
         "author": "j8jweb",
         "title": "Scientists sequenced a hallucinogenic mushroom famous for eliciting visions of tiny people. It contains no known psychedelic.",
         "content": "",
-        "upvotes": 22820,
-        "comments": 1297,
+        "upvotes": 23119,
+        "comments": 1308,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/-GVsBpV97EHbJ3VDPwdya1OvjpMKV-rAdZPxqIruCb4.jpeg?auto=webp&amp;s=097dfc67226627195e4e1dafe13f7fe228fb8f17"
@@ -125,44 +197,18 @@
         "author": "sr_local",
         "title": "Urban parks were linked to 11% lower PM10 air pollution, temperatures several degrees cooler, noise levels 5.4 dB lower, and for every 100 metres travelled away from the park edge, temperatures warmed by more than half a degree, up to 300 metres",
         "content": "",
-        "upvotes": 416,
+        "upvotes": 456,
         "comments": 3,
         "media": null,
         "permalink": "/r/science/comments/1u6di74/urban_parks_were_linked_to_11_lower_pm10_air/"
-    },
-    {
-        "id": "1u6l8o2",
-        "author": "UCBerkeley",
-        "title": "Researchers find warming temperatures could increase dengue fever risk in California",
-        "content": "",
-        "upvotes": 158,
-        "comments": 2,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/xuKM6C9Ar0nFOk49piI4HvsHtjb_48t5EqJyvMEr4Ps.jpeg?auto=webp&amp;s=c09c828759b0381de74c217102dde207f39bed87"
-        },
-        "permalink": "/r/science/comments/1u6l8o2/researchers_find_warming_temperatures_could/"
-    },
-    {
-        "id": "1u6q5ic",
-        "author": "MassGen-Research",
-        "title": "Researchers Identify Brain Circuit that Drives Growth of Pediatric Brain Tumors",
-        "content": "",
-        "upvotes": 87,
-        "comments": 1,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/WTlFWneG4yYx-saW-FQooVfjNXoHnfVV48GWbjVgL6I.png?auto=webp&amp;s=5af673ab4ec692b5a641f2ef44b26d15b7fad2db"
-        },
-        "permalink": "/r/science/comments/1u6q5ic/researchers_identify_brain_circuit_that_drives/"
     },
     {
         "id": "1u5wzeh",
         "author": "mvea",
         "title": "Dangerous hormone-disrupting chemicals found in US breast milk samples, including BPA, BPS, melamine, cyanuric acid, and triclosan. About 92% of 50 samples were contaminated with at least one of the anti-microbials or plasticizers for which researchers checked.",
         "content": "",
-        "upvotes": 4050,
-        "comments": 198,
+        "upvotes": 4079,
+        "comments": 199,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/1mptunVNIoUyOoIPhFTtsF_HCXqVt1A9aESRRpsgG1A.jpeg?auto=webp&amp;s=80bc1e726e729c9efb79cac042b6c0d0648e25a0"
@@ -174,7 +220,7 @@
         "author": "ludwig_scientist",
         "title": "Moderate tooth decay triggers higher systemic inflammation than severe decay in preschoolers. This suggests that active infections, rather than the total number of cavities are what drive the immune response",
         "content": "",
-        "upvotes": 848,
+        "upvotes": 888,
         "comments": 4,
         "media": {
             "type": "image",
@@ -183,11 +229,21 @@
         "permalink": "/r/science/comments/1u66e48/moderate_tooth_decay_triggers_higher_systemic/"
     },
     {
+        "id": "1u6rvzh",
+        "author": "Super_Letterhead381",
+        "title": "A new metatherian order from Australia (Keeunamorphia, Metatheria), and new Early Miocene species from the Riversleigh World Heritage Area, northwestern Queensland",
+        "content": "",
+        "upvotes": 46,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1u6rvzh/a_new_metatherian_order_from_australia/"
+    },
+    {
         "id": "1u6h28b",
         "author": "adotmatrix",
         "title": "Differences in admission to trauma centres by sex among adults with traumatic brain injury: a population-based cohort study",
         "content": "",
-        "upvotes": 105,
+        "upvotes": 134,
         "comments": 3,
         "media": null,
         "permalink": "/r/science/comments/1u6h28b/differences_in_admission_to_trauma_centres_by_sex/"
@@ -197,28 +253,18 @@
         "author": "MassGen-Research",
         "title": "Ultrasensitive Blood Test Predicts Recurrence and Survival After Treatment for Head and Neck Cancer",
         "content": "",
-        "upvotes": 88,
+        "upvotes": 107,
         "comments": 3,
         "media": null,
         "permalink": "/r/science/comments/1u6gyhu/ultrasensitive_blood_test_predicts_recurrence_and/"
-    },
-    {
-        "id": "1u6rvzh",
-        "author": "Super_Letterhead381",
-        "title": "A new metatherian order from Australia (Keeunamorphia, Metatheria), and new Early Miocene species from the Riversleigh World Heritage Area, northwestern Queensland",
-        "content": "",
-        "upvotes": 23,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1u6rvzh/a_new_metatherian_order_from_australia/"
     },
     {
         "id": "1u66aq9",
         "author": "ludwig_scientist",
         "title": "To combat the environmental impact of traditional food production, scientists are exploring how leftover byproducts like fruit peels and animal bones can be transformed into valuable, sustainable ingredients to improve the texture, shelf life, and nutritional value of both meat and plant-based alter",
         "content": "",
-        "upvotes": 277,
-        "comments": 25,
+        "upvotes": 281,
+        "comments": 28,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/YdhsdzDf59ruwjOirBm2rQjiC4qlC39k8Qv9yGylQvI.jpeg?auto=webp&amp;s=acc98b22189c6d977455bb674b1d5731b63dd3d5"
@@ -230,8 +276,8 @@
         "author": "mvea",
         "title": "A single dose of psilocybin, paired with psychological support, provides months of relief from chronic suicidal thoughts in new study. Psychedelic-assisted therapy tends to offer lasting relief for individuals who have not responded to standard psychiatric treatments.",
         "content": "",
-        "upvotes": 8329,
-        "comments": 217,
+        "upvotes": 8407,
+        "comments": 213,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/rpEnhmhqvknjv6CYuSP8oudSJfPJyv9-ED3wywPnv8c.jpeg?auto=webp&amp;s=3d8e0c0554e42593f1a0286cfaf531b58b484227"
@@ -243,7 +289,7 @@
         "author": "FreeHugs23",
         "title": "Status fuels narcissism and narcissism fuels the chase for status. Research provides evidence of a two-way street between self-centered personality traits and the pursuit of social standing. Climbing the social ladder and possessing an inflated ego tend to reinforce each other over time.",
         "content": "",
-        "upvotes": 2984,
+        "upvotes": 3019,
         "comments": 41,
         "media": {
             "type": "image",
@@ -256,8 +302,8 @@
         "author": "shinybrighthings",
         "title": "Antidepressants and antipsychotics could serve as alternatives to opioids, study finds",
         "content": "",
-        "upvotes": 913,
-        "comments": 193,
+        "upvotes": 936,
+        "comments": 196,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/pSlGFvfFxkBt6VrGknKrXFY83coPaDoCMhnCcL-NTwk.jpeg?auto=webp&amp;s=d9b803f7b8f7da99b18b982c21159ad718ed1d1c"
@@ -269,7 +315,7 @@
         "author": "sr_local",
         "title": "Parkinson's medication shows promise in treating treatment-resistant depression that involves a reduced ability to feel joy, pleasure or motivation \u2013 known as anhedonia",
         "content": "",
-        "upvotes": 1588,
+        "upvotes": 1595,
         "comments": 35,
         "media": {
             "type": "image",
@@ -282,7 +328,7 @@
         "author": "mvea",
         "title": "A third grader\u2019s afternoon restlessness predicts their chances of finishing college. Children who can sustain their behavioral control for longer periods tend to achieve more in high school and complete more years of education as adults.",
         "content": "",
-        "upvotes": 4224,
+        "upvotes": 4235,
         "comments": 158,
         "media": {
             "type": "image",
@@ -295,7 +341,7 @@
         "author": "fchung",
         "title": "A breakthrough in electron microscopy delivers sharper images of our body\u2019s tiniest proteins: \u00ab UC Berkeley physicists have introduced phase contrast to the electron microscope, allowing scientists to see much smaller molecules and smaller structures inside cells. \u00bb",
         "content": "",
-        "upvotes": 1039,
+        "upvotes": 1052,
         "comments": 13,
         "media": {
             "type": "image",
@@ -308,61 +354,9 @@
         "author": "Krankenitrate",
         "title": "A personalized mRNA cancer vaccine continued to reduce the risk of recurrence and distant spread in resected high-risk melanoma at five years of follow-up, according to updated results from a randomized phase 2b trial",
         "content": "",
-        "upvotes": 955,
+        "upvotes": 952,
         "comments": 13,
         "media": null,
         "permalink": "/r/science/comments/1u59wwr/a_personalized_mrna_cancer_vaccine_continued_to/"
-    },
-    {
-        "id": "1u4rxyh",
-        "author": "mvea",
-        "title": "Being seen as unattractive as a teen is linked to an earlier death for women, but not for men. Physical attractiveness could serve as an observable indicator of underlying health and physiological resilience.",
-        "content": "",
-        "upvotes": 9738,
-        "comments": 647,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/_3dWrr3xQcnrZrVA8LY2GBtQKKOhfF8atQ4sCS53oZY.jpeg?auto=webp&amp;s=28e05323070fb68ab522d84cb0cadd23aae3225c"
-        },
-        "permalink": "/r/science/comments/1u4rxyh/being_seen_as_unattractive_as_a_teen_is_linked_to/"
-    },
-    {
-        "id": "1u4n28f",
-        "author": "mvea",
-        "title": "Cognitive benefits of reading physical books: Reading comic books on physical paper helps brain absorb and connect story details more easily than reading on a digital tablet. Physical books provide spatial and tactile cues that lower brain\u2019s workload when trying recall plot points later.",
-        "content": "",
-        "upvotes": 6269,
-        "comments": 210,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/50ctTT5g5krytDzUVgwbWTz1G7jrrhfWmuUh25GG6Z4.jpeg?auto=webp&amp;s=9164ac446635e188a37feed6838f81c797febc3a"
-        },
-        "permalink": "/r/science/comments/1u4n28f/cognitive_benefits_of_reading_physical_books/"
-    },
-    {
-        "id": "1u4o0b9",
-        "author": "Wagamaga",
-        "title": "Research has found social inequality is linked to faster biological aging. Evidence of accelerated biological aging associated with social disadvantage is already visible in children, indicating that social inequality can shape biology from a young age.",
-        "content": "",
-        "upvotes": 2036,
-        "comments": 35,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/6qnWya-mdCIut8MeIjXBFBeGF4q7o0_tezaF3GM0Mmg.jpeg?auto=webp&amp;s=82fea0da28033fde5c43e7bb8954b0c9e1b52212"
-        },
-        "permalink": "/r/science/comments/1u4o0b9/research_has_found_social_inequality_is_linked_to/"
-    },
-    {
-        "id": "1u4p1nc",
-        "author": "marketrent",
-        "title": "Scientists finally solved the mystery of how Venus flytraps snap shut \u2014 Molecular mechanism may inspire new techniques to help soft robots and other smart materials move without muscles",
-        "content": "",
-        "upvotes": 1539,
-        "comments": 16,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/RYelSeuV9zVBc96-prjygPyvgrZHaFii0x6Io7uO5Rc.jpeg?auto=webp&amp;s=f14f5310b2c6ad4e8851473ae112972cd2c5f240"
-        },
-        "permalink": "/r/science/comments/1u4p1nc/scientists_finally_solved_the_mystery_of_how/"
     }
 ]
