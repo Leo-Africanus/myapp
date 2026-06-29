@@ -1,21 +1,37 @@
 [
     {
-        "id": "1uhl7ch",
-        "author": "DrPharmakon",
-        "title": "The mysterious \"cold blob\" in the North Atlantic is caused by a weakening AMOC ocean current, a new study confirms. Deep-water data proves this cooling isn't an atmospheric fluke, signaling a shift toward a major climate tipping point.",
+        "id": "1ui7tww",
+        "author": "mvea",
+        "title": "Large-scale gut microbiome study identifies robust colorectal cancer signature. The colorectal cancer microbiome signature was linked to lower dietary fibre intake and could be reduced through fibre-focused dietary interventions.",
         "content": "",
-        "upvotes": 11063,
-        "comments": 712,
-        "media": null,
-        "permalink": "/r/science/comments/1uhl7ch/the_mysterious_cold_blob_in_the_north_atlantic_is/"
+        "upvotes": 2923,
+        "comments": 63,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/_70WP-Hou01CAfe6Fy1xtL7RBIZBDZKcPsBJ93c8fps.jpeg?auto=webp&amp;s=09ec3354d61f7573d5c76e9a0b13fcf58d7f1bbd"
+        },
+        "permalink": "/r/science/comments/1ui7tww/largescale_gut_microbiome_study_identifies_robust/"
+    },
+    {
+        "id": "1uid905",
+        "author": "DrPharmakon",
+        "title": "Human activities caused up to 20% of the retreat of Antarctica's Pine Island Glacier since the 1940s, a study reveals. This is the first research to directly quantify the impact of human emissions on a major Antarctic glacier, a key contributor to global sea-level rise.",
+        "content": "",
+        "upvotes": 471,
+        "comments": 11,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/iHhpBfTP6EGqxuudGmJcv5XjnKouf9_Bd8lDXxF_gNY.png?auto=webp&amp;s=7f256a4a9a15400b4efaaede8dd568db98c11e8d"
+        },
+        "permalink": "/r/science/comments/1uid905/human_activities_caused_up_to_20_of_the_retreat/"
     },
     {
         "id": "1uhtiwj",
         "author": "mvea",
         "title": "People with insecure attachment styles tend to have a higher number of children. Secure attachment, often treated as the ideal, was linked with having fewer children in Canada and the United States. Securely attached individuals may prefer behaviors that lead to smaller, more planned family sizes.",
         "content": "",
-        "upvotes": 1261,
-        "comments": 53,
+        "upvotes": 2948,
+        "comments": 135,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/UFhxizI_bJLcUEJpVAZaBJnMgyIyEnrOPLb5XxuVYDY.jpeg?auto=webp&amp;s=d9f8e882909871f366b06a0872a58eb7a7868a64"
@@ -23,12 +39,22 @@
         "permalink": "/r/science/comments/1uhtiwj/people_with_insecure_attachment_styles_tend_to/"
     },
     {
+        "id": "1uhl7ch",
+        "author": "DrPharmakon",
+        "title": "The mysterious \"cold blob\" in the North Atlantic is caused by a weakening AMOC ocean current, a new study confirms. Deep-water data proves this cooling isn't an atmospheric fluke, signaling a shift toward a major climate tipping point.",
+        "content": "",
+        "upvotes": 15836,
+        "comments": 977,
+        "media": null,
+        "permalink": "/r/science/comments/1uhl7ch/the_mysterious_cold_blob_in_the_north_atlantic_is/"
+    },
+    {
         "id": "1uhud0l",
         "author": "sr_local",
         "title": "More generous unemployment benefits and labour market support were linked to lower support for populist parties across 134 national elections in 16 countries, while cuts to unemployment protection were associated with higher populist vote shares",
         "content": "",
-        "upvotes": 780,
-        "comments": 44,
+        "upvotes": 1671,
+        "comments": 56,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/6QuKMUdY13u8j9wDEm4FK-VwJ6zuertxGfgxaPdHop4.jpeg?auto=webp&amp;s=c57f8481ca0d7349d51163aa7f4761d74901532f"
@@ -40,8 +66,8 @@
         "author": "planet_janett",
         "title": "After menopause, ovaries may transform into organs with immune powers",
         "content": "",
-        "upvotes": 970,
-        "comments": 40,
+        "upvotes": 1602,
+        "comments": 54,
         "media": null,
         "permalink": "/r/science/comments/1uhq8dm/after_menopause_ovaries_may_transform_into_organs/"
     },
@@ -50,8 +76,8 @@
         "author": "James_Fortis",
         "title": "A healthy plant-based diet may help protect your liver. Greater adherence was linked to lower liver fat and a 42% lower odds of MASLD, formerly known as non-alcoholic fatty liver disease. More nuts and less animal fat showed the strongest benefits.",
         "content": "",
-        "upvotes": 256,
-        "comments": 12,
+        "upvotes": 523,
+        "comments": 19,
         "media": null,
         "permalink": "/r/science/comments/1uhvbu2/a_healthy_plantbased_diet_may_help_protect_your/"
     },
@@ -60,8 +86,8 @@
         "author": "Apprehensive_Act_740",
         "title": "Scientists discover a spider in the Amazon that disguises itself as a zombie fungus",
         "content": "",
-        "upvotes": 202,
-        "comments": 8,
+        "upvotes": 456,
+        "comments": 11,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/y-UL08exBusLj9indLAh7lP-sFwWZHqrwyxze948yhk.jpeg?auto=webp&amp;s=4491904be2124b074bc58f89555d8f2f87d35e05"
@@ -69,24 +95,11 @@
         "permalink": "/r/science/comments/1uhuwyg/scientists_discover_a_spider_in_the_amazon_that/"
     },
     {
-        "id": "1ui0w3o",
-        "author": "pupuonu",
-        "title": "Mendelian randomization study: Coffee doesn\u2019t appear to have cardiovascular benefits when controlling for causality",
-        "content": "",
-        "upvotes": 58,
-        "comments": 4,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/z7XcTd1W11Pzbm3juGs2r4QDVJk-nrk4mXA-FKvvDwE.jpeg?auto=webp&amp;s=cba822be17f3897ac7bc917bfac28c96afd0b6aa"
-        },
-        "permalink": "/r/science/comments/1ui0w3o/mendelian_randomization_study_coffee_doesnt/"
-    },
-    {
         "id": "1uhasw7",
         "author": "mvea",
         "title": "Scientists identify the first potential probiotic treatment for lupus. The study showed that supplementation with a specific gut microbe greatly reduced markers of the disease in animal models.",
         "content": "",
-        "upvotes": 2277,
+        "upvotes": 2552,
         "comments": 22,
         "media": {
             "type": "image",
@@ -95,35 +108,12 @@
         "permalink": "/r/science/comments/1uhasw7/scientists_identify_the_first_potential_probiotic/"
     },
     {
-        "id": "1uh1ip4",
-        "author": "mvea",
-        "title": "GLP-1 drugs may also have antidepressant properties. In a recent study on mice, GLP-1 drugs led to weight loss and reversed depression-like behavior. The effect was found to be dependent on a particular gut microbe that produces endocannabinoids.",
-        "content": "",
-        "upvotes": 4467,
-        "comments": 450,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/r5B6-gUBukN4e5Q5p7bhLIQ03cCeueWdRBCQ1i1Ns0M.jpeg?auto=webp&amp;s=2af433ea2fa47da66ff8f3eb84b5f5e86f7e3ea4"
-        },
-        "permalink": "/r/science/comments/1uh1ip4/glp1_drugs_may_also_have_antidepressant/"
-    },
-    {
-        "id": "1uh56tm",
-        "author": "Wagamaga",
-        "title": "Fast Walkers Have Better Brain Health into their 80s. Super movers had about half the risk of incidents of cognitive impairment compared with slower walkers, even after accounting for age and sex. They also reported fewer new diagnoses of Alzheimer\u2019s disease or dementia over time.",
-        "content": "",
-        "upvotes": 2437,
-        "comments": 88,
-        "media": null,
-        "permalink": "/r/science/comments/1uh56tm/fast_walkers_have_better_brain_health_into_their/"
-    },
-    {
         "id": "1uhdl60",
         "author": "SummerFlat7720",
         "title": "Disembodied parts from a sea cucumber species neither die nor regenerate, but transform into balls that maintain immune systems and live for &gt;3 years. Though they lack mouths, they can absorb nutrients and grow.",
         "content": "",
-        "upvotes": 821,
-        "comments": 17,
+        "upvotes": 1075,
+        "comments": 18,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/mUv0WoW7F3NRnCo-wXtxyKTLYqmS_gXOkvgRDeLIC4E.png?auto=webp&amp;s=4d32368bc0034fe4bddb560ad404637d3a2cfb1e"
@@ -131,12 +121,35 @@
         "permalink": "/r/science/comments/1uhdl60/disembodied_parts_from_a_sea_cucumber_species/"
     },
     {
+        "id": "1uh56tm",
+        "author": "Wagamaga",
+        "title": "Fast Walkers Have Better Brain Health into their 80s. Super movers had about half the risk of incidents of cognitive impairment compared with slower walkers, even after accounting for age and sex. They also reported fewer new diagnoses of Alzheimer\u2019s disease or dementia over time.",
+        "content": "",
+        "upvotes": 2878,
+        "comments": 108,
+        "media": null,
+        "permalink": "/r/science/comments/1uh56tm/fast_walkers_have_better_brain_health_into_their/"
+    },
+    {
+        "id": "1uh1ip4",
+        "author": "mvea",
+        "title": "GLP-1 drugs may also have antidepressant properties. In a recent study on mice, GLP-1 drugs led to weight loss and reversed depression-like behavior. The effect was found to be dependent on a particular gut microbe that produces endocannabinoids.",
+        "content": "",
+        "upvotes": 4705,
+        "comments": 463,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/r5B6-gUBukN4e5Q5p7bhLIQ03cCeueWdRBCQ1i1Ns0M.jpeg?auto=webp&amp;s=2af433ea2fa47da66ff8f3eb84b5f5e86f7e3ea4"
+        },
+        "permalink": "/r/science/comments/1uh1ip4/glp1_drugs_may_also_have_antidepressant/"
+    },
+    {
         "id": "1uhgb3z",
         "author": "EvoSapiens",
         "title": "Scaled to adult height, 2016 Curvy Barbie and new Malibu Ken now show waist to hip and chest to waist ratios within the 95% range of young adult women and men. This contrasts with the extreme 1996 dolls.",
         "content": "",
-        "upvotes": 414,
-        "comments": 26,
+        "upvotes": 574,
+        "comments": 31,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/v5FcFJGlmF8JkiF0853cstWxUktErMEnBAWFRdQKOE4.png?auto=webp&amp;s=8dca1846aef275608928296bc850215fab6dd991"
@@ -144,21 +157,11 @@
         "permalink": "/r/science/comments/1uhgb3z/scaled_to_adult_height_2016_curvy_barbie_and_new/"
     },
     {
-        "id": "1ui2485",
-        "author": "InkAndAcorns",
-        "title": "Clinical Study on the Efficacy of an Antidepressant, Vortioxetine, in Patients with Newly Diagnosed Glioblastoma",
-        "content": "",
-        "upvotes": 12,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/science/comments/1ui2485/clinical_study_on_the_efficacy_of_an/"
-    },
-    {
         "id": "1uh33lp",
         "author": "DrPharmakon",
         "title": "Bacteria act as a team to survive antibiotics by pooling their resources to save dormant cells, a new study reveals. When attacked, some bacteria release protein-filled bubbles called vesicles that are absorbed by dormant members, allowing them to endure lethal doses of treatment.",
         "content": "",
-        "upvotes": 1126,
+        "upvotes": 1223,
         "comments": 21,
         "media": null,
         "permalink": "/r/science/comments/1uh33lp/bacteria_act_as_a_team_to_survive_antibiotics_by/"
@@ -168,8 +171,8 @@
         "author": "mvea",
         "title": "Nearly 40% of Americans pray to God for health improvements or disease cures. Thoughts of God increased a person\u2019s perceived divine presence, which boosted healing expectations and ultimately led to poor food choices.",
         "content": "",
-        "upvotes": 7756,
-        "comments": 455,
+        "upvotes": 7913,
+        "comments": 459,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/K4Gk1ikI-J68P4FLhB4y7CXANi2OnbC7V8ULrr5A4Q4.jpeg?auto=webp&amp;s=1cc60c6eaa43fb9bdd4cc4b65c0f0543ae3e0927"
@@ -177,24 +180,11 @@
         "permalink": "/r/science/comments/1ugmv5q/nearly_40_of_americans_pray_to_god_for_health/"
     },
     {
-        "id": "1uh7vf5",
-        "author": "Cad_Lin",
-        "title": "A theoretical essay proposes that political rumor is no longer just about spreading unverified stories: when AI generates videos of citizens who don't exist demanding tax reform, the rumor gains a body and a face that existing methods for studying political language were not built to handle.",
-        "content": "",
-        "upvotes": 212,
-        "comments": 14,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/lCLSivv_oK6pyB3kckjiPYNVTN32LYoyPfHI67FJEHw.png?auto=webp&amp;s=314a76a1604c9c9f357d1d87edd75e3e05d5ecdc"
-        },
-        "permalink": "/r/science/comments/1uh7vf5/a_theoretical_essay_proposes_that_political_rumor/"
-    },
-    {
         "id": "1uh51d8",
         "author": "Wagamaga",
         "title": "Researchers lead multi-decade analysis of new cancer incidence among survivors. Cancer survivorship is up 34% since 1991, meaning patients are living longer, which also allows for a higher risk of SPCs.",
         "content": "",
-        "upvotes": 293,
+        "upvotes": 341,
         "comments": 4,
         "media": {
             "type": "image",
@@ -207,8 +197,8 @@
         "author": "DrPharmakon",
         "title": "Fifty years of environmental policies like the Clean Water Act have successfully restored freshwater ecosystems, a new study finds. Analyzing data from 1970 to 2023 across seven major U.S. river basins, researchers linked falling heavy metal levels to the expansion of 71 fish and 171 insect species.",
         "content": "",
-        "upvotes": 3183,
-        "comments": 18,
+        "upvotes": 3264,
+        "comments": 19,
         "media": null,
         "permalink": "/r/science/comments/1ugq5tv/fifty_years_of_environmental_policies_like_the/"
     },
@@ -217,8 +207,8 @@
         "author": "DrPharmakon",
         "title": "Plankton abundance is in severe decline across the North East Atlantic, leaving none of its open-water habitats in a healthy state, a 60-year study reveals. Driven by rising temperatures and nutrient pollution, this widespread collapse threatens global food webs, fisheries, and carbon cycling.",
         "content": "",
-        "upvotes": 2131,
-        "comments": 35,
+        "upvotes": 2175,
+        "comments": 37,
         "media": null,
         "permalink": "/r/science/comments/1ugnt3f/plankton_abundance_is_in_severe_decline_across/"
     },
@@ -227,8 +217,8 @@
         "author": "sr_local",
         "title": "Analyzing 20 years of data (from 1982 to 2002), researchers found that when millennials were young adults, they were more afraid of becoming adults than Generation X and baby boomers had been at the same age. However, these fears diminished over time",
         "content": "",
-        "upvotes": 196,
-        "comments": 21,
+        "upvotes": 236,
+        "comments": 24,
         "media": null,
         "permalink": "/r/science/comments/1ugzq2z/analyzing_20_years_of_data_from_1982_to_2002/"
     },
@@ -237,8 +227,8 @@
         "author": "LethisXia",
         "title": "Premature births and low birth weight: risks posed by wildfires - Study confirms negative health consequences for newborns",
         "content": "",
-        "upvotes": 177,
-        "comments": 6,
+        "upvotes": 183,
+        "comments": 7,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/bl1wyPpUVoppn9j7mDqd0gkoswGL0q2opetxLLr86Yg.jpeg?auto=webp&amp;s=1b1aa32560fae3ecfb21e4d0aa7cdb1816dc5df0"
@@ -250,7 +240,7 @@
         "author": "pailsiledyoew",
         "title": "The same cellular aging process behind Alzheimer's and arthritis is now found driving liver failure and scientists may have found a way to stop it",
         "content": "",
-        "upvotes": 215,
+        "upvotes": 230,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1ugu32u/the_same_cellular_aging_process_behind_alzheimers/"
@@ -260,7 +250,7 @@
         "author": "mvea",
         "title": "GLP-1 weight loss drugs like Ozempic may be associated with an increased risk of smell and taste disturbances.",
         "content": "",
-        "upvotes": 2867,
+        "upvotes": 2902,
         "comments": 287,
         "media": null,
         "permalink": "/r/science/comments/1ug5fwt/glp1_weight_loss_drugs_like_ozempic_may_be/"
@@ -270,7 +260,7 @@
         "author": "EvoSapiens",
         "title": "New Norwegian data link early grandparenthood to 56% higher respiratory infections in grandmothers and 31% in grandfathers in the first two years. Mental and cardiovascular visits drop slightly. Ten years on, grandmothers are 12% less likely to work full time, grandfathers 2%.",
         "content": "",
-        "upvotes": 74,
+        "upvotes": 80,
         "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1ugwk79/new_norwegian_data_link_early_grandparenthood_to/"
@@ -280,8 +270,8 @@
         "author": "Science_News",
         "title": "New science on algae die-offs is too late for the Reflecting Pool | Iron and hydrogen peroxide trigger cell death via ferroptosis, which cascades killer molecules through the population, causing mass die offs of algae",
         "content": "",
-        "upvotes": 876,
-        "comments": 41,
+        "upvotes": 914,
+        "comments": 47,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/zOJZ31u3RKdnlUDbJ1aHg9_fuo4DAH95GHbSKR3pBMo.jpeg?auto=webp&amp;s=cb3a1d660b3332da2ffb1d8ca871e1a6a4a0c408"
@@ -293,8 +283,8 @@
         "author": "FreeHugs23",
         "title": "Why opposites don\u2019t attract: A global study reveals the true rules of romantic compatibility. Romantic success relies on different psychological rules depending on the specific characteristics being evaluated and the cultural background of the couple.",
         "content": "",
-        "upvotes": 2024,
-        "comments": 78,
+        "upvotes": 2067,
+        "comments": 79,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/ajyj4roUTQ_wkEkkMDEhORKmRKj1JjCdkMdnAPB92ZY.jpeg?auto=webp&amp;s=e72b2c6d5c2586eb2be9ef2cb7b1de7be04405b1"
@@ -306,8 +296,8 @@
         "author": "mvea",
         "title": "Genetic risk for Alzheimer\u2019s disease could depend on how well you sleep. Genetic variations related to brain fluid movement interact with sleep quality to influence memory and brain structure in older adults. Their effects may depend heavily on how well a person sleeps.",
         "content": "",
-        "upvotes": 1795,
-        "comments": 42,
+        "upvotes": 1812,
+        "comments": 43,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/xsFuACv-KP9mm5JH-7iFFZZ4ZruE63eGp-qv_eXx8C4.jpeg?auto=webp&amp;s=07a2ca080c190b2a501df430d1a1c4a1d8e51eeb"
@@ -319,8 +309,8 @@
         "author": "mvea",
         "title": "Total abortion bans in the US were associated with a statistically significant increase in suicidal ideation among female students. State-level abortion bans may adversely affect female adolescents\u2019 mental health and underscore the importance of suicide prevention services in affected states.",
         "content": "",
-        "upvotes": 8178,
-        "comments": 294,
+        "upvotes": 8226,
+        "comments": 295,
         "media": null,
         "permalink": "/r/science/comments/1ufmtlq/total_abortion_bans_in_the_us_were_associated/"
     },
@@ -329,8 +319,8 @@
         "author": "HeinieKaboobler",
         "title": "Your facial expressivity may be to thank for a great social network. Recent research ties facial expressiveness to social network size and richness",
         "content": "",
-        "upvotes": 177,
-        "comments": 11,
+        "upvotes": 194,
+        "comments": 12,
         "media": null,
         "permalink": "/r/science/comments/1ugbij1/your_facial_expressivity_may_be_to_thank_for_a/"
     },
@@ -339,12 +329,25 @@
         "author": "Doug24",
         "title": "Brain signals can reveal when a person is preparing to tell a lie",
         "content": "",
-        "upvotes": 350,
-        "comments": 37,
+        "upvotes": 363,
+        "comments": 39,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/XNhzrwHEuIw1udlstWcXoj-ZvD0qcadr0J8l9kh-ODY.jpeg?auto=webp&amp;s=5d1b7548b7a21b9f72d57d49d62b7ad58d71316e"
         },
         "permalink": "/r/science/comments/1ug5hf2/brain_signals_can_reveal_when_a_person_is/"
+    },
+    {
+        "id": "1ug41xr",
+        "author": "sr_local",
+        "title": "Exposure to common air pollutants (nitrogen dioxide caused by vehicle traffic) during early pregnancy may increase the likelihood of persistent depressive symptoms throughout pregnancy",
+        "content": "",
+        "upvotes": 382,
+        "comments": 4,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/n3iADco-xPZPJ19HixdUrH-f_yv1OODFhIRPkAzTZRo.jpeg?auto=webp&amp;s=9f8e3f48f8817a40deb5b4ae84a9565706ced9ea"
+        },
+        "permalink": "/r/science/comments/1ug41xr/exposure_to_common_air_pollutants_nitrogen/"
     }
 ]
