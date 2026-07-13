@@ -1,11 +1,24 @@
 [
     {
+        "id": "1uureim",
+        "author": "EvoSapiens",
+        "title": "Talking about childbirth and playing Tetris helps mothers feel better about their memories. In Swiss women with childbirth-related intrusive memories, one intense recall session plus Tetris often reduced flashback frequency. It also made memories feel less distressing and more accepted over time.",
+        "content": "",
+        "upvotes": 3376,
+        "comments": 93,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/XeOa0CcJ2D2oatHNz7xUQNtnHsZvofYejq8p0YEpTlM.jpeg?auto=webp&amp;s=3dc27b855d4678a45e5952120b92f4236d9d307a"
+        },
+        "permalink": "/r/science/comments/1uureim/talking_about_childbirth_and_playing_tetris_helps/"
+    },
+    {
         "id": "1uuetqz",
         "author": "mvea",
         "title": "Trump\u2019s 2020 pivot on face masks changed Republican behavior but not their medical beliefs. By tracking reactions to President Donald Trump\u2019s unexpected endorsement of face masks in 2020, a study found that his supporters readily adopted the behavior without altering their private beliefs.",
         "content": "",
-        "upvotes": 6070,
-        "comments": 240,
+        "upvotes": 11677,
+        "comments": 345,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/lPefTCZGMJZZ2_dOwTXyQt-gpc-fuj9s-SE58XaGtrU.jpeg?auto=webp&amp;s=50defe190d8fe8e2a769966dc6e7cee56f064d71"
@@ -13,12 +26,22 @@
         "permalink": "/r/science/comments/1uuetqz/trumps_2020_pivot_on_face_masks_changed/"
     },
     {
+        "id": "1uut3ru",
+        "author": "mvea",
+        "title": "Insurance denials of first attempts to fill prescriptions for brand-name prescription drugs with no generic competitors increased more than two-thirds between 2018 and 2024. While this may help control drug spending, it can also create barriers to timely treatment and place administrative burdens.",
+        "content": "",
+        "upvotes": 1287,
+        "comments": 57,
+        "media": null,
+        "permalink": "/r/science/comments/1uut3ru/insurance_denials_of_first_attempts_to_fill/"
+    },
+    {
         "id": "1uuin1y",
         "author": "DrPharmakon",
         "title": "Study of 287 healthy women finds that evening chronotypes (night owls) had higher body fat, poorer diet quality, higher insulin and triglycerides, lower HDL cholesterol and less favorable metabolic health than morning types, despite consuming similar amounts of calories and macronutrients.",
         "content": "",
-        "upvotes": 802,
-        "comments": 60,
+        "upvotes": 3954,
+        "comments": 205,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/khN2hnR4TIkRGLh5BA5jIJcgoeL1MMwLMG-ovvsj0PA.jpeg?auto=webp&amp;s=addc443f94556d24f08e1627f91599973272a1a5"
@@ -26,12 +49,48 @@
         "permalink": "/r/science/comments/1uuin1y/study_of_287_healthy_women_finds_that_evening/"
     },
     {
+        "id": "1uuxpx5",
+        "author": "sirjohnmasters86",
+        "title": "Pluto has landslides",
+        "content": "",
+        "upvotes": 158,
+        "comments": 16,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/iP3B6lafDnL4jK3NtNxDRaYPtue625CKxkUhBT1vXWA.jpeg?auto=webp&amp;s=7f6f2a6cbfa69f2e5734a071addf218649063c16"
+        },
+        "permalink": "/r/science/comments/1uuxpx5/pluto_has_landslides/"
+    },
+    {
+        "id": "1uutvcp",
+        "author": "TribalScientist",
+        "title": "Physicists experimentally reproduced the Penrose\u2013Zel'dovich energy extraction mechanism using a laboratory analogue of a rotating black hole.",
+        "content": "",
+        "upvotes": 225,
+        "comments": 6,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/tvDsgogJCIwaWNCUj86sZKGhkp0zssTDF7C4_Vs0drc.jpeg?auto=webp&amp;s=0cd722acb895f0435a5843b3527bdf83ed8d9c6d"
+        },
+        "permalink": "/r/science/comments/1uutvcp/physicists_experimentally_reproduced_the/"
+    },
+    {
+        "id": "1uuju2f",
+        "author": "IndependentLinguist",
+        "title": "People enjoy poems less if they think an AI wrote them (even though they are actually really bad at recognizing which poems were written by humans and which were AI-generated).",
+        "content": "",
+        "upvotes": 539,
+        "comments": 231,
+        "media": null,
+        "permalink": "/r/science/comments/1uuju2f/people_enjoy_poems_less_if_they_think_an_ai_wrote/"
+    },
+    {
         "id": "1uu0rhj",
         "author": "mvea",
         "title": "Book smarts and life smarts are driven by the exact same intelligence, study finds. Information learned through personal life experiences and information learned in a classroom are actually driven by exactly the same underlying mental ability.",
         "content": "",
-        "upvotes": 7625,
-        "comments": 195,
+        "upvotes": 8683,
+        "comments": 210,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/1keYoGqVNdjJq7Xc5y-ANDPTXi9Y6e8gsiWiBpccGp0.jpeg?auto=webp&amp;s=6a67ec70bdddbc8c893b2f9850b94869b1417cda"
@@ -39,75 +98,52 @@
         "permalink": "/r/science/comments/1uu0rhj/book_smarts_and_life_smarts_are_driven_by_the/"
     },
     {
-        "id": "1uu8gz3",
-        "author": "Creative_soja",
-        "title": "Climate scientists who argue against government regulations to reduce carbon emissions genuinely believe that free markets protect political freedom and democracy in the West. The oil lobby exploits such free market beliefs among experts to fuel \"the carbon combustion complex\" and climate denialism.",
-        "content": "",
-        "upvotes": 1423,
-        "comments": 56,
-        "media": null,
-        "permalink": "/r/science/comments/1uu8gz3/climate_scientists_who_argue_against_government/"
-    },
-    {
         "id": "1uui2ew",
         "author": "DrPharmakon",
         "title": "Analysis of nearly 60,000 disaster records finds that 91.5% of Brazilian municipalities experienced at least one climate-related disaster between 1991 and 2024, causing more than 4,700 deaths, 129 million affected people and over $123 billion in economic losses.",
         "content": "",
-        "upvotes": 105,
-        "comments": 1,
+        "upvotes": 476,
+        "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1uui2ew/analysis_of_nearly_60000_disaster_records_finds/"
+    },
+    {
+        "id": "1uu8gz3",
+        "author": "Creative_soja",
+        "title": "Climate scientists who argue against government regulations to reduce carbon emissions genuinely believe that free markets protect political freedom and democracy in the West. The oil lobby exploits such free market beliefs among experts to fuel \"the carbon combustion complex\" and climate denialism.",
+        "content": "",
+        "upvotes": 1948,
+        "comments": 73,
+        "media": null,
+        "permalink": "/r/science/comments/1uu8gz3/climate_scientists_who_argue_against_government/"
     },
     {
         "id": "1uucvh2",
         "author": "sr_local",
         "title": "Researchers developed a low-cost electrochemical sensor designed to detect dopamine in human tears (a neurotransmitter involved in movement, learning, motivation, and emotional regulation), aiming to facilitate the ultra-early detection of neurological disorders",
         "content": "",
-        "upvotes": 186,
+        "upvotes": 291,
         "comments": 4,
         "media": null,
         "permalink": "/r/science/comments/1uucvh2/researchers_developed_a_lowcost_electrochemical/"
-    },
-    {
-        "id": "1uuju2f",
-        "author": "IndependentLinguist",
-        "title": "People enjoy poems less if they think an AI wrote them (even though they are actually really bad at recognizing which poems were written by humans and which were AI-generated).",
-        "content": "",
-        "upvotes": 84,
-        "comments": 35,
-        "media": null,
-        "permalink": "/r/science/comments/1uuju2f/people_enjoy_poems_less_if_they_think_an_ai_wrote/"
     },
     {
         "id": "1uu3kts",
         "author": "DrPharmakon",
         "title": "Analysis of nearly 9,000 body size changes spanning 450 million years finds warming events caused about twice the reduction in marine animal body size seen during other environmental crises, suggesting smaller marine animals could become increasingly common as the climate warms.",
         "content": "",
-        "upvotes": 612,
-        "comments": 8,
+        "upvotes": 722,
+        "comments": 10,
         "media": null,
         "permalink": "/r/science/comments/1uu3kts/analysis_of_nearly_9000_body_size_changes/"
-    },
-    {
-        "id": "1uto6kp",
-        "author": "mvea",
-        "title": "People who view pornography more frequently tend to experience higher levels of depressive symptoms, and this link remains consistent over time. This relationship exists independently of a person\u2019s age, gender, or moral beliefs about watching pornography.",
-        "content": "",
-        "upvotes": 3560,
-        "comments": 283,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/KdoVOTJNoshiSC9xkrOhERQhSXqKYX-9817-HOiUpP4.jpeg?auto=webp&amp;s=ad537f9f38e140f2f1eb202f4ad78c6d5554dd67"
-        },
-        "permalink": "/r/science/comments/1uto6kp/people_who_view_pornography_more_frequently_tend/"
     },
     {
         "id": "1uu88fu",
         "author": "GreenFrogus",
         "title": "Helminths don't just suppress inflammatory Th17 cells \u2014 they reprogram them into cells with a regulatory, Treg-like phenotype, new mouse study finds. Cells that once expressed IL-17 switch to producing IL-10, gain Foxp3 expression, and reduce inflammation in a mouse model of Crohn's-like colitis",
         "content": "",
-        "upvotes": 201,
-        "comments": 16,
+        "upvotes": 262,
+        "comments": 23,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/eFMa-V1uKt_0fEaeLyZatpb8QwmDWeu0cd35rQ-BtGk.jpeg?auto=webp&amp;s=3ccfb02ee1a9d392e35707ff6b7cfc25262c0542"
@@ -115,25 +151,25 @@
         "permalink": "/r/science/comments/1uu88fu/helminths_dont_just_suppress_inflammatory_th17/"
     },
     {
-        "id": "1utjbm7",
+        "id": "1uto6kp",
         "author": "mvea",
-        "title": "GLP-1 weight-loss medication is an important tool, but new results indicate that it cannot replace exercise. People with severe obesity who exercise regularly have healthier blood vessels and lower inflammation than those who rely on GLP-1 weight-loss medication alone.",
+        "title": "People who view pornography more frequently tend to experience higher levels of depressive symptoms, and this link remains consistent over time. This relationship exists independently of a person\u2019s age, gender, or moral beliefs about watching pornography.",
         "content": "",
-        "upvotes": 4452,
-        "comments": 328,
+        "upvotes": 3829,
+        "comments": 292,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/GYsJ-JsC8hkfxjUQvXEx-tK_xvl1STTWIUV30Ha8Y9E.jpeg?auto=webp&amp;s=f6794df776e7c853d5641b3e857eac2dea1800c9"
+            "url": "https://external-preview.redd.it/KdoVOTJNoshiSC9xkrOhERQhSXqKYX-9817-HOiUpP4.jpeg?auto=webp&amp;s=ad537f9f38e140f2f1eb202f4ad78c6d5554dd67"
         },
-        "permalink": "/r/science/comments/1utjbm7/glp1_weightloss_medication_is_an_important_tool/"
+        "permalink": "/r/science/comments/1uto6kp/people_who_view_pornography_more_frequently_tend/"
     },
     {
         "id": "1uufoov",
         "author": "cheungngo",
         "title": "Brain transcriptome-wide association study reveals selective long-term potentiation enrichment and negative directional skew of senescence-regulation pathways in Alzheimer's disease",
         "content": "",
-        "upvotes": 29,
-        "comments": 3,
+        "upvotes": 76,
+        "comments": 2,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/5EZfCQ0Afc23ExuA_J83sgp4C78R1WXnAKj5pxiVnc8.jpeg?auto=webp&amp;s=d3f66ceec3255ca0c3e94028115f552b901a212c"
@@ -141,11 +177,34 @@
         "permalink": "/r/science/comments/1uufoov/brain_transcriptomewide_association_study_reveals/"
     },
     {
+        "id": "1utjbm7",
+        "author": "mvea",
+        "title": "GLP-1 weight-loss medication is an important tool, but new results indicate that it cannot replace exercise. People with severe obesity who exercise regularly have healthier blood vessels and lower inflammation than those who rely on GLP-1 weight-loss medication alone.",
+        "content": "",
+        "upvotes": 4583,
+        "comments": 330,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/GYsJ-JsC8hkfxjUQvXEx-tK_xvl1STTWIUV30Ha8Y9E.jpeg?auto=webp&amp;s=f6794df776e7c853d5641b3e857eac2dea1800c9"
+        },
+        "permalink": "/r/science/comments/1utjbm7/glp1_weightloss_medication_is_an_important_tool/"
+    },
+    {
+        "id": "1uu8pys",
+        "author": "Macchanoco",
+        "title": "Neural circuits for valence updating in social memory",
+        "content": "",
+        "upvotes": 59,
+        "comments": 3,
+        "media": null,
+        "permalink": "/r/science/comments/1uu8pys/neural_circuits_for_valence_updating_in_social/"
+    },
+    {
         "id": "1uthgfw",
         "author": "sr_local",
         "title": "Brighter, more consistent daytime light exposure could be the key to earlier bedtimes, better quality sleep, and deeper rest. Highlighting issues with artificial light levels in modern indoor life",
         "content": "",
-        "upvotes": 1612,
+        "upvotes": 1698,
         "comments": 45,
         "media": {
             "type": "image",
@@ -154,22 +213,12 @@
         "permalink": "/r/science/comments/1uthgfw/brighter_more_consistent_daytime_light_exposure/"
     },
     {
-        "id": "1uu8pys",
-        "author": "Macchanoco",
-        "title": "Neural circuits for valence updating in social memory",
-        "content": "",
-        "upvotes": 47,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/science/comments/1uu8pys/neural_circuits_for_valence_updating_in_social/"
-    },
-    {
         "id": "1ut5ifo",
         "author": "mvea",
         "title": "It's official: Study shows men can multi-task as well as women. There was no difference between their ability to complete physical demands under increasing pressure. But a reduced talkativeness amongst men could explain why males are likely to be rated as being worse at multi-tasking than women.",
         "content": "",
-        "upvotes": 9798,
-        "comments": 391,
+        "upvotes": 9937,
+        "comments": 396,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/_Jf4NMYPnOdRL_JTq3FKQVmfdg21l-b4v2nYoJZrP94.jpeg?auto=webp&amp;s=d61ceb5ac49eecd7532c0106aaedc4bb9154caf9"
@@ -181,7 +230,7 @@
         "author": "EvoSapiens",
         "title": "Ants play a crucial role in moving seeds in dry forest farms. In Brazil's Caatinga, rainfed croplands host more large ants that provide higher quality seed dispersal. Fragmentation and low water cut seed removal and cleaning, while mixed land uses boost total ant-seed interactions.",
         "content": "",
-        "upvotes": 158,
+        "upvotes": 188,
         "comments": 3,
         "media": null,
         "permalink": "/r/science/comments/1utvlhx/ants_play_a_crucial_role_in_moving_seeds_in_dry/"
@@ -191,8 +240,8 @@
         "author": "HeinieKaboobler",
         "title": "A new study shows that a decision by RFK Jr.'s advisory panel to strip federal recommendations for the MMRV vaccine disproportionately harms low-income and minority toddlers, who rely on the combination shot to overcome healthcare barriers",
         "content": "",
-        "upvotes": 18517,
-        "comments": 201,
+        "upvotes": 18743,
+        "comments": 204,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/eE55Iy6zNzoJiPmpY4Ym2sxxJRWutmM_PZirWeQDM2o.jpeg?auto=webp&amp;s=49d205d9adc69e14b390e39d295febdf6a2176ef"
@@ -204,8 +253,8 @@
         "author": "DrPharmakon",
         "title": "Rising temperatures have pushed 57 million hectares of tropical forest beyond their safety limit for photosynthesis, slowing tree growth and threatening the planet's ability to absorb carbon dioxide, a new study reveals.",
         "content": "",
-        "upvotes": 1841,
-        "comments": 10,
+        "upvotes": 1915,
+        "comments": 11,
         "media": null,
         "permalink": "/r/science/comments/1ut9ums/rising_temperatures_have_pushed_57_million/"
     },
@@ -214,8 +263,8 @@
         "author": "sr_local",
         "title": "Modern human-made environments with striped patterns, cluttered interiors, high-contrast colours, flickering lights and densely packed supermarket shelves can overload the brain, increasing visual discomfort, eyestrain, stress and feelings of being overwhelmed in some people",
         "content": "",
-        "upvotes": 13524,
-        "comments": 577,
+        "upvotes": 13604,
+        "comments": 578,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/nEVhcgclloGQuGZbpKg8ztJVadbEcJPhEbxz1gIsrXs.jpeg?auto=webp&amp;s=3d0fb39c6c30fd1c5a6aad5195db2b957171570c"
@@ -227,8 +276,8 @@
         "author": "memorialmonorail",
         "title": "A new study finds that in recent years, K-12 school administrators in the US were more likely than teachers or mental health professionals to experience aggression from parents: Over 4 in 10 were verbally threatened and about 1 in 5 reported they were publicly humiliated or cyberbullied.",
         "content": "",
-        "upvotes": 2949,
-        "comments": 133,
+        "upvotes": 3004,
+        "comments": 132,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/IP5PPIRnfczReS0Bml8Zt9BZhDHb9dr7jx3U-Ng7YaM.jpeg?auto=webp&amp;s=b3c0e36064706f666446165fa5a07432b95df9c1"
@@ -240,8 +289,8 @@
         "author": "Emma__O",
         "title": "Bipolar patients taking antipsychotics, anticonvulsants and/or antidepressants showed significant reduction in their thalamic, hippocampal and amygdala volumes. Bipolar patients who did not take any medication or took lithium had no reduction in volume and were about the same as non bipolar patients",
         "content": "",
-        "upvotes": 1346,
-        "comments": 205,
+        "upvotes": 1394,
+        "comments": 211,
         "media": null,
         "permalink": "/r/science/comments/1usuzrp/bipolar_patients_taking_antipsychotics/"
     },
@@ -250,8 +299,8 @@
         "author": "HeinieKaboobler",
         "title": "A study of 30,000 middle-aged and older adults found that larger tissue volume in six key brain regions, along with higher education, strongly predicts better working memory performance",
         "content": "",
-        "upvotes": 715,
-        "comments": 9,
+        "upvotes": 742,
+        "comments": 10,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/he_GBSY3nnGuGGYjZzjXGn80GWbeMKP6h69A_itfM8A.jpeg?auto=webp&amp;s=1a2f6bb6acd8f6290cef8ea34ec582fe23725b18"
@@ -263,7 +312,7 @@
         "author": "mvea",
         "title": "Vaccine Against Brain Tumors Shows Promising Long-Term Results: 33 patients with high-grade astrocytomas, the most common form of glioma, received vaccine that trains the immune system to recognize and fight tumor cells. 66% were still alive after 8 years, and in 42%, the disease had not progressed.",
         "content": "",
-        "upvotes": 4117,
+        "upvotes": 4170,
         "comments": 36,
         "media": {
             "type": "image",
@@ -276,7 +325,7 @@
         "author": "EvoSapiens",
         "title": "Strict bosses can lead to employees doing less at work. In Chinese small and medium-sized firms, authoritarian leaders drive higher burnout and more quiet quitting. Forcing staff to show up sick or exhausted further boosts this burnout and deepens their disengagement.",
         "content": "",
-        "upvotes": 4683,
+        "upvotes": 4733,
         "comments": 50,
         "media": {
             "type": "image",
@@ -289,7 +338,7 @@
         "author": "HeinieKaboobler",
         "title": "A study finds that passively copying AI-generated work lowers employees' confidence, ownership, and sense of meaning. But active collaboration preserves these psychological benefits.",
         "content": "",
-        "upvotes": 299,
+        "upvotes": 311,
         "comments": 4,
         "media": {
             "type": "image",
@@ -302,55 +351,9 @@
         "author": "Wagamaga",
         "title": "As the US recovers from its latest heatwave, a new study warns of an increase in hospitalizations for mental health issues. Heatwaves may trigger acute exacerbations of mental and behavioural disorders through sleep disruption and physiological stress responses",
         "content": "",
-        "upvotes": 1330,
+        "upvotes": 1348,
         "comments": 50,
         "media": null,
         "permalink": "/r/science/comments/1uskv3c/as_the_us_recovers_from_its_latest_heatwave_a_new/"
-    },
-    {
-        "id": "1usiwy6",
-        "author": "Few-Worry-2840",
-        "title": "Newer ChatGPT models do not improve at telling people whether symptoms need emergency care, a doctor\u2019s visit, or self-care; the best model was correct 74% of the time",
-        "content": "",
-        "upvotes": 1426,
-        "comments": 124,
-        "media": null,
-        "permalink": "/r/science/comments/1usiwy6/newer_chatgpt_models_do_not_improve_at_telling/"
-    },
-    {
-        "id": "1usbkla",
-        "author": "unsw",
-        "title": "New modelling strongly suggests the first smallpox epidemic among Indigenous Australians originated from the British outpost in Sydney and might have killed as many as 220,000 Aboriginal people",
-        "content": "",
-        "upvotes": 2263,
-        "comments": 42,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/faahFVNAbvPTZAm_hReREzTMwmy91wiuGnG9Uh5_0YQ.png?auto=webp&amp;s=d27f71c3183a3b3511202551d8b5a5754f912c01"
-        },
-        "permalink": "/r/science/comments/1usbkla/new_modelling_strongly_suggests_the_first/"
-    },
-    {
-        "id": "1usv0wn",
-        "author": "fchung",
-        "title": "Humanoid robots controlled by surgeons did world-first operation on live pigs: \u00ab Preclinical trial is testing the feasibility of humanoid robots in surgery. \u00bb",
-        "content": "",
-        "upvotes": 114,
-        "comments": 53,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/JnEbD4x-ZQ4qQDwiXGDB5E2d2ydHRbFaZSG3APc0nC8.png?auto=webp&amp;s=5935e060f2d83230668eb921003785780326df27"
-        },
-        "permalink": "/r/science/comments/1usv0wn/humanoid_robots_controlled_by_surgeons_did/"
-    },
-    {
-        "id": "1usvvov",
-        "author": "Scbadiver",
-        "title": "Human embryonic stem cell-derived dopaminergic cells for Parkinson\u2019s disease: a phase 1/2 open-label trial | Nature Medicine",
-        "content": "",
-        "upvotes": 95,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1usvvov/human_embryonic_stem_cellderived_dopaminergic/"
     }
 ]
