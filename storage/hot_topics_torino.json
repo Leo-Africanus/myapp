@@ -4,7 +4,7 @@
         "author": "torinomod",
         "title": "BACHECA ANNUNCI - buying, selling, apartment hunting, etc",
         "content": "Posta qui ogni annuncio di compravendita (biglietti di concerti, affitti, la qualunque). Ogni post sul sub a riguardo verr\u00e0 cancellato e rediretto qua.\n\nPost here all your bulletin board notices: for things you're selling, buying, promoting or apartments you're renting/looking for! Any standalone post will be deleted and redirected here.\n\nTelegram groups for apartment hunting:\n\n* https://t.me/CaseStudentiTorino\n* https://t.me/AppartamentiaffittoTorino_SBG\n* https://t.me/stay_buy_home_community\n* https://t.me/rbh_homer_bot\n\nAny questions? [Message the moderators](https://www.reddit.com/message/compose?to=/r/torino)!",
-        "upvotes": 4,
+        "upvotes": 5,
         "comments": 66,
         "media": {
             "type": "image",
@@ -17,7 +17,7 @@
         "author": "torinomod",
         "title": "LA PIOLA - friends meetup!",
         "content": "Vuoi conoscere persone? Organizzare una gita in montagna? Un aperitivo in centro? Posta qui e trova altri redditor con i tuoi interessi!\n\nDo you want to meet new people? Grab a beer? Stroll the city with locals? Write here!\n\n# USEFUL GROUPS\n\n[CIBO &amp; TRASH](https://chat.whatsapp.com/LxRuDtXedFzAYid0vVRMK9): gruppo per condividere la passione del cibo soprattutto quello Trash. Si organizzano e si possono proporre uscite dedicate al cibo e tanto altro.\n\n[GIOCHI IN TAVERNA](https://t.me/giochiintaverna): club di serate di giochi da tavolo, giochi di ruolo, magic e altro, ogni venerd\u00ec al Comala e ogni mercoled\u00ec in conceria Vanchiglia\n\n[RACCONTAPASSI](https://t.me/raccontapassi): ogni weekend propongono attivit\u00e0 in giro per il Piemonte\n\n[SHAKEUP TORINO](https://www.instagram.com/shakeuptorino/): community Whatsapp creata per fare nuove amicizie organizzando eventi molto semplici come serate al pub, passeggiate in centro o pizzate \ud83d\ude00 (mandare DM su instagram per essere invitati)\n\n\n[TREKKING TURIN](https://chat.whatsapp.com/J7cE64PnQqJ0D0rj0Iu7wg): gite e trekking ogni weekend con partenza da Torino! Langhe, Liguria, Piemonte etc\n\n[TUTTI LIBERI](https://chat.whatsapp.com/Ld9PMqbHF1FLJAFFdzWjbb): scrivi cosa vuoi e quando vuoi, aggiungi pi\u00f9 persone possibili, sii educato, vivi e lascia vivere, divertiti!\n\nAny questions? Your telegram group got blocked by the spam filter? [Message the moderators](https://www.reddit.com/message/compose?to=/r/torino)!",
-        "upvotes": 16,
+        "upvotes": 15,
         "comments": 8,
         "media": null,
         "permalink": "/r/torino/comments/1o90rn3/la_piola_friends_meetup/"
@@ -27,7 +27,7 @@
         "author": "Dangerous_Lock_8913",
         "title": "Giri in moto partendo da Torino",
         "content": "Mi piacerebbe trovare qualche appassionato come me che ama andare in moto e nei fine settimana vorrebbe fare qualche curva che, fortunatamente, la nostra posizione geografica ci consente.  \nNon mi interessano le corse (per cui se pensi che la strada \u00e8 una pista non sei nel posto giusto). Amo le curve, le montagne, i panorami e soprattutto guidare le mie moto.  \nHo 49 anni e guido solo moto pi\u00f9 vecchie di me:  \nSe ti va di organizzare qualche giretto insieme o se mi vuoi suggerire qualche gruppo gi\u00e0 esistente mi farebbe molto piacere",
-        "upvotes": 21,
+        "upvotes": 26,
         "comments": 2,
         "media": null,
         "permalink": "/r/torino/comments/1vrge7h/giri_in_moto_partendo_da_torino/"
@@ -37,10 +37,20 @@
         "author": "Ares_Maps",
         "title": "Update: Ho creato un navigatore pedonale per tornare a casa sicuri la sera. Aggiornato con le segnalazioni dei pericoli: mi aiutate a testarlo a Torino e dintorni?",
         "content": "Ciao a tutti. Sono uno sviluppatore indipendente. Mi sono reso conto che i navigatori classici ti fanno fare sempre la via pi\u00f9 breve, infilandoti spesso in vicoli bui o parchi isolati la sera.\n\n\u200bCos\u00ec ho creato un'app gratuita (e senza pubblicit\u00e0) per Android che calcola percorsi pedonali sicuri e illuminati, con tasto SOS e condivisione della posizione live.\n\n\u200bChiaramente l'app non ha la bacchetta magica e non pu\u00f2 \"creare\" strade sicure dal nulla se non esistono, ma il suo scopo \u00e8 analizzare il territorio per offrire sempre la migliore alternativa possibile tra quelle a disposizione.\n\nIl punto \u00e8 questo: l'algoritmo matematicamente funziona, ma niente batte la conoscenza reale di chi vive la citt\u00e0 ogni giorno.\n\n\u200bLa novit\u00e0: la mappa adesso cambia con i vostri feedback delle strade (come suggerito da molti di voi qui su Reddit).\n\nCon l'ultimo aggiornamento ho introdotto la gestione dinamica della mappa:\n\n\\-\u200bSegnalazione pericoli ed eventi: \u00e8 possibile segnalare zone di rischio (spaccio, degrado, risse, buio, assembramento ecc.).\n\n\\-\u200bRicalcolo dei percorsi: l'algoritmo adatta i tragitti in base ai voti e alle segnalazioni degli utenti, evitando le vie penalizzate dalla community.\n\n\\-\u200bCommenti sulle strade: potete lasciare note/recensioni sulle vie, che verranno mostrate direttamente nella schermata di riepilogo a chiunque generi un percorso che passa di l\u00ec.\n\n\\-\u200bGradi di affidabilit\u00e0: un sistema di livellamento (e de-livellamento) premia gli utenti pi\u00f9 affidabili per evitare troll e falsi allarmi.\n\nLa richiesta: il motore adesso \u00e8 pronto, ma per farlo funzionare al meglio serve che inizi a formarsi la community locale. C'\u00e8 qualcuno che ha voglia di scaricarla e iniziare a dare qualche voto o segnalazione sulle strade?\n\nSi chiama Ares Maps (essendo nuova il Play Store la nasconde, per trovarla dovete scrivere esattamente \"Ares Maps evita i pericoli\").\n\n\u200b(Nota per chi l'aveva gi\u00e0 scaricata in precedenza: la versione precedente non obbligava all'aggiornamento, quindi se il Play Store non l'ha fatto in automatico, aggiornatela manualmente per sbloccare le nuove funzioni).\n\n\u200bGrazie mille a chiunque dedicher\u00e0 5 minuti del suo tempo",
+        "upvotes": 3,
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/torino/comments/1vrj6t0/update_ho_creato_un_navigatore_pedonale_per/"
+    },
+    {
+        "id": "1vrjuuj",
+        "author": "Virtuousrea",
+        "title": "Amicizie nerd",
+        "content": "Buongiorno a tutti, sono qui a Torino da tre anni, ho 25 anni e nonostante io abbia avuto modo di scaturire diversi rapporti relazionali ancora mi manca un qualcuno con cui condividere i miei interessi, magari con una mentalit\u00e0 che prevede anche l'istaurarsi di un'amicizia e non solo la compagnia per un'attivit\u00e0. \n\nMbti (Io sono Entp) \u2022 Pok\u00e9mon \u2022 Yugioh \u2022 Magic \u2022 Giochi da tavolo \u2022 Animazione (Madoka Magica, Avatar la leggenda di Aang, Steven universe, hxh, death note ecc.) \u2022 League of Legends\n\nHo interessi di vario genere anche di natura culturale (Psicologia, filosofia, sociologia e letteratura), ma mi vorrei concentrare sui punti posti in evidenza per denotare dei riferimenti di partenza. \n\nConfido in un riscontro, e di conoscere gente affine \u2728. ",
         "upvotes": 1,
         "comments": 0,
         "media": null,
-        "permalink": "/r/torino/comments/1vrj6t0/update_ho_creato_un_navigatore_pedonale_per/"
+        "permalink": "/r/torino/comments/1vrjuuj/amicizie_nerd/"
     },
     {
         "id": "1vr5jgo",
@@ -58,7 +68,7 @@
         "title": "Conseils vie \u00e0 Turin San Donato",
         "content": "Bonjour \u00e0 tous !!   \nPour les \u00e9tudes je dois d\u00e9m\u00e9nager temporairement \u00e0 Turin ! \ud83d\ude0a  \nJ\u2019ai tr\u00e8s h\u00e2te mais en m\u00eame temps je suis super stress\u00e9e.   \nJ\u2019ai peur de me retrouver seule (alors que j\u2019ai d\u00e9j\u00e0 habit\u00e9 seule la honte lol), connaissez vous des endroits pour rencontrer des gens facilement (pas les bo\u00eetes ! Je suis un peu timide \u2026)   \nEt j\u2019ai appris que j\u2019allais \u00eatre dans le quartier de San Donato, on m\u2019a dit que c\u2019\u00e9tait pas safe du tout donc je panique un peu !   \nAvez vous des conseils ?   \nMerci \u263a\ufe0f ",
         "upvotes": 1,
-        "comments": 5,
+        "comments": 9,
         "media": null,
         "permalink": "/r/torino/comments/1vr5eml/conseils_vie_\u00e0_turin_san_donato/"
     },
@@ -77,7 +87,7 @@
         "author": "backdunflip",
         "title": "Beach volley?",
         "content": "Ciao a tutte e a tutti :)\n\nHo scoperto da poco play2match, un'app per giocare a beach volley a Torino dove ci si iscrive e poi si gioca in squadra anche con persone che non si conoscono.\n\nMi piacerebbe molto provare, per\u00f2 l\u2019idea di andare completamente da sola e trovarmi a giocare con gente che non conosco mi mette un po' in ansia. C'\u00e8 qualcuno che avrebbe voglia di provare insieme?\n\nscrivetemi pure se vi interessa! ",
-        "upvotes": 2,
+        "upvotes": 3,
         "comments": 6,
         "media": null,
         "permalink": "/r/torino/comments/1vqsrxq/beach_volley/"
@@ -97,7 +107,7 @@
         "author": "goodname-2023",
         "title": "Situacion Laboral Torino",
         "content": "Holaa a todos, este es mi primer post. Queria saber como ven la situacion laboral en torino o en italia en general, cuanto tiempo les tomo conseguir y de que?. La verdad es que yo estoy desde hace 8 meses buscando y los pocos que me hacen pasar a una siguiente ronda cuando ven que solo tengo la ricevuta del permesso me dicen que con eso no se puede trabajar. Cosa que no entiendo por qu\u00e9 en la questura me dijeron que ya con la ricevuta es mas que suficiente. Tambien se aceptan tips y consejos. Muchas gracias a todos. ",
-        "upvotes": 3,
+        "upvotes": 4,
         "comments": 7,
         "media": null,
         "permalink": "/r/torino/comments/1vqmc3j/situacion_laboral_torino/"
@@ -127,7 +137,7 @@
         "author": "Key_Serve_9510",
         "title": "Musicisti over 35 cercasi",
         "content": "Pensavo di ricominciare a suonare con qualcuno a partire da settembre/ottobre. Sono un padre di 40 anni, sempre suonato il basso in gruppi punk/indie, ora principalmente chitarrista. Ho qui a Torino anche il mio chitarrista storico, anche lui 40enne con figli. Cerchiamo BATTERISTA per ricominciare a suonare. L\u2019et\u00e0 non \u00e8 fondamentale, ma \u00e8 fondamentale capire che abbiamo mille impegni familiari per cui l\u2019aspettativa \u00e8 soprattutto divertirsi e fare qualcosa che amiamo. Per quanto riguarda il genere ascoltiamo entrambi un po\u2019 di tutto. Io principalmente pop-punk/grunge/post-grunge. Adoro le sonorit\u00e0 dei placebo, smashing pumpkins, Interpol. Se ti riconosci nella situa, possiamo cercare di organizzare una birretta a settembre per conoscerci e vedere da l\u00ec come evolvere!",
-        "upvotes": 11,
+        "upvotes": 12,
         "comments": 4,
         "media": null,
         "permalink": "/r/torino/comments/1vpvuik/musicisti_over_35_cercasi/"
@@ -207,7 +217,7 @@
         "author": "9lolla6",
         "title": "How can I learn Italian?",
         "content": "I'm moving to Torino soon and want to learn Italian to make the transition easier. I'm open to either online classes or in-person lessons. Are there any Italian schools or online courses you'd recommend?\n\n  \nedit: I know portuguese(native) and english(fluent)",
-        "upvotes": 5,
+        "upvotes": 6,
         "comments": 16,
         "media": null,
         "permalink": "/r/torino/comments/1vpgl4s/how_can_i_learn_italian/"
@@ -247,7 +257,7 @@
         "author": "Flat-Passion-3233",
         "title": "Is the Polytechnic University of Turin any good? And is Turin a nice place to live in general?",
         "content": "",
-        "upvotes": 17,
+        "upvotes": 13,
         "comments": 15,
         "media": {
             "type": "image",
@@ -260,7 +270,7 @@
         "author": "Curious-Fisherman-46",
         "title": "M20 in cerca di qualche amico/a",
         "content": "Ciao sono un ragazzo di 20 anni che vive a Torino da ormai 1 anno. Sono appassionato di Cinema, letteratura e gioco anche un p\u00f3 ai videogiochi. Se volete conoscermi scrivete sotto il post o in pvt",
-        "upvotes": 3,
+        "upvotes": 4,
         "comments": 7,
         "media": null,
         "permalink": "/r/torino/comments/1vo4t8y/m20_in_cerca_di_qualche_amicoa/"
@@ -270,7 +280,7 @@
         "author": "Aggravating_Map_9331",
         "title": "Cori amatoriali a Torino",
         "content": "Ciao! Sapete se ci sono cori amatoriali a Torino? Le universit\u00e0 hanno dei loro cori? Mi piacerebbe trovare un coro a cui unirmi, anche se non sono uno studente universitario. Grazie!",
-        "upvotes": 2,
+        "upvotes": 3,
         "comments": 1,
         "media": null,
         "permalink": "/r/torino/comments/1vo3qz1/cori_amatoriali_a_torino/"
@@ -280,7 +290,7 @@
         "author": "yhk266",
         "title": "Pho and Tacos",
         "content": "Ciao tutti,\n\nSaprete dove potremmo trovare cibo vietnamita e messicano? Specificamente cerco Pho e Tacos. \n\nGrazie per i vostri consigli!",
-        "upvotes": 5,
+        "upvotes": 4,
         "comments": 5,
         "media": null,
         "permalink": "/r/torino/comments/1vo0ped/pho_and_tacos/"
@@ -294,15 +304,5 @@
         "comments": 15,
         "media": null,
         "permalink": "/r/torino/comments/1vo9n4r/m25_cercansi_amicizie_e_conoscenze/"
-    },
-    {
-        "id": "1vo64y3",
-        "author": "Sad_Razzmatazz3090",
-        "title": "What to do in torino",
-        "content": "Hey we re two young tourists looking for altentive and inclusive events in torino for tonight (14 of august) any sugestion would be greatly helpfull !! ;-))",
-        "upvotes": 1,
-        "comments": 4,
-        "media": null,
-        "permalink": "/r/torino/comments/1vo64y3/what_to_do_in_torino/"
     }
 ]

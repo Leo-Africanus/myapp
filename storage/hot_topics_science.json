@@ -4,7 +4,7 @@
         "author": "shiruken",
         "title": "RETRACTED: Excess mortality across countries in the Western World since the COVID-19 pandemic: \u2018Our World in Data\u2019 estimates of January 2020 to December 2022",
         "content": "We wish to inform the r/science community of an article submitted to the subreddit that has since been retracted by the journal. The submission garnered broad exposure on r/science and significant media coverage elsewhere, including being featured in a U.S. Senate subcommittee hearing. Per [our rules](https://www.reddit.com/r/science/wiki/rules/#wiki_retractions), the flair on this submission has been updated with \"RETRACTED\". The submission has also been added to our [wiki of retracted submissions](https://www.reddit.com/r/science/wiki/retractions/#wiki_retractions).\n\n\\--\n\nReddit Submission: [Excess death rates have remained high in the West for three years running since the start of the COVID-19 pandemic, finds a data analysis of 47 countries published in the open access journal BMJ Public Health.](https://www.reddit.com/r/science/comments/1feicau/excess_death_rates_have_remained_high_in_the_west/)\n\nThe article [\"Excess mortality across countries in the Western World since the COVID-19 pandemic: \u2018Our World in Data\u2019 estimates of January 2020 to December 2022\"](https://doi.org/10.1136/bmjph-2023-000282) has been [retracted](https://doi.org/10.1136/bmjph-2023-000282ret) from *BMJ Public Health* as of August 11, 2026. Concerns [were raised](https://www.cidrap.umn.edu/covid-19/commentary-misleading-bmj-public-health-paper-covid-19-excess-mortality-needs-be-retracted) following publication about the originality of the work and the messaging of its results with regards to  COVID-19 vaccination and mortality. Widespread media coverage misrepresenting the work prompted the journal to publish an [expression of concern](https://doi.org/10.1136/bmjph-2023-000282eoc) explaining that the research does not investigate or establish a causal link between COVID-19 vaccination and mortality. The notice also announced an internal investigation by the Princess M\u00e1xima Center in the Netherlands, where three of the four authors worked.\n\nThe lead author, Saskia Mostert, resigned following the investigation announcement and was \"not able to cooperate with the investigation\" by her former institution. *BMJ* also had difficulty contacting her, as the corresponding author, for their own investigation. She went on to appear before the U.S. Senate Homeland Security &amp; Governmental Affairs Committee subcommittee on investigations on \"Plausible Mechanisms of COVID-19 Injections Causing Cancer and Attacks on Scientific Publications and Research\" where she testified on the results of the study.\n\nThe article was ultimately retracted by the journal \"for misinformation in the discussion regarding the possible causes of excess mortality, and because the limited nature of the original work by the authors was not sufficiently described.\" Two of the four authors, along with the Princess M\u00e1xima Center, requested the retraction but disputed the journal's determination the paper contained misinformation. Mostert and the journal's fourth author, disagreed with the retraction.\n\n* Retraction Watch: [BMJ Group retracts paper on COVID-19 vaccines and mortality featured in Senate hearing](https://retractionwatch.com/2026/08/11/bmj-public-health-retraction-covid-19-vaccines-death-senate-hearing/)\n\n\\--\n\nShould you encounter a submission on r/science that has been retracted, please notify the moderators [via Modmail](https://www.reddit.com/message/compose?to=%2Fr%2Fscience&amp;subject=Retraction).",
-        "upvotes": 2253,
+        "upvotes": 2251,
         "comments": 78,
         "media": null,
         "permalink": "/r/science/comments/1voci60/retracted_excess_mortality_across_countries_in/"
@@ -14,8 +14,8 @@
         "author": "HumbleRestaurant790",
         "title": "Of more than 500 occupations in the United States, flight attendants and pilots have the highest and second-highest proportion of radiation-related cancer deaths, a new study has found.",
         "content": "",
-        "upvotes": 12803,
-        "comments": 676,
+        "upvotes": 12943,
+        "comments": 678,
         "media": null,
         "permalink": "/r/science/comments/1vr1q5d/of_more_than_500_occupations_in_the_united_states/"
     },
@@ -24,8 +24,8 @@
         "author": "mvea",
         "title": "Historically, there was very strong guidance that you must always finish an antibiotic course. Now, we're seeing a growing body of evidence saying that that is not always the case. And oftentimes, shorter durations of antibiotics are as effective and safe as longer alternatives.",
         "content": "",
-        "upvotes": 2227,
-        "comments": 132,
+        "upvotes": 2311,
+        "comments": 134,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/y0c7CgFqq8f3TVRloxz6-dHRvNpv6LIJr_6uZcf3-7k.jpeg?auto=webp&amp;s=8fa4121f4a7f7be2328a128e843ed34085de00e0"
@@ -33,31 +33,31 @@
         "permalink": "/r/science/comments/1vr9sdg/historically_there_was_very_strong_guidance_that/"
     },
     {
-        "id": "1vr15dh",
-        "author": "HumbleRestaurant790",
-        "title": "Study Finds People Who Consumed Sugar-Sweetened Beverages on a Daily Basis Had Higher Risk of Stomach Cancer",
-        "content": "",
-        "upvotes": 2728,
-        "comments": 198,
-        "media": null,
-        "permalink": "/r/science/comments/1vr15dh/study_finds_people_who_consumed_sugarsweetened/"
-    },
-    {
         "id": "1vrhq7p",
         "author": "mightx",
         "title": "Inactive tall children develop disproportionately weak muscles and thinner bones. Regular sports fully reverse this deficit.",
         "content": "",
-        "upvotes": 231,
-        "comments": 16,
+        "upvotes": 306,
+        "comments": 23,
         "media": null,
         "permalink": "/r/science/comments/1vrhq7p/inactive_tall_children_develop_disproportionately/"
+    },
+    {
+        "id": "1vr15dh",
+        "author": "HumbleRestaurant790",
+        "title": "Study Finds People Who Consumed Sugar-Sweetened Beverages on a Daily Basis Had Higher Risk of Stomach Cancer",
+        "content": "",
+        "upvotes": 2767,
+        "comments": 199,
+        "media": null,
+        "permalink": "/r/science/comments/1vr15dh/study_finds_people_who_consumed_sugarsweetened/"
     },
     {
         "id": "1vr77a8",
         "author": "Phylogenix",
         "title": "Older adults could face harmful heat stress at just 1.5\u00b0C of global warming above preindustrial levels, compared with around 4\u00b0C for younger adults, suggesting people aged 60 and over are substantially more vulnerable to extreme heat than previously estimated.",
         "content": "",
-        "upvotes": 1018,
+        "upvotes": 1036,
         "comments": 44,
         "media": {
             "type": "image",
@@ -66,12 +66,22 @@
         "permalink": "/r/science/comments/1vr77a8/older_adults_could_face_harmful_heat_stress_at/"
     },
     {
+        "id": "1vr9fr2",
+        "author": "smurfyjenkins",
+        "title": "Incarceration rates have substantially declined in the US across the 21st century. There are two factors behind the decline: (1) Falling crime rates for violent and property offences, and (2) Decreased punitiveness for drug crimes.",
+        "content": "",
+        "upvotes": 450,
+        "comments": 54,
+        "media": null,
+        "permalink": "/r/science/comments/1vr9fr2/incarceration_rates_have_substantially_declined/"
+    },
+    {
         "id": "1vqonmk",
         "author": "mvea",
         "title": "Doctors Found 4 Autoimmune Diseases in One Woman at One Time: 40-year-old woman in China was already diagnosed with 3 - ulcerative colitis, autoimmune hepatitis and primary sclerosing cholangitis. She presented with severe iron deficiency and was also found to have a 4th - autoimmune gastritis.",
         "content": "",
-        "upvotes": 5834,
-        "comments": 235,
+        "upvotes": 5848,
+        "comments": 236,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/8-vbsC_I-ZDCLfkcTtm1KbQf6_zhMm99KHnPCfT-fXQ.jpeg?auto=webp&amp;s=94d333bcbfa9fb580f1bf42a2eb9db6580159c4f"
@@ -79,21 +89,11 @@
         "permalink": "/r/science/comments/1vqonmk/doctors_found_4_autoimmune_diseases_in_one_woman/"
     },
     {
-        "id": "1vr9fr2",
-        "author": "smurfyjenkins",
-        "title": "Incarceration rates have substantially declined in the US across the 21st century. There are two factors behind the decline: (1) Falling crime rates for violent and property offences, and (2) Decreased punitiveness for drug crimes.",
-        "content": "",
-        "upvotes": 441,
-        "comments": 53,
-        "media": null,
-        "permalink": "/r/science/comments/1vr9fr2/incarceration_rates_have_substantially_declined/"
-    },
-    {
         "id": "1vqpqcw",
         "author": "FreeHugs23",
         "title": "Lower-class employees face greater professional backlash for negotiating their salaries. Study provides evidence that this negotiation gap acts as a double bind that can compound economic disadvantages over a person\u2019s career.",
         "content": "",
-        "upvotes": 4440,
+        "upvotes": 4466,
         "comments": 128,
         "media": {
             "type": "image",
@@ -106,7 +106,7 @@
         "author": "Wagamaga",
         "title": "Attention can regulate acute inflammation in humans. The findings raises the possibility that our subjective experience of what is happening in the body is not only a passive process, but may be actively contributing to how physiological responses are regulated",
         "content": "",
-        "upvotes": 2419,
+        "upvotes": 2432,
         "comments": 117,
         "media": {
             "type": "image",
@@ -119,7 +119,7 @@
         "author": "PHealthy",
         "title": "Same-day coadministration of COVID-19 and influenza vaccines was not associated with an increased risk for adverse events in 3 updated-formulation periods",
         "content": "",
-        "upvotes": 401,
+        "upvotes": 404,
         "comments": 15,
         "media": null,
         "permalink": "/r/science/comments/1vr3shv/sameday_coadministration_of_covid19_and_influenza/"
@@ -129,7 +129,7 @@
         "author": "Wagamaga",
         "title": "Digital amnesia. Taking screenshots makes you more likely to forget information. Many of us take more photos and screenshots than we can use \u2014 around 20 photos a day, with around 2,000 photos stored on the average smartphone, according to estimates.",
         "content": "",
-        "upvotes": 697,
+        "upvotes": 700,
         "comments": 83,
         "media": {
             "type": "image",
@@ -142,10 +142,20 @@
         "author": "Phylogenix",
         "title": "Mercury accumulation on the Antarctic Peninsula shelf has risen 160% since industrialization, while warming-driven ice melt has increased terrestrial mercury release by 550% and mercury export to the open ocean by 400%, turning historical pollution into a renewed source.",
         "content": "",
-        "upvotes": 161,
+        "upvotes": 171,
         "comments": 3,
         "media": null,
         "permalink": "/r/science/comments/1vra6w4/mercury_accumulation_on_the_antarctic_peninsula/"
+    },
+    {
+        "id": "1vrhqno",
+        "author": "mightx",
+        "title": "While 93% of adults would take a new Alzheimer\u2019s blood test, those closest to the disease might avoid it. Charles University's Second Faculty of Medicine researchers found that having a close family history of Alzheimer's actually reduces a person's willingness to get tested by 69%.",
+        "content": "",
+        "upvotes": 47,
+        "comments": 8,
+        "media": null,
+        "permalink": "/r/science/comments/1vrhqno/while_93_of_adults_would_take_a_new_alzheimers/"
     },
     {
         "id": "1vqvom8",
@@ -161,21 +171,11 @@
         "permalink": "/r/science/comments/1vqvom8/top_album_releases_linked_to_rise_in_fatal/"
     },
     {
-        "id": "1vrhqno",
-        "author": "mightx",
-        "title": "While 93% of adults would take a new Alzheimer\u2019s blood test, those closest to the disease might avoid it. Charles University's Second Faculty of Medicine researchers found that having a close family history of Alzheimer's actually reduces a person's willingness to get tested by 69%.",
-        "content": "",
-        "upvotes": 32,
-        "comments": 3,
-        "media": null,
-        "permalink": "/r/science/comments/1vrhqno/while_93_of_adults_would_take_a_new_alzheimers/"
-    },
-    {
         "id": "1vr31s5",
         "author": "memorialmonorail",
         "title": "New research suggests that no matter what we eventually determine the last common ancestor of humans and chimpanzees to be, we\u2019ll learn it was a primate that climbed trees. The study shows monkeys\u2019 feet make them as adept as chimps at climbing trees.",
         "content": "",
-        "upvotes": 188,
+        "upvotes": 192,
         "comments": 10,
         "media": {
             "type": "image",
@@ -188,7 +188,7 @@
         "author": "sr_local",
         "title": "Researchers found a \"genetic switch\" that triggers neurodegeneration in both a rare childhood dementia and Alzheimer's disease due to waste build-up in microglia. They may now be able to prevent neurodegeneration by targeting the waste-processing system inside the cell",
         "content": "",
-        "upvotes": 853,
+        "upvotes": 858,
         "comments": 3,
         "media": {
             "type": "image",
@@ -201,7 +201,7 @@
         "author": "MassGen-Research",
         "title": "Women Who Experienced Adverse Pregnancy Outcomes Had Higher Health-Related Social Needs, Such as Inadequate Food, Employment and Education Among Black and Latina Women",
         "content": "",
-        "upvotes": 403,
+        "upvotes": 404,
         "comments": 44,
         "media": null,
         "permalink": "/r/science/comments/1vqt9n4/women_who_experienced_adverse_pregnancy_outcomes/"
@@ -221,7 +221,7 @@
         "author": "universityofturku",
         "title": "New follow-up study shows that a Finnish digital intervention programme Master Your Worries continued to reduce children's anxiety and improve their functional ability even after two years.",
         "content": "",
-        "upvotes": 206,
+        "upvotes": 205,
         "comments": 3,
         "media": {
             "type": "image",
@@ -234,7 +234,7 @@
         "author": "universityofga",
         "title": "It\u2019s not just flowers that help the pollinators. Grass can too.",
         "content": "",
-        "upvotes": 92,
+        "upvotes": 94,
         "comments": 13,
         "media": {
             "type": "image",
@@ -247,8 +247,8 @@
         "author": "mvea",
         "title": "Women globally place higher importance on moral identity than men. The researchers analyzed data from 46,490 adults across 67 countries. Broad cross-cultural evidence indicates that women, on average, place greater emphasis on caring for others than men do.",
         "content": "",
-        "upvotes": 8065,
-        "comments": 694,
+        "upvotes": 8069,
+        "comments": 695,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/7ckIfGXY-6gl-W-yDKcb1ttjr-4LCYuOfjPS1ddaV5U.jpeg?auto=webp&amp;s=410441ea587175dca9e13e5a63ed08f386b24043"
@@ -260,7 +260,7 @@
         "author": "mightx",
         "title": "Over 25% of patients have body shapes that don't fit standard, universal templates for placing robotic surgical tools. Customizing these positions using pre-op CT scans makes pancreatic surgery much safer.",
         "content": "",
-        "upvotes": 276,
+        "upvotes": 273,
         "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1vqk10r/over_25_of_patients_have_body_shapes_that_dont/"
@@ -283,7 +283,7 @@
         "author": "MassGen-Research",
         "title": "Preclinical Study Suggests Restoring Inhibitory Neuron Plasticity May Reverse Neurodevelopmental Disorder Symptoms",
         "content": "",
-        "upvotes": 58,
+        "upvotes": 56,
         "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1vqtaj5/preclinical_study_suggests_restoring_inhibitory/"
@@ -303,7 +303,7 @@
         "author": "Hrmbee",
         "title": "Species missing from restored forests and wetlands | Biodiversity recovery is slow following clear-cut harvest of boreal forests",
         "content": "",
-        "upvotes": 1395,
+        "upvotes": 1399,
         "comments": 5,
         "media": {
             "type": "image",
@@ -316,7 +316,7 @@
         "author": "Jxntb733",
         "title": "New mouse study links bone\u2011marrow stem cell aging to \u201cinflammaging\u201d: SIRT3 overexpression in hematopoietic stem cells curbed maladaptive trained immunity and improved distant tissue function (muscle, lung, brain, metabolism)",
         "content": "",
-        "upvotes": 322,
+        "upvotes": 318,
         "comments": 7,
         "media": {
             "type": "image",
@@ -329,7 +329,7 @@
         "author": "mightx",
         "title": "Reawakening exhausted natural killer cells to help T cells shrinks resistant ovarian tumors. Charles University's Second Faculty of Medicine researchers triggered this cancer-killing response by pairing an NKG2A blocker with standard immunotherapy.",
         "content": "",
-        "upvotes": 44,
+        "upvotes": 41,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1vqka7p/reawakening_exhausted_natural_killer_cells_to/"
@@ -339,7 +339,7 @@
         "author": "mvea",
         "title": "Gap between Democratic and Republican sponsorship of civil rights bills widened in rapid bursts during 1994 and 2014. Democrats were more likely than Republicans to sponsor bills supporting nearly every group. Sharpest divergence was in legislation supporting racial minorities, LGBTQ+, and women.",
         "content": "",
-        "upvotes": 2651,
+        "upvotes": 2652,
         "comments": 130,
         "media": {
             "type": "image",
