@@ -14,8 +14,8 @@
         "author": "Schwettes",
         "title": "Study finds GLP1 semaglutide reduced systemic inflammation within weeks, before substantial weight loss, and lowered MACE (major adverse cardiovascular events) risk even without weight loss",
         "content": "",
-        "upvotes": 6553,
-        "comments": 647,
+        "upvotes": 6647,
+        "comments": 655,
         "media": null,
         "permalink": "/r/science/comments/1vs2eha/study_finds_glp1_semaglutide_reduced_systemic/"
     },
@@ -24,8 +24,8 @@
         "author": "HumbleRestaurant790",
         "title": "Childhood trauma may change the way the brain develops, leading to greater apathy and less enjoyment later in life, according to research.",
         "content": "",
-        "upvotes": 3310,
-        "comments": 183,
+        "upvotes": 3378,
+        "comments": 189,
         "media": null,
         "permalink": "/r/science/comments/1vrzw15/childhood_trauma_may_change_the_way_the_brain/"
     },
@@ -34,8 +34,8 @@
         "author": "Potential_Being_7226",
         "title": "Babies born under sugar rationing grew into adults with lower cancer risk",
         "content": "",
-        "upvotes": 11156,
-        "comments": 196,
+        "upvotes": 11209,
+        "comments": 197,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/2LOB_U2ewSanVuc1Fc-ooUKz5enryO57ngM_abUjxDQ.jpeg?auto=webp&amp;s=f7fa649a1a510e298e3b2ce7b435327df255aa9d"
@@ -47,8 +47,8 @@
         "author": "Effective-Air396",
         "title": "Study: 4 In 10 Fifth-Graders Say They Need Mental Health Care",
         "content": "",
-        "upvotes": 517,
-        "comments": 109,
+        "upvotes": 531,
+        "comments": 110,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/SHR-L-nZ-OdiVdI1PoGLL8hn6nzbh96D-_cob41c_sI.jpeg?auto=webp&amp;s=41e1814fabb10cacf1539f7fbfeee98532e57546"
@@ -60,8 +60,8 @@
         "author": "sr_local",
         "title": "A 38 year study of ~1 million adults (30 to 95 y) found that lower red and processed meat intake was associated with a 1\u20135% lower risk of death from all causes, heart disease and cancer, while eating only white meat was linked to a 5\u20137% lower risk of all-cause mortality",
         "content": "",
-        "upvotes": 2707,
-        "comments": 533,
+        "upvotes": 2734,
+        "comments": 535,
         "media": null,
         "permalink": "/r/science/comments/1vrup2i/a_38_year_study_of_1_million_adults_30_to_95_y/"
     },
@@ -70,8 +70,8 @@
         "author": "jivatman",
         "title": "Cannabis linked to earlier onset of psychosis, with gap wider in older adults",
         "content": "",
-        "upvotes": 1690,
-        "comments": 582,
+        "upvotes": 1710,
+        "comments": 587,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/PajDJX5oufklOVdPejjYcs8j7hywn5Y5d3tKHB5TOi4.jpeg?auto=webp&amp;s=8945052995e7e0d94394636dc8a378db27111627"
@@ -83,8 +83,8 @@
         "author": "andmario_com",
         "title": "The strongest conspiracy believers had a 91% probability of simultaneously endorsing two claims that cannot both be true, vs 3% for the weakest (8 studies, n=8,590). A follow-up using entirely made-up news stories found the same pattern, ruling out prior exposure to real conspiracy theories.",
         "content": "",
-        "upvotes": 2343,
-        "comments": 271,
+        "upvotes": 2391,
+        "comments": 272,
         "media": null,
         "permalink": "/r/science/comments/1vrryru/the_strongest_conspiracy_believers_had_a_91/"
     },
@@ -93,7 +93,7 @@
         "author": "mvea",
         "title": "AI acts as an \u2018ideological chameleon\u2019 and may deepen political polarization, study finds. Researchers evaluated 21 language models, such as GPT and Gemini, and found that they all alter their discourse to align with the user\u2019s bias, potentially functioning as echo chambers.",
         "content": "",
-        "upvotes": 563,
+        "upvotes": 573,
         "comments": 54,
         "media": {
             "type": "image",
@@ -102,24 +102,11 @@
         "permalink": "/r/science/comments/1vs37vm/ai_acts_as_an_ideological_chameleon_and_may/"
     },
     {
-        "id": "1vrnxdy",
-        "author": "FreeHugs23",
-        "title": "Acupuncture Seems to Rewire The Brain in Depression, Scans Reveal. When comparing the brain scans of people who had been given acupuncture treatments against those on antidepressants: acupuncture seemed to be rewiring specific brain regions.",
-        "content": "",
-        "upvotes": 2428,
-        "comments": 174,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/0AGX7on8VyNwCrtbq-HKfPwoICtNcak1YPw_oS_Lt54.jpeg?auto=webp&amp;s=835489e15f773314c42f156c06a705452ddc9930"
-        },
-        "permalink": "/r/science/comments/1vrnxdy/acupuncture_seems_to_rewire_the_brain_in/"
-    },
-    {
         "id": "1vs7ko3",
         "author": "rollem",
         "title": "Humans Love Having Pets. Seems Like Some Other Primates Do, Too.",
         "content": "",
-        "upvotes": 240,
+        "upvotes": 251,
         "comments": 15,
         "media": {
             "type": "image",
@@ -128,12 +115,25 @@
         "permalink": "/r/science/comments/1vs7ko3/humans_love_having_pets_seems_like_some_other/"
     },
     {
+        "id": "1vrnxdy",
+        "author": "FreeHugs23",
+        "title": "Acupuncture Seems to Rewire The Brain in Depression, Scans Reveal. When comparing the brain scans of people who had been given acupuncture treatments against those on antidepressants: acupuncture seemed to be rewiring specific brain regions.",
+        "content": "",
+        "upvotes": 2452,
+        "comments": 175,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/0AGX7on8VyNwCrtbq-HKfPwoICtNcak1YPw_oS_Lt54.jpeg?auto=webp&amp;s=835489e15f773314c42f156c06a705452ddc9930"
+        },
+        "permalink": "/r/science/comments/1vrnxdy/acupuncture_seems_to_rewire_the_brain_in/"
+    },
+    {
         "id": "1vrxmpr",
         "author": "Wagamaga",
         "title": "\u2018Snow-eater\u2019 heat waves are melting western U.S snowpack twice as fast. Since 1850, the study found the area covered by these heat waves has grown by roughly 102,000 square kilometers per century, and they're now arriving about a month earlier in the year than they did in the mid-1800s.",
         "content": "",
-        "upvotes": 777,
-        "comments": 13,
+        "upvotes": 789,
+        "comments": 14,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/xqGdZEYsYusDixYxgIgRGr5_2q8vh_gW6voKx1953kg.jpeg?auto=webp&amp;s=965cbd9d08782fa1d3df14ff27243db70b8df6c4"
@@ -145,7 +145,7 @@
         "author": "Phylogenix",
         "title": "Climate simulations suggest a weaker Atlantic Meridional Overturning Circulation causes the global ocean to retain more heat, with past weakening events producing additional warming equivalent to about 25 ppm of atmospheric CO\u2082, or roughly 10 years of current human emissions.",
         "content": "",
-        "upvotes": 202,
+        "upvotes": 207,
         "comments": 12,
         "media": null,
         "permalink": "/r/science/comments/1vs670r/climate_simulations_suggest_a_weaker_atlantic/"
@@ -165,7 +165,7 @@
         "author": "mvea",
         "title": "A naturally occurring molecule released during exercise may hold the key to strengthening muscles without physical activity. In experiments, mice given BAIBA developed larger muscles, improved muscle function, greater fatigue resistance and better exercise performance than untreated mice.",
         "content": "",
-        "upvotes": 1570,
+        "upvotes": 1593,
         "comments": 236,
         "media": {
             "type": "image",
@@ -178,7 +178,7 @@
         "author": "mightx",
         "title": "Inactive tall children develop disproportionately weak muscles and thinner bones. Regular sports fully reverse this deficit.",
         "content": "",
-        "upvotes": 1776,
+        "upvotes": 1788,
         "comments": 69,
         "media": null,
         "permalink": "/r/science/comments/1vrhq7p/inactive_tall_children_develop_disproportionately/"
@@ -188,7 +188,7 @@
         "author": "kfr3q",
         "title": "Conceptual shift in TBI classification from the Glasgow Coma Scale to a new framework that integrates clinical and imaging features, biomarkers, and modifiers to improve disease characterization and describe disease trajectories",
         "content": "",
-        "upvotes": 36,
+        "upvotes": 40,
         "comments": 4,
         "media": null,
         "permalink": "/r/science/comments/1vsaxkj/conceptual_shift_in_tbi_classification_from_the/"
@@ -198,7 +198,7 @@
         "author": "UniOfManchester",
         "title": "A common statistical shortcut may be causing researchers to miss important discoveries, a new study finds.",
         "content": "",
-        "upvotes": 677,
+        "upvotes": 684,
         "comments": 94,
         "media": {
             "type": "image",
@@ -211,7 +211,7 @@
         "author": "HumbleRestaurant790",
         "title": "Of more than 500 occupations in the United States, flight attendants and pilots have the highest and second-highest proportion of radiation-related cancer deaths, a new study has found.",
         "content": "",
-        "upvotes": 16353,
+        "upvotes": 16351,
         "comments": 797,
         "media": null,
         "permalink": "/r/science/comments/1vr1q5d/of_more_than_500_occupations_in_the_united_states/"
@@ -221,7 +221,7 @@
         "author": "mvea",
         "title": "Historically, there was very strong guidance that you must always finish an antibiotic course. Now, we're seeing a growing body of evidence saying that that is not always the case. And oftentimes, shorter durations of antibiotics are as effective and safe as longer alternatives.",
         "content": "",
-        "upvotes": 4159,
+        "upvotes": 4160,
         "comments": 164,
         "media": {
             "type": "image",
@@ -234,7 +234,7 @@
         "author": "HumbleRestaurant790",
         "title": "County-Level Medical Debt Linked to Advanced-Stage Cancers and Worse Survival Among Newly Diagnosed U.S. Adults",
         "content": "",
-        "upvotes": 110,
+        "upvotes": 108,
         "comments": 2,
         "media": null,
         "permalink": "/r/science/comments/1vryqs0/countylevel_medical_debt_linked_to_advancedstage/"
@@ -257,7 +257,7 @@
         "author": "kiyomoris",
         "title": "Maternal Gut Microbiome Could Shape Infant Health",
         "content": "",
-        "upvotes": 71,
+        "upvotes": 68,
         "comments": 4,
         "media": {
             "type": "image",
@@ -266,22 +266,12 @@
         "permalink": "/r/science/comments/1vrzajp/maternal_gut_microbiome_could_shape_infant_health/"
     },
     {
-        "id": "1vrhqno",
-        "author": "mightx",
-        "title": "While 93% of adults would take a new Alzheimer\u2019s blood test, those closest to the disease might avoid it. Charles University's Second Faculty of Medicine researchers found that having a close family history of Alzheimer's actually reduces a person's willingness to get tested by 69%.",
-        "content": "",
-        "upvotes": 644,
-        "comments": 91,
-        "media": null,
-        "permalink": "/r/science/comments/1vrhqno/while_93_of_adults_would_take_a_new_alzheimers/"
-    },
-    {
         "id": "1vrnn49",
         "author": "FreeHugs23",
         "title": "Trichotillomania: Boredom and tiredness outpace negative emotions as predictors of hair pulling. Study finds that while negative feelings accompany the urge to pull hair, they do not reliably predict future pulling episodes.",
         "content": "",
         "upvotes": 238,
-        "comments": 18,
+        "comments": 19,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/2XagdIjOygRAETeU-dW1MO6S34mOzre5tffxAGv0SX0.jpeg?auto=webp&amp;s=e39ec706985d896c9e4b26279fdc927df5cdb942"
@@ -289,11 +279,21 @@
         "permalink": "/r/science/comments/1vrnn49/trichotillomania_boredom_and_tiredness_outpace/"
     },
     {
+        "id": "1vrhqno",
+        "author": "mightx",
+        "title": "While 93% of adults would take a new Alzheimer\u2019s blood test, those closest to the disease might avoid it. Charles University's Second Faculty of Medicine researchers found that having a close family history of Alzheimer's actually reduces a person's willingness to get tested by 69%.",
+        "content": "",
+        "upvotes": 647,
+        "comments": 91,
+        "media": null,
+        "permalink": "/r/science/comments/1vrhqno/while_93_of_adults_would_take_a_new_alzheimers/"
+    },
+    {
         "id": "1vs2uk6",
         "author": "CUAnschutzMed",
         "title": "Researchers have developed a miniature microscope that allows scientists to observe and activate individual brain cells during natural movement, an advance that could accelerate research into how the brain controls behavior while deepening understanding of neurological diseases.",
         "content": "",
-        "upvotes": 41,
+        "upvotes": 40,
         "comments": 1,
         "media": {
             "type": "image",
@@ -302,11 +302,21 @@
         "permalink": "/r/science/comments/1vs2uk6/researchers_have_developed_a_miniature_microscope/"
     },
     {
+        "id": "1vsfurl",
+        "author": "calliope_kekule",
+        "title": "In a trial of 229 people with resectable lung cancer, adding nivolumab before and after surgery significantly extended time without the cancer returning.",
+        "content": "",
+        "upvotes": 4,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1vsfurl/in_a_trial_of_229_people_with_resectable_lung/"
+    },
+    {
         "id": "1vr15dh",
         "author": "HumbleRestaurant790",
         "title": "Study Finds People Who Consumed Sugar-Sweetened Beverages on a Daily Basis Had Higher Risk of Stomach Cancer",
         "content": "",
-        "upvotes": 3683,
+        "upvotes": 3688,
         "comments": 256,
         "media": null,
         "permalink": "/r/science/comments/1vr15dh/study_finds_people_who_consumed_sugarsweetened/"
@@ -316,7 +326,7 @@
         "author": "IEEESpectrum",
         "title": "Canadian roboticists create a drone that can land on icebergs sloped nearly 60 degrees, with wind speeds of up to 30 km/h. Landing on icebergs specifically allows drones to monitor them for days or months, producing more detailed observation than a quick aerial surveillance mission.",
         "content": "",
-        "upvotes": 96,
+        "upvotes": 94,
         "comments": 5,
         "media": {
             "type": "image",
@@ -329,25 +339,12 @@
         "author": "UniOfManchester",
         "title": "Researchers have shown that unusual thorium clusters respond to magnetic fields in a fundamentally different way than expected, helping to explain a long-running disagreement between experiments and computer models.",
         "content": "",
-        "upvotes": 84,
+        "upvotes": 87,
         "comments": 2,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/ub0wwcJpwaTpx2_QFayE6LT3teGxjFNOjNcEY-sveSI.jpeg?auto=webp&amp;s=f3266c51dcaa795b37b9f00b536bf4349cb75070"
         },
         "permalink": "/r/science/comments/1vrpx58/researchers_have_shown_that_unusual_thorium/"
-    },
-    {
-        "id": "1vr77a8",
-        "author": "Phylogenix",
-        "title": "Older adults could face harmful heat stress at just 1.5\u00b0C of global warming above preindustrial levels, compared with around 4\u00b0C for younger adults, suggesting people aged 60 and over are substantially more vulnerable to extreme heat than previously estimated.",
-        "content": "",
-        "upvotes": 1462,
-        "comments": 59,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/f9BAvOgKAIEX6inqXXgNaBKJurgknEel7PnC0eYBOQ0.jpeg?auto=webp&amp;s=8569625728a25a9af24ca1cb8438a8f16af01191"
-        },
-        "permalink": "/r/science/comments/1vr77a8/older_adults_could_face_harmful_heat_stress_at/"
     }
 ]
