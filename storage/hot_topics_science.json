@@ -4,8 +4,8 @@
         "author": "mvea",
         "title": "America's First Legal Psilocybin Program Treated 346 People. Just one month after the dose, 92.2 percent of participants said the experience had been beneficial, while, on average, their mental health symptoms had fallen dramatically.",
         "content": "",
-        "upvotes": 8335,
-        "comments": 296,
+        "upvotes": 8767,
+        "comments": 307,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/d04SiPEid3voy8pxVOQ-9borvNHDFZ2AtFmUHAK5q1Y.jpeg?auto=webp&amp;s=3db5f361e2c2e06e8f814bd3afa5502caf50612e"
@@ -17,8 +17,8 @@
         "author": "FreeHugs23",
         "title": "Brain scans reveal that schizophrenia and bipolar disorder share strikingly similar patterns of brain changes, adding to growing evidence that the two conditions may have more in common biologically than previously thought.",
         "content": "",
-        "upvotes": 2191,
-        "comments": 59,
+        "upvotes": 2301,
+        "comments": 62,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/EEu-kXjrrkCdd7h9VerLc1sahZpYlzbvQyw2u103jZA.jpeg?auto=webp&amp;s=7b89e236c0a06b696b62c3ab5fc8f7560c183920"
@@ -26,31 +26,31 @@
         "permalink": "/r/science/comments/1vucyng/brain_scans_reveal_that_schizophrenia_and_bipolar/"
     },
     {
-        "id": "1vui4wi",
-        "author": "pubpophealth",
-        "title": "Among Mexican-origin adults aged 74 and older, 5-year survival was higher in Mexico than in the United States at every level of illness, including 40.9% versus 36.6% among those with both diabetes and dementia and 77.5% versus 73.3% among those with neither",
-        "content": "",
-        "upvotes": 714,
-        "comments": 52,
-        "media": null,
-        "permalink": "/r/science/comments/1vui4wi/among_mexicanorigin_adults_aged_74_and_older/"
-    },
-    {
         "id": "1vukfby",
         "author": "GiveUpAndDontTry",
         "title": "A Swedish study found autism diagnoses rose by around 800% from 2001 to 2020, while the proportion with intellectual disability fell from 55.8% to 6.7%, suggesting a substantial broadening of the diagnosed autistic phenotype",
         "content": "",
-        "upvotes": 393,
-        "comments": 48,
+        "upvotes": 848,
+        "comments": 101,
         "media": null,
         "permalink": "/r/science/comments/1vukfby/a_swedish_study_found_autism_diagnoses_rose_by/"
+    },
+    {
+        "id": "1vui4wi",
+        "author": "pubpophealth",
+        "title": "Among Mexican-origin adults aged 74 and older, 5-year survival was higher in Mexico than in the United States at every level of illness, including 40.9% versus 36.6% among those with both diabetes and dementia and 77.5% versus 73.3% among those with neither",
+        "content": "",
+        "upvotes": 814,
+        "comments": 63,
+        "media": null,
+        "permalink": "/r/science/comments/1vui4wi/among_mexicanorigin_adults_aged_74_and_older/"
     },
     {
         "id": "1vuay0e",
         "author": "kiyomoris",
         "title": "Vitamin D Dupplement Intake is Associated with Better Cognition in Persons with Sleep Disturbance and Mild Cognitive Impairment",
         "content": "",
-        "upvotes": 762,
+        "upvotes": 797,
         "comments": 30,
         "media": {
             "type": "image",
@@ -59,25 +59,12 @@
         "permalink": "/r/science/comments/1vuay0e/vitamin_d_dupplement_intake_is_associated_with/"
     },
     {
-        "id": "1vtwd0n",
-        "author": "mvea",
-        "title": "Gen Z Americans are more willing to use blockades and violence to stop public speakers. Young liberals tended to be more supportive of these methods compared to conservatives, but this ideological gap disappeared when the questions referred to suppressing specific, highly offensive ideas.",
-        "content": "",
-        "upvotes": 5117,
-        "comments": 740,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/wec4BUygAaWtZAQ-lnJAnDGa9AmBQeYSWZwMyMSHmG4.jpeg?auto=webp&amp;s=1171dbee61493f83655035521ab318f7803057ac"
-        },
-        "permalink": "/r/science/comments/1vtwd0n/gen_z_americans_are_more_willing_to_use_blockades/"
-    },
-    {
         "id": "1vudbku",
         "author": "FreeHugs23",
         "title": "A father\u2019s absence is linked to early puberty, but only if it happens during a crucial developmental window. Findings offer new insights into how early family environments might shape biological development over time.",
         "content": "",
-        "upvotes": 369,
-        "comments": 9,
+        "upvotes": 378,
+        "comments": 10,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/juCnpspVhMcBMJ8n1dTe_vHYFZErAp27fmbJ1wdsS48.jpeg?auto=webp&amp;s=35a82bea9e8bb8a2c7ff7099cfffdaae13316648"
@@ -85,11 +72,24 @@
         "permalink": "/r/science/comments/1vudbku/a_fathers_absence_is_linked_to_early_puberty_but/"
     },
     {
+        "id": "1vtwd0n",
+        "author": "mvea",
+        "title": "Gen Z Americans are more willing to use blockades and violence to stop public speakers. Young liberals tended to be more supportive of these methods compared to conservatives, but this ideological gap disappeared when the questions referred to suppressing specific, highly offensive ideas.",
+        "content": "",
+        "upvotes": 5157,
+        "comments": 745,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/wec4BUygAaWtZAQ-lnJAnDGa9AmBQeYSWZwMyMSHmG4.jpeg?auto=webp&amp;s=1171dbee61493f83655035521ab318f7803057ac"
+        },
+        "permalink": "/r/science/comments/1vtwd0n/gen_z_americans_are_more_willing_to_use_blockades/"
+    },
+    {
         "id": "1vugjwk",
         "author": "Phylogenix",
         "title": "A study of 376,511 people followed for up to 14 years found that participation in colorectal cancer screening was associated with a 43% lower risk of dying from the disease, while being invited to screening was associated with a 26% lower risk.",
         "content": "",
-        "upvotes": 119,
+        "upvotes": 126,
         "comments": 4,
         "media": null,
         "permalink": "/r/science/comments/1vugjwk/a_study_of_376511_people_followed_for_up_to_14/"
@@ -99,7 +99,7 @@
         "author": "sr_local",
         "title": "Subtle white light changes make indoor rooms feel cooler or warmer: blue-enriched white light made people feel cool enough to tolerate indoor temperatures 1.3\u00b0F (0.72\u00b0C) warmer, while red-enriched white light made them feel warmer without any visible difference in light color",
         "content": "",
-        "upvotes": 116,
+        "upvotes": 124,
         "comments": 7,
         "media": {
             "type": "image",
@@ -112,8 +112,8 @@
         "author": "kiyomoris",
         "title": "Longer Daily Fasting Duration Is Associated With Faster Multimorbidity Accumulation in Older Adults",
         "content": "",
-        "upvotes": 976,
-        "comments": 68,
+        "upvotes": 980,
+        "comments": 69,
         "media": null,
         "permalink": "/r/science/comments/1vtxo1k/longer_daily_fasting_duration_is_associated_with/"
     },
@@ -122,7 +122,7 @@
         "author": "SteRoPo",
         "title": "Researchers probing the Early Childhood Longitudinal Study found that young kids who drank 100% juices multiple times per day had a 25 percent higher risk of asthma compared to kids who consumed those beverages less than twice per week.",
         "content": "",
-        "upvotes": 2290,
+        "upvotes": 2298,
         "comments": 123,
         "media": null,
         "permalink": "/r/science/comments/1vtq3kj/researchers_probing_the_early_childhood/"
@@ -132,8 +132,8 @@
         "author": "YaleE360",
         "title": "Rising CO2 Speeds the Growth of Grasses on the African Savanna",
         "content": "",
-        "upvotes": 60,
-        "comments": 9,
+        "upvotes": 63,
+        "comments": 10,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/XdpPb3suzJmzKMsWdWCeGs6YJNNtAtLcFqJXE-b8Bl4.jpeg?auto=webp&amp;s=ef875f8afd1ab4ad3bf40ca6022b603eb3a54919"
@@ -145,7 +145,7 @@
         "author": "Wagamaga",
         "title": "Children who lose a parent twice as likely to develop mental health disorders. The study reinforces longstanding evidence that parental bereavement is one of the most distressing experiences in childhood and is linked to a higher risk of mental health challenges",
         "content": "",
-        "upvotes": 8424,
+        "upvotes": 8434,
         "comments": 316,
         "media": {
             "type": "image",
@@ -158,7 +158,7 @@
         "author": "Wagamaga",
         "title": "Right-leaning Canadians\u2019 trust in the bodies that manage Canadian elections has declined significantly since 2019. While Canadians across the political spectrum generally reject misinformation, right-leaning Canadians are more likely to question the existence of impartial truth",
         "content": "",
-        "upvotes": 1046,
+        "upvotes": 1045,
         "comments": 246,
         "media": {
             "type": "image",
@@ -171,7 +171,7 @@
         "author": "lonnib",
         "title": "New analysis of 2,674 papers from the French institute that promoted hydroxychloroquine for COVID-19 finds ethical or legal concerns in 853 articles",
         "content": "",
-        "upvotes": 1686,
+        "upvotes": 1688,
         "comments": 34,
         "media": {
             "type": "image",
@@ -184,7 +184,7 @@
         "author": "UrolithinA",
         "title": "New study on heart failure finds Urolithin A, a compound some people's gut bacteria produce from pomegranates, improved heart relaxation and reduced fibrosis in mice with the stiff-heart form of heart failure. It also improved relaxation in engineered human heart tissue - Science Advances",
         "content": "",
-        "upvotes": 29,
+        "upvotes": 33,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1vu9ti2/new_study_on_heart_failure_finds_urolithin_a_a/"
@@ -194,7 +194,7 @@
         "author": "mvea",
         "title": "Generic semaglutide could reshape diabetes drug coverage in Canada. Lower-cost medication dramatically improves cost-effectiveness of treatment that prevents heart and kidney disease. Canada is one of the first countries to have access to generic semaglutide, years before the US and much of Europe.",
         "content": "",
-        "upvotes": 1203,
+        "upvotes": 1205,
         "comments": 82,
         "media": {
             "type": "image",
@@ -207,7 +207,7 @@
         "author": "NinjaDiscoJesus",
         "title": "Sea ice has been disappearing from East Greenland, allowing giant whales to take advantage and move into previously inaccessible areas - decades-long study that has recorded hundreds of the world's biggest whales feeding in ice-free seas along the coast in summer.",
         "content": "",
-        "upvotes": 1569,
+        "upvotes": 1576,
         "comments": 24,
         "media": {
             "type": "image",
@@ -220,7 +220,7 @@
         "author": "sr_local",
         "title": "Study of 3414 children aged 6-9 years, has found that air quality improvements following the introduction of London\u2019s Ultra Low Emission Zone (ULEZ) are strongly associated with improved lung growth",
         "content": "",
-        "upvotes": 1018,
+        "upvotes": 1011,
         "comments": 9,
         "media": null,
         "permalink": "/r/science/comments/1vtg9e9/study_of_3414_children_aged_69_years_has_found/"
@@ -230,7 +230,7 @@
         "author": "FillsYourNiche",
         "title": "Astronomers using the NASA/ESA Hubble Space Telescope have found definitive evidence that the young Milky Way swallowed a dwarf galaxy just two billion years after the Big Bang, revealing one of the earliest major mergers in the history of our Galaxy.",
         "content": "",
-        "upvotes": 103,
+        "upvotes": 105,
         "comments": 3,
         "media": {
             "type": "image",
@@ -243,7 +243,7 @@
         "author": "Raouldulf",
         "title": "Low-smoke fuels for residential heating linked to an increase in ultrafine particle emissions",
         "content": "",
-        "upvotes": 13,
+        "upvotes": 15,
         "comments": 4,
         "media": null,
         "permalink": "/r/science/comments/1vuc5x7/lowsmoke_fuels_for_residential_heating_linked_to/"
@@ -253,7 +253,7 @@
         "author": "sfgate",
         "title": "Scientists are testing living desert biocrusts as a tool to restore drylands threatened by warming, grazing and invasive species",
         "content": "",
-        "upvotes": 365,
+        "upvotes": 371,
         "comments": 2,
         "media": {
             "type": "image",
@@ -266,7 +266,7 @@
         "author": "Raouldulf",
         "title": "Long-term observations across Ireland show rising urban ozone, while the highest ozone concentrations and exceedances occur at remote coastal sites",
         "content": "",
-        "upvotes": 11,
+        "upvotes": 10,
         "comments": 3,
         "media": {
             "type": "image",
@@ -279,7 +279,7 @@
         "author": "3x3nt3rat3",
         "title": "A study examined psychiatric relapse after stopping antipsychotic medication during pregnancy",
         "content": "",
-        "upvotes": 27,
+        "upvotes": 26,
         "comments": 4,
         "media": null,
         "permalink": "/r/science/comments/1vu4f1z/a_study_examined_psychiatric_relapse_after/"
@@ -289,7 +289,7 @@
         "author": "kfr3q",
         "title": "Invisible potentials: A neuroscientific framework for giftedness",
         "content": "",
-        "upvotes": 46,
+        "upvotes": 41,
         "comments": 17,
         "media": null,
         "permalink": "/r/science/comments/1vtzi2a/invisible_potentials_a_neuroscientific_framework/"
@@ -299,7 +299,7 @@
         "author": "mvea",
         "title": "Living near dry cleaners linked to higher Parkinson\u2019s odds in older adults. Study found a dose-response pattern, with the highest odds within 500 feet.",
         "content": "",
-        "upvotes": 4659,
+        "upvotes": 4664,
         "comments": 143,
         "media": {
             "type": "image",
@@ -312,8 +312,8 @@
         "author": "chilladipa",
         "title": "Survodutide Once Weekly for the Treatment of Adults with Obesity | New England Journal of Medicine",
         "content": "",
-        "upvotes": 134,
-        "comments": 23,
+        "upvotes": 129,
+        "comments": 24,
         "media": null,
         "permalink": "/r/science/comments/1vtmu4o/survodutide_once_weekly_for_the_treatment_of/"
     },
@@ -322,7 +322,7 @@
         "author": "FreeHugs23",
         "title": "People who live past 100 may owe part of their longevity to having an abundance of cancer-killing immune cells, researchers say. These rare T cells appear far more abundant in centenarians and supercentenarians than in younger adults.",
         "content": "",
-        "upvotes": 9261,
+        "upvotes": 9271,
         "comments": 90,
         "media": {
             "type": "image",
@@ -335,7 +335,7 @@
         "author": "Wagamaga",
         "title": "New research argues that interacting with robots displaying human-like behaviours can cause people to adopt robot-like traits or \u2018robotoid humanness.\u2019 As robots become smarter and appear more human, little attention has been given to how this might impact the consumers interacting with them.",
         "content": "",
-        "upvotes": 279,
+        "upvotes": 285,
         "comments": 34,
         "media": null,
         "permalink": "/r/science/comments/1vtfxnk/new_research_argues_that_interacting_with_robots/"
@@ -345,8 +345,8 @@
         "author": "mvea",
         "title": "Sensory Overload Tied to Autism and Anxiety\u2014Not ADHD. Sensory over-responsivity was associated with autism traits, anxiety, and altered brain connectivity.",
         "content": "",
-        "upvotes": 2857,
-        "comments": 174,
+        "upvotes": 2861,
+        "comments": 175,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/z2MZQPyZJXNfZw0o6Yqn2JqJnQOezaJff-rOmS-17T4.jpeg?auto=webp&amp;s=8592aa65a51da36561b4ab999ef4dd61e9fbfe96"
