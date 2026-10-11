@@ -18,7 +18,7 @@
         "title": "Community Norms, Participation, and Technology in r/science on Reddit",
         "content": "",
         "upvotes": 25,
-        "comments": 5,
+        "comments": 6,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/ku2GsujjSa1PTa73Yq5RHj7DfMy7EsFFabyeYkZo314.jpeg?auto=webp&amp;s=660e3d77d97e6f2ece326b92cb15d0e40ab84beb"
@@ -30,8 +30,8 @@
         "author": "sr_local",
         "title": "Children who received more warmth and encouragement at age 3 showed stronger reward-related brain responses from ages 9 to 18, while harsh or intrusive parenting was linked to weaker responses and potentially higher depression risk",
         "content": "",
-        "upvotes": 2974,
-        "comments": 61,
+        "upvotes": 10181,
+        "comments": 208,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/XPuINofgOJp2Ra1z0R3Uo3wO1JdDdFxvDHYID61RdqM.jpeg?auto=webp&amp;s=b03ceb957ceef1e68023826da102e2040235b3fa"
@@ -39,12 +39,32 @@
         "permalink": "/r/science/comments/1x2jvbx/children_who_received_more_warmth_and/"
     },
     {
+        "id": "1x2rhhr",
+        "author": "mvea",
+        "title": "Cannabis may not actually help you sleep better: a 35-year study of 1,266 U.S. adults found long-term and recent users slept worse when tracked by wrist monitors (more waking up, more broken sleep), yet they didn't notice it themselves and rated their sleep just as good as nonusers did.",
+        "content": "",
+        "upvotes": 1286,
+        "comments": 352,
+        "media": null,
+        "permalink": "/r/science/comments/1x2rhhr/cannabis_may_not_actually_help_you_sleep_better_a/"
+    },
+    {
+        "id": "1x2qym7",
+        "author": "holyfruits",
+        "title": "Researchers from UC Berkeley recently found that spending just 10 minutes relying on an AI tool significantly impairs the user's ability to focus and persist with difficult tasks.",
+        "content": "",
+        "upvotes": 1149,
+        "comments": 99,
+        "media": null,
+        "permalink": "/r/science/comments/1x2qym7/researchers_from_uc_berkeley_recently_found_that/"
+    },
+    {
         "id": "1x2b7ob",
         "author": "mvea",
         "title": "A natural protein that's up to 2,000 times sweeter than sugar from a West African fruit cut blood sugar spikes from ice cream by about half in a trial of 101 adults with fatty liver disease, with even bigger drops in people with type 2 diabetes and no serious side effects were reported in the study.",
         "content": "",
-        "upvotes": 5877,
-        "comments": 344,
+        "upvotes": 7815,
+        "comments": 414,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/FJOyJK6JnZ77cLzE9xL-Z9ebILyJhZbxk9O8WQpPxGA.jpeg?auto=webp&amp;s=5213eeb015ff7b1f96cbbba0af9ec491653a44c4"
@@ -52,25 +72,12 @@
         "permalink": "/r/science/comments/1x2b7ob/a_natural_protein_thats_up_to_2000_times_sweeter/"
     },
     {
-        "id": "1x2c2bg",
-        "author": "Miserable_Phase_2519",
-        "title": "A new study reveals that autism in boys and girls is genetically highly similar, whereas early- and late-diagnosed autism show distinctly different genetic profiles and associations with other behavioral and cognitive traits.",
-        "content": "",
-        "upvotes": 1369,
-        "comments": 113,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/OOb78kgxTGRg6uSUCfyhlslWkn304fe-zGy1XgNwaLs.jpeg?auto=webp&amp;s=58340c05d873f8651fee4f6452e513d2a7877e84"
-        },
-        "permalink": "/r/science/comments/1x2c2bg/a_new_study_reveals_that_autism_in_boys_and_girls/"
-    },
-    {
         "id": "1x2ms3s",
         "author": "Miserable_Phase_2519",
         "title": "A large Scottish study found that screen time is not consistently tied to children's emotional or behavioral problems once family background and environment are taken into account, suggesting that guidelines strictly focused on time limits may have a limited impact.",
         "content": "",
-        "upvotes": 205,
-        "comments": 13,
+        "upvotes": 1156,
+        "comments": 60,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/NlZPnIOYHT74FOV_3ddrUMMISQCNboJE8AqFteWTyxU.jpeg?auto=webp&amp;s=e45ce07fb5c785a5f218e1393082de782aa722ec"
@@ -78,12 +85,61 @@
         "permalink": "/r/science/comments/1x2ms3s/a_large_scottish_study_found_that_screen_time_is/"
     },
     {
+        "id": "1x2pxsk",
+        "author": "nexthesis",
+        "title": "Gene therapy can partly restore sight in blind people",
+        "content": "",
+        "upvotes": 475,
+        "comments": 5,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/4VkQkg6eH6RWCjpyotNKzHqLfNCTJ9wjxst0YsmBveU.jpeg?auto=webp&amp;s=b2bf033bfbf02c15ffe6acefa28f49050be722ab"
+        },
+        "permalink": "/r/science/comments/1x2pxsk/gene_therapy_can_partly_restore_sight_in_blind/"
+    },
+    {
+        "id": "1x2c2bg",
+        "author": "Miserable_Phase_2519",
+        "title": "A new study reveals that autism in boys and girls is genetically highly similar, whereas early- and late-diagnosed autism show distinctly different genetic profiles and associations with other behavioral and cognitive traits.",
+        "content": "",
+        "upvotes": 2055,
+        "comments": 168,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/OOb78kgxTGRg6uSUCfyhlslWkn304fe-zGy1XgNwaLs.jpeg?auto=webp&amp;s=58340c05d873f8651fee4f6452e513d2a7877e84"
+        },
+        "permalink": "/r/science/comments/1x2c2bg/a_new_study_reveals_that_autism_in_boys_and_girls/"
+    },
+    {
+        "id": "1x2tcis",
+        "author": "Phylogenix",
+        "title": "A study of 864 dogs found giant breeds lost approximately 35% more DNA methylation per year at LINE1 transposable elements than small breeds, suggesting that faster epigenetic aging and reduced regulation of these \u201cjumping genes\u201d may help explain why larger dogs have shorter lifespans.",
+        "content": "",
+        "upvotes": 162,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1x2tcis/a_study_of_864_dogs_found_giant_breeds_lost/"
+    },
+    {
+        "id": "1x2uham",
+        "author": "Hrmbee",
+        "title": "Tiny Fijian bee species first described two years ago already facing extinction | Genomics Reveal Population Crash and Range Contraction in Elusive Fijian Hylaeus Bees",
+        "content": "",
+        "upvotes": 111,
+        "comments": 3,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/WW0B4KHUodux_9cI_i0OeJ9gxPZVvOjYxI9IIzfEElc.jpeg?auto=webp&amp;s=60067aec93ab36e7f8aeebbeabb96fb579c3b811"
+        },
+        "permalink": "/r/science/comments/1x2uham/tiny_fijian_bee_species_first_described_two_years/"
+    },
+    {
         "id": "1x227g2",
         "author": "mvea",
         "title": "Older vegetarians got just as much stronger as meat eaters from weight training, but meat eaters gained roughly 70% more arm and leg muscle (0.66 kg vs 0.38 kg) in a 12-week trial of 108 adults over 55. Vegetarians who ate more protein gained more muscle, so older vegetarians may need extra protein.",
         "content": "",
-        "upvotes": 3709,
-        "comments": 401,
+        "upvotes": 4141,
+        "comments": 424,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/ixasI0i-U0QxzzpIhNCB6CblM8YTiDjLieLtn6Eypd0.jpeg?auto=webp&amp;s=3a25d1f2cc442d27978a89ba591a449fa22e3be7"
@@ -95,8 +151,8 @@
         "author": "Slow_cpu",
         "title": "Some data centers are already considering using desalination to get fresh water for cooling, according to new research.",
         "content": "",
-        "upvotes": 599,
-        "comments": 107,
+        "upvotes": 771,
+        "comments": 145,
         "media": null,
         "permalink": "/r/science/comments/1x29mzz/some_data_centers_are_already_considering_using/"
     },
@@ -105,8 +161,8 @@
         "author": "FreeHugs23",
         "title": "Women Are More Likely to Be Interested in Jobs Where Most Employees Are Women. Researchers Suggest Workplace Gender Representation May Influence Career Interest and Help Explain Why Some Professions Remain Male or Female Dominated.",
         "content": "",
-        "upvotes": 3224,
-        "comments": 472,
+        "upvotes": 3496,
+        "comments": 493,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/eqwfoQ5HBFMIDGyP2TRTNgenkps_mlHWsUi5pfkYdt8.jpeg?auto=webp&amp;s=1585dab64390acd1ad0ccd7fa0765acc2f00056a"
@@ -114,12 +170,25 @@
         "permalink": "/r/science/comments/1x1x1bk/women_are_more_likely_to_be_interested_in_jobs/"
     },
     {
+        "id": "1x2teag",
+        "author": "Phylogenix",
+        "title": "A study of 1,361 Himalayan lakes found building footprints in potential flood zones increased by 46% between 2016 and 2023, rising by 78% in areas at high risk of glacial lake outburst floods, with an estimated 293,800 people now potentially exposed across Nepal, India and China.",
+        "content": "",
+        "upvotes": 26,
+        "comments": 1,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/aQ5mz5BpB8AQAD2tvMllqbAkIylW1EaoMSNL3CmooeU.png?auto=webp&amp;s=2b1ce43bd4781863fa1d11c0fc9ce001ac2e8f90"
+        },
+        "permalink": "/r/science/comments/1x2teag/a_study_of_1361_himalayan_lakes_found_building/"
+    },
+    {
         "id": "1x1wp9c",
         "author": "mvea",
         "title": "Emotional blunting is common in depression and bipolar disorder, even after symptoms ease. It covers experiences such as apathy, loss of motivation, anhedonia (a reduced ability to feel pleasure), emotional numbness, and diminished empathy. It is also a known side effect of some antidepressants.",
         "content": "",
-        "upvotes": 3134,
-        "comments": 220,
+        "upvotes": 3340,
+        "comments": 231,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/9hfkHTBIAZhbkEl6EXZYTKcjnjpgCu4iSBV2QUMB-f4.jpeg?auto=webp&amp;s=cb59e7e54d536814d4f2801a2de9ddd0925ff23e"
@@ -131,8 +200,8 @@
         "author": "Miserable_Phase_2519",
         "title": "Research shows that the invisible mental load of planning and organizing household life predicts women's relationship and sexual satisfaction more strongly than the division of physical chores like cooking or cleaning.",
         "content": "",
-        "upvotes": 13621,
-        "comments": 2532,
+        "upvotes": 14203,
+        "comments": 2582,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/tMFH50WIFODK2m7-BFwpweiF5KeNfolPfycl9L07QiI.jpeg?auto=webp&amp;s=840a269ebb550f9a4d7e2ace7f7fb781fa1678d3"
@@ -140,12 +209,22 @@
         "permalink": "/r/science/comments/1x1mstn/research_shows_that_the_invisible_mental_load_of/"
     },
     {
+        "id": "1x27n3z",
+        "author": "calliope_kekule",
+        "title": "An AI agent solved nine of 353 open Erd\u0151s problems on its own and proved 44 of 492 integer sequence conjectures.",
+        "content": "",
+        "upvotes": 481,
+        "comments": 276,
+        "media": null,
+        "permalink": "/r/science/comments/1x27n3z/an_ai_agent_solved_nine_of_353_open_erd\u0151s/"
+    },
+    {
         "id": "1x25f9x",
         "author": "GuestFromBudushchego",
         "title": "Study finds long term Benzodiazepine use is associated with poorer cognitive function in adults with Schizophrenia",
         "content": "",
-        "upvotes": 586,
-        "comments": 47,
+        "upvotes": 712,
+        "comments": 52,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/SWGP4n4jScdrTiA-nHbbcvgvzTgTu9-Q3HF6NiZatu0.png?auto=webp&amp;s=fa9067aa14e8a2a911129a1a01607eeb1faab1a1"
@@ -153,22 +232,25 @@
         "permalink": "/r/science/comments/1x25f9x/study_finds_long_term_benzodiazepine_use_is/"
     },
     {
-        "id": "1x27n3z",
-        "author": "calliope_kekule",
-        "title": "An AI agent solved nine of 353 open Erd\u0151s problems on its own and proved 44 of 492 integer sequence conjectures.",
+        "id": "1x2w3k6",
+        "author": "Macchanoco",
+        "title": "AQP4-dependent enhancement of glymphatic function attenuates tau pathology and neurodegeneration in PS19 mice",
         "content": "",
-        "upvotes": 383,
-        "comments": 249,
-        "media": null,
-        "permalink": "/r/science/comments/1x27n3z/an_ai_agent_solved_nine_of_353_open_erd\u0151s/"
+        "upvotes": 9,
+        "comments": 4,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/UfeAB_wqRlnTtZyvik_6vc0mJtcRjffapAINesOqwxw.png?auto=webp&amp;s=c38792274e963b70b28209a6cb2ee17db6c925a0"
+        },
+        "permalink": "/r/science/comments/1x2w3k6/aqp4dependent_enhancement_of_glymphatic_function/"
     },
     {
         "id": "1x1hed8",
         "author": "Wagamaga",
         "title": "Research shows doctors\u2019 prescribing habits are heavily influenced by payments, gifts, and free meals from pharmaceutical companies, leading to more expensive, less appropriate and more drugs being prescribed.",
         "content": "",
-        "upvotes": 12336,
-        "comments": 744,
+        "upvotes": 12486,
+        "comments": 749,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/DwV3Sa1_O_RWWcapSBwhF2xoxDMnuE9GAQOH9IXb6Nk.jpeg?auto=webp&amp;s=e343c1fcf46a7caab763b6c9bd7f27f6a0d42062"
@@ -176,25 +258,12 @@
         "permalink": "/r/science/comments/1x1hed8/research_shows_doctors_prescribing_habits_are/"
     },
     {
-        "id": "1x1lkq6",
-        "author": "FreeHugs23",
-        "title": "After Almost Going Extinct, Giant Tortoises Now Outnumber People in The Seychelles. Ample food supply and little predation enabled them to reach famously ripe old ages, and all without much need for speed or aggression.",
-        "content": "",
-        "upvotes": 3194,
-        "comments": 23,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/23NIfasHGWCVdGMW7ScL-2OGYrdZmmyPYq3vus6mdOc.jpeg?auto=webp&amp;s=468796e12a1b1b19786c468317db7aa4de417311"
-        },
-        "permalink": "/r/science/comments/1x1lkq6/after_almost_going_extinct_giant_tortoises_now/"
-    },
-    {
         "id": "1x20phd",
         "author": "UCBerkeley",
         "title": "On complex political issues, most Americans take shortcuts to simplicity",
         "content": "",
-        "upvotes": 421,
-        "comments": 63,
+        "upvotes": 511,
+        "comments": 70,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/CWUqzkSUv-fiUYgyp-Q9XNOvrFBJrb1PzM65E3MTJAc.jpeg?auto=webp&amp;s=5709a89e2d569cdffc8b04a4816354edf0c851de"
@@ -202,12 +271,35 @@
         "permalink": "/r/science/comments/1x20phd/on_complex_political_issues_most_americans_take/"
     },
     {
+        "id": "1x1lkq6",
+        "author": "FreeHugs23",
+        "title": "After Almost Going Extinct, Giant Tortoises Now Outnumber People in The Seychelles. Ample food supply and little predation enabled them to reach famously ripe old ages, and all without much need for speed or aggression.",
+        "content": "",
+        "upvotes": 3324,
+        "comments": 24,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/23NIfasHGWCVdGMW7ScL-2OGYrdZmmyPYq3vus6mdOc.jpeg?auto=webp&amp;s=468796e12a1b1b19786c468317db7aa4de417311"
+        },
+        "permalink": "/r/science/comments/1x1lkq6/after_almost_going_extinct_giant_tortoises_now/"
+    },
+    {
+        "id": "1x2x7wl",
+        "author": "Macchanoco",
+        "title": "PIP5K-Ras bistability triggers plasma membrane symmetry breaking to define cellular polarity and regulate migration",
+        "content": "",
+        "upvotes": 4,
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/science/comments/1x2x7wl/pip5kras_bistability_triggers_plasma_membrane/"
+    },
+    {
         "id": "1x1t03a",
         "author": "Wagamaga",
         "title": "A new 'smart battery architecture' can extend electric vehicle battery life by over 20 percent by bypassing weak cells and making better use of remaining capacity. This can reduce total cost and increase sustainability, making it a great advantage for private car owners and fleets.",
         "content": "",
-        "upvotes": 1065,
-        "comments": 23,
+        "upvotes": 1112,
+        "comments": 24,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/8a0g3TwHeZwoqmjiAEE7GpX_kKm3y5QSmNcJlW9G1o8.png?auto=webp&amp;s=b2045a9a5802549d99973506219d2bbe414fdad3"
@@ -215,12 +307,25 @@
         "permalink": "/r/science/comments/1x1t03a/a_new_smart_battery_architecture_can_extend/"
     },
     {
+        "id": "1x1kh9s",
+        "author": "mvea",
+        "title": "Moms who vacuumed, aired out futons and used anti-mite covers more often while pregnant had toddlers less likely to show signs of developmental delays at 18 months to 3 years, in a Japanese study of over 81,000 mother-child pairs. The more often they cleaned, the lower the odds.",
+        "content": "",
+        "upvotes": 2418,
+        "comments": 130,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/1RlzxFhKyYuooWcGPadmoF34ZHg7GgxULIteSVv0a8s.png?auto=webp&amp;s=00c900f50d8f2e7cd000d4cb75ed49f4b0a4ee88"
+        },
+        "permalink": "/r/science/comments/1x1kh9s/moms_who_vacuumed_aired_out_futons_and_used/"
+    },
+    {
         "id": "1x1q7q4",
         "author": "CUAnschutzMed",
         "title": "A new study published in Pediatrics found that therapeutic horseback riding can reduce hyperactivity and improve emotional and social functioning in children with autism and co-occurring psychiatric disorders.",
         "content": "",
-        "upvotes": 740,
-        "comments": 52,
+        "upvotes": 872,
+        "comments": 53,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/XddmtB_gheHZIoF9bvAFVdlLs5OexHC5pO_5nC_53fc.png?auto=webp&amp;s=9e9b6dcd65aac2a4d9032ec34853a572532b45e5"
@@ -232,8 +337,8 @@
         "author": "Miserable_Phase_2519",
         "title": "A new study has found that genetic signatures of assortative mating, where people pair up with partners who share similar traits, have grown significantly stronger among more recently born generations in the United States, particularly regarding educational attainment and smoking habits.",
         "content": "",
-        "upvotes": 2059,
-        "comments": 64,
+        "upvotes": 2179,
+        "comments": 68,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/rcbgsTKgkPKsshE39BlH5U5T85OQl62YWa6Vi0US7oY.jpeg?auto=webp&amp;s=c4ff786f133e0052ea288dc8bc57ae717367de81"
@@ -245,7 +350,7 @@
         "author": "fchung",
         "title": "Healthy reef sounds can boost coral and fish recovery efforts: \u00ab Two Scripps-led studies show how underwater sound can play a role in restoring degraded coral reefs and rebuilding fish communities. \u00bb",
         "content": "",
-        "upvotes": 112,
+        "upvotes": 125,
         "comments": 5,
         "media": {
             "type": "image",
@@ -258,114 +363,9 @@
         "author": "pubpophealth",
         "title": "In a small randomized trial of people with acute hepatic porphyria, a rare inherited disorder, 5 of 6 who got a placebo instead of a scheduled IV hemin dose had an attack within a week, versus 1 of 7 who got hemin",
         "content": "",
-        "upvotes": 187,
+        "upvotes": 226,
         "comments": 17,
         "media": null,
         "permalink": "/r/science/comments/1x1mf29/in_a_small_randomized_trial_of_people_with_acute/"
-    },
-    {
-        "id": "1x12dl1",
-        "author": "mvea",
-        "title": "Autism and ADHD traits appear to follow different social paths to mental health problems. Autistic traits were linked to peer difficulties, internalizing problems, but not to academic struggles. ADHD traits were linked to externalizing problems and higher levels of academic difficulties.",
-        "content": "",
-        "upvotes": 3878,
-        "comments": 317,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/SR13vJ6k5K4k-sOzgStrUxndOOZbUuj_mQyM24A2Npo.jpeg?auto=webp&amp;s=20f05c378b1fc370d94ca85682ecf01b823a1aa1"
-        },
-        "permalink": "/r/science/comments/1x12dl1/autism_and_adhd_traits_appear_to_follow_different/"
-    },
-    {
-        "id": "1x1hhpq",
-        "author": "Wagamaga",
-        "title": "Research found restricting phone use in class improves academic performance, especially among lower-performing students, with minimal impact on higher-performing students. Removing phones also reduces disparities in GPA, indicating a potential way to close learning gaps",
-        "content": "",
-        "upvotes": 307,
-        "comments": 22,
-        "media": null,
-        "permalink": "/r/science/comments/1x1hhpq/research_found_restricting_phone_use_in_class/"
-    },
-    {
-        "id": "1x1fb3m",
-        "author": "johnhemingwayscience",
-        "title": "A 12-week clinical trial found that a daily supplement combining berberine, white mulberry extract, and chromium helped adults with obesity lose 2.35 kg of body fat and improve their insulin sensitivity by 28% compared to a placebo.",
-        "content": "",
-        "upvotes": 380,
-        "comments": 37,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/dSj0-RE5fXd-Ocmtv3dSZROXHJ48vbsSUESrSRVvozE.png?auto=webp&amp;s=148cd03e0a8e022dca8133d50621874a3ff5e58d"
-        },
-        "permalink": "/r/science/comments/1x1fb3m/a_12week_clinical_trial_found_that_a_daily/"
-    },
-    {
-        "id": "1x24dvy",
-        "author": "Macchanoco",
-        "title": "SIRT6 overexpression counteracts chromatin aging in the male murine liver",
-        "content": "",
-        "upvotes": 10,
-        "comments": 1,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/LpNkXAEeS24tXJxtvO6YALPMVPCJGI247TJAVdbTGM4.png?auto=webp&amp;s=fa08492ed93cc79e385ebe40a37440f94763316d"
-        },
-        "permalink": "/r/science/comments/1x24dvy/sirt6_overexpression_counteracts_chromatin_aging/"
-    },
-    {
-        "id": "1x1tpll",
-        "author": "amesydragon",
-        "title": "Hedgehog coronavirus poses little risk of jump to humans. The spike protein on 21 different hedgehog coronaviruses can't bind the receptor protein on human cells.",
-        "content": "",
-        "upvotes": 45,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1x1tpll/hedgehog_coronavirus_poses_little_risk_of_jump_to/"
-    },
-    {
-        "id": "1x1h1gc",
-        "author": "circadianclocks",
-        "title": "Greater eveningness (later chronotype) at age 12-13 causes poorer mental health at age 13-14, shows study of 7,000 U.S. children",
-        "content": "",
-        "upvotes": 214,
-        "comments": 44,
-        "media": null,
-        "permalink": "/r/science/comments/1x1h1gc/greater_eveningness_later_chronotype_at_age_1213/"
-    },
-    {
-        "id": "1x1fzeb",
-        "author": "UniOfManchester",
-        "title": "Gene link to inherited blindness discovered",
-        "content": "",
-        "upvotes": 248,
-        "comments": 3,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/DMzJksUTFCczSL5OAdbFBrca4WekgpezOdg7gtdbSF8.jpeg?auto=webp&amp;s=013e50dda5f26fe2be6224d3657fd64ddb462c85"
-        },
-        "permalink": "/r/science/comments/1x1fzeb/gene_link_to_inherited_blindness_discovered/"
-    },
-    {
-        "id": "1x0oqy6",
-        "author": "mvea",
-        "title": "Adults with ADHD often struggle with choices that require weighing potential rewards against negative consequences. A new experiment reveals that a common stimulant medication improves these choices specifically by helping individuals pay more attention to the potential costs of their actions.",
-        "content": "",
-        "upvotes": 10346,
-        "comments": 764,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/cCRH1PN73hpNgAGVAVUIDJFz0qei6vkOX9dn3CqZLdQ.jpeg?auto=webp&amp;s=93928a1b069f81e7ee1a9b5ab5210fb4a1360f78"
-        },
-        "permalink": "/r/science/comments/1x0oqy6/adults_with_adhd_often_struggle_with_choices_that/"
-    },
-    {
-        "id": "1x1ci11",
-        "author": "calliope_kekule",
-        "title": "A global study found more than 40% of the world's river basins will see both worse floods and worse droughts by 2100. Cutting emissions eases this, but does not stop it.",
-        "content": "",
-        "upvotes": 345,
-        "comments": 3,
-        "media": null,
-        "permalink": "/r/science/comments/1x1ci11/a_global_study_found_more_than_40_of_the_worlds/"
     }
 ]
