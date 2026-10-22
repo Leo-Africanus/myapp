@@ -4,41 +4,18 @@
         "author": "mvea",
         "title": "Starting in 2027, low-income Americans on Medicaid must log 80 hours of work a month, and doctors will have to prove which patients are too sick to work. Experts writing in NEJM warn this means more paperwork, lower pay, struggling rural hospitals, and up to 10 million people losing health coverage.",
         "content": "",
-        "upvotes": 8887,
-        "comments": 1111,
+        "upvotes": 18773,
+        "comments": 1971,
         "media": null,
         "permalink": "/r/science/comments/1xcdl33/starting_in_2027_lowincome_americans_on_medicaid/"
-    },
-    {
-        "id": "1xc1l46",
-        "author": "mvea",
-        "title": "1 in 3 American boys aged 13 to 17 follows Andrew Tate at least a little, and those who do are more likely to believe men should hide their emotions, be dominant and reject anything feminine. But the strongest predictor wasn\u2019t Tate at all - it was parents telling their sons to be big and tough.",
-        "content": "",
-        "upvotes": 19355,
-        "comments": 2185,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/27c6zs6s_qwo4Eoka9px93m5zPrnZTM48P7sIsuTYXQ.jpeg?auto=webp&amp;s=7f4ec5a16055ec02596fe64e35ce50511dc8bba7"
-        },
-        "permalink": "/r/science/comments/1xc1l46/1_in_3_american_boys_aged_13_to_17_follows_andrew/"
-    },
-    {
-        "id": "1xcbsyx",
-        "author": "GuestFromBudushchego",
-        "title": "A study in the American Economic Review found that the 2017 US corporate tax cuts increased investment by 4.6% and employment by 1.3%, but median worker earnings barely changed. An estimated 87% of private income gains went to the top 10% of earners.",
-        "content": "",
-        "upvotes": 1336,
-        "comments": 84,
-        "media": null,
-        "permalink": "/r/science/comments/1xcbsyx/a_study_in_the_american_economic_review_found/"
     },
     {
         "id": "1xcgxs8",
         "author": "Miserable_Phase_2519",
         "title": "A new study suggests that a child's aggressive behavior drives inconsistent parenting and discipline, rather than inconsistent discipline being the primary cause of the child's aggression.",
         "content": "",
-        "upvotes": 494,
-        "comments": 180,
+        "upvotes": 2122,
+        "comments": 338,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/SpmL-uWdW3iXVKPSihXUyzBVjjPu_Inh9wsPGZ0mV_c.jpeg?auto=webp&amp;s=58e91392056008f1698a86eb7fa3ff5a8acbeecd"
@@ -46,22 +23,68 @@
         "permalink": "/r/science/comments/1xcgxs8/a_new_study_suggests_that_a_childs_aggressive/"
     },
     {
-        "id": "1xbudxf",
-        "author": "Wagamaga",
-        "title": "Study identifies world\u2019s first corporate psychopath. The same playbook we see in toxic workplaces today appears in this case from 1629. He removed opponents, rewarded loyalists, created fear, manipulated followers and pursued power at any cost",
+        "id": "1xcm38f",
+        "author": "Science_News",
+        "title": "Vincent van Gogh\u2019s \u201cThe Starry Night\u201d may have been based on one specific night sky: July 22, 1889, just before dawn over France.",
         "content": "",
-        "upvotes": 6275,
-        "comments": 194,
+        "upvotes": 756,
+        "comments": 21,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/8LisRCcLt1DMWwpa5p8oMjSyTD9sxAbjGbK9ID5zOjA.jpeg?auto=webp&amp;s=3fabd8a2b9734ad8820c728eaa1af97f2ea5b5d7"
+        },
+        "permalink": "/r/science/comments/1xcm38f/vincent_van_goghs_the_starry_night_may_have_been/"
+    },
+    {
+        "id": "1xclfed",
+        "author": "Newsworthiest",
+        "title": "American English speakers can deliberately choose whether to copy another accent when asked, but tend to naturally copy specific notable speech sounds when uninstructed.",
+        "content": "",
+        "upvotes": 745,
+        "comments": 64,
         "media": null,
-        "permalink": "/r/science/comments/1xbudxf/study_identifies_worlds_first_corporate/"
+        "permalink": "/r/science/comments/1xclfed/american_english_speakers_can_deliberately_choose/"
+    },
+    {
+        "id": "1xcbsyx",
+        "author": "GuestFromBudushchego",
+        "title": "A study in the American Economic Review found that the 2017 US corporate tax cuts increased investment by 4.6% and employment by 1.3%, but median worker earnings barely changed. An estimated 87% of private income gains went to the top 10% of earners.",
+        "content": "",
+        "upvotes": 3161,
+        "comments": 174,
+        "media": null,
+        "permalink": "/r/science/comments/1xcbsyx/a_study_in_the_american_economic_review_found/"
+    },
+    {
+        "id": "1xc1l46",
+        "author": "mvea",
+        "title": "1 in 3 American boys aged 13 to 17 follows Andrew Tate at least a little, and those who do are more likely to believe men should hide their emotions, be dominant and reject anything feminine. But the strongest predictor wasn\u2019t Tate at all - it was parents telling their sons to be big and tough.",
+        "content": "",
+        "upvotes": 21323,
+        "comments": 2418,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/27c6zs6s_qwo4Eoka9px93m5zPrnZTM48P7sIsuTYXQ.jpeg?auto=webp&amp;s=7f4ec5a16055ec02596fe64e35ce50511dc8bba7"
+        },
+        "permalink": "/r/science/comments/1xc1l46/1_in_3_american_boys_aged_13_to_17_follows_andrew/"
+    },
+    {
+        "id": "1xcnye8",
+        "author": "ddx-me",
+        "title": "In retrospective clinic notes, large language models (AI)-recommended care cost substantially more than human physicians, primarily because of more testing and specialist referrals",
+        "content": "",
+        "upvotes": 330,
+        "comments": 56,
+        "media": null,
+        "permalink": "/r/science/comments/1xcnye8/in_retrospective_clinic_notes_large_language/"
     },
     {
         "id": "1xcf1ym",
         "author": "FreeHugs23",
         "title": "Orangutans prefer food associated with sounds of laughter. Apes in study more likely to choose treats linked to sound of peers having fun, suggesting emotions influence learning",
         "content": "",
-        "upvotes": 213,
-        "comments": 11,
+        "upvotes": 557,
+        "comments": 22,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/KcinewJ5eTTidTSO3EfxC0t5E07KKz53oIjJBBLySfI.jpeg?auto=webp&amp;s=eae46678111523573ab6856b93114c59dd482fc2"
@@ -69,12 +92,32 @@
         "permalink": "/r/science/comments/1xcf1ym/orangutans_prefer_food_associated_with_sounds_of/"
     },
     {
+        "id": "1xcj3dw",
+        "author": "Enthusiast12358",
+        "title": "Retatrutide Once Weekly for Treatment of Obstructive Sleep Apnea: retatrutide resulted in significantly greater decreases in OSA than placebo.",
+        "content": "",
+        "upvotes": 209,
+        "comments": 33,
+        "media": null,
+        "permalink": "/r/science/comments/1xcj3dw/retatrutide_once_weekly_for_treatment_of/"
+    },
+    {
+        "id": "1xbudxf",
+        "author": "Wagamaga",
+        "title": "Study identifies world\u2019s first corporate psychopath. The same playbook we see in toxic workplaces today appears in this case from 1629. He removed opponents, rewarded loyalists, created fear, manipulated followers and pursued power at any cost",
+        "content": "",
+        "upvotes": 6864,
+        "comments": 215,
+        "media": null,
+        "permalink": "/r/science/comments/1xbudxf/study_identifies_worlds_first_corporate/"
+    },
+    {
         "id": "1xbpnpi",
         "author": "FreeHugs23",
         "title": "Physicists Trapped a Particle of Antimatter And Kept It Caged For Months. A breakthrough that, they say, paves the way to the most rigorous probes yet of particle physics.",
         "content": "",
-        "upvotes": 4778,
-        "comments": 202,
+        "upvotes": 5090,
+        "comments": 216,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/kxjWZ4TS9VgXilLz7Zh2d0kG7UXyo6ulGTxCADc9vn8.png?auto=webp&amp;s=3333dc32942846bb58626347a4d20761c84cd180"
@@ -86,7 +129,7 @@
         "author": "sr_local",
         "title": "Cranberry juice may be a boon for oral hygiene: in a study of 14 children and 8 adults, pure, unsweetened cranberry juice slowed dental plaque regrowth and reduced acid production",
         "content": "",
-        "upvotes": 3815,
+        "upvotes": 4058,
         "comments": 259,
         "media": null,
         "permalink": "/r/science/comments/1xbr4x0/cranberry_juice_may_be_a_boon_for_oral_hygiene_in/"
@@ -96,8 +139,8 @@
         "author": "FreeHugs23",
         "title": "Bad apple effect: study shows how people are influenced by rule-breaking of others. Research shows how seeing bigger violations by others can lead people to increase their own rule-breaking",
         "content": "",
-        "upvotes": 10028,
-        "comments": 537,
+        "upvotes": 10233,
+        "comments": 549,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/H6NXWghMucRrxyWnYmHBev3gCMBBoiLebJDCnwR5keA.jpeg?auto=webp&amp;s=5600d596cded58d20425606d17f701759b796f0f"
@@ -105,12 +148,51 @@
         "permalink": "/r/science/comments/1xbjsxn/bad_apple_effect_study_shows_how_people_are/"
     },
     {
+        "id": "1xcr70b",
+        "author": "Science_News",
+        "title": "A levitating nanoparticle jiggled when hit by individual gas atoms or molecules",
+        "content": "",
+        "upvotes": 22,
+        "comments": 5,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/DMvQ-2gNEcBDaXNg7vOMqYcNvHKvvGmctIu38Vit1z0.jpeg?auto=webp&amp;s=90a23824f92a41e451695ab3a90e1272a34a4a15"
+        },
+        "permalink": "/r/science/comments/1xcr70b/a_levitating_nanoparticle_jiggled_when_hit_by/"
+    },
+    {
+        "id": "1xcnzj6",
+        "author": "sr_local",
+        "title": "Music can change how food tastes by influencing the brain\u2019s perception of flavour, with fMRI scans linking slow pop music and harmonious tones to enhanced sweetness, while other musical sounds alter responses to sweet and sour flavours",
+        "content": "",
+        "upvotes": 27,
+        "comments": 2,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/AkRjDJKEALiCTwz_wZ_kBhtnmaDY8b3rUP9Z-FJorNs.jpeg?auto=webp&amp;s=5bb3151e23a22bc856ceeeb65f31f12126069641"
+        },
+        "permalink": "/r/science/comments/1xcnzj6/music_can_change_how_food_tastes_by_influencing/"
+    },
+    {
+        "id": "1xci67i",
+        "author": "Slow_cpu",
+        "title": "A new study has characterised the \u201caverage\u201d human genome, providing key information on normal human genetic variation and genetic disease risk...",
+        "content": "",
+        "upvotes": 48,
+        "comments": 1,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/3970hLwabacepPO8ViGW__KksLSYqYJiXRZvP9q3wSE.jpeg?auto=webp&amp;s=60f8d271b6f16d792ff622529a666d14fae4dec7"
+        },
+        "permalink": "/r/science/comments/1xci67i/a_new_study_has_characterised_the_average_human/"
+    },
+    {
         "id": "1xbv41e",
         "author": "Slow_cpu",
         "title": "Mechanism revealed behind the positive effects of cold temperatures on delaying aging and preventing age-related diseases",
         "content": "",
-        "upvotes": 1030,
-        "comments": 52,
+        "upvotes": 1143,
+        "comments": 58,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/cEMIeG0gbNlREFu3deoEx6bPeo34pJbLRFUj-ofhpec.jpeg?auto=webp&amp;s=83ce90133c257439c853c3a3c031c5a72e657143"
@@ -118,25 +200,25 @@
         "permalink": "/r/science/comments/1xbv41e/mechanism_revealed_behind_the_positive_effects_of/"
     },
     {
-        "id": "1xb9ww2",
-        "author": "mvea",
-        "title": "About 1 in 4 people with depression may have a \u2018body clock\u2019 type, like being stuck in permanent jet lag: late sleepers, tired mornings, worse in certain seasons. Across 11,380 people, this group got less benefit and more side effects from antidepressants, so light therapy or melatonin may help more.",
+        "id": "1xcephn",
+        "author": "Slow_cpu",
+        "title": "How climate change, new technology are shaping the future of extremes in peak power demands. Impact of technology may outpace effects of climate change in certain parts of US...",
         "content": "",
-        "upvotes": 16385,
-        "comments": 660,
+        "upvotes": 35,
+        "comments": 6,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/7VMOApwxxf2KS5h5CS2U-Ph5x4PCAj-UcDZn_KvpKAU.jpeg?auto=webp&amp;s=80af5113482461ad8ce62ffa57c7bcd6a8f1abfd"
+            "url": "https://external-preview.redd.it/6bG2kNs1L7HUYxhXKzJGsmu_fU0hEvTF2Lo0ki4-LYw.jpeg?auto=webp&amp;s=e21b254f01751b187bca33e13b7b4b48f043b1ed"
         },
-        "permalink": "/r/science/comments/1xb9ww2/about_1_in_4_people_with_depression_may_have_a/"
+        "permalink": "/r/science/comments/1xcephn/how_climate_change_new_technology_are_shaping_the/"
     },
     {
         "id": "1xbi4rj",
         "author": "mvea",
         "title": "AI can read your heart's electrical signals while you sleep and predict your risk of heart failure, stroke, irregular heartbeat and early death up to 10 years ahead. Trained on 16,000 sleep-study patients and tested on 23,000 more, it improved on standard risk checks using just one chest ECG sensor.",
         "content": "",
-        "upvotes": 2715,
-        "comments": 338,
+        "upvotes": 2830,
+        "comments": 345,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/6ImjECV8V68TOJWoFloqxug7gaV2dD4bX4LyPkQituQ.jpeg?auto=webp&amp;s=6329bb5627006d21baa578716ae55c83eca9d1eb"
@@ -144,11 +226,24 @@
         "permalink": "/r/science/comments/1xbi4rj/ai_can_read_your_hearts_electrical_signals_while/"
     },
     {
+        "id": "1xb9ww2",
+        "author": "mvea",
+        "title": "About 1 in 4 people with depression may have a \u2018body clock\u2019 type, like being stuck in permanent jet lag: late sleepers, tired mornings, worse in certain seasons. Across 11,380 people, this group got less benefit and more side effects from antidepressants, so light therapy or melatonin may help more.",
+        "content": "",
+        "upvotes": 16527,
+        "comments": 662,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/7VMOApwxxf2KS5h5CS2U-Ph5x4PCAj-UcDZn_KvpKAU.jpeg?auto=webp&amp;s=80af5113482461ad8ce62ffa57c7bcd6a8f1abfd"
+        },
+        "permalink": "/r/science/comments/1xb9ww2/about_1_in_4_people_with_depression_may_have_a/"
+    },
+    {
         "id": "1xbs2iw",
         "author": "Miserable_Phase_2519",
         "title": "Scientists transplanted 306 sq m of a real salt marsh into the world's largest wave generator to test its resilience against extreme storm surges, discovering that the vegetation was strong enough to significantly absorb wave energy while suffering only minimal sediment loss.",
         "content": "",
-        "upvotes": 562,
+        "upvotes": 628,
         "comments": 4,
         "media": {
             "type": "image",
@@ -161,8 +256,8 @@
         "author": "Wagamaga",
         "title": "Your car\u2019s weakest spot may not be in the car. Ten years ago, most vulnerabilities were found in the cars\u2019 own systems. Now the share found in apps, websites and cloud services has nearly tripled. These systems hold data about where you live, where you drive and when",
         "content": "",
-        "upvotes": 1284,
-        "comments": 66,
+        "upvotes": 1356,
+        "comments": 67,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/U6W1FqFxLiBtC5MGmz33_0XlG8IjEdNCyCWtpIVtWaA.jpeg?auto=webp&amp;s=7dd87a45039f6fe6cf114d0d253f2f504046c75d"
@@ -170,25 +265,22 @@
         "permalink": "/r/science/comments/1xbjldh/your_cars_weakest_spot_may_not_be_in_the_car_ten/"
     },
     {
-        "id": "1xcephn",
-        "author": "Slow_cpu",
-        "title": "How climate change, new technology are shaping the future of extremes in peak power demands. Impact of technology may outpace effects of climate change in certain parts of US...",
+        "id": "1xc9bua",
+        "author": "Unlikely_Forever_466",
+        "title": "Rutgers and IBM Demonstrate Real-Time Quantum Feedback Control Across 100 Qubits",
         "content": "",
-        "upvotes": 15,
-        "comments": 5,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/6bG2kNs1L7HUYxhXKzJGsmu_fU0hEvTF2Lo0ki4-LYw.jpeg?auto=webp&amp;s=e21b254f01751b187bca33e13b7b4b48f043b1ed"
-        },
-        "permalink": "/r/science/comments/1xcephn/how_climate_change_new_technology_are_shaping_the/"
+        "upvotes": 46,
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/science/comments/1xc9bua/rutgers_and_ibm_demonstrate_realtime_quantum/"
     },
     {
         "id": "1xb5p3k",
         "author": "mvea",
         "title": "A 1970s heart treatment that squeezes your legs with inflatable cuffs improved memory and thinking in 84% of people with early Alzheimer\u2019s in a 190-person trial. Most patients actually got better than where they started, not just slower decline, and 75% still had gains 6 months after treatment ended",
         "content": "",
-        "upvotes": 13672,
-        "comments": 276,
+        "upvotes": 13832,
+        "comments": 277,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/mqVko5gwAEsYsENRz0irRsRsY56v-lLVlBkUQYVG1M8.jpeg?auto=webp&amp;s=fbdd1ab5f704da391c014c2521945c0225c9bf9d"
@@ -196,21 +288,11 @@
         "permalink": "/r/science/comments/1xb5p3k/a_1970s_heart_treatment_that_squeezes_your_legs/"
     },
     {
-        "id": "1xc9bua",
-        "author": "Unlikely_Forever_466",
-        "title": "Rutgers and IBM Demonstrate Real-Time Quantum Feedback Control Across 100 Qubits",
-        "content": "",
-        "upvotes": 32,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/science/comments/1xc9bua/rutgers_and_ibm_demonstrate_realtime_quantum/"
-    },
-    {
         "id": "1xbj39b",
         "author": "Wagamaga",
         "title": "Colorado River drought drives unprecedented pattern of groundwater loss. The Upper Colorado River Basin lost an estimated 4.6 trillion gallons of groundwater during a severe three-year drought from 2020 to 2022. That's enough water to halfway fill Lake Powell, stretched along the Utah-Arizona border",
         "content": "",
-        "upvotes": 870,
+        "upvotes": 927,
         "comments": 39,
         "media": {
             "type": "image",
@@ -223,8 +305,8 @@
         "author": "sfgate",
         "title": "Stanford researchers used AI \u201cdigital twins\u201d of pregnant women\u2019s immune systems to identify two common drugs that may help prevent preterm birth",
         "content": "",
-        "upvotes": 140,
-        "comments": 5,
+        "upvotes": 155,
+        "comments": 6,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/eD0PGmtBuZ8mDw93NY-QOlew5fn-DIvE59JjCuatOyk.jpeg?auto=webp&amp;s=b5689bfd900edc0330c31d9df938d86908483382"
@@ -236,121 +318,39 @@
         "author": "Phylogenix",
         "title": "A study of 2,587 adults found that AI-generated stories were rated as more engaging and higher quality than human-written fiction, yet readers preferred stories labeled as human-written. Participants also struggled to distinguish AI-generated stories from those written by humans.",
         "content": "",
-        "upvotes": 3376,
-        "comments": 1015,
+        "upvotes": 3423,
+        "comments": 1019,
         "media": null,
         "permalink": "/r/science/comments/1xb94ms/a_study_of_2587_adults_found_that_aigenerated/"
-    },
-    {
-        "id": "1xbczmb",
-        "author": "StemCellPirate",
-        "title": "Genetic study shows seafarers from Easter Island settled Hawaii",
-        "content": "",
-        "upvotes": 1305,
-        "comments": 27,
-        "media": null,
-        "permalink": "/r/science/comments/1xbczmb/genetic_study_shows_seafarers_from_easter_island/"
-    },
-    {
-        "id": "1xbvqso",
-        "author": "shinybrighthings",
-        "title": "Whole-blood transcriptomic findings in emergency department patients with suspected cannabinoid hyperemesis syndrome: a pilot study",
-        "content": "",
-        "upvotes": 74,
-        "comments": 56,
-        "media": null,
-        "permalink": "/r/science/comments/1xbvqso/wholeblood_transcriptomic_findings_in_emergency/"
-    },
-    {
-        "id": "1xcbph6",
-        "author": "JIntegrAgri",
-        "title": "Researchers developed a novel MD-100K liquid-phase chip: Advancing genetic research and breeding in dairy and dual-purpose cattle",
-        "content": "",
-        "upvotes": 8,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1xcbph6/researchers_developed_a_novel_md100k_liquidphase/"
-    },
-    {
-        "id": "1xbwv3p",
-        "author": "shinybrighthings",
-        "title": "Impact of socioeconomic factors and birth-related conditions on autism spectrum disorder, Down syndrome, and attention deficit/hyperactivity disorder",
-        "content": "",
-        "upvotes": 63,
-        "comments": 7,
-        "media": null,
-        "permalink": "/r/science/comments/1xbwv3p/impact_of_socioeconomic_factors_and_birthrelated/"
-    },
-    {
-        "id": "1xbllz5",
-        "author": "Fantastic_Guidance54",
-        "title": "U.S. Senate candidates are increasingly using ads that criticize their own party, with use up 65% over the last decade. Because of political polarization, these ads can trigger backlash, but voters tolerate them when they believe the strategy improves their party\u2019s chances of winning.",
-        "content": "",
-        "upvotes": 210,
-        "comments": 12,
-        "media": null,
-        "permalink": "/r/science/comments/1xbllz5/us_senate_candidates_are_increasingly_using_ads/"
-    },
-    {
-        "id": "1xci67i",
-        "author": "Slow_cpu",
-        "title": "A new study has characterised the \u201caverage\u201d human genome, providing key information on normal human genetic variation and genetic disease risk...",
-        "content": "",
-        "upvotes": 3,
-        "comments": 1,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/3970hLwabacepPO8ViGW__KksLSYqYJiXRZvP9q3wSE.jpeg?auto=webp&amp;s=60f8d271b6f16d792ff622529a666d14fae4dec7"
-        },
-        "permalink": "/r/science/comments/1xci67i/a_new_study_has_characterised_the_average_human/"
     },
     {
         "id": "1xcdmbw",
         "author": "JIntegrAgri",
         "title": "Recently researchers integrated microbiome, metagenomics, and untargeted serum metabolomics to characterize the dynamic alterations in the gut microbiota and host serum metabolic profiles of piglets during Classical swine fever virus (CSFV) infection",
         "content": "",
-        "upvotes": 4,
+        "upvotes": 6,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1xcdmbw/recently_researchers_integrated_microbiome/"
     },
     {
-        "id": "1xax0em",
-        "author": "sr_local",
-        "title": "In teenagers (mean age 12.6 years) one additional serve of any type of fruit each day was associated with a 13% lower risk of depression and a 7% lower risk of anxiety over the study period, according to a study on 6537 Australian adolescents followed for 3 years",
+        "id": "1xcbph6",
+        "author": "JIntegrAgri",
+        "title": "Researchers developed a novel MD-100K liquid-phase chip: Advancing genetic research and breeding in dairy and dual-purpose cattle",
         "content": "",
-        "upvotes": 6420,
-        "comments": 203,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/dbcu22b1OTF_04z_DuVDdovBcG3TSiFoHVwmEdo6vfc.jpeg?auto=webp&amp;s=d2d10ab73e91e5dce99370a45584a74716d84713"
-        },
-        "permalink": "/r/science/comments/1xax0em/in_teenagers_mean_age_126_years_one_additional/"
-    },
-    {
-        "id": "1xb0626",
-        "author": "Miserable_Phase_2519",
-        "title": "A new study suggests that physically petting your own dog prepares the body to handle subsequent stressors with calmer brain and heart responses, whereas simply sitting near, talking to, or making eye contact with the pet does not provide the same protective buffer.",
-        "content": "",
-        "upvotes": 4020,
-        "comments": 64,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/9v-UtSqVD81dW55MKajAVjI2DugEVEVrajgdZsdt0v4.jpeg?auto=webp&amp;s=1850f859dfe2feedcc3f17ffb02f27bb2a2990ab"
-        },
-        "permalink": "/r/science/comments/1xb0626/a_new_study_suggests_that_physically_petting_your/"
-    },
-    {
-        "id": "1xc6ass",
-        "author": "Fenomiminal",
-        "title": "Persistent neuronal stress signalling underlies Angelman syndrome phenotypes",
-        "content": "",
-        "upvotes": 7,
+        "upvotes": 10,
         "comments": 1,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/BkoWCR9Ppk5uVns4l_Ne4RE8iVGr4koz_T5jYRCs0dM.png?auto=webp&amp;s=8aace68775a6d2a1da76570f0c4488b261b2b30a"
-        },
-        "permalink": "/r/science/comments/1xc6ass/persistent_neuronal_stress_signalling_underlies/"
+        "media": null,
+        "permalink": "/r/science/comments/1xcbph6/researchers_developed_a_novel_md100k_liquidphase/"
+    },
+    {
+        "id": "1xcse7j",
+        "author": "Slow_cpu",
+        "title": "Sculpted light steers ultrafast electron flow in an atomic-scale microscope. Researchers controlled which way electrons travel across a tiny gap and observed current bursts lasting just 860 attoseconds, bringing closer to reality a microscope that can track electron motion in both space and time...",
+        "content": "",
+        "upvotes": 1,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1xcse7j/sculpted_light_steers_ultrafast_electron_flow_in/"
     }
 ]
