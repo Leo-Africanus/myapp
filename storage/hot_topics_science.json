@@ -1,11 +1,24 @@
 [
     {
+        "id": "1xwxys5",
+        "author": "wowowowowwoww",
+        "title": "Harming Wild Animals Is Linked To Intimate Partner Violence",
+        "content": "",
+        "upvotes": 3314,
+        "comments": 361,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/9a9-iFqIKmfmW-oD9q1x5bxFT3o8pVzgDtBPZ14kqYk.jpeg?auto=webp&amp;s=2b0b925c7a401984baa5b8d88594b42bc5518af9"
+        },
+        "permalink": "/r/science/comments/1xwxys5/harming_wild_animals_is_linked_to_intimate/"
+    },
+    {
         "id": "1xws4ma",
         "author": "Wagamaga",
         "title": "The US power grid is struggling to keep pace with surging electricity demand due to the electrification of transportation, industry, and data centers. The  US needs 5,000 miles of high-voltage transmission lines by 2050 to meet future  energy needs, but only 500 miles are been built annually",
         "content": "",
-        "upvotes": 2458,
-        "comments": 415,
+        "upvotes": 5084,
+        "comments": 782,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/ip0B_gMxNg2yZVLw4uKA5SQhXD9yVeezDkoHCZt7R9U.jpeg?auto=webp&amp;s=f73e1b2964e38d3bfefa72268f31dec5b4409166"
@@ -13,25 +26,48 @@
         "permalink": "/r/science/comments/1xws4ma/the_us_power_grid_is_struggling_to_keep_pace_with/"
     },
     {
-        "id": "1xwt6d5",
-        "author": "mvea",
-        "title": "A CRISPR therapy that edits genes inside the body, with no need to remove a patient's cells, is still working four years after treatment. It switches off a liver gene behind a rare disease that causes painful, dangerous swelling, and is poised to be the first of its kind to win FDA approval.",
+        "id": "1xx2hox",
+        "author": "Remriel",
+        "title": "First drug that destroys testosterone receptors shrinks prostate tumours and eases pain in early trial",
         "content": "",
-        "upvotes": 1044,
-        "comments": 7,
+        "upvotes": 702,
+        "comments": 16,
+        "media": null,
+        "permalink": "/r/science/comments/1xx2hox/first_drug_that_destroys_testosterone_receptors/"
+    },
+    {
+        "id": "1xwvpfb",
+        "author": "Miserable_Phase_2519",
+        "title": "A new study found that men who use anabolic steroids are more than 3 times as likely to require prescription medication for long-term erectile dysfunction and need higher doses compared to non-users.",
+        "content": "",
+        "upvotes": 1009,
+        "comments": 69,
         "media": {
             "type": "image",
-            "url": "https://external-preview.redd.it/swMM_oiKS-lkIRY6VJjkaaPEnk0k_TJDy0BRoKiFMZw.jpeg?auto=webp&amp;s=70c3d8c47a25093d9a6d26a475ee8a42c71728f8"
+            "url": "https://external-preview.redd.it/k9MqgX1iufhIlgBXZmaLpWz-7Pw41uVETAqofX0a_4Y.jpeg?auto=webp&amp;s=536f551035c7d27b543e128bb505444f5024cf18"
         },
-        "permalink": "/r/science/comments/1xwt6d5/a_crispr_therapy_that_edits_genes_inside_the_body/"
+        "permalink": "/r/science/comments/1xwvpfb/a_new_study_found_that_men_who_use_anabolic/"
+    },
+    {
+        "id": "1xx55b2",
+        "author": "mvea",
+        "title": "Democrats, Independents and Republicans all became more supportive of universal basic income when told about a benefit that matched their own values, a study of 2,024 US adults found. Hearing that it promotes equality raised support across party lines among people who care about equality.",
+        "content": "",
+        "upvotes": 190,
+        "comments": 38,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/W11MEzpakNhxvJO15r7MlpudxCxHXWGfU4pizyIhGKM.jpeg?auto=webp&amp;s=5912b14fb3edba8406a1706c17d1c5a8f0b6fc0e"
+        },
+        "permalink": "/r/science/comments/1xx55b2/democrats_independents_and_republicans_all_became/"
     },
     {
         "id": "1xwdwjh",
         "author": "mvea",
         "title": "Scientists built an electric comb that regrew nearly 98% of lost hair in balding mice in just 28 days, beating minoxidil (about 70%) and finasteride (about 50%). Its teeth send gentle electric pulses into the skin and push two gene therapies deep into hair follicles to restart growth.",
         "content": "",
-        "upvotes": 14987,
-        "comments": 679,
+        "upvotes": 16600,
+        "comments": 745,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/GJGOIvZuobfFJ7a1Hj4EPzTrMFP8dH8qy045HTV2OUc.jpeg?auto=webp&amp;s=3d099174fbaf41897f016e19e8b87d0fbe78b4f2"
@@ -43,8 +79,8 @@
         "author": "mvea",
         "title": "In a randomized trial of 255 children with ADHD, stimulant medication cut classroom rule-breaking by 61% and behavioral therapy cut it by 37%, but common classroom accommodations like extra time, frequent breaks, standing desks and quiet spaces did not improve behavior or quiz scores.",
         "content": "",
-        "upvotes": 7100,
-        "comments": 541,
+        "upvotes": 7905,
+        "comments": 635,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/926Hyq2YhIOa0OaeXnpHIiqdweCYmpdPit5toY-fXtU.jpeg?auto=webp&amp;s=edf52b319bfa0b301740e8f1f18cf7de581d461b"
@@ -52,35 +88,12 @@
         "permalink": "/r/science/comments/1xwe32y/in_a_randomized_trial_of_255_children_with_adhd/"
     },
     {
-        "id": "1xwvpfb",
-        "author": "Miserable_Phase_2519",
-        "title": "A new study found that men who use anabolic steroids are more than 3 times as likely to require prescription medication for long-term erectile dysfunction and need higher doses compared to non-users.",
-        "content": "",
-        "upvotes": 342,
-        "comments": 21,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/k9MqgX1iufhIlgBXZmaLpWz-7Pw41uVETAqofX0a_4Y.jpeg?auto=webp&amp;s=536f551035c7d27b543e128bb505444f5024cf18"
-        },
-        "permalink": "/r/science/comments/1xwvpfb/a_new_study_found_that_men_who_use_anabolic/"
-    },
-    {
-        "id": "1xw4kor",
-        "author": "smurfyjenkins",
-        "title": "The Biden administration created Direct File, a program of free online tax filing that exists in all other advanced economies. In doing so, it overcame a traditional US government reliance on contractors and opposition of the tax preparation industry. Trump and Musk destroyed it upon taking office.",
-        "content": "",
-        "upvotes": 38720,
-        "comments": 888,
-        "media": null,
-        "permalink": "/r/science/comments/1xw4kor/the_biden_administration_created_direct_file_a/"
-    },
-    {
         "id": "1xwnkg5",
         "author": "NU_TechMindResearch",
         "title": "In a study of 48 medical students and physicians, researchers deliberately degraded an AI diagnostic system\u2019s accuracy, only 12.5% noticed. When participants diagnosed first and then compared with the AI\u2019s recommendations, their confidence in their diagnoses fell faster than their trust in the AI",
         "content": "",
-        "upvotes": 863,
-        "comments": 50,
+        "upvotes": 1439,
+        "comments": 74,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/n901n7tCep65xehUaWcjaMxS-o7lGnaZFbcCJb1mCW4.png?auto=webp&amp;s=abfc82fb842e0df69fa69857208e79dee9126ae9"
@@ -88,58 +101,22 @@
         "permalink": "/r/science/comments/1xwnkg5/in_a_study_of_48_medical_students_and_physicians/"
     },
     {
-        "id": "1xwjey9",
-        "author": "Phylogenix",
-        "title": "A 12-year study of over 440 wild female Asian elephants in Sri Lanka found that population declines preceded a tipping point in their social networks, fragmenting large, interconnected communities into smaller, isolated groups and potentially disrupting cooperation and information sharing.",
+        "id": "1xw4kor",
+        "author": "smurfyjenkins",
+        "title": "The Biden administration created Direct File, a program of free online tax filing that exists in all other advanced economies. In doing so, it overcame a traditional US government reliance on contractors and opposition of the tax preparation industry. Trump and Musk destroyed it upon taking office.",
         "content": "",
-        "upvotes": 835,
-        "comments": 8,
+        "upvotes": 39820,
+        "comments": 906,
         "media": null,
-        "permalink": "/r/science/comments/1xwjey9/a_12year_study_of_over_440_wild_female_asian/"
-    },
-    {
-        "id": "1xwtn4g",
-        "author": "Wagamaga",
-        "title": "After another punishing European summer, electricity suppliers are being warned that climate change is placing power grids under increasing strain, and at possible risk of collapse.",
-        "content": "",
-        "upvotes": 101,
-        "comments": 15,
-        "media": null,
-        "permalink": "/r/science/comments/1xwtn4g/after_another_punishing_european_summer/"
-    },
-    {
-        "id": "1xwxys5",
-        "author": "wowowowowwoww",
-        "title": "Harming Wild Animals Is Linked To Intimate Partner Violence",
-        "content": "",
-        "upvotes": 38,
-        "comments": 5,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/9a9-iFqIKmfmW-oD9q1x5bxFT3o8pVzgDtBPZ14kqYk.jpeg?auto=webp&amp;s=2b0b925c7a401984baa5b8d88594b42bc5518af9"
-        },
-        "permalink": "/r/science/comments/1xwxys5/harming_wild_animals_is_linked_to_intimate/"
-    },
-    {
-        "id": "1xw0tx8",
-        "author": "Wagamaga",
-        "title": "Most new parents have intrusive thoughts about their baby being harmed. Research found 95% of birthing parents reported intrusive thoughts about accidental harm. Over half (54%) reported intrusions about intentionally harming their baby.",
-        "content": "",
-        "upvotes": 3796,
-        "comments": 231,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/33F8em8k5rhhz46vAOFWNWKK8knHAnuW9gvsQ1JgUCc.jpeg?auto=webp&amp;s=532d3767bdf36d7efc8d66fe13109c87b3a9e240"
-        },
-        "permalink": "/r/science/comments/1xw0tx8/most_new_parents_have_intrusive_thoughts_about/"
+        "permalink": "/r/science/comments/1xw4kor/the_biden_administration_created_direct_file_a/"
     },
     {
         "id": "1xwxfgs",
         "author": "fchung",
         "title": "Uncovering the hidden origins of the placenta: \u00ab When an embryo attaches to the wall of the uterus roughly six days after fertilization, it begins to build the body and placenta. Called implantation, this is the stage of life scientists know least about. \u00bb",
         "content": "",
-        "upvotes": 29,
-        "comments": 3,
+        "upvotes": 186,
+        "comments": 7,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/0FciRRYRpk_GzkPIZ0627qp_nOqB3CTAuyhqmQbxGn8.jpeg?auto=webp&amp;s=8a433f2a7055e2e5e930a725b8a809c03f054752"
@@ -147,12 +124,75 @@
         "permalink": "/r/science/comments/1xwxfgs/uncovering_the_hidden_origins_of_the_placenta/"
     },
     {
+        "id": "1xx2j3n",
+        "author": "Hrmbee",
+        "title": "New species of giant fungus growing up to 20 inches tall, that emerged shortly after the mass extinction of dinosaurs, discovered in China | Unearthing a fungal giant: Dianjunaceae fam. nov., a novel Paleocene lineage of Xylariales harboring Dianjunus rex gen. et sp. nov",
+        "content": "",
+        "upvotes": 90,
+        "comments": 4,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/G1J91Mo9BG8eOB6JqPetRLuJKGYl-a6Q-yHitrywoiA.jpeg?auto=webp&amp;s=c02a7a32ab0353cad2a5ab2a62b84877c2f0d189"
+        },
+        "permalink": "/r/science/comments/1xx2j3n/new_species_of_giant_fungus_growing_up_to_20/"
+    },
+    {
+        "id": "1xwzwvb",
+        "author": "sr_local",
+        "title": "Wastewater offers clues to community health: analysis of wastewater bacteria from eight Ohio cities serving 1.3 million people, reveals links between gut microbiome patterns and community rates of obesity, high blood pressure, asthma, depression and other health conditions",
+        "content": "",
+        "upvotes": 96,
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/science/comments/1xwzwvb/wastewater_offers_clues_to_community_health/"
+    },
+    {
+        "id": "1xx2h1p",
+        "author": "Remriel",
+        "title": "Blood pressure stays 25 points lower two years after a 6 to 12 month aldosterone drug course ends",
+        "content": "",
+        "upvotes": 70,
+        "comments": 4,
+        "media": null,
+        "permalink": "/r/science/comments/1xx2h1p/blood_pressure_stays_25_points_lower_two_years/"
+    },
+    {
+        "id": "1xwtn4g",
+        "author": "Wagamaga",
+        "title": "After another punishing European summer, electricity suppliers are being warned that climate change is placing power grids under increasing strain, and at possible risk of collapse.",
+        "content": "",
+        "upvotes": 175,
+        "comments": 20,
+        "media": null,
+        "permalink": "/r/science/comments/1xwtn4g/after_another_punishing_european_summer/"
+    },
+    {
+        "id": "1xwjey9",
+        "author": "Phylogenix",
+        "title": "A 12-year study of over 440 wild female Asian elephants in Sri Lanka found that population declines preceded a tipping point in their social networks, fragmenting large, interconnected communities into smaller, isolated groups and potentially disrupting cooperation and information sharing.",
+        "content": "",
+        "upvotes": 969,
+        "comments": 8,
+        "media": null,
+        "permalink": "/r/science/comments/1xwjey9/a_12year_study_of_over_440_wild_female_asian/"
+    },
+    {
+        "id": "1xx2b71",
+        "author": "Samwise2512",
+        "title": "The \u201cdark magic mushroom\u201d co-produces amatoxins and psilocybin",
+        "content": "",
+        "upvotes": 19,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1xx2b71/the_dark_magic_mushroom_coproduces_amatoxins_and/"
+    },
+    {
         "id": "1xwjiws",
         "author": "Phylogenix",
         "title": "A US study of young people aged 13\u201322 found that climate anxiety can motivate environmental action but also contribute to \u201ceco-paralysis.\u201d Those distressed by climate change and annoyed by climate messaging were more likely to disengage, suggesting that worry alone may not inspire action.",
         "content": "",
-        "upvotes": 263,
-        "comments": 39,
+        "upvotes": 319,
+        "comments": 48,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/2Idi9ebCCMEPvGEMw_cIPxt2Rnw1OybrESKZBeJXGms.png?auto=webp&amp;s=85937980041fd16c0546074040d4bd743cd35951"
@@ -160,22 +200,71 @@
         "permalink": "/r/science/comments/1xwjiws/a_us_study_of_young_people_aged_1322_found_that/"
     },
     {
+        "id": "1xx3s5l",
+        "author": "thinkB4WeSpeak",
+        "title": "UCLA Health study finds gradebook data can help predict risk of drug use in adolescents",
+        "content": "",
+        "upvotes": 17,
+        "comments": 3,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/fjcoKSO2GSwNjDpGK9544hzxfuG1pUQGigwxQzDEarU.jpeg?auto=webp&amp;s=dc066459b2c60a2b69ddd36e5adae8217a861925"
+        },
+        "permalink": "/r/science/comments/1xx3s5l/ucla_health_study_finds_gradebook_data_can_help/"
+    },
+    {
+        "id": "1xx0z3y",
+        "author": "chilladipa",
+        "title": "Rivaroxaban Then Aspirin vs. Aspirin Alone after Total Hip or Knee Arthroplasty | New England Journal of Medicine",
+        "content": "",
+        "upvotes": 20,
+        "comments": 6,
+        "media": null,
+        "permalink": "/r/science/comments/1xx0z3y/rivaroxaban_then_aspirin_vs_aspirin_alone_after/"
+    },
+    {
+        "id": "1xw0tx8",
+        "author": "Wagamaga",
+        "title": "Most new parents have intrusive thoughts about their baby being harmed. Research found 95% of birthing parents reported intrusive thoughts about accidental harm. Over half (54%) reported intrusions about intentionally harming their baby.",
+        "content": "",
+        "upvotes": 3929,
+        "comments": 237,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/33F8em8k5rhhz46vAOFWNWKK8knHAnuW9gvsQ1JgUCc.jpeg?auto=webp&amp;s=532d3767bdf36d7efc8d66fe13109c87b3a9e240"
+        },
+        "permalink": "/r/science/comments/1xw0tx8/most_new_parents_have_intrusive_thoughts_about/"
+    },
+    {
         "id": "1xw3xvc",
         "author": "[deleted]",
         "title": "Study finds people who scored higher on psychopathy and sadism were more likely to be chosen for a second date. These findings held for both men and women. Those higher in psychopathy tended to be seen as more outgoing; those higher in sadism were perceived as more physically attractive.",
         "content": "",
-        "upvotes": 1997,
-        "comments": 172,
+        "upvotes": 2155,
+        "comments": 186,
         "media": null,
         "permalink": "/r/science/comments/1xw3xvc/study_finds_people_who_scored_higher_on/"
+    },
+    {
+        "id": "1xx2geq",
+        "author": "Remriel",
+        "title": "Hamster cells keep almost a whole algal genome for 155 generations, with 96% of its genes kept silent",
+        "content": "",
+        "upvotes": 15,
+        "comments": 1,
+        "media": {
+            "type": "image",
+            "url": "https://external-preview.redd.it/Ju23ohwnH7OJ3wtqlkJH_2VGuk9KsZBdacu3On9dL6A.png?auto=webp&amp;s=449086ef63ef35259d0a7bd0ae0786bc8bcabc90"
+        },
+        "permalink": "/r/science/comments/1xx2geq/hamster_cells_keep_almost_a_whole_algal_genome/"
     },
     {
         "id": "1xw8k8t",
         "author": "Remriel",
         "title": "Diet plus exercise and prescription drugs lower epigenetic age in people, while supplements show no effect",
         "content": "",
-        "upvotes": 578,
-        "comments": 31,
+        "upvotes": 641,
+        "comments": 32,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/MChQJI229lBit5dTFyldGbNUVZshqRr6wkUaFooHpjA.png?auto=webp&amp;s=884015d4fe33483d04fb9cddab2efaabf6844a63"
@@ -187,8 +276,8 @@
         "author": "sr_local",
         "title": "Smoking linked to 31% higher dementia risk, 40% higher Alzheimer\u2019s risk and 52% higher vascular dementia risk in a review of 61 studies involving 2.8 million people, with the risk increasing with the number of cigarettes smoked",
         "content": "",
-        "upvotes": 2293,
-        "comments": 202,
+        "upvotes": 2395,
+        "comments": 206,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/OThqW0RJCWytnDXXTTPOrcwYeAn3QnN-ziowULEX-R8.jpeg?auto=webp&amp;s=49a49f723858d01866d9a88f58b5890303ddc1a3"
@@ -200,17 +289,27 @@
         "author": "vietet7",
         "title": "A study of 10,362 adults found that sleep regularity may matter more than sleep duration for heart health. Irregular sleep was linked to 24% higher cardiovascular risk, while average sleep duration was not significantly associated with risk. More sleep cycles were linked to lower arrhythmia risk.",
         "content": "",
-        "upvotes": 383,
+        "upvotes": 415,
         "comments": 8,
         "media": null,
         "permalink": "/r/science/comments/1xw61r2/a_study_of_10362_adults_found_that_sleep/"
+    },
+    {
+        "id": "1xwxbyq",
+        "author": "bluebird309",
+        "title": "The healthy landscapes framework: Integrating pathways to public health and well-being in urban contexts",
+        "content": "",
+        "upvotes": 5,
+        "comments": 2,
+        "media": null,
+        "permalink": "/r/science/comments/1xwxbyq/the_healthy_landscapes_framework_integrating/"
     },
     {
         "id": "1xwklku",
         "author": "chilladipa",
         "title": "Rare GLP1R variants diminish the weight loss effect of semaglutide but not of tirzepatide | Nature Metabolism",
         "content": "",
-        "upvotes": 43,
+        "upvotes": 54,
         "comments": 1,
         "media": {
             "type": "image",
@@ -219,141 +318,36 @@
         "permalink": "/r/science/comments/1xwklku/rare_glp1r_variants_diminish_the_weight_loss/"
     },
     {
+        "id": "1xwz33t",
+        "author": "BestRef",
+        "title": "Seeing like an AI: how LLMs apply (and misapply) Wikipedia neutrality norms. Qualitative analysis found that LLMs sometimes applied NPOV more comprehensively than Wikipedia editors but often made extraneous non-NPOV-related changes (e.g., grammar).",
+        "content": "",
+        "upvotes": 6,
+        "comments": 1,
+        "media": null,
+        "permalink": "/r/science/comments/1xwz33t/seeing_like_an_ai_how_llms_apply_and_misapply/"
+    },
+    {
         "id": "1xw6nqb",
         "author": "smurfyjenkins",
         "title": "The Freedmen's Bureau, the US government agency to assist former enslaved people in the South, had substantially positive socioeconomic effects for both Whites and Blacks in the short- and long-term. It did this by bolstering state capacity and social welfare provisions in the South.",
         "content": "",
-        "upvotes": 248,
+        "upvotes": 260,
         "comments": 1,
         "media": null,
         "permalink": "/r/science/comments/1xw6nqb/the_freedmens_bureau_the_us_government_agency_to/"
-    },
-    {
-        "id": "1xwxbyq",
-        "author": "bluebird309",
-        "title": "The healthy landscapes framework: Integrating pathways to public health and well-being in urban contexts",
-        "content": "",
-        "upvotes": 3,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/science/comments/1xwxbyq/the_healthy_landscapes_framework_integrating/"
-    },
-    {
-        "id": "1xvouff",
-        "author": "mvea",
-        "title": "Men with the lowest testosterone levels had an 18% higher risk of dying from cancer than men with the highest levels, according to a review of more than 26,000 men. Testosterone was not linked to prostate cancer risk, and low levels may be a warning sign of poor overall health rather than a cause.",
-        "content": "",
-        "upvotes": 3096,
-        "comments": 177,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/tLw1OhIIjpT3xvGYzJqgvaAZzBto0yoESHsgn7kEHd8.png?auto=webp&amp;s=1208df3b641a074fe0b7fdf79e341895e41f5c4e"
-        },
-        "permalink": "/r/science/comments/1xvouff/men_with_the_lowest_testosterone_levels_had_an_18/"
     },
     {
         "id": "1xw8mnb",
         "author": "Remriel",
         "title": "Sleep-protein peptides from fruit flies kill drug-resistant bacteria by forcing their ribosomes to clump",
         "content": "",
-        "upvotes": 129,
+        "upvotes": 133,
         "comments": 6,
         "media": {
             "type": "image",
             "url": "https://external-preview.redd.it/RiUTOTxYoplRtjqpd_EONpa-LfevjPtsFYTLK7Kmu2g.png?auto=webp&amp;s=2e5f925859d96c2f72d894142c539ff7c174798e"
         },
         "permalink": "/r/science/comments/1xw8mnb/sleepprotein_peptides_from_fruit_flies_kill/"
-    },
-    {
-        "id": "1xvmyt4",
-        "author": "Samwise2512",
-        "title": "Lysergic Acid Diethylamide (LSD) Induces Transcriptional Changes Opposing Signatures of Brain Ageing and Neurodegeneration",
-        "content": "",
-        "upvotes": 3850,
-        "comments": 567,
-        "media": null,
-        "permalink": "/r/science/comments/1xvmyt4/lysergic_acid_diethylamide_lsd_induces/"
-    },
-    {
-        "id": "1xvfvlp",
-        "author": "mvea",
-        "title": "Regret is rare among transgender youth who started hormone therapy, according to the largest study of its kind. Of 376 young people surveyed about 5 years after starting estrogen or testosterone, 96.8% said it was the right decision, only 2.7% regretted it, and 82.7% were still taking hormones.",
-        "content": "",
-        "upvotes": 12995,
-        "comments": 2705,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/VpOcZagy_w0YOH8c_o6Q9fuD1_e6nZ9ss2t12BQistM.jpeg?auto=webp&amp;s=5f8a4863766f15154e242eab0de74f9a45111373"
-        },
-        "permalink": "/r/science/comments/1xvfvlp/regret_is_rare_among_transgender_youth_who/"
-    },
-    {
-        "id": "1xwi475",
-        "author": "inbrain_usp",
-        "title": "Data-driven subtyping reveals four distinct trajectories of progression in Mild Cognitive Impairment (MCI)",
-        "content": "",
-        "upvotes": 22,
-        "comments": 1,
-        "media": null,
-        "permalink": "/r/science/comments/1xwi475/datadriven_subtyping_reveals_four_distinct/"
-    },
-    {
-        "id": "1xwlg5g",
-        "author": "Macchanoco",
-        "title": "Genomic, spatial, and evolutionary insights into a dominant Mycoplasmatota symbiont colonizing the body wall of deep-sea holothurians",
-        "content": "",
-        "upvotes": 11,
-        "comments": 2,
-        "media": null,
-        "permalink": "/r/science/comments/1xwlg5g/genomic_spatial_and_evolutionary_insights_into_a/"
-    },
-    {
-        "id": "1xw1vt0",
-        "author": "James_Fortis",
-        "title": "Researchers followed 16,256 people for 13 years to look for links between plant-based diets and obesity-related cancers. A healthy plant-based diet had a 33% lower risk, while overall and unhealthy plant-based diets showed no links.",
-        "content": "",
-        "upvotes": 155,
-        "comments": 8,
-        "media": null,
-        "permalink": "/r/science/comments/1xw1vt0/researchers_followed_16256_people_for_13_years_to/"
-    },
-    {
-        "id": "1xv5kf0",
-        "author": "mvea",
-        "title": "Denmark began offering pregnant women an RSV vaccine in October 2025, and 72% of those eligible took it. That winter, hospital admissions for RSV in babies under 6 months fell by 75%, from an average of 1,128 to just 296. That is more than 800 babies kept out of a hospital bed in a single season.",
-        "content": "",
-        "upvotes": 22891,
-        "comments": 244,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/mjKc3mDgQO3bHBnmVcmbwD2uZ_lU0-qR7rUAh94UAME.jpeg?auto=webp&amp;s=2107d3ac8bd3545e29b415384711ac253f205dc8"
-        },
-        "permalink": "/r/science/comments/1xv5kf0/denmark_began_offering_pregnant_women_an_rsv/"
-    },
-    {
-        "id": "1xvegdb",
-        "author": "Miserable_Phase_2519",
-        "title": "People who practice environmentally friendly habits tend to be viewed as more desirable romantic partners than those who disregard the environment, according to new research.",
-        "content": "",
-        "upvotes": 3759,
-        "comments": 187,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/XsCtuZ7pRBr0wTtm5rSo_QmzYs91sGvjobl1jRbxYLQ.jpeg?auto=webp&amp;s=394473eb39d0949b6b745314905bd387c8316393"
-        },
-        "permalink": "/r/science/comments/1xvegdb/people_who_practice_environmentally_friendly/"
-    },
-    {
-        "id": "1xvlote",
-        "author": "Wagamaga",
-        "title": "Congenital syphilis rates soared in US newborns from 2012 to 2022. Congenital syphilis rates increased from 16.0 per 100,000 birth hospitalizations in 2012 to 94.7 per 100,000 in 2022. The infection can cause organ damage, skeletal abnormalities, neurodevelopmental impairment, and infant death",
-        "content": "",
-        "upvotes": 1517,
-        "comments": 80,
-        "media": {
-            "type": "image",
-            "url": "https://external-preview.redd.it/J59JQIWeVGfYfeB3xMAWlPNZsHrvMfppJc5_5tBLSgU.jpeg?auto=webp&amp;s=a8cd9b83cba46b21f4b85678ec79492641c08e84"
-        },
-        "permalink": "/r/science/comments/1xvlote/congenital_syphilis_rates_soared_in_us_newborns/"
     }
 ]
